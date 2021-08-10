@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>remand centre</h2><div class="git"><span class="ipa">[rɪˈmænd ˈsentə]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">青少年拘留所</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">还押中心；羁留中心</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

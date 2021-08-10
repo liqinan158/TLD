@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Colchester</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">科尔切斯特（英国英格兰东南部城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

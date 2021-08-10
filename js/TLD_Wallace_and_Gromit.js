@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wallace and Gromit</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">超级无敌掌门狗；酷狗宝贝；超级掌门狗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DS</h2><span class="onm">原型:</span><span class="orm">d</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">数据集（Data Set）；数据段寄存器（Data Segment）；数据同步（Data Synchronization）；隔离开关（Disconnecting Switch）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

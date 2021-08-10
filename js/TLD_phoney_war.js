@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phoney war</h2><div class="git"><span class="ipa">[ˈfəʊni: wɔ:]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（战争时期并未真正交战的）假战争</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">奇怪战争；虚假战争</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>upfield</h2><div class="git"><span class="ipa">[ˌʌpˈfi:ld]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（足球等运动中）向前场的，高磁场</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

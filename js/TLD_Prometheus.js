@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Prometheus</h2><div class="git"><span class="ipa">[prә'mi:θju:s]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">普罗米修斯（希腊神话中人名，为人类盗火种甘受罚）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

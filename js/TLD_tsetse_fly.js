@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tsetse fly</h2><div class="git"><span class="ipa">[ˈtsetsi flaɪ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 30</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 10</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 10</div><div class="gdc"><div class="dcb"><span class="dcn">[昆] 采采蝇（南非的一种蝇，等于tzetze fly）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

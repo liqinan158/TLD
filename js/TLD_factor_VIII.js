@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>factor VIII</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 7</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="dcn">[化] 第八因子; 凝血第八因子; 抗血友病因子(A); 血小板辅因子I</span></div><div class="dcb"><span class="dcn">[医] [凝血]第八因子, 抗血友病因子A</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

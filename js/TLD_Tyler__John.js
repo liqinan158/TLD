@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tyler, John</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">泰勒(1790～1862)，美国第十任总统(1841～1845)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

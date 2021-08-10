@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Maserati</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">玛萨拉蒂（女子名）</span></div><div class="dcb"><span class="dcn">玛莎拉蒂（汽车品牌）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vacuity</h2><div class="git"><span class="ipa">[vəˈkju:əti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51629</span><div class="total">757</div></div><div class="coca2">无聊(<font color="orangered">50%</font>)，空白(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">空虚；空白；思想贫乏；无聊之事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rheumy</h2><div class="git"><span class="ipa">['ru:mɪ]</span></div><hr/></div><div class="coca2">分泌粘液的(<font color="orangered">50%</font>)，阴湿的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">阴冷的；稀粘液的；潮湿阴冷的；易引起感冒的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>micro-</h2><div class="git"><span class="ipa">[ˈmaɪkrəʊ]</span></div><hr/></div><div class="coca2">表示“小的(<font color="orangered">20%</font>)，百万分之一的”(<font color="orangered">20%</font>)，非正常小的(<font color="orangered">20%</font>)，使用显微镜的(<font color="orangered">20%</font>)，=micr-.(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">微；小（等于micr-）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

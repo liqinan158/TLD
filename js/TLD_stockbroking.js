@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stockbroking</h2><div class="git"><span class="ipa">[ˈstɒkbrəʊkɪŋ]</span></div><hr/></div><div class="coca2">股票经纪(<font color="orangered">67%</font>)，股票经纪业务(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">股票经纪活动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

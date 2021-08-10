@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>knife-edge</h2><div class="git"><span class="ipa">[ˈnaɪfˌedʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43333</span><div class="total">1512</div></div><div class="coca2">锋利的边缘(<font color="orangered">67%</font>)，刀口(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">刀刃；锐利物；处于紧要关头；十分焦虑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

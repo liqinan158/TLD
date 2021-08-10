@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crop-spraying</h2><div class="git"><span class="ipa">[k'rɒpspr'eɪɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">向作物喷洒农药</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

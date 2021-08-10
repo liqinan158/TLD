@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>and/or</h2><div class="git"><span class="ipa">[ˈænˈdɔ:]</span></div><hr/></div><div class="coca iweb"><span class="pos">CONJ</span><span class="rank">1271</span><div class="total">1191178</div></div><div class="gdc"><div class="dcb"><span class="pos">conj.</span><span class="dcn">及（或）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

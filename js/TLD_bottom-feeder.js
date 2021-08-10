@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bottom-feeder</h2><div class="git"><span class="ipa">[ˈbɔtəm ˈfi:də]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 地位或阶级最低者，牺牲别人或利用别人的不幸来牟取利益的投机份子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

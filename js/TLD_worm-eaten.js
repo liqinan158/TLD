@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>worm-eaten</h2><div class="git"><span class="ipa">[ˈwɜ:mˌi:tn]</span></div><hr/></div><div class="coca2">陈旧的(<font color="orangered">40%</font>)，过时的(<font color="orangered">20%</font>)，虫蚀的(<font color="orangered">20%</font>)，破烂不堪的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">破烂不堪的；陈旧的，过时的；虫蛀的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

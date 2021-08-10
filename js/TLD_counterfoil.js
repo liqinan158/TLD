@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>counterfoil</h2><div class="git"><span class="ipa">[ˈkaʊntəfɔɪl]</span></div><hr/></div><div class="coca2">票根(<font color="orangered">64%</font>)，收据等的）存根(<font color="orangered">18%</font>)，（支票(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">支票存根；票根</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

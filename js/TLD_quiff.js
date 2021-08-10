@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quiff</h2><div class="git"><span class="ipa">[kwɪf]</span></div><hr/></div><div class="coca2">姑娘(<font color="orangered">37%</font>)，一阵风(<font color="orangered">36%</font>)，卷毛(<font color="orangered">18%</font>)，轻佻女子(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">额发；下贱女人；姑娘；一阵微风</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

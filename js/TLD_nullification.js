@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nullification</h2><div class="git"><span class="ipa">[ˌnʌlɪfɪ'keɪʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34223</span><div class="total">3192</div></div><div class="coca2">无效(<font color="orangered">85%</font>)，否决原则(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无效；废弃；取消；（美）州对联邦法令的拒绝执行或承认</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

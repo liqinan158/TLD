@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fiesta Bowl</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">节庆杯；节日杯；喜庆碗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

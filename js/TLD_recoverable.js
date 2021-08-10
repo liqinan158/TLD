@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>recoverable</h2><div class="git"><span class="ipa">[rɪˈkʌvərəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">19810</span><div class="total">13165</div></div><div class="coca2">可恢复的(<font color="orangered">69%</font>)，可收回的(<font color="orangered">31%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可收回的；可恢复的；可补偿的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

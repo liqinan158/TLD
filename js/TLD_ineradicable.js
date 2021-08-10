@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ineradicable</h2><div class="git"><span class="ipa">[ˌɪnɪˈrædɪkəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">55650</span><div class="total">508</div></div><div class="coca2">根深蒂固的(<font color="orangered">55%</font>)，不能根除的(<font color="orangered">45%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">根深蒂固的，不能根除的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

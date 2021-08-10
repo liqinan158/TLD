@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Adidas</h2><div class="git"><span class="ipa">[ә'di:dәz]</span></div><span class="onm">原型:</span><span class="orm">adidas 是 adida 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿迪达斯（体育用品公司, 主要生产运动服等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

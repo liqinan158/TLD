@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>waitlist</h2><div class="git"><span class="ipa">['weɪtˌlɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20650</span><div class="total">11983</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 把…登入申请人名单</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

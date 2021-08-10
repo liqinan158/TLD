@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-prescription</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">29741</span><div class="total">4829</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 非处方类的；不用医生处方可以买的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

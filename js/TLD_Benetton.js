@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Benetton</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">贝纳通（服装品牌名, 也是曾经的F1车队名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pharmaceuticals</h2><div class="git"><span class="ipa">[ˌfɑ:mə'sju:tɪklz]</span></div><span class="onm">原型:</span><span class="orm">pharmaceuticals 是 pharmaceutical 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">医药品; 药物( pharmaceutical的名词复数 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

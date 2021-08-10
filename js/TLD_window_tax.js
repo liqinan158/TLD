@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>window tax</h2><div class="git"><span class="ipa">[ˈwindəu tæks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 窗户税</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

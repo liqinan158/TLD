@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rib-eye</h2><hr/></div><div class="coca2">牛里脊肉(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">肋眼牛排；牛里脊肉，牛腓利</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

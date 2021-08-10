@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mausoleum</h2><div class="git"><span class="ipa">[ˌmɔ:səˈli:əm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21584</span><div class="total">10771</div></div><div class="coca2">陵墓(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">陵墓；阴森森的大厦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

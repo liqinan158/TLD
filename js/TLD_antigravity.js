@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>antigravity</h2><div class="git"><span class="ipa">[ˌæntiˈgrævɪti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45641</span><div class="total">1264</div></div><div class="coca2">反重力(<font color="orangered">50%</font>)，无重量(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无重量；[物] 耐重力；漂浮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>life-size</h2><div class="git"><span class="ipa">[ˈlaɪfˈsaɪz]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">21904</span><div class="total">10393</div></div><div class="coca2">与实物大小一样的(<font color="orangered">67%</font>)，=life-sized.(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">与实物大小一样的；与真人实物一样大小的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

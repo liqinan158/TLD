@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tone-deaf</h2><div class="git"><span class="ipa">[ˈtəʊnˌdef]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">42816</span><div class="total">1577</div></div><div class="coca2">音盲的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">音盲的；不能辩别音高的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

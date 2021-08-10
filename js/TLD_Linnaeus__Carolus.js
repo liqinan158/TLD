@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Linnaeus, Carolus</h2><div class="git"><span class="ipa">[li'ni:əs; 'kærələs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(瑞典原名 Carl von Linné) 林奈(1707～1778，瑞典博物学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

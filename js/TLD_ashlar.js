@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ashlar</h2><div class="git"><span class="ipa">['æʃlə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（建筑用的）琢石，方石堆; 薄方石; 方琢石</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

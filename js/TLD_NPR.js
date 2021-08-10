@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NPR</h2><div class="git"><span class="ipa">[.en piː 'ɑː(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">噪声功率比（noise power ratio）；核动力反应堆（Nuclear Power Reactor）；美国国家公共电台（National Public Radio）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

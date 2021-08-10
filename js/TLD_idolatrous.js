@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>idolatrous</h2><div class="git"><span class="ipa">[aɪ'dɒlətrəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">32748</span><div class="total">3639</div></div><div class="coca2">偶像崇拜的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">盲目崇拜的；崇拜偶像的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

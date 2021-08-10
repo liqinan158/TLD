@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Moses, Grandma</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">摩西大妈(原名Anna Mary Robertson, 1860～1961,自学成材的民俗画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>action research</h2><div class="git"><span class="ipa">[ˈækʃən riˈsə:tʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 动作研究, 行动[实践]研究</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

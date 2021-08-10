@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oughtn't</h2><div class="git"><span class="ipa">['ɔ:tnt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">ought not的缩写</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

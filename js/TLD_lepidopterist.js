@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lepidopterist</h2><div class="git"><span class="ipa">[ˌlepɪˈdɒptərɪst]</span></div><hr/></div><div class="coca2">鳞翅类学者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">鳞翅目学专家</span></div><div class="dcb"><span class="dcn">鳞翅目昆虫学家</span></div><div class="dcb"><span class="dcn">鳞翅目昆虫收集者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

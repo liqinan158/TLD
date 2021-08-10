@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nightstand</h2><div class="git"><span class="ipa">[ˈnaɪtstænd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20795</span><div class="total">11792</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）床头几（等于night table）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

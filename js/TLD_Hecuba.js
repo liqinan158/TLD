@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hecuba</h2><div class="git"><span class="ipa">['hekjubә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">赫卡伯(特洛伊王之妻)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rosie the Riveter</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">铆工露斯（第二次世界大战时美国女工的统称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

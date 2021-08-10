@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pitta</h2><div class="git"><span class="ipa">['pi:tə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34184</span><div class="total">3204</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">皮塔饼（一种空心圆面包）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Pitta)人名；(意、罗)皮塔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

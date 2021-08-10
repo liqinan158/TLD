@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>redistrict</h2><div class="git"><span class="ipa">[ˌri:ˈdɪstrɪkt]</span></div><hr/></div><div class="coca2">重新区分(<font color="orangered">60%</font>)，更改选举区(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">重新区分；更改选举区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

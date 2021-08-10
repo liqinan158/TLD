@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>strathspey</h2><div class="git"><span class="ipa">[stræθˈspeɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（苏格兰的）斯特拉斯贝舞; 斯特拉斯贝舞曲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

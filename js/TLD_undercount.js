@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>undercount</h2><div class="git"><span class="ipa">['ʌndə'kaʊnt]</span></div><hr/></div><div class="coca2">少计(<font color="orangered">64%</font>)，不足的登记(<font color="orangered">18%</font>)，不完全统计(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">少计；少算</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

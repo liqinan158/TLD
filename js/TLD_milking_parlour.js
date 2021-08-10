@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>milking parlour</h2><div class="git"><span class="ipa">[ˈmilkiŋ ˈpɑ:lə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 挤乳间</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

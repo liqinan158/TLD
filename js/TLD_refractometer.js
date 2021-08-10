@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>refractometer</h2><div class="git"><span class="ipa">[rɪˌfrækˈtɒmɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44251</span><div class="total">1409</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">折射计; 屈光仪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

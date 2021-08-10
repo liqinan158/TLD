@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>capitalization</h2><div class="git"><span class="ipa">[ˌkæpɪtəlaɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13630</span><div class="total">29608</div></div><div class="coca2">资本化(<font color="orangered">97%</font>)，大写字母的使用(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">资本化；资本总额；用大写</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

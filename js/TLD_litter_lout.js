@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>litter lout</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （在公共场所）乱扔垃圾的人；垃圾虫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

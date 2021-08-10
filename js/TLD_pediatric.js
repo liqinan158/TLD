@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pediatric</h2><div class="git"><span class="ipa">[ˌpi:dɪ'ætrɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">7064</span><div class="total">103115</div></div><div class="coca2">儿科的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">小儿科的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pinochle</h2><div class="git"><span class="ipa">['pi:nʌkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57259</span><div class="total">429</div></div><div class="coca2">一种纸牌游戏(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）一种扑克牌游戏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

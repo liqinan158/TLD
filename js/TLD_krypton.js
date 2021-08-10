@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>krypton</h2><div class="git"><span class="ipa">[ˈkrɪptɒn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38645</span><div class="total">2208</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 氪（元素符号为Kr）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

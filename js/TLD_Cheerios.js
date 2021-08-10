@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cheerios</h2><span class="onm">原型:</span><span class="orm">cheerios 是 cheerio 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">interj.</span><span class="dcn">,n. cheerio的变形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

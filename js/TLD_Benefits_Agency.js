@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Benefits Agency</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">社会福利局；津贴中心；给付机构</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

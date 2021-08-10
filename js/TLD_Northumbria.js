@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Northumbria</h2><div class="git"><span class="ipa">[nɔ:'θʌmbriә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">中世纪时在英国北方的王国</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

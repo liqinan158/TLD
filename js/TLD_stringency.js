@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stringency</h2><div class="git"><span class="ipa">['strɪndʒənsɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46268</span><div class="total">1205</div></div><div class="coca2">严厉(<font color="orangered">60%</font>)，紧迫(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">严格；说服力；（货币）[金融] 银根紧；迫切</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

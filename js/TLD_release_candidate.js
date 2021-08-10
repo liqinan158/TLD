@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>release candidate</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 44</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 22</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">候选版本；发行候选版本；候选发布版本</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

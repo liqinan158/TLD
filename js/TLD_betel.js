@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>betel</h2><div class="git"><span class="ipa">[ˈbi:tl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47387</span><div class="total">1106</div></div><div class="coca2">蒌叶(<font color="orangered">78%</font>)，蒟酱(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">萎叶（等于Piper betle，产于东南亚）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

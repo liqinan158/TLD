@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Brandt, Willy</h2><div class="git"><span class="ipa">[brɑ:nt; 'vili]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">勃兰特(1913～1992)，联邦德国社会民主党领袖、总理(1969～1974)，获1971年诺贝尔和平奖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

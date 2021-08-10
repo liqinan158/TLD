@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>downlighter</h2><hr/></div><div class="coca2">顶棚里向下照射的小聚光灯(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">射灯，向下发射的光源；射灯(投下的)光束，向下发射的光</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

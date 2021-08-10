@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wedge issue</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">楔子议题</span></div><div class="dcb"><span class="dcn">分化对方支持者的议题</span></div><div class="dcb"><span class="dcn">政党借以离间对手支持者的重大政治难题</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>matzo</h2><div class="git"><span class="ipa">[ˈmætsəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35731</span><div class="total">2810</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">犹太逾越节薄饼（逾越节期间犹太人所吃的一种不发酵的硬面饼）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

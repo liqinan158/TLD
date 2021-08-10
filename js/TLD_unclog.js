@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unclog</h2><div class="git"><span class="ipa">['ʌn'klɒg]</span><span class="frm">unclogged, unclogging, unclogs</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">33611</span><div class="total">3370</div></div><div class="coca2">使通畅(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使畅通；清除油污；扫除…的阻碍</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

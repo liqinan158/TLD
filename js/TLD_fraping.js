@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fraping</h2><div class="git"><span class="ipa">[fræp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span></div><div class="dcb"><span class="dcn">【航海学】用绳索(或链条)缚紧，收紧</span></div><div class="dcb"><span class="dcn">变形：</span></div><div class="dcb"><span class="pos">vt.</span></div><div class="dcb"><span class="dcn">frapped</span></div><div class="dcb"><span class="dcn">. frapping</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

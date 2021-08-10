@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mudbath</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 泥浴（用于减轻风湿症状等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

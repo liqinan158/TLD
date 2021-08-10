@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dybbuk</h2><div class="git"><span class="ipa">[ˈdɪbʊk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">61237</span><div class="total">254</div></div><div class="coca2">附在活人身上的罪人死后的灵魂(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">恶灵，附在活人身上的罪人死后的灵魂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

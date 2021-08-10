@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slow-worm</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 慢缺肢蜥, 盲蛇蜥（无腿爬行动物, 生活在欧洲）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

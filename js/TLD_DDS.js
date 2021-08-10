@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DDS</h2><span class="onm">原型:</span><span class="orm">dd</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[计] 数据词典系统, 数据电话数字业务, 数字数据服务, 数字数据系统</span></div><div class="dcb"><span class="dcn">[化] 氨苯砜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

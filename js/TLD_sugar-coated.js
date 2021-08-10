@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sugar-coated</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">47094</span><div class="total">1129</div></div><div class="coca2">糖衣(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">裹有糖的；表面上吸引人的</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">美化；裹以糖衣（sugar-coat的过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>silverside</h2><div class="git"><span class="ipa">[ˈsɪlvəsaɪd]</span></div><hr/></div><div class="coca2">最上端股肉(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">牛臀肉（牛腿肉的最好部分）；银河鱼（等于silversides）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

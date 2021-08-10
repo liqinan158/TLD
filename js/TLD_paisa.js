@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paisa</h2><div class="git"><span class="ipa">[ˈpaɪsɑ:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60298</span><div class="total">281</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">派萨（印度、巴基斯坦、卡塔尔、马斯喀特和阿曼的货币单位，等于百分之一卢比）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

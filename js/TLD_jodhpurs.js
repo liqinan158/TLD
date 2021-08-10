@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jodhpurs</h2><div class="git"><span class="ipa">[ˈdʒɒdpəz]</span></div><span class="onm">原型:</span><span class="orm">jodhpurs 是 jodhpur 的第三人称单数</span><hr/></div><div class="coca2">短马靴(<font color="orangered">53%</font>)，骑马裤(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">短马靴；骑马裤（jodhpur的复数形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bcc</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">体心立方；基底细胞癌(basal cell carcinoma)；英国商会(British Chambers of Commerce)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

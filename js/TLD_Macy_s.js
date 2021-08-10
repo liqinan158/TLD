@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Macy's</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">梅西百货公司(在纽约,号称世界上最大的百货公司)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">美国梅西百货公司；百货公司梅西百货</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

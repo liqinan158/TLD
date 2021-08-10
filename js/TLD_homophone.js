@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homophone</h2><div class="git"><span class="ipa">[ˈhɒməfəʊn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39780</span><div class="total">2014</div></div><div class="coca2">同音异形异义字(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">同音异形异义字</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

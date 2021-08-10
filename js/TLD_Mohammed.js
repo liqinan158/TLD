@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mohammed</h2><div class="git"><span class="ipa">[mu'hæmәd]</span></div><hr/></div><div class="coca2">=Muhammad.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">穆罕默德（伊斯兰教创立人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

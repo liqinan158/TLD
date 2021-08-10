@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Proposition 13</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[美国、加拿大英语]第13项提案(对美国加州宪法提出的一项削减征税，尤指削减征收财产税的权力的法律或议案)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

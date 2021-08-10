@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>complainant</h2><div class="git"><span class="ipa">[kəmˈpleinənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">12070</span><div class="total">37964</div></div><div class="coca2">原告(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[法] 原告；发牢骚的人；抱怨者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

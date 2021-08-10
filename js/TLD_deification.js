@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deification</h2><div class="git"><span class="ipa">[ˌdi:ɪfɪ'keɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43151</span><div class="total">1536</div></div><div class="coca2">神化(<font color="orangered">85%</font>)，崇拜(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">神化；奉若神明；祀为神</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unilingual</h2><div class="git"><span class="ipa">[ˌju:nɪ'lɪŋgwəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">57683</span><div class="total">410</div></div><div class="coca2">统一使用一种语言的(<font color="orangered">60%</font>)，只用一种语言的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">统一使用一种语言的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

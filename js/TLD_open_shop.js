@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>open shop</h2><div class="git"><span class="ipa">[ˈəupən ʃɔp]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn"> 自由雇佣企业（既雇佣工会会员，也雇佣非工会会员），开放式计算站，开放的程序站; 开运行; 泛雇原则</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

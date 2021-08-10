@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>funnies</h2><div class="git"><span class="ipa">[ˈfʌniz]</span></div><span class="onm">原型:</span><span class="orm">funnies 是 funny 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">连环图画，报上登载连环图画的版面; 滑稽的( funny的名词复数 ); 可疑的; 疯疯癫癫的; 稀奇的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sick bag</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （船或飞机上的）呕吐用袋, 卫生袋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oubliette</h2><div class="git"><span class="ipa">[ˌu:blɪ'et]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59219</span><div class="total">336</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（只在牢顶有出口的）地下密牢</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hermes</h2><div class="git"><span class="ipa">['h\\:mi:z]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">赫耳墨斯（希腊神话人物）</span></div><div class="dcb"><span class="dcn">爱马仕（Hermès，法国的奢侈品品牌）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

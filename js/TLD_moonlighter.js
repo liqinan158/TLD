@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>moonlighter</h2><div class="git"><span class="ipa">['mu:nˌlaɪtə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">参与夜袭的人; 非法酿[卖]酒的人; 同时兼两个职业的人; &lt;美&gt;月光团员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

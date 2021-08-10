@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>antilogarithm</h2><div class="git"><span class="ipa">[ˌæntɪ'lɒɡərɪðəm]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TEM8</span></div><div class="coca2">逆对数(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">逆对数；[数] 反对数；真数</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

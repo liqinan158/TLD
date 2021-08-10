@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beltway</h2><div class="git"><span class="ipa">[ˈbeltweɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28071</span><div class="total">5582</div></div><div class="coca2">环形公路(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）环城快道；环城高速公路</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

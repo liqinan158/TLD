@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>checkbook journalism</h2><div class="git"><span class="ipa">[ˈtʃɛkˌbʊk ˈdʒə:nəˌlɪzəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 支票簿新闻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

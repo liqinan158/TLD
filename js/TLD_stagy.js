@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stagy</h2><div class="git"><span class="ipa">[ˈsteɪdʒi]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">做作的(<font color="orangered">74%</font>)，演戏一般的(<font color="orangered">13%</font>)，=stagey.(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">做作的，不自然的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dinero</h2><div class="git"><span class="ipa">[dɪˈneərəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54267</span><div class="total">588</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">钱；迪内罗（西班牙发行的一种银币或合金币）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

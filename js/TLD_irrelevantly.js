@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>irrelevantly</h2><div class="git"><span class="ipa">[ɪ'reləvəntlɪ]</span></div><hr/></div><div class="coca2">不合适地(<font color="orangered">50%</font>)，不恰当地(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">不相干地，不切题地；不合适地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>narrowcast</h2><div class="git"><span class="ipa">[ˈnærəʊkɑ:st]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">（为少量特定听众）小范围播送，用电缆电视播送</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

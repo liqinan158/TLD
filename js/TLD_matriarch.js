@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>matriarch</h2><div class="git"><span class="ipa">[ˈmeɪtriɑ:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25660</span><div class="total">7049</div></div><div class="coca2">女族长(<font color="orangered">50%</font>)，女家长(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女家长；女统治者；女负责人；受人尊敬的妇女</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

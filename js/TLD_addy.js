@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>addy</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [女子名] 阿迪 Adelina,Adeline等的昵称</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

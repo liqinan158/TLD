@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>biannual</h2><div class="git"><span class="ipa">[baɪˈænjuəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">23120</span><div class="total">9115</div></div><div class="coca2">一年两次的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">一年两次的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

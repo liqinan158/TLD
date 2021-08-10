@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bethany</h2><div class="git"><span class="ipa">['beθəni:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伯大尼（是约旦河西一个小小的村庄, 在希腊原文中意思为“枣”或“无花果之家”, 喻指困苦之家）；宝芬妮（女子名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Six Nations Championship</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">六国橄榄球锦标赛；六国锦标赛；六国赛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

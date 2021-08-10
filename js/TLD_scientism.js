@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scientism</h2><div class="git"><span class="ipa">[ˈsaɪəntɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42416</span><div class="total">1630</div></div><div class="coca2">科学至上主义(<font color="orangered">53%</font>)，科学态度(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">科学态度；科学至上主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

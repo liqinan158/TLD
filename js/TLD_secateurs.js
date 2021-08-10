@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>secateurs</h2><div class="git"><span class="ipa">[ˌsekəˈtɜ:z]</span></div><span class="onm">原型:</span><span class="orm">secateurs 是 secateur 的复数</span><hr/></div><div class="coca2">修枝剪(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">修枝剪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

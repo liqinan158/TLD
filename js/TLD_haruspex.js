@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>haruspex</h2><div class="git"><span class="ipa">[hə'rʌspeks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（古罗马）以动物内脏占卜的僧人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>McPherson, Aimee Semple</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">麦克弗森(1890～1944，美国女福音传教士，自称能治病)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

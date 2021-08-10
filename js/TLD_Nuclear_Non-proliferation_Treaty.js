@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nuclear Non-proliferation Treaty</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">核不扩散条约；不扩散核武器条约；禁止核子扩散条约</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

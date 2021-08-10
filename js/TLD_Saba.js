@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Saba</h2><div class="git"><span class="ipa">['sɑ:bə]</span></div><hr/></div><div class="coca2">沙巴岛(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">塞巴（阿拉伯南部的一个古国，今天的也门）；萨巴岛（西印度群岛的背风群岛北部的岛）；赛伯伊王国（经营黄金、香料和宝石的古代王国）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

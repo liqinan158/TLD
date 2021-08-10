@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Charlemagne</h2><div class="git"><span class="ipa">['ʃɑ:lә'mein]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">查理曼大帝(742-814, 世称 Charles the Great或Charles I, 768-814为法兰克王, 800-814为西罗马帝国皇帝)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

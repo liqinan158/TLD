@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>somnambulist</h2><div class="git"><span class="ipa">[sɒmˈnæmbjəlɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60219</span><div class="total">283</div></div><div class="coca2">梦游者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">梦游者；梦游症患者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

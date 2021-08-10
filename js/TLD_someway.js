@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>someway</h2><div class="git"><span class="ipa">[ˈsʌmweɪ]</span></div><hr/></div><div class="coca2">总算(<font color="orangered">47%</font>)，设法(<font color="orangered">23%</font>)，不知什么缘故(<font color="orangered">15%</font>)，=someways.(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">好歹，总算；以某种方式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>philological</h2><div class="git"><span class="ipa">[ˌfɪlə'lɒdʒɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">47745</span><div class="total">1077</div></div><div class="coca2">语言学的(<font color="orangered">50%</font>)，文献学的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">文献学的；语言学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

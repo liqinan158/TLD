@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Chinatown</h2><div class="git"><span class="ipa">['tʃainәtajn]</span></div><hr/></div><div class="coca2">唐人街(<font color="orangered">53%</font>)，中国城(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">唐人街，中国城</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>la Fontaine, Jean de</h2><div class="git"><span class="ipa">[lɑ:fuŋ'ten; 'ʒɔŋdə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">拉封丹(1621～1695，法国诗人、寓言家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

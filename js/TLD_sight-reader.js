@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sight-reader</h2><div class="git"><span class="ipa">['sait,ri:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">视读(或唱、奏), 不加准备(或练习)即诵读(或唱、奏)：</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">无准备(或练习)即朗读文章(或演唱、演奏等)：</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pop.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">流行的</span></div><div class="dcb"><span class="dcn">普及的</span></div><div class="dcb"><span class="dcn">通俗的（popular）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

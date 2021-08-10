@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Liberty Island</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 8</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 8</div><div class="gdc"><div class="dcb"><span class="dcn">自由岛, 自由女神岛（旧称Bedloe's Island, 位于美国上纽约湾内, 自由女神像所在地）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

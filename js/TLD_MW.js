@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MW</h2><hr/></div><div class="coca2">中波(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">中波（Medium Wave）；兆瓦，百万瓦特(megawatt)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

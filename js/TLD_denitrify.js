@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>denitrify</h2><div class="git"><span class="ipa">[ˌdi:ˈnaɪtrɪfaɪ]</span><span class="frm">denitrified, denitrifying, denitrifies</span></div><hr/></div><div class="coca2">脱去硝酸盐)(<font color="orangered">50%</font>)，脱氮(去掉氮气(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">脱氮；除去氮素</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

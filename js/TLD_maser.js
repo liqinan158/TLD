@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>maser</h2><div class="git"><span class="ipa">['meɪzə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45972</span><div class="total">1234</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[电子] 微波激射器；分子增幅器</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Maser)人名；(德)马泽尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

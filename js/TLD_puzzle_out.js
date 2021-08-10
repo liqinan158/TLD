@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>puzzle out</h2><div class="git"><span class="ipa">[ˈpʌzl aut]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 21</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 12</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">解决(难题等)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">想出；设法想出；苦苦思索</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

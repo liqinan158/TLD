@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hellraiser</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 吵闹捣蛋的人；胡打瞎闹的人；（尤指）耍酒疯的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>masochist</h2><div class="git"><span class="ipa">['mæsəkɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35899</span><div class="total">2773</div></div><div class="coca2">被虐待狂(<font color="orangered">78%</font>)，受虐待(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">受虐狂者；被虐待狂；性受虐狂者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

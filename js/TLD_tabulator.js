@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tabulator</h2><div class="git"><span class="ipa">[ˈtæbjuleɪtə(r)]</span></div><hr/></div><div class="coca2">制表机(<font color="orangered">58%</font>)，跳格键(<font color="orangered">28%</font>)，制表者(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">制表机；作表的人；跳格键</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

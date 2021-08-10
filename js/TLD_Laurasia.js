@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Laurasia</h2><div class="git"><span class="ipa">[lɔ:'reiʒә, -ʃә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">劳亚古大陆（板块学说中包括亚、欧、北美的古大陆）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

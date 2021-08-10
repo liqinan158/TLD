@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>googolplex</h2><div class="git"><span class="ipa">['gu:gɒlpleks]</span></div><hr/></div><div class="coca2">古戈尔派勒斯(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">古戈尔普勒克斯（后面带10的100次方个零的数目）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

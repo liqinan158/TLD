@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Harris, Frank</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哈里斯(1856～1931，爱尔兰裔美籍作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

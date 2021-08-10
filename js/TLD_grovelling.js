@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grovelling</h2><div class="git"><span class="ipa">[ˈgrɔvəlɪŋ]</span></div><span class="onm">原型:</span><span class="orm">grovelling 是 grovel 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">卑下的，奴颜婢膝的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">卑躬屈节，奴颜婢膝( grovel的现在分词 ); 趴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

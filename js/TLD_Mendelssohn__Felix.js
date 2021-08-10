@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mendelssohn, Felix</h2><div class="git"><span class="ipa">['mendəlzəun; 'feiliks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">门德尔松(1809～1847，德国作曲家、指挥家、钢琴家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

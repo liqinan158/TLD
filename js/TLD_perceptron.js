@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>perceptron</h2><div class="git"><span class="ipa">[pəˈseptrɒn]</span></div><hr/></div><div class="coca2">感知器(<font color="orangered">83%</font>)，视感控器(<font color="orangered">17%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">感知器，[计] 感知机（模拟人类视神经控制系统的图形识别机）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>G-string</h2><div class="git"><span class="ipa">['dʒi:striŋ]</span></div><hr/></div><div class="coca2">丁字裤(<font color="orangered">67%</font>)，兜裆布(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">遮羞布；（小提琴的）G弦；（脱衣舞女穿的）G带</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

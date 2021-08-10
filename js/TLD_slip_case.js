@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slip case</h2><div class="git"><span class="ipa">[slip keis]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 纸条盒（邮政车）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

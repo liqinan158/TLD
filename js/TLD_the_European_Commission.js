@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the European Commission</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">欧盟执委会（负责欧盟工作和新法规的提出）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">欧洲委员会；欧洲执委会；欧洲执行委员会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

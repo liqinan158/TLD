@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dramaturge</h2><div class="git"><span class="ipa">[ˈdræmətɜ:dʒ]</span></div><hr/></div><div class="coca2">剧作家(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">剧作家（等于dramatist，dramaturgist）；剧团的文艺顾问（等于dramaturg）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

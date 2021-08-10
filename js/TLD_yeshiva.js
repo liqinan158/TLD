@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yeshiva</h2><div class="git"><span class="ipa">[jəˈʃi:və]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36147</span><div class="total">2713</div></div><div class="coca2">正统犹太小学(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">犹太初等学校；犹太高等学校</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

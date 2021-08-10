@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>de Kooning, Willem</h2><div class="git"><span class="ipa">[də'ku:niŋ; 'viləm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">戴库宁(1904～1997,出生于荷兰的美国画家)(=Kooning,Williamde)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

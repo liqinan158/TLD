@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Grey, Lady Jane</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">格雷郡主(1537～1554，英格兰亨利七世的曾孙女、爱德华六世指定的王位继承人，当女王仅九日即被玛丽一世取代，受指控叛国而被处死)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

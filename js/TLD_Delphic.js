@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Delphic</h2><div class="git"><span class="ipa">['delfik]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">46954</span><div class="total">1141</div></div><div class="coca2">暧昧的(<font color="orangered">50%</font>)，意义不明确的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（阿波罗）神谕的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>straightfaced</h2><div class="git"><span class="ipa">[.streɪt 'feɪst]</span></div><span class="onm">原型:</span><span class="orm">straightfaced 是 straightface 的过去式</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">绷着脸的；忍住不笑的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

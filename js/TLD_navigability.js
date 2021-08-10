@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>navigability</h2><div class="git"><span class="ipa">[ˌnævɪɡə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54825</span><div class="total">554</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（河、海和船舶等的）适航性; 适航性，耐航性; 可操纵性; 可航性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

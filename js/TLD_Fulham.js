@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fulham</h2><div class="git"><span class="ipa">['fulәm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;旧俚&gt;(赌博中作弊的)假骰</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

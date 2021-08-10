@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aerogramme</h2><div class="git"><span class="ipa">[ˈeərəgræm]</span></div><hr/></div><div class="coca2">无线电报(<font color="orangered">51%</font>)，航空邮件(<font color="orangered">33%</font>)，=aerogram.(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无线电报；航空邮件</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

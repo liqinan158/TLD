@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>WorldCom</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">World Communications Inc. 世界通信公司[美国]; [计]= WORLD COMmunications Inc.，世界通信有限公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

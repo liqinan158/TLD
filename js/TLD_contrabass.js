@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>contrabass</h2><div class="git"><span class="ipa">[ˈkɒntrəbeɪs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">最低音的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">低音大提琴，任何最低音的乐器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

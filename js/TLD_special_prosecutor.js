@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>special prosecutor</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 15</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 15</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">特别检察官；特别检查官；能指定</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

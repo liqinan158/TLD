@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>house organ</h2><div class="git"><span class="ipa">[haus ˈɔ:ɡən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">给职员和顾客看的店刊</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">内部刊物；内部通报；机关或公司行号之对内刊物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

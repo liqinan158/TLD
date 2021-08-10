@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Man United</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 16</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 16</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">曼联；苏格兰人走入曼联；曼彻斯特联队</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

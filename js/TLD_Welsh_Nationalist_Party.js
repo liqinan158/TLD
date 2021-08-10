@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Welsh Nationalist Party</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">威尔士国民党；威尔士民族主义党；英国威尔士国民党</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

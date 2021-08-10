@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shrewsbury</h2><div class="git"><span class="ipa">['ʃrәjzbəri, 'ʃru:z-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">什鲁斯伯里[英国英格兰西部城市](即萨洛普)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

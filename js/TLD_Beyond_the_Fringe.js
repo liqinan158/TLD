@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Beyond the Fringe</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">边缘之外；边缘之上；超越边界</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pollock, Jackson</h2><div class="git"><span class="ipa">['pɔlək]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">波洛克(1912～1956，美国抽象派画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ethnography</h2><div class="git"><span class="ipa">[eθˈnɒgrəfi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30063</span><div class="total">4683</div></div><div class="coca2">人种学(<font color="orangered">62%</font>)，人种论(<font color="orangered">38%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">民族志；人种志；人种学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Suzuki method</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">铃木法(即先听后识读乐谱的学奏乐器的方法)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anonymize</h2><div class="git"><span class="ipa">[əˈnɒnɪmaɪz]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">50183</span><div class="total">871</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">隐去（试验结果等）中的姓名资料，使匿名</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

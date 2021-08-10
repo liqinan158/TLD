@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quantitative analyst</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">定量分析师；量化分析师；数量分析师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

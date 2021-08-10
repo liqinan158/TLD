@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>contemporaneously</h2><div class="git"><span class="ipa">[kənˌtempə'renɪəslɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">43398</span><div class="total">1505</div></div><div class="coca2">同时(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">同时地；同时代地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>electroencephalogram</h2><div class="git"><span class="ipa">[ɪˌlektrəʊɪnˈsefələgræm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47601</span><div class="total">1089</div></div><div class="coca2">〈医〉脑电图(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[内科] 脑电图，[内科] 脑动电流图</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

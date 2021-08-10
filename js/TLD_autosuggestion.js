@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>autosuggestion</h2><div class="git"><span class="ipa">[ɔ:təʊ'sədʒestʃən]</span></div><hr/></div><div class="coca2">自我暗示(<font color="orangered">88%</font>)，自家感应(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[心理] 自我暗示</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

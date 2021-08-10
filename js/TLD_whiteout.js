@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>whiteout</h2><div class="git"><span class="ipa">['waɪtˌaʊt]</span></div><hr/></div><div class="coca2">涂改液(<font color="orangered">67%</font>)，白化(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">临时性失明（因暴露于恶劣环境而引起的）；乳白天空（极地的一种大气光象）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

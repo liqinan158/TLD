@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sling off at</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[澳大利亚口语]嘲笑，讥笑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

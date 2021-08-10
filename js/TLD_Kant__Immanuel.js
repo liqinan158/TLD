@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kant, Immanuel</h2><div class="git"><span class="ipa">[kænt; kɑ:nt; i'mɑ:nu:el]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">康德(1724～1804，德国哲学家，德国古典唯心主义哲学创始人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

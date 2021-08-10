@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kray twins</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">克雷兄弟；克雷双胞胎；克莱孪生兄弟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

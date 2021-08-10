@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Keynes, John Maynard</h2><div class="git"><span class="ipa">[keinz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">凯恩斯(1883～1946，英国经济学家、凯恩斯主义的创始人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

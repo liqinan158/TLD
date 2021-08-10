@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>undiscriminating</h2><div class="git"><span class="ipa">['ʌndɪ'skrɪmɪneɪtɪŋ]</span></div><hr/></div><div class="coca2">无鉴别力的(<font color="orangered">67%</font>)，不分青红皂白的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无鉴别力的；不加区别的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

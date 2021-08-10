@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Iceni</h2><div class="git"><span class="ipa">[ai'si:nai]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[复] n.[总称][英史]爱西尼人(古代英格兰东部克尔特人的一个部落)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Trinity House</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">〈英〉(主管英国沿海领航等工作的)领港公会</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">三一社团；三一府；三一楼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

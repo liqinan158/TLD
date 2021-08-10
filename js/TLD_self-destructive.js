@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-destructive</h2><div class="git"><span class="ipa">[self disˈtrʌktiv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">24532</span><div class="total">7884</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">自毁的；表现自杀欲望的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

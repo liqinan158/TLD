@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>big pharma</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">大型制药公司；大药厂；大型医药公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

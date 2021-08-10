@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soft launch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">软启动；软上线；推出</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

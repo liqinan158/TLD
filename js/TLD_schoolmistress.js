@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>schoolmistress</h2><div class="git"><span class="ipa">[ˈsku:lmɑ:stə(r)]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TEM4</span></div><div class="coca2">女教师(<font color="orangered">58%</font>)，女校长(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女教师；女校长</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

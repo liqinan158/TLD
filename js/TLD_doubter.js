@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>doubter</h2><div class="git"><span class="ipa">[daʊtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25095</span><div class="total">7425</div></div><div class="coca2">怀疑者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">抱怀疑态度的人；不信宗教的人；怀疑论者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

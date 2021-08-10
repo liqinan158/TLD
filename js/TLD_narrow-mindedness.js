@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>narrow-mindedness</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53918</span><div class="total">608</div></div><div class="coca2">气量小的(<font color="orangered">68%</font>)，小心眼的(<font color="orangered">16%</font>)，眼光短浅的(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">目光短浅</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

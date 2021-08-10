@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>monasticism</h2><div class="git"><span class="ipa">[məˈnæstɪsɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37822</span><div class="total">2347</div></div><div class="coca2">修道生活(<font color="orangered">50%</font>)，禁欲主义(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">修道院生活；禁欲主义；出家；隐修制度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

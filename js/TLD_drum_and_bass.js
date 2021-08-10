@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drum and bass</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn"> 鼓与贝司，鼓打贝司（20世纪90年代早期在英国出现的流行音乐舞曲，以快速鼓节奏和强劲缓慢的贝司节奏为特点）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

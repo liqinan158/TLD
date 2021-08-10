@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mahathir bin Mohamad</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">马哈蒂尔；马哈蒂尔-宾-莫哈默德；马来西亚总理马哈迪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

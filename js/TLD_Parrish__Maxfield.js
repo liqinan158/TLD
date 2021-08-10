@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Parrish, Maxfield</h2><div class="git"><span class="ipa">['pæriʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">帕里什(1870～1966，美国画家，曾为《一千零一夜》等作品插图)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

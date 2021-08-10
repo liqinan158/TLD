@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bail-in</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">纾困；保释；债权人拉进来承担风险</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

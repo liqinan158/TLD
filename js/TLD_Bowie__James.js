@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bowie, James</h2><div class="git"><span class="ipa">['bəui]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">鲍伊(1799～1836，得克萨斯美国移民领袖、得克萨斯军上校)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

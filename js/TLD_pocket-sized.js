@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pocket-sized</h2><div class="git"><span class="ipa">[ˈpɔkit ˈsaizd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">28898</span><div class="total">5187</div></div><div class="coca2">袖珍的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">袖珍的；可放进衣袋中的（等于pocket-size）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

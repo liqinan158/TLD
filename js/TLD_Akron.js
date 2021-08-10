@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Akron</h2><div class="git"><span class="ipa">[ˈækrən]</span></div><hr/></div><div class="coca2">阿克伦黄铜(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿克隆黄铜；亚克朗市（美国俄亥俄州）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

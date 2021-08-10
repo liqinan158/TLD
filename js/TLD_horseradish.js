@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>horseradish</h2><div class="git"><span class="ipa">[ˈhɔ:srædɪʃ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21893</span><div class="total">10404</div></div><div class="coca2">山葵(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【植物】辣根 (Armoracia rusticana)；辣根调味品</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

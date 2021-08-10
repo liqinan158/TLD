@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>combats</h2><div class="git"><span class="ipa">[ˈkɒmbæts]</span></div><span class="onm">原型:</span><span class="orm">combats 是 combat 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">与…战斗( combat的第三人称单数 ); 与…斗争; 防止; 减轻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

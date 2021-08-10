@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mindshare</h2><div class="git"><span class="ipa">['maɪndʃeə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43140</span><div class="total">1537</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大脑占有率，注意力占有率，思想</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

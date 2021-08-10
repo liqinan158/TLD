@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>out-of-state</h2><div class="git"><span class="ipa">['autəv'steit]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">13959</span><div class="total">28269</div></div><div class="coca2">外州的(<font color="orangered">50%</font>)，州外的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">州外学生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>baccarat</h2><div class="git"><span class="ipa">[ˈbækərɑ:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34802</span><div class="total">3037</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一种纸牌赌博</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Baccarat)人名；(葡)巴卡拉特；(法)巴卡拉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

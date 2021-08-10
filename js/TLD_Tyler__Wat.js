@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tyler, Wat</h2><div class="git"><span class="ipa">[wɔt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">泰勒(?～1381，英格兰1381年农民起义领袖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

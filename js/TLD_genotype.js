@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>genotype</h2><div class="git"><span class="ipa">[ˈdʒenətaɪp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16061</span><div class="total">20968</div></div><div class="coca2">基因型(<font color="orangered">95%</font>)，遗传型(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">基因型；遗传型</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

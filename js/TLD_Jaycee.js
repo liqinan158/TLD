@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jaycee</h2><div class="git"><span class="ipa">['dʒei'si:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">国际青年商会；国际青年商会会员</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Jaycee)人名；(英)杰西，杰茜 (女名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

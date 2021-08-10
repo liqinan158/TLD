@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>catarrh</h2><div class="git"><span class="ipa">[kəˈtɑ:(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46644</span><div class="total">1170</div></div><div class="coca2">感冒(<font color="orangered">60%</font>)，加答儿(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[医] 粘膜炎；[内科] 卡他</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

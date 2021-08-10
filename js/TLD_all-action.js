@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>all-action</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 充满打斗动作的；全动感的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

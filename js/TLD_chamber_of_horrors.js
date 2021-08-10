@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chamber of horrors</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(蜡像馆、凶器、刑具展览馆等)恐怖物品陈列室；令人毛骨悚然的场所(或物品)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

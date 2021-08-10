@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>management summary</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">管理摘要；管理计画；经营团队简介</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

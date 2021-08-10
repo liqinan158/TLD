@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Caucasus</h2><div class="git"><span class="ipa">['kɔ:kәsәs]</span></div><hr/></div><div class="coca2">高加索山脉(<font color="orangered">92%</font>)，=Caucasia.(<font color="orangered">8%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">高加索（俄罗斯南部地区，位于黑海和里海之间，等于Caucasia）；高加索山脉（等于the Caucasus Mountains）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

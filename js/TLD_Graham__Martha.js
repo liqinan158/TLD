@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Graham, Martha</h2><div class="git"><span class="ipa">['ɡreiəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">格雷厄姆(1895～1991，美国女舞蹈家、舞蹈编导)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

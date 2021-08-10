@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dado rail</h2><div class="git"><span class="ipa">[ˈdeidəu reil]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[木] 护壁板顶木条</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

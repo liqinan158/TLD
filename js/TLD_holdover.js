@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>holdover</h2><div class="git"><span class="ipa">[ˈhəʊldəʊvə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29162</span><div class="total">5075</div></div><div class="coca2">延期(<font color="orangered">80%</font>)，期满后续任者(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">延期；任期届满后仍占据同样地位的人；剩余物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

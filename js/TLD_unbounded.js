@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unbounded</h2><div class="git"><span class="ipa">[ʌnˈbaʊndɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27218</span><div class="total">6054</div></div><div class="coca2">无限的(<font color="orangered">91%</font>)，无节制的(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无限的；不受控制的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>affinity card</h2><div class="git"><span class="ipa">[əˈfɪnɪti: kɑ:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">慈善信用卡（一种信用卡，用于购物等以便为慈善性机构提供资金，每一笔交易都使发放信用卡的公司有义务相应地捐款）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

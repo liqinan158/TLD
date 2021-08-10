@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-</h2><div class="git"><span class="ipa">[pri:]</span></div><hr/></div><div class="coca2">预先(<font color="orangered">85%</font>)，在 ... 前(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">先于；在……前</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

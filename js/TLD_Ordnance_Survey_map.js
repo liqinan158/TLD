@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ordnance Survey map</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（由英国或爱尔兰政府资助的全国地形测量局所绘制的）全国地形测绘详图</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">陆地测量地图；地形测量图；勘查地图</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

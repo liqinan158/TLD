@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overdeveloped</h2><div class="git"><span class="ipa">[ˌəʊvədɪˈveləpt]</span></div><span class="onm">原型:</span><span class="orm">overdeveloped 是 overdevelope 的过去式和过去分词</span><hr/></div><div class="coca2">显像过多(<font color="orangered">67%</font>)，使过度发达(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使过度发展；显像过多</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

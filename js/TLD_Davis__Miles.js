@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Davis, Miles</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Davis, Miles (Dewey, Jr.)</span></div><div class="dcb"><span class="dcn">戴维斯(1926～</span></div><div class="dcb"><span class="dcn">，美国爵士乐号手)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

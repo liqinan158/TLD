@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tracy, Spencer</h2><div class="git"><span class="ipa">['treisi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">屈赛(1900～1967，美国电影演员，惟一连续荣获奥斯卡金像奖的演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>San José</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[地名] 圣何塞 ( 阿根、巴拉、巴拿、秘、厄、哥伦、哥斯、古、洪、萨、危、委、乌拉、西 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

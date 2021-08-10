@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>topdressing</h2><div class="git"><span class="ipa">['tɒpdrəsɪŋ]</span></div><span class="onm">原型:</span><span class="orm">topdressing 是 topdress 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">顶肥，（道路的）表面处治</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">施肥于( topdress的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

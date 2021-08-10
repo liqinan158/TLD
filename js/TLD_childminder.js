@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>childminder</h2><div class="git"><span class="ipa">[ˈtʃaɪldmaɪndə(r)]</span></div><hr/></div><div class="coca2">保育员(<font color="orangered">82%</font>)，代人照看孩子者(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">照看孩子者；保育员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

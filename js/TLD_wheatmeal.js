@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wheatmeal</h2><div class="git"><span class="ipa">[ˈwi:tmi:l]</span></div><hr/></div><div class="coca2">粗麦粉(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（未去麸皮的）粗面粉，粗麦粉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>connectivity</h2><div class="git"><span class="ipa">[ˌkɒnekˈtɪvɪti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">5218</span><div class="total">175186</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[数] 连通性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

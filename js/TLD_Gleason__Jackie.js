@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gleason, Jackie</h2><div class="git"><span class="ipa">['ɡli:zən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">格利森(1916～ ，美国女喜剧演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

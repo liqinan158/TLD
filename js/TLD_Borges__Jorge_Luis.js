@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Borges, Jorge Luis</h2><div class="git"><span class="ipa">['bɔ:hes; 'hɔ:heilu:'i:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">博尔赫斯(1899～1986，阿根廷诗人、小说家和文学翻译家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

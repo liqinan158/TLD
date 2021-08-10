@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hard-luck story</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 诉说不幸的遭遇（为博得他人同情或帮助）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

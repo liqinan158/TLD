@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rimini</h2><div class="git"><span class="ipa">['rimini,'ri:mi:ni:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">里米尼[意大利东北部港市](滨亚得里亚海, 著名的海滨休养地)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

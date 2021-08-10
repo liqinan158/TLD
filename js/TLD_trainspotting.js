@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trainspotting</h2><div class="git"><span class="ipa">['treɪnspɒtɪŋ]</span></div><hr/></div><div class="coca2">猜火车(<font color="orangered">67%</font>)，有着到火车站并记录下所见到列车数目的爱好的人(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">（电影名）猜火车</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

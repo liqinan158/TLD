@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Horowitz, Vladimir</h2><div class="git"><span class="ipa">['hɔ:rɔvits; vlɑ:'di:miə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">霍罗维兹(1904～1989，乌克兰裔美籍钢琴家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

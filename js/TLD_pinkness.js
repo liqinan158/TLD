@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pinkness</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56779</span><div class="total">453</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">粉红色；化身, 典范；石竹花；头面人物 (pink的变形)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

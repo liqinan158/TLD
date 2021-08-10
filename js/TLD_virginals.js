@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>virginals</h2><div class="git"><span class="ipa">[vɜ:dʒɪnzl]</span></div><span class="onm">原型:</span><span class="orm">virginals 是 virginal 的复数</span><hr/></div><div class="word-frequency"><span class="label label-primary">TEM4</span></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">维金纳琴（方形，有键盘，无腿）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

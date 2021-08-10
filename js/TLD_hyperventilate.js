@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hyperventilate</h2><div class="git"><span class="ipa">[ˌhaɪpəˈventɪleɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">34585</span><div class="total">3098</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使强力呼吸</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">强力呼吸；换气过度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

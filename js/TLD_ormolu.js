@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ormolu</h2><div class="git"><span class="ipa">[ˈɔ:məlu:]</span></div><hr/></div><div class="coca2">镀金物(<font color="orangered">50%</font>)，锌青钢(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化工] 镀金物；锌青钢</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

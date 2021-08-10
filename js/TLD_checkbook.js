@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>checkbook</h2><div class="git"><span class="ipa">[ˈtʃekˌbʊk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21824</span><div class="total">10475</div></div><div class="coca2">支票簿(<font color="orangered">97%</font>)，=chequebook.(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">支票簿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

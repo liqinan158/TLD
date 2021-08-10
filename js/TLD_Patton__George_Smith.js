@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Patton, George Smith</h2><div class="git"><span class="ipa">['pætən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">巴顿 (1885～1945，美国陆军上将，在第二次世界大战期间其装甲部队屡建战功，死于车祸)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

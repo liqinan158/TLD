@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>willow pattern</h2><div class="git"><span class="ipa">[ˈwiləu ˈpætən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">白底蓝色柳树图案</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

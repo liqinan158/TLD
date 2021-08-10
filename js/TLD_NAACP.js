@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NAACP</h2><div class="git"><span class="ipa">[,en dʌbəl ,ei si: 'pi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">全国有色人种协进会（National Association for the Advancement of Colored People）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

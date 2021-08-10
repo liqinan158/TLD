@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Elliott</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">埃利奥特，含义：吸引人自视颇高的专业人士; 四眼田鸡，做事一板一眼的书呆子; [人名] 埃利奥特; [地名] [美国] 埃利奥特</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

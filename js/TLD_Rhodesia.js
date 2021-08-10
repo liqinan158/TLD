@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rhodesia</h2><div class="git"><span class="ipa">[rәu'di:zjә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">罗得西亚(津巴布韦的旧称)[非洲]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

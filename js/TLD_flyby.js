@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flyby</h2><div class="git"><span class="ipa">['flaɪbaɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24923</span><div class="total">7565</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">飞越；飞近探测；在低空飞过指定地点</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

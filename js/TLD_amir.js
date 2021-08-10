@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>amir</h2><div class="git"><span class="ipa">[əˈmiə]</span></div><hr/></div><div class="coca2">=emir.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">埃米尔（穆斯林国家的酋长等称号）；贵族</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Amir)人名；(阿拉伯、以、英)阿米尔 (参见 Emir)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

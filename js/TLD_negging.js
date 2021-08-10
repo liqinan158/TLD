@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>negging</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">neg.</span></div><div class="dcb"><span class="pos">abbr.</span></div><div class="dcb"><span class="dcn">negation</span></div><div class="dcb"><span class="dcn">negative</span></div><div class="dcb"><span class="dcn">negatively</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

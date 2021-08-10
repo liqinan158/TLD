@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>no-hitter</h2><div class="git"><span class="ipa">['nəʊ'hɪtə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29408</span><div class="total">4978</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（棒球）无安打赛局</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

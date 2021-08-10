@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the smart money</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 20</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 7</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">行家的投资（或赌注）；明智的投资（或赌注）；有专业知识的人；知情者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

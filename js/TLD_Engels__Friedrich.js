@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Engels, Friedrich</h2><div class="git"><span class="ipa">['eŋɡəlz; 'fri:driʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">恩格斯 (1820～1895，德国社会主义哲学家、科学共产主义奠基人之一，国际无产阶级的领袖和导师，马克思的亲密战友和朋友)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

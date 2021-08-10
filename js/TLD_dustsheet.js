@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dustsheet</h2><hr/></div><div class="coca2">罩单(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">(家具的)防尘罩,防尘布</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

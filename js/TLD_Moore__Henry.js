@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Moore, Henry</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">穆尔(1898～1986，英国雕刻家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chargrill</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 高温烤炙，高温烧烤（至表皮焦黄）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

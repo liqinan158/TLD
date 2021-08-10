@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sausage tree</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 香肠树, 吊灯树, 腊肠树 （产于非洲, 果实香肠状）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

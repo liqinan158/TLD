@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rossetti, Christina Georgina</h2><div class="git"><span class="ipa">[rɔ'zeti]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">罗塞蒂(1830～1894，英国女诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

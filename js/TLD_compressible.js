@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>compressible</h2><div class="git"><span class="ipa">[kəm'presɪbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">32412</span><div class="total">3756</div></div><div class="coca2">可压缩的(<font color="orangered">70%</font>)，可压榨的(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可压缩的；可压榨的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>public limited company</h2><div class="git"><span class="ipa">[ˈpʌblik ˈlimitid ˈkʌmpəni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 公开股份有限公司，公共有限公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

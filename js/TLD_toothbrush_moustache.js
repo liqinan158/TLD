@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>toothbrush moustache</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （理成方形的）牙刷形胡子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

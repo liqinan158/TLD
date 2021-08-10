@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>experiential</h2><div class="git"><span class="ipa">[ɪkˌspɪəriˈenʃl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">11355</span><div class="total">42764</div></div><div class="coca2">经验的(<font color="orangered">66%</font>)，凭经验的(<font color="orangered">34%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">经验的；经验上的；根据经验的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tiddlywinks</h2><div class="git"><span class="ipa">[ˈtɪdliwɪŋks]</span></div><span class="onm">原型:</span><span class="orm">tiddlywinks 是 tiddlywink 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">下等酒吧</span></div><div class="dcb"><span class="dcn">无聊的活动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

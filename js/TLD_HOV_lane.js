@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>HOV lane</h2><div class="git"><span class="ipa">[ˌeɪtʃ əʊ 'vi; leɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多乘员车辆车道（仅供搭载两人及以上的车辆通行）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">高乘载车道；拼车专用道；高承载车道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

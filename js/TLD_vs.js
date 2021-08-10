@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vs</h2><span class="onm">原型:</span><span class="orm">v</span><hr/></div><div class="coca iweb"><span class="pos">PREP</span><span class="rank">2236</span><div class="total">597018</div></div><div class="coca2">相对(<font color="orangered">78%</font>)，与 ... 相对(=verse(<font color="orangered">22%</font>)</div><div class="gdc" divdiv=""><div class="dcb"><span class="pos">abbr.</span><span class="dcn">对，相对（versus）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

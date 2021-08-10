@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>apatosaurus</h2><div class="git"><span class="ipa">[əˌpætəˈsɔ:rəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54233</span><div class="total">590</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">迷惑龙；雷龙（恐龙的一种，生活于约140百萬年前的侏罗纪）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

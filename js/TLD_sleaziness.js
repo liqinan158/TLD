@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sleaziness</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 肮脏; 低劣（sleazy的变体）; 破败（sleazy的变体）; 质地单薄（sleazy的变体）; 卑劣</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

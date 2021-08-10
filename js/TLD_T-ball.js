@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>T-ball</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">儿童棒球；软式垒球；乐乐棒球比赛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

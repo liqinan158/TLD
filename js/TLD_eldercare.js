@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eldercare</h2><div class="git"><span class="ipa">['eldəkeə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51139</span><div class="total">795</div></div><div class="coca2">照顾老年人(<font color="orangered">72%</font>)，照看老年人(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">照顾老年人；对老人福利医疗的照顾</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

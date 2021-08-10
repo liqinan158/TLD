@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>National Weather Service</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">国家气象服务机关</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">美国国家气象局；国家气象服务中心；国家气象服务局</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

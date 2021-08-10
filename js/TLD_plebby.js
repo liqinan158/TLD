@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>plebby</h2><div class="git"><span class="ipa">['plebɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">&lt;俚&gt;普通的，平庸的，粗俗的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

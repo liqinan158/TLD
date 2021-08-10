@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lavatorial</h2><div class="git"><span class="ipa">[ˌlævəˈtɔ:riəl]</span></div><hr/></div><div class="coca2">厕所的(<font color="orangered">63%</font>)，低级粗俗的(<font color="orangered">25%</font>)，洗涤的(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">厕所的；盥洗的；低级粗俗的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

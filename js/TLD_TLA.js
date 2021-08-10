@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>TLA</h2><div class="git"><span class="ipa">[t'lə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">试管胶乳凝集试验（tlacotalpan virus）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

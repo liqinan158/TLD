@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chronometer</h2><div class="git"><span class="ipa">[krəˈnɒmɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30861</span><div class="total">4339</div></div><div class="coca2">经线仪(<font color="orangered">64%</font>)，天文(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[天] 精密记时表；高度精确的钟表；航海经线仪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

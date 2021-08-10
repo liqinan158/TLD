@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kim Il-Sung</h2><div class="git"><span class="ipa">['kim,il'suŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">金日成(1912～1994)，朝鲜民主主义人民共和国首相(1948～1972)，主席(1972～1994)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

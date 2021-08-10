@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bloodstained</h2><div class="git"><span class="ipa">['blʌdsteɪnd]</span></div><hr/></div><div class="coca2">犯杀人罪的(<font color="orangered">55%</font>)，染着血的(<font color="orangered">45%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">血污的；犯杀人罪的；血腥的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">血染（bloodstain的过去式和过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gangbusters</h2><span class="onm">原型:</span><span class="orm">gangbusters 是 gangbuster 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">扫荡流氓的执法者；侦破团伙者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

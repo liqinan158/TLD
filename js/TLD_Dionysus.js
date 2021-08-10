@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dionysus</h2><div class="git"><span class="ipa">[,daiә'naisәs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[希神]狄俄尼索斯(酒神, 即罗马神话中的Bacchus)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

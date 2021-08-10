@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coalhouse</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （旧时家中花园等处的）煤库，煤屋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

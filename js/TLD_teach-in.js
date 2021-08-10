@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teach-in</h2><div class="git"><span class="ipa">[ˈti:tʃˌin]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44117</span><div class="total">1425</div></div><div class="coca2">讨论会(<font color="orangered">50%</font>)，辩论会(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">宣讲会；座谈会（大学校园中就有争议的或重要的问题发表意见进行讨论）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

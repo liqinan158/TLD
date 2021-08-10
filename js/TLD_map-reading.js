@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>map-reading</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">地标定位；查看地图；读图</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">地图判读；地图阅读技巧及练习</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

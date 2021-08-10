@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>preloading</h2><div class="git"><span class="ipa">[pri:'ləʊdɪŋ]</span></div><span class="onm">原型:</span><span class="orm">preloading 是 preload 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 预加负荷; 预加荷载; 预加载; 预先加料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

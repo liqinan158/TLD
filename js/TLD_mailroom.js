@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mailroom</h2><div class="git"><span class="ipa">['meɪlru:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35421</span><div class="total">2886</div></div><div class="coca2">邮政室(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">邮件收发室（等于mail room）；信房（企事业单位中负责处理公、私邮件收发工作的部门）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

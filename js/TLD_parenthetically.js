@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parenthetically</h2><div class="git"><span class="ipa">[ˌpærən'θetɪklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">49485</span><div class="total">933</div></div><div class="coca2">顺便地说(<font color="orangered">50%</font>)，作为插句(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">附带说明地；作为插入成分地；顺便说一句</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

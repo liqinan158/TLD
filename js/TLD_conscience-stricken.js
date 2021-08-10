@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>conscience-stricken</h2><div class="git"><span class="ipa">[ˈkɑnʃəns ˈstrɪkən]</span></div><hr/></div><div class="coca2">内疚的(<font color="orangered">84%</font>)，受良心谴责的(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">内疚的；良心不安的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

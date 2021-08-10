@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parsnip</h2><div class="git"><span class="ipa">[ˈpɑ:snɪp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23293</span><div class="total">8961</div></div><div class="coca2">欧洲萝卜(<font color="orangered">72%</font>)，欧洲防风草(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[植] 欧洲防风草（欧洲萝卜）；欧洲防风草的根；类欧洲防风</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

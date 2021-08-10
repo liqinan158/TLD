@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deixis</h2><div class="git"><span class="ipa">[ˈdeɪksɪs]</span></div><hr/></div><div class="coca2">指示词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">直示（系统）；（定冠词、指示代词等的）指示功能</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

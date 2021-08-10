@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>peewee</h2><div class="git"><span class="ipa">['pi:wi:]</span></div><hr/></div><div class="coca2">矮小的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美口）矮小的人或东西；小东西；美洲小燕（等于pewee）</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">矮小的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

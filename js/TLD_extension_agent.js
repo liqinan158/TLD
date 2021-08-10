@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>extension agent</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 36</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 18</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美国州立大学乡村的）农业技术推广研究员</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">推广员；推广代表；扩张代理</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

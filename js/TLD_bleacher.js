@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bleacher</h2><div class="git"><span class="ipa">[ˈbli:tʃə]</span></div><hr/></div><div class="coca2">漂白剂(<font color="orangered">51%</font>)，漂白业者(<font color="orangered">28%</font>)，露天看台的(<font color="orangered">21%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">漂白剂；漂白业者；露天看台</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Bleacher)人名；(英)布里克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

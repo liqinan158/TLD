@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>extra-sensory perception</h2><div class="git"><span class="ipa">[ˈekstrə ˈsɛnsəri pɚˈsɛpʃən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 超感官知觉，超感觉力</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

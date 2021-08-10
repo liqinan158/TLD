@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>IPO</h2><div class="git"><span class="ipa">[.aɪ piː 'əʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">12846</span><div class="total">33366</div></div><div class="coca2">首次公开发行股票(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">首次公开募股（Initial Public Offerings）；初次公开发行（Initial Public Offering）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

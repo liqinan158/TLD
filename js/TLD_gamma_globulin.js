@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gamma globulin</h2><div class="git"><span class="ipa">[ˌgæmə ˈglɒbjʊlɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">丙种球蛋白；γ 球蛋白</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">伽玛球蛋白；加玛球蛋白；g-球蛋白</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

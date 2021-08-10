@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kerb-crawling</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">路边求欢者, 驾驶汽车在马路边上慢行跟踪女子并向其求欢的男子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

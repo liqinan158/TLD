@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grave robber</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">盗墓贼</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">盗墓者；墓穴盗贼；第四关</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

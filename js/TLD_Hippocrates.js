@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hippocrates</h2><div class="git"><span class="ipa">[hi'pɒkrәti:z]</span></div><span class="onm">原型:</span><span class="orm">Hippocrates 是 hippocrate 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">希波克拉底(希腊名医)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

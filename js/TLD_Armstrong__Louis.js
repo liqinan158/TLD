@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Armstrong, Louis</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿姆斯特朗(1900～1971，美国爵士乐小号演奏家、爵士歌曲作者和歌唱家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

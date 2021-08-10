@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>N</h2><div class="git"><span class="ipa">[en]</span></div><hr/></div><div class="coca2">字母n(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">英语字母的第十四个字母</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

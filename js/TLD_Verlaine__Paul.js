@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Verlaine, Paul</h2><div class="git"><span class="ipa">[ver'len]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">魏尔兰 (1844～1896，法国诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coyote</h2><div class="git"><span class="ipa">[kaɪˈəʊti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">9297</span><div class="total">62548</div></div><div class="coca2">丛林狼(<font color="orangered">56%</font>)，小狼(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一种产于北美大草原的小狼；引外国人从墨西哥偷渡进入美国的不法分子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

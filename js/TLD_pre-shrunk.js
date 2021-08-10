@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-shrunk</h2><div class="git"><span class="ipa">[p'ri:ʃr'ʌŋk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（指布料）缩过水的，防缩的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

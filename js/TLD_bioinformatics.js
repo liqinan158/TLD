@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bioinformatics</h2><div class="git"><span class="ipa">[bi:əʊɪn'fɔ:mətɪks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23318</span><div class="total">8945</div></div><div class="coca2">生物信息学(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">生物信息学；生物资讯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

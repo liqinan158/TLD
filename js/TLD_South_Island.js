@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>South Island</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 19</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 9</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">南岛</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">新西兰的南岛；新西兰南岛；纽西兰南岛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

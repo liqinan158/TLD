@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wog</h2><div class="git"><span class="ipa">[wɒg]</span></div><hr/></div><div class="coca2">黑鬼佬(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">外国佬（非白种人）；东方佬（阿拉伯人，印度人）；中东佬（中东国家的人）；疾病，病菌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

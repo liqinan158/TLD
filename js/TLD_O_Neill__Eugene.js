@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>O'Neill, Eugene</h2><div class="git"><span class="ipa">[əu'ni:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">O'Neill, Eugene (Gladstone)</span></div><div class="dcb"><span class="dcn">[əu'ni:l]</span></div><div class="dcb"><span class="dcn">奥尼尔(1888～1953，美国剧作家，获1936年诺贝尔文学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

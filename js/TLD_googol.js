@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>googol</h2><div class="git"><span class="ipa">[ˈgu:gɒl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57621</span><div class="total">414</div></div><div class="coca2">巨大的数字(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">10的100 次方；天文数字</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dayan, Moshe</h2><div class="git"><span class="ipa">[dai'jɑ:n; 'mɔʃe]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">达扬(1915～1881)，以色列总参谋长(1953～1958)、国防部长(1967～1974)和外交部长(1977～1979)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>broadminded</h2><div class="git"><span class="ipa">['brɒdmaɪndɪd]</span></div><hr/></div><div class="coca2">心胸开阔的(<font color="orangered">58%</font>)，宽宏大量的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">宽宏大量的；心胸开阔的；无偏见的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

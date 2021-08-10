@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Institute of Economic Affairs</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">经济事务学会</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">经济事务研究所；英国经济事务研究所；英国智库经济事务研究所</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

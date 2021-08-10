@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>saddening</h2><div class="git"><span class="ipa">['sædənɪŋ]</span></div><span class="onm">原型:</span><span class="orm">saddening 是 sadden 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（初轧头道的）轻压或小压下量轧制，小变形锻造</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">（使某人）悲哀，忧愁( sadden的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

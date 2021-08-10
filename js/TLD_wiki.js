@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wiki</h2><div class="git"><span class="ipa">['wɪkɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">9580</span><div class="total">59414</div></div><div class="coca2">维基百科全书(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">维基百科（网站名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

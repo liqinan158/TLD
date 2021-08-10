@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nose tackle</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">【美式橄榄球】(尤指三人防线上的)鼻卫，中卫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

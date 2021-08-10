@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Burns, Robert</h2><div class="git"><span class="ipa">[bə:nz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">彭斯(1759～1796，苏格兰诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inclusiveness</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25601</span><div class="total">7084</div></div><div class="coca2">包含 ... 在内的(<font color="orangered">34%</font>)，包罗广泛的(<font color="orangered">33%</font>)，包括端点的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">包容；包容性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

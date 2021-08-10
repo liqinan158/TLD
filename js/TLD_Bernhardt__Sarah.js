@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bernhardt, Sarah</h2><div class="git"><span class="ipa">[ber'nɑ:r; sɑ:'rɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伯恩哈特(1845～1923，法国女演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

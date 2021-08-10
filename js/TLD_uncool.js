@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>uncool</h2><div class="git"><span class="ipa">[ˌʌnˈku:l]</span></div><hr/></div><div class="coca2">土里土气的(<font color="orangered">56%</font>)，没有把握的(<font color="orangered">22%</font>)，违反特定集团标准的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">粗野的；没把握的；不冷静沉着的；土里土气的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

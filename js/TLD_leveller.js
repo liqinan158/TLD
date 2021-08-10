@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>leveller</h2><div class="git"><span class="ipa">[ˈlevələ(r)]</span></div><hr/></div><div class="coca2">水平测量员(<font color="orangered">52%</font>)，=leveler.(<font color="orangered">16%</font>)，平均主义(<font color="orangered">16%</font>)，校平器(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">水平测量员；校平机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

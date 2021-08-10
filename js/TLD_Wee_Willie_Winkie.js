@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wee Willie Winkie</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">威莉·温基；小眨巴眼；小猪威利</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

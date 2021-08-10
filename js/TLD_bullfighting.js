@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bullfighting</h2><div class="git"><span class="ipa">['bʊlfaɪtɪŋ]</span></div><span class="onm">原型:</span><span class="orm">bullfighting 是 bullfight 的现在分词</span><hr/></div><div class="coca2">斗牛(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">斗牛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

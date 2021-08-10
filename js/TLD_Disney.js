@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Disney</h2><div class="git"><span class="ipa">['dizni]</span></div><hr/></div><div class="coca2">迪士尼(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">迪斯尼（美国动画影片制作家及制片人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

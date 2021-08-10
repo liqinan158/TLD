@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pull at</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 67</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 22</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 20</div><div class="gdc"><div class="dcb"><span class="dcn">用力拉, 从...中喝, 从...中抽烟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

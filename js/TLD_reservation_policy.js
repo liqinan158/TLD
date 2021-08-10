@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reservation policy</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 预留政策（印度为落后阶级成员保留一定数目的职位或学校名额等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

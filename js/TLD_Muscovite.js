@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Muscovite</h2><div class="git"><span class="ipa">[ˌmʌskəˈvait]</span></div><hr/></div><div class="coca2">白云母(<font color="orangered">67%</font>)，莫斯科人(<font color="orangered">23%</font>)，莫斯科的(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">俄国人；莫斯科居民</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">俄国人的；莫斯科居民的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

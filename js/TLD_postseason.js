@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>postseason</h2><div class="git"><span class="ipa">[pəʊst'si:zn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">9932</span><div class="total">55248</div></div><div class="coca2">赛季后(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">季后赛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>third-string</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">51414</span><div class="total">773</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">三流的</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">加数字来分类或称第三系列</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

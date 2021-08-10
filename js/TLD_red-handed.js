@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>red-handed</h2><div class="git"><span class="ipa">[ˈredˈhændɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">42321</span><div class="total">1642</div></div><div class="coca2">染血的(<font color="orangered">50%</font>)，在犯罪现场的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">正在作案的；手染血的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

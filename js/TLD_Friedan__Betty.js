@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Friedan, Betty</h2><div class="git"><span class="ipa">['fri:dæn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Friedan, Betty (Naomi Goldstein)</span></div><div class="dcb"><span class="dcn">['fri:dæn]</span></div><div class="dcb"><span class="dcn">弗里丹(1921～ ，美国作家，女权运动领袖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

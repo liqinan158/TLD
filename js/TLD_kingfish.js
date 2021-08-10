@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kingfish</h2><div class="git"><span class="ipa">[ˈkɪŋfɪʃ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35245</span><div class="total">2928</div></div><div class="coca2">首领(<font color="orangered">50%</font>)，掌握绝对权力的人(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[鱼] 无鳔石首鱼；首领，掌握绝对权力的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

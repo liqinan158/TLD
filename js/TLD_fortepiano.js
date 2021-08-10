@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fortepiano</h2><div class="git"><span class="ipa">[ˌfɔ:teɪ'pjɑ:nəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60427</span><div class="total">277</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(18世纪末流行的)钢琴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

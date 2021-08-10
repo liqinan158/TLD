@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>whistle-blower</h2><div class="git"><span class="ipa">[ˈhwisl ˈbləuə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15733</span><div class="total">21909</div></div><div class="coca2">揭发内幕的雇员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">揭发者，告密者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

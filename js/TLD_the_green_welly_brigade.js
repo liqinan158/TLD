@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the green welly brigade</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">绿色长筒靴一族（指住在乡下或热衷于到乡下观光的富人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

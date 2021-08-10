@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hyperspace</h2><div class="git"><span class="ipa">[ˈhaɪpəspeɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36389</span><div class="total">2661</div></div><div class="coca2">超空间(<font color="orangered">71%</font>)，多维空间(<font color="orangered">29%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">超空间；多维空间</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

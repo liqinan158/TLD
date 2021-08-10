@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nasalize</h2><div class="git"><span class="ipa">[ˈneɪzlaɪz]</span><span class="frm">nasalized, nasalizing, nasalizes</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">用鼻音发声，使鼻音化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

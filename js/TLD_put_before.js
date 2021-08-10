@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>put before</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 36</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 16</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 7</div><div class="gdc"><div class="dcb"><span class="dcn">把(某事)提交…考虑；把某事看得比(其他事情)更为重要；把…放在前面</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>magistracy</h2><div class="git"><span class="ipa">[ˈmædʒɪstrəsi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42922</span><div class="total">1564</div></div><div class="coca2">地方行政官的职位(<font color="orangered">67%</font>)，地方执法官(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">地方行政官的职位；地方行政长官</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

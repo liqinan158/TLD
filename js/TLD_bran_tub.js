@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bran tub</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 摸彩桶（内有藏在麸皮、纸等中的奖品，供儿童游戏用）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

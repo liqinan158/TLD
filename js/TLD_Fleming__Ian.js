@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fleming, Ian</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Fleming, Ian (Lacaster)</span></div><div class="dcb"><span class="dcn">弗莱明(1908～1964，英国间谍小说作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

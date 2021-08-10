@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>acting pilot officer</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn"> （英国皇家空军）准尉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

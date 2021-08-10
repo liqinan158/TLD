@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pascal</h2><div class="git"><span class="ipa">['pæskәl]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">帕斯卡（压力的单位）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Pascal)人名；(英、法、西、罗)帕斯卡尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eightsome</h2><div class="git"><span class="ipa">[ˈeɪtsəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">轻快的八人舞蹈（一种轻快活泼的苏格兰民间舞蹈，由8人表演）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

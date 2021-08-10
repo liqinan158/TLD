@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ns</h2><span class="onm">原型:</span><span class="orm">n</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">nanosecond 毫微秒（时间单位等于1秒的10亿分之一）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

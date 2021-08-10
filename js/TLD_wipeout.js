@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wipeout</h2><div class="git"><span class="ipa">[ˈwaɪpaʊt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33354</span><div class="total">3445</div></div><div class="coca2">消灭(<font color="orangered">67%</font>)，完全的毁灭(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">被浪打翻，全部覆灭；失败</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

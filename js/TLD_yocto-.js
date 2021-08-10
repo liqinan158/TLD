@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yocto-</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 幺（科托）；亿亿亿分之一</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

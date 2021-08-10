@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sarcoma</h2><div class="git"><span class="ipa">[sɑ:ˈkəʊmə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21914</span><div class="total">10386</div></div><div class="coca2">肉瘤(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[肿瘤] 肉瘤，恶性毒瘤</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-centred</h2><div class="git"><span class="ipa">[ˈselfˈsentəd]</span></div><hr/></div><div class="coca2">以自我为中心的(<font color="orangered">50%</font>)，固定的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">自我中心的；自私自利的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

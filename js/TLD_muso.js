@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>muso</h2><div class="git"><span class="ipa">[ˈmju:zəʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乐师</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Muso)人名；(日)武曾(姓)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

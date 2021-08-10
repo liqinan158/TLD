@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>airtime</h2><div class="git"><span class="ipa">[ˈeətaɪm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20375</span><div class="total">12341</div></div><div class="coca2">开播时间(<font color="orangered">50%</font>)，广播时间(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电影或电视节目开始的时间</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

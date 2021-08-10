@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bantamweight</h2><div class="git"><span class="ipa">[ˈbæntəmweɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29919</span><div class="total">4750</div></div><div class="coca2">最轻量级运动员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">次轻量级摔跤运动员；羽量级</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

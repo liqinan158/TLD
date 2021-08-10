@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>golden ager</h2><div class="git"><span class="ipa">[ˈɡəuldən ˈeidʒə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> &lt;美&gt;六十五岁以上的退休人员, 年长的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fist pump</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">挥舞拳头（活跃气氛或庆祝时常用的举动）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

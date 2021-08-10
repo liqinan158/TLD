@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Walt Disney World</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">迪斯尼世界；迪士尼世界；迪斯尼乐园</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

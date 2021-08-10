@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kho-kho</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （南亚的）捉人游戏（每队十二人, 尽可能不让对手触摸到）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scandalmonger</h2><div class="git"><span class="ipa">[ˈskændlmʌŋgə(r)]</span></div><hr/></div><div class="coca2">专事诽谤的人(<font color="orangered">60%</font>)，到处传播丑闻的人(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">专事诽谤的人；散布丑闻者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

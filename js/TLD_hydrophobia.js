@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hydrophobia</h2><div class="git"><span class="ipa">[ˌhaɪdrəˈfəʊbiə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57465</span><div class="total">420</div></div><div class="coca2">狂犬病(<font color="orangered">67%</font>)，恐水病(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[内科] 狂犬病；[内科] 恐水病</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aftercare</h2><div class="git"><span class="ipa">[ˈɑ:ftəkeə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19430</span><div class="total">13821</div></div><div class="coca2">疾病治疗后的照顾调养(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">安置；病后的照顾调养；出狱后的就业辅导</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

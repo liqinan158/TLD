@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ISBN</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25800</span><div class="total">6955</div></div><div class="coca2">国际标准图书编号(int(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">国际标准图书编号（International Standard Book Number）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

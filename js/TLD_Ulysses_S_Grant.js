@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ulysses S Grant</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">尤利西斯·格兰特；格兰特；授予尤利西斯格兰特</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

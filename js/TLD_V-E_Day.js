@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>V-E Day</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">第二次世界大战欧战胜利纪念日（Victory in Europe Day ）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

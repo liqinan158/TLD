@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>armrest</h2><div class="git"><span class="ipa">[ˈɑ:mrest]</span></div><span class="onm">原型:</span><span class="orm">armrest 是 armr 的最高级</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25736</span><div class="total">6995</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">扶手；靠手</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

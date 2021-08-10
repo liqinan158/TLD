@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>canasta</h2><div class="git"><span class="ipa">[kəˈnæstə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49588</span><div class="total">921</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">凯钠斯特纸牌游戏</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Canasta)人名；(法)卡纳斯塔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

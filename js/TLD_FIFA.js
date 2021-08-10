@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>FIFA</h2><div class="git"><span class="ipa">['fi:fә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">费法（已裂变原子数与初始装料易裂变原子数之比）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

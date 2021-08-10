@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kajal</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （南亚女子用的）黑色眼影, 灯黑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

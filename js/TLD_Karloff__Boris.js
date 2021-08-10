@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Karloff, Boris</h2><div class="git"><span class="ipa">['kɑ:lɔf]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡洛夫(1887～1969，英国性格电影演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

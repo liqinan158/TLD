@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Helmand Province</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">赫尔曼德省；海曼德省；阿富汗赫尔曼德省</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

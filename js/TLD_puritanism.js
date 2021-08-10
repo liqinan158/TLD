@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>puritanism</h2><div class="git"><span class="ipa">['pjuәritәnizm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41267</span><div class="total">1791</div></div><div class="coca2">清教主义(<font color="orangered">89%</font>)，道德上的极端拘谨(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">清教；清教主义；清教徒习俗；道德上的极端拘谨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

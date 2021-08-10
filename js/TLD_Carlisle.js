@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Carlisle</h2><div class="git"><span class="ipa">[kɑ:'lail]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡莱尔（英国英格兰西北部城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

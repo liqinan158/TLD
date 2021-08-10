@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pebbly</h2><div class="git"><span class="ipa">[ˈpebli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">43280</span><div class="total">1519</div></div><div class="coca2">多卵石的(<font color="orangered">53%</font>)，有卵石花纹的(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">多卵石的；有卵石花纹的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>apse</h2><div class="git"><span class="ipa">[æps]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38894</span><div class="total">2161</div></div><div class="coca2">教堂东面的半圆形凸出的建筑部分(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[天] 拱点；教堂东端突出的半圆或多角形室</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

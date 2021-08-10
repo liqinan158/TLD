@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>go-faster stripes</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （可贴于车身侧面的）加速彩条</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>personal action</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【法】对人诉讼</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">个人诉讼；个人行为；人的诉讼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

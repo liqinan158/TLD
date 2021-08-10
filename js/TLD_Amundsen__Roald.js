@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Amundsen, Roald</h2><div class="git"><span class="ipa">['ɑ:mundsən; 'rəuɑ:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿蒙森(1872～1928，挪威极地探险家，1911年率南极探险队最早到达南极)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

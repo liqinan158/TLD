@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>loud-mouthed</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">52581</span><div class="total">694</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">吼叫的；高声讲话的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">说大话；高谈阔论（loudmouth的过去分词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

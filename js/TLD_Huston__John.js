@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Huston, John</h2><div class="git"><span class="ipa">['hju:stən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">休斯顿 (1906～，美国电影作家、导演)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

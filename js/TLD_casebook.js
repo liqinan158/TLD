@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>casebook</h2><div class="git"><span class="ipa">[ˈkeɪsbʊk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40471</span><div class="total">1910</div></div><div class="coca2">案例选辑(<font color="orangered">54%</font>)，个案记录簿(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">个案记录簿；专题汇编集；病案簿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

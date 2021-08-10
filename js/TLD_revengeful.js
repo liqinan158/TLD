@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>revengeful</h2><div class="git"><span class="ipa">[rɪ'vendʒfəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50636</span><div class="total">833</div></div><div class="coca2">深藏仇念的(<font color="orangered">50%</font>)，燃起复仇念头(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">深藏仇恨的；燃起复仇念头的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

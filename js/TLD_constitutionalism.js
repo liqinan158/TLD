@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>constitutionalism</h2><div class="git"><span class="ipa">[ˌkɒnstɪˈtju:ʃənəlɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43026</span><div class="total">1550</div></div><div class="coca2">立宪主义(<font color="orangered">80%</font>)，立宪政体(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">立宪；立宪主义，立宪制度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

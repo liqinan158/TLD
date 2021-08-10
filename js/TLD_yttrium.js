@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yttrium</h2><div class="git"><span class="ipa">[ˈɪtriəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45568</span><div class="total">1271</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 钇（稀有金属元素，符号Y）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

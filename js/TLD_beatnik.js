@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beatnik</h2><div class="git"><span class="ipa">[ˈbi:tnɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40548</span><div class="total">1896</div></div><div class="coca2">垮掉的一代(<font color="orangered">50%</font>)，奇装异服言行乖僻的人(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奇装异服言行乖僻的人；“垮了的一代”的成员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drivetime</h2><div class="git"><span class="ipa">['draɪv.taɪm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（如上下班交通高峰的）开车时间</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">驾车时间汽车集团公司；行程时间列；驾驶总时间</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

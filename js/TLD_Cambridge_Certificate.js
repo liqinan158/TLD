@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cambridge Certificate</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">剑桥证书课程；剑桥语言证书；英国剑桥大学国际英文认证</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>warm-blooded</h2><div class="git"><span class="ipa">[wɔ:m 'blʌdɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">37652</span><div class="total">2381</div></div><div class="coca2">热心的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（动物）温血的；热血的；恒温的；热情的；易兴奋的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stickybeak</h2><div class="git"><span class="ipa">[ˈstɪkibi:k]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;澳口&gt;爱管闲事者，爱打听的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

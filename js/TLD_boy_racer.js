@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>boy racer</h2><div class="git"><span class="ipa">[bɔi ˈreɪsə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（尤指驾驶昂贵的高性能汽车的）飙车小子，飙车手</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

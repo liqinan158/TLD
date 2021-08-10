@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shaw, Artie</h2><div class="git"><span class="ipa">[ʃɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">肖(1910～ ，美国单簧管演奏家、乐队指挥)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

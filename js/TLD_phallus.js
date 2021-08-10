@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phallus</h2><div class="git"><span class="ipa">[ˈfæləs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34915</span><div class="total">3010</div></div><div class="coca2">阴茎(<font color="orangered">77%</font>)，阳物像(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阴茎；阳物之图像；[胚] 交接器原基（分化后则成为阴蒂或阴茎）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

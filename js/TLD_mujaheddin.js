@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mujaheddin</h2><hr/></div><div class="coca2">穆斯林士兵(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">(在阿富汗和伊朗)穆斯林游击队员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

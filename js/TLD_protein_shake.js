@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>protein shake</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">高蛋白奶昔；流质的蛋白质；蛋白质奶昔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

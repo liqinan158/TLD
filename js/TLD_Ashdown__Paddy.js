@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ashdown, Paddy</h2><div class="git"><span class="ipa">['æʃ'daun; 'pædi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿什当(1941～ )英国政治活动家，英国社会自由民主党领袖(1988～ )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

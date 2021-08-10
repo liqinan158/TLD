@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eolian</h2><div class="git"><span class="ipa">[i'әuliәn]</span></div><hr/></div><div class="coca2">风积的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">风的；[气象] 风成的；风积的（等于aeolian）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

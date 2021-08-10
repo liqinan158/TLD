@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hyperventilation</h2><div class="git"><span class="ipa">[ˌhaɪpəˌventɪ'leɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31426</span><div class="total">4123</div></div><div class="coca2">强力呼吸(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[临床] 换气过度；[临床] 强力呼吸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

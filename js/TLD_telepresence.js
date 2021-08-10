@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>telepresence</h2><div class="git"><span class="ipa">[ˈteliprezns]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40571</span><div class="total">1894</div></div><div class="coca2">远程呈现(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">思科网真（一种通过结合高清晰度视频、音频和交互式组件，在网络上创建一种独特的"面对面"体验的新型技术）；远端临场；远程呈现</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

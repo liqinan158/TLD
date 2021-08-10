@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>interoperability</h2><div class="git"><span class="ipa">['ɪntərɒpərə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13818</span><div class="total">28804</div></div><div class="coca2">互操作性(<font color="orangered">87%</font>)，互用性(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[计] 互操作性；互用性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

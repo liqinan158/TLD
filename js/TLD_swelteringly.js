@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>swelteringly</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">感到热得难受地</span></div><div class="dcb"><span class="dcn">感到热得喘不过气来地</span></div><div class="dcb"><span class="dcn">闷热地</span></div><div class="dcb"><span class="dcn">湿热地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

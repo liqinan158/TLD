@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tactlessness</h2><div class="git"><span class="ipa">['tæktlisnis]</span></div><hr/></div><div class="coca2">不得体的(<font color="orangered">72%</font>)，无机智的(<font color="orangered">14%</font>)，不圆滑的(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">不圆滑；不乖巧</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

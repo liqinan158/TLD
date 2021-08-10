@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sunspot</h2><div class="git"><span class="ipa">[ˈsʌnspɒt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25126</span><div class="total">7401</div></div><div class="coca2">黑子(<font color="orangered">98%</font>)，太阳的黑点(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">太阳黑子；雀斑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

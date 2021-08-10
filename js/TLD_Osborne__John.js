@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Osborne, John</h2><div class="git"><span class="ipa">['ɔzbən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Osborne, John (James)</span></div><div class="dcb"><span class="dcn">['ɔzbən]</span></div><div class="dcb"><span class="dcn">奥斯本(1929～，英国剧作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

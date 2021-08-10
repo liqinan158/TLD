@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wordsworth, William</h2><div class="git"><span class="ipa">['wə:dzwə:θ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">华兹华斯 (1770～1850，英国消极浪漫主义诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

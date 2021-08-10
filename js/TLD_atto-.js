@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>atto-</h2><div class="git"><span class="ipa">[ˈætəʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医]阿托，微微微，百亿亿分之一(10-18)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

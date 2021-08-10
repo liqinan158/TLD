@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mozart, Wolfgang Amadeus</h2><div class="git"><span class="ipa">['məutsɑ:t; 'vɔ:lfɡɑ:ŋ-,ɑ:mɑ:'deius]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">莫扎特(1756～1791，奥地利作曲家，维也纳古典乐派主要代表)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

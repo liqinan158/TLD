@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scot-free</h2><div class="git"><span class="ipa">[ˈskɔtfri:]</span></div><hr/></div><div class="coca2">无伤的(<font color="orangered">30%</font>)，不受处罚的(<font color="orangered">28%</font>)，平安的(<font color="orangered">28%</font>)，无义务的(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不受处罚的；无伤的；平安的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

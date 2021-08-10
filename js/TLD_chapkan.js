@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chapkan</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 查普坎（印度北方和巴基斯坦等地男子穿的长外套）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

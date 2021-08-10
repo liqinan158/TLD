@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spacesuit</h2><div class="git"><span class="ipa">[ˈspeɪssu:t]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33671</span><div class="total">3349</div></div><div class="coca2">太空服(<font color="orangered">54%</font>)，航天服(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">航天服；太空服</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

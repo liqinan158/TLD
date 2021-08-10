@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>umpteenth</h2><div class="git"><span class="ipa">[ˌʌmp'ti:nθ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NUM</span><span class="rank">34999</span><div class="total">2987</div></div><div class="coca2">经过无数次后又一次的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">第无数次的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

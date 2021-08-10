@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>synecdoche</h2><div class="git"><span class="ipa">[sɪˈnekdəki]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52720</span><div class="total">685</div></div><div class="coca2">提喻法(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">提喻法（一种修辞方法，以局部代表全部和以全部指部分）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

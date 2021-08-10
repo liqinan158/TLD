@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>correctional</h2><div class="git"><span class="ipa">[kəˈrekʃənl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">10895</span><div class="total">46237</div></div><div class="coca2">修正的(<font color="orangered">64%</font>)，惩治的(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">矫正的；修正的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

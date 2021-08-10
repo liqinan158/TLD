@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bargain for</h2><div class="git"><span class="ipa">[ˈbɑ:ɡin fɔ:]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 20</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 6</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="dcn"> 为购买（某物）讨价还价; 料到，考虑到（某情况）; 预料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

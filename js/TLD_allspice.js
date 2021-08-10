@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>allspice</h2><div class="git"><span class="ipa">[ˈɔ:lspaɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34286</span><div class="total">3177</div></div><div class="coca2">多香果(<font color="orangered">86%</font>)，多香果香料(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">甜胡椒；用甜胡椒制成的香味料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

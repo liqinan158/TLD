@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>e-publishing</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">61348</span><div class="total">251</div></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">出版品；出版的图书；版物的电子格式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

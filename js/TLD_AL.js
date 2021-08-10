@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>AL</h2><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国联盟（American League）；美国军团（American Legion）；阿尔巴尼亚（Albania，欧洲一国家名）；美国亚拉巴马州（Alabama）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Al)人名；(英)阿尔(Albert 在美国的昵称)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

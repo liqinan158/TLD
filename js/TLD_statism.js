@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>statism</h2><div class="git"><span class="ipa">[ˈsteɪtɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42614</span><div class="total">1602</div></div><div class="coca2">中央集权制(<font color="orangered">67%</font>)，国家统制(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">国家主义；中央集权制；中央集权下的经济统制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

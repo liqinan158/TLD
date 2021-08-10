@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sunrise industry</h2><div class="git"><span class="ipa">[ˈsʌnraiz ˈindəstri]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn"> 朝阳工业，新兴工业（指电子业、电脑制造业等无须用重型机械的工业）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wessex</h2><div class="git"><span class="ipa">['wesiks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">韦塞克斯（英国历史上一个王国的名称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

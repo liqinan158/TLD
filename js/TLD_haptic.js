@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>haptic</h2><div class="git"><span class="ipa">[ˈhæptɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">29200</span><div class="total">5061</div></div><div class="coca2">触觉的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">触觉的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

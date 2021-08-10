@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skiver</h2><div class="git"><span class="ipa">[skaɪvə(r)]</span></div><hr/></div><div class="coca2">削薄的羊皮(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">割皮革的人；割成薄片的皮革</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

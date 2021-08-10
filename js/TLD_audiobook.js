@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>audiobook</h2><div class="git"><span class="ipa">[ɔ:di:əʊ'bʊk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14829</span><div class="total">24793</div></div><div class="coca2">有声读物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">有声读物（把文字录制成语音的“有声书”）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

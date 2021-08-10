@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mouse potato</h2><div class="git"><span class="ipa">[maus pəˈteitəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">电脑迷，鼠标土豆；整天趴电脑前的胖子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

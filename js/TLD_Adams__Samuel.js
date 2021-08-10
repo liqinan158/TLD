@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Adams, Samuel</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">亚当斯(1722～1803，美国政治家，第一、二届大陆会议代表，《独立宣言》签署人之一)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

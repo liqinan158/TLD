@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lifespan</h2><div class="git"><span class="ipa">[ˈlaɪfspæn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">8768</span><div class="total">69590</div></div><div class="coca2">寿命(<font color="orangered">94%</font>)，使用期限(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">寿命；预期生命期限；预期使用期限</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

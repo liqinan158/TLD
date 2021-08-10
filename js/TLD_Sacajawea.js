@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sacajawea</h2><div class="git"><span class="ipa">[,sækədʒə'wi:ə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">萨卡加维亚（富有传奇色彩的北美印第安女子名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

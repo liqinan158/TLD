@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Caligula</h2><div class="git"><span class="ipa">[kə'liɡjulə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡利古拉（罗马帝国第三位皇帝）；卡里古拉（电影名称, 等于罗马帝国艳情史）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

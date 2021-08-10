@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>suppressible</h2><div class="git"><span class="ipa">[sə'presəbl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可以压制的，可以禁止的，可隐藏的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

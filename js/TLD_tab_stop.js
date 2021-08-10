@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tab stop</h2><div class="git"><span class="ipa">[tæb stɔp]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 26</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 13</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（打字）首行固定键位</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">制表位；定位点；定位停驻点</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

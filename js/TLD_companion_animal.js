@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>companion animal</h2><div class="git"><span class="ipa">[kəmˈpænjən ˈæniməl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 伴生动物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

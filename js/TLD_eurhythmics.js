@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eurhythmics</h2><div class="git"><span class="ipa">[juˈrɪðmɪks]</span></div><hr/></div><div class="coca2">韵律舞蹈(<font color="orangered">60%</font>)，韵律体操(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">韵律舞蹈；韵律体操</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>taipan</h2><div class="git"><span class="ipa">[ˈtaɪpæn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大班（指旧时在中国的外国公司经理）; （产于澳大利亚，属眼镜蛇科的）大毒蛇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

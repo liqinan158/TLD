@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tergiversate</h2><div class="git"><span class="ipa">[ˈtɜ:dʒɪvəseɪt]</span><span class="frm">tergiversated, tergiversating, tergiversates</span></div><hr/></div><div class="coca2">搪塞(<font color="orangered">51%</font>)，变节(<font color="orangered">33%</font>)，推托(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">背叛；搪塞</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

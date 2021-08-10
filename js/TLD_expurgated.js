@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>expurgated</h2><div class="git"><span class="ipa">[ˈekspəˌgeɪtid]</span></div><span class="onm">原型:</span><span class="orm">expurgated 是 expurgate 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">删除（书等中的）令人反感的成分，修订，删去（不当处）( expurgate的过去式和过去分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

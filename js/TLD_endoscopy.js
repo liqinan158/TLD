@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>endoscopy</h2><div class="git"><span class="ipa">[enˈdɒskəpi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19577</span><div class="total">13550</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[临床] 内窥镜检查；内视镜检查法；内视镜室</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

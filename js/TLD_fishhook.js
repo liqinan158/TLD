@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fishhook</h2><div class="git"><span class="ipa">[fɪʃ'hʊk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49645</span><div class="total">916</div></div><div class="coca2">鱼钩(<font color="orangered">89%</font>)，钓钩挂锚的大钩(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鱼钩；钓钩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

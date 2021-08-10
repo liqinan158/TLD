@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ship-to-shore</h2><div class="git"><span class="ipa">['ʃiptu'ʃɔ:]</span></div><hr/></div><div class="coca2">自船至岸上之无线电(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">自船至岸上的无线电</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">自船至岸上的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">自船至岸上地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

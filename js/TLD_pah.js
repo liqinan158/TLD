@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pah</h2><div class="git"><span class="ipa">[pɑ:]</span></div><hr/></div><div class="coca2">呸(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">表示轻蔑；不快的感叹词</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">村庄；毛利人村寨</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Pah)人名；(东南亚国家华语)霸；(罗)帕赫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

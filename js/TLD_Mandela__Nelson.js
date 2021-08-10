@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mandela, Nelson</h2><div class="git"><span class="ipa">[mæn'delə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">曼德拉 (1918～ )，南非黑人反种族隔离活动家，南非总统(1994～1999)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

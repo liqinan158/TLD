@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inquisition</h2><div class="git"><span class="ipa">[ˌɪnkwɪˈzɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17397</span><div class="total">17633</div></div><div class="coca2">调查(<font color="orangered">90%</font>)，审查(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">调查；宗教法庭；审讯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

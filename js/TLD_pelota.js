@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pelota</h2><div class="git"><span class="ipa">[pəˈlɒtə]</span></div><hr/></div><div class="coca2">回力球(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">回力球（西班牙或南美地区类似网球的一种游戏）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

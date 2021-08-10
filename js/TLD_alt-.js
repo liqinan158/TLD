@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>alt-</h2><div class="git"><span class="ipa">[ælt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">comb.</span><span class="dcn">form [用于元音字母前] = alti-:altazimuth</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

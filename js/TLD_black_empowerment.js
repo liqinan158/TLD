@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>black empowerment</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> “提高黑人经济实力”战略（南部非洲政策, 旨在给黑人提供机会增加收入并拥有财产等, 并更多参与经济活动）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

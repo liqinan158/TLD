@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Yeoman Warder</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">（英国）皇家近卫军仪仗卫士，伦敦塔卫士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>misgovern</h2><div class="git"><span class="ipa">[ˌmɪsˈgʌvn]</span><span class="frm">misgoverned, misgoverning, misgoverns</span></div><hr/></div><div class="coca2">管理不当(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">管理不当；对…施行恶政</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

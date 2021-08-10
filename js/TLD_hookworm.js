@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hookworm</h2><div class="git"><span class="ipa">[ˈhʊkwɜ:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35053</span><div class="total">2972</div></div><div class="coca2">钩虫病(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">十二指肠病；十二指肠虫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

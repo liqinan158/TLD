@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Guinness, Sir Alec</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">吉尼斯(1914～   ，英国演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

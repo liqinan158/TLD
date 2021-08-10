@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Borneo</h2><div class="git"><span class="ipa">['bɒ:niәu]</span></div><hr/></div><div class="coca2">波罗洲（位于马来群岛(<font color="orangered">50%</font>)，太平洋西部的一座岛屿）(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">婆罗洲（加里曼丹的旧称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

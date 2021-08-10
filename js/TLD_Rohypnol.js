@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rohypnol</h2><div class="git"><span class="ipa">[rəʊˈhɪpnɒl]</span></div><hr/></div><div class="coca2">氟硝安定(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">洛喜普诺（安眠药）</span></div><div class="dcb"><span class="dcn">罗眠乐</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Skye terrier</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯凯狗（一种苏格兰种长毛短腿猎犬）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

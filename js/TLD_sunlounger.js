@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sunlounger</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 日光浴椅；日光浴床</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

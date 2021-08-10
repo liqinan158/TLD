@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>colicky</h2><div class="git"><span class="ipa">[ˈkɔliki]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">42351</span><div class="total">1638</div></div><div class="coca2">疝气痛的(<font color="orangered">60%</font>)，害疝痛病的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">疝气痛的；肚腹绞痛的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

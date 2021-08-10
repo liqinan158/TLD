@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ABA</h2><div class="git"><span class="ipa">[ˈæbə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国银行家协会（American Bankers Association）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Aba)人名；(意、罗、埃塞、塞内、赤几)阿巴；(匈)奥鲍；(西)阿瓦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

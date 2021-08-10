@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>zoological</h2><div class="git"><span class="ipa">[ˌzəʊəˈlɒdʒɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">22695</span><div class="total">9557</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">动物的，动物学的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">动物园</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

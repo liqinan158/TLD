@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>LPN</h2><div class="git"><span class="ipa">[ˌel pi: ˈen]</span></div><hr/></div><div class="coca2">在医院受训练取得护士资格的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">有照实习护士（Licensed Practical Nurse）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

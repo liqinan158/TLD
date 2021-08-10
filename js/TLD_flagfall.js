@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flagfall</h2><div class="git"><span class="ipa">[flæɡ fɔ:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">旗下挥(表示比赛开始)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">接通费；拨接费；接线费</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

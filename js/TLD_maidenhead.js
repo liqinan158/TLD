@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>maidenhead</h2><div class="git"><span class="ipa">[ˈmeɪdnhed]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">61164</span><div class="total">256</div></div><div class="coca2">处女膜(<font color="orangered">70%</font>)，处女身分(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">处女膜；处女性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

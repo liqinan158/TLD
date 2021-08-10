@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>damage limitation</h2><div class="git"><span class="ipa">[ˈdæmidʒ ˌlimiˈteiʃən]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn">损害限制（尤指政治上失误或发生意外事故将其损失减少到最低限度）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

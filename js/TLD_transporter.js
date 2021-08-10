@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>transporter</h2><div class="git"><span class="ipa">[trænˈspɔ:tə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15867</span><div class="total">21529</div></div><div class="coca2">运输者(<font color="orangered">60%</font>)，运输装置(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">运输机；输送者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

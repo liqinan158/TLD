@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ghats</h2><div class="git"><span class="ipa">[^ɔ:ts,^ɑ:ts]</span></div><span class="onm">原型:</span><span class="orm">Ghats 是 ghat 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">高止山脉(位于印度南部)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

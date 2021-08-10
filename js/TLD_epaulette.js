@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>epaulette</h2><div class="git"><span class="ipa">[ˈepəlet]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46582</span><div class="total">1175</div></div><div class="coca2">=epaulet.(<font color="orangered">50%</font>)，衣服上类似肩章的饰物(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">肩章；女人衣服上类似肩章的饰物（等于epaulet）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

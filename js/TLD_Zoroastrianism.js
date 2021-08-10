@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Zoroastrianism</h2><div class="git"><span class="ipa">[,zɔrәj'æstriәnizәm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38938</span><div class="total">2153</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">索罗亚斯德教, 拜火教, 袄教, 火教, 火袄教, 明教</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

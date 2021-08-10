@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>matronymic</h2><div class="git"><span class="ipa">[ˌmætrəˈnɪmɪk]</span></div><hr/></div><div class="coca2">出自母亲或女性祖先的名(<font color="orangered">34%</font>)，表示母系的(<font color="orangered">33%</font>)，母姓的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">表示母系的；母姓的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">出自母亲或女性祖先的名</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Faulkner, William</h2><div class="git"><span class="ipa">['fɔ:knə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">福克纳(1897～1962，美国小说家，获1949年诺贝尔文学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>virginia creeper</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">弗吉尼亚爬山虎（常蔓生于墙上，叶大，秋季变成红色）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">五叶地锦；和爬山虎；五叶爬山虎</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

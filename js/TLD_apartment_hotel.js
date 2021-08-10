@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>apartment hotel</h2><div class="git"><span class="ipa">[əˈpɑ:tmənt həuˈtel]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 公寓式旅馆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

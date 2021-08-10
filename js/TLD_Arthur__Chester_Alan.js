@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Arthur, Chester Alan</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿瑟(1830～1886)，美国第21任总统(1881～1885)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

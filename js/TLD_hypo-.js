@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hypo-</h2><div class="git"><span class="ipa">['haipәj]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">下, 减退, 低下</span></div><div class="dcb"><span class="dcn">[医] 低, 少, 减退, 迟, 在下, 逊, 不足, 次, 过少</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

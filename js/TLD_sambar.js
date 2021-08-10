@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sambar</h2><div class="git"><span class="ipa">['sæmbə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52753</span><div class="total">683</div></div><div class="coca2">东南亚产的一种大鹿(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[脊椎] 水鹿；[脊椎] 黑鹿（东南亚产的一种大鹿）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Isis</h2><div class="git"><span class="ipa">['aisis]</span></div><span class="onm">原型:</span><span class="orm">isi</span><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（美）废钢铁协会（Institute of Scrap Iron and Steel）；综合科学情报服务（Integrated Scientific Information Service）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

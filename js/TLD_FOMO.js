@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>FOMO</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">社交控（fear of missing out，忙于眼前事的时候，总是害怕会错过更有趣或者更好的人和事。）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

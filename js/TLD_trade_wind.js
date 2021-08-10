@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trade wind</h2><div class="git"><span class="ipa">[treid wind]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【气】信风</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">贸易风；信风之卷；东北信风</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

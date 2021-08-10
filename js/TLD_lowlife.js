@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lowlife</h2><div class="git"><span class="ipa">['ləʊlaɪf]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37063</span><div class="total">2506</div></div><div class="coca2">下层阶级的人(<font color="orangered">75%</font>)，卑劣的人(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卑劣人；下层阶级的人；来历不明的男人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

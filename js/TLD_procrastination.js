@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>procrastination</h2><div class="git"><span class="ipa">[prəʊˌkræstɪ'neɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17414</span><div class="total">17588</div></div><div class="coca2">拖延(<font color="orangered">94%</font>)，耽搁(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">耽搁，拖延；拖延症</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

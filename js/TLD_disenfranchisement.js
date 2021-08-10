@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disenfranchisement</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37421</span><div class="total">2429</div></div><div class="coca2">剥夺 ... 公民权(<font color="orangered">50%</font>)，=disfranchise(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">剥夺公民选举权</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

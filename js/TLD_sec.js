@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sec</h2><div class="git"><span class="ipa">[sek]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">美国证券交易委员会（U.S. Securities and Exchange Commission）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

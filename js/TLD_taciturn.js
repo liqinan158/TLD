@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>taciturn</h2><div class="git"><span class="ipa">[ˈtæsɪtɜ:n]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TEM8</span><span class="label label-success">GRE</span></div><div class="coca2">沉默寡言的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">沉默寡言的；无言的，不太说话的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

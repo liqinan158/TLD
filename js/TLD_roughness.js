@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>roughness</h2><div class="git"><span class="ipa">[rʌfnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21285</span><div class="total">11160</div></div><div class="coca2">粗糙(<font color="orangered">99%</font>)，形容词rough的名词形式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">粗糙（度）；粗暴；猛烈；篷乱毛发；未加工</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

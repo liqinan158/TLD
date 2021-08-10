@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UVB</h2><div class="git"><span class="ipa">[ˌju: vi: ˈbi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医][=ultraviolet light,midrange sunbeam spectrum]紫外线B光谱, 中波紫外线光谱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Audit Commission</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英国的）审计署</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国审计委员会；之审计委员会；国家审计署</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

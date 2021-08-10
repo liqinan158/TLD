@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homoeostasis</h2><div class="git"><span class="ipa">[ˌhəumiəuˈsteisis]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">动态静止，动态平衡（社会群体的）自我平衡，原状稳定</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fundraise</h2><div class="git"><span class="ipa">['fʌnd,reiz]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">20416</span><div class="total">12285</div></div><div class="coca2">集资(<font color="orangered">60%</font>)，=fund-raise.(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">募捐</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

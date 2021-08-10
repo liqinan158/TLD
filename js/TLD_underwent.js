@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>underwent</h2><div class="git"><span class="ipa">[ˌʌndəˈwent]</span></div><span class="onm">原型:</span><span class="orm">underwent 是 undergo 的过去式</span><hr/></div><div class="coca2">遭遇(<font color="orangered">58%</font>)，经受(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">经验；遭遇（undergo的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

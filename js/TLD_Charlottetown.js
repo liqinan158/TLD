@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Charlottetown</h2><div class="git"><span class="ipa">['ʃɑ:lәttajn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">夏洛特敦[加拿大东南部港市]( 爱德华太子岛省省会)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

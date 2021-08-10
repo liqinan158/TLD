@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lowlights</h2><span class="onm">原型:</span><span class="orm">lowlights 是 lowlight 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 颜色较暗的染发部位</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

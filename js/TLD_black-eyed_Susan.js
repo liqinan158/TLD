@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>black-eyed Susan</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">【植物】；金光菊属(Rudbeckia)植物;多毛金光菊(Rudbeckia hirta)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

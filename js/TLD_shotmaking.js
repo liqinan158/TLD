@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shotmaking</h2><div class="git"><span class="ipa">[ˈʃɒtmeɪkɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;美&gt;击[投]球，准确击[投]球，击[投]球成功率</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

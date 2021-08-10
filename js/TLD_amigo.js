@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>amigo</h2><div class="git"><span class="ipa">[ɑ:'mi:gəʊ]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）朋友（源于西班牙语 amigo）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Amigo)人名；(西、葡、法、意)阿米戈</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

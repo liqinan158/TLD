@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Freepost</h2><div class="git"><span class="ipa">['friːpəʊst]</span></div><hr/></div><div class="coca2">邮资总付(<font color="orangered">67%</font>)，免费投邮(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">免费邮递；邮资总付</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

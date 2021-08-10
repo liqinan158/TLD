@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>moralist</h2><div class="git"><span class="ipa">[ˈmɒrəlɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34809</span><div class="total">3036</div></div><div class="coca2">道德学家(<font color="orangered">62%</font>)，卫道士(<font color="orangered">38%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">道德家；伦理学者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

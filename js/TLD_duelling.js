@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>duelling</h2><span class="onm">原型:</span><span class="orm">duelling 是 duell 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 决斗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

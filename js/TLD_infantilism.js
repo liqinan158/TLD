@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>infantilism</h2><div class="git"><span class="ipa">[ɪnˈfæntɪlɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">61025</span><div class="total">260</div></div><div class="coca2">幼稚症(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">幼稚症；[医] 幼稚型，[医] 婴儿型</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>haematite</h2><div class="git"><span class="ipa">[ˈhi:mətaɪt]</span></div><hr/></div><div class="coca2">赤铁矿(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[矿物] 赤铁矿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

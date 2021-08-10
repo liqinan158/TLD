@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>request stop</h2><div class="git"><span class="ipa">[riˈkwest stɔp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（公共汽车的）招呼站</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">请求停机；要求停；哀求停机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

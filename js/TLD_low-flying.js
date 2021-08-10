@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>low-flying</h2><div class="git"><span class="ipa">['ləʊfl'aɪɪŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">44220</span><div class="total">1413</div></div><div class="coca2">低空飞行的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">低飞的；比正常飞行高度低的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

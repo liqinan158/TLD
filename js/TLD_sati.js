@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sati</h2><div class="git"><span class="ipa">['sʌti:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49620</span><div class="total">918</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">殉死（等于suttee）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Sati)人名；(阿拉伯)萨提</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

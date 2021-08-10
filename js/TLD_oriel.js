@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oriel</h2><div class="git"><span class="ipa">[ˈɔ:riəl]</span></div><hr/></div><div class="coca2">凸肚窗(<font color="orangered">56%</font>)，凸出壁外的窗(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">凸出壁外的窗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

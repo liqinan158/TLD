@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coconut shy</h2><div class="git"><span class="ipa">[ˈkəukənʌt ʃai]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">掷球击倒椰子游戏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

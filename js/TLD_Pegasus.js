@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pegasus</h2><div class="git"><span class="ipa">['pe^әsәs]</span></div><hr/></div><div class="coca2">飞马座(<font color="orangered">75%</font>)，诗兴(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">飞马座；珀加索斯（生有双翼的神马，被其足蹄踩过的地方有泉水涌出，诗人饮之可获灵感）；诗人的灵感</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

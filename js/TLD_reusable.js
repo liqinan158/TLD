@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reusable</h2><div class="git"><span class="ipa">[ˌri:ˈju:zəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">10273</span><div class="total">51871</div></div><div class="coca2">可再度使用的(<font color="orangered">58%</font>)，可多次使用的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可以再度使用的，可重复使用的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

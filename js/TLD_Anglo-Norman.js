@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Anglo-Norman</h2><div class="git"><span class="ipa">['æŋ^lәu'nɔ:mәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">在英国的诺尔曼人, 英国法语</span></div><div class="dcb"><span class="pos">a.</span><span class="dcn">在英国的诺尔曼人, 英国法语的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

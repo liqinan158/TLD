@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deanery</h2><div class="git"><span class="ipa">[ˈdi:nəri]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43017</span><div class="total">1551</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">地方执事（学院院长、系主任）的住宅（或办公室）; 乡区牧师管辖的教区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>greenstick fracture</h2><div class="git"><span class="ipa">[ˈgri:nstɪk fræktʃə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">不全骨折</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">青枝骨折；旁弯骨折；柳条状骨折</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>CSIS</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">加拿大安全情报局（Canadian Security Intelligence Service）</span></div><div class="dcb"><span class="dcn">战略与国际研究中心（Center for Strategic and International Studies）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

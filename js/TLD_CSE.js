@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>CSE</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（英国）中等教育证书（Certificate of Secondary Education）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

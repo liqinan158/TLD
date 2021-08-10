@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>carbonize</h2><div class="git"><span class="ipa">[ˈkɑ:bənaɪz]</span><span class="frm">carbonized, carbonizing, carbonizes</span></div><hr/></div><div class="coca2">碳化(<font color="orangered">46%</font>)，使与碳化合(<font color="orangered">34%</font>)，使成碳(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">碳化；使与碳化合；使成碳</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

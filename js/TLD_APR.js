@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>APR</h2><hr/></div><div class="gdc" divdiv=""><div class="dcb"><span class="pos">abbr.</span><span class="dcn">大气分布图记录系统（Air profile Recording）；年度成本百分率（Annual Percentage Rate）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wakefulness</h2><div class="git"><span class="ipa">['weɪkflnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29779</span><div class="total">4812</div></div><div class="coca2">觉醒(<font color="orangered">72%</font>)，不眠(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生理] 觉醒；不眠</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

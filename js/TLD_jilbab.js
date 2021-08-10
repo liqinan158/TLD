@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jilbab</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 吉尔巴布（穆斯林女子穿的罩袍）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

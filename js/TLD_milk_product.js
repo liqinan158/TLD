@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>milk product</h2><div class="git"><span class="ipa">[milk ˈprɔdʌkt]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">乳类制品</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">乳制品；奶制品；奶及奶成品</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

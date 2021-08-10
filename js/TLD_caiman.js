@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>caiman</h2><div class="git"><span class="ipa">['keɪmən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36874</span><div class="total">2548</div></div><div class="coca2">凯门鳄(<font color="orangered">90%</font>)，=cayman.(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[脊椎] 凯门鳄（等于cayman）；（美洲热带所产之）鳄鱼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

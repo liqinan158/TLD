@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coursework</h2><div class="git"><span class="ipa">[ˈkɔ:swɜ:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">7402</span><div class="total">94394</div></div><div class="coca2">课程作业(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">作业，修习；指定功课，职业培训</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

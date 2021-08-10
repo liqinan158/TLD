@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Guinness</h2><div class="git"><span class="ipa">['ginis]</span></div><hr/></div><div class="coca2">吉尼斯世界纪录(<font color="orangered">60%</font>)，英国产强性黑啤酒之一种(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">吉尼斯黑啤酒（英国产强性黑啤酒的一种）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bevan, Aneurin</h2><div class="git"><span class="ipa">['bevən; ə'naiərin]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">比万(1897～1960，英国工党左翼领袖、卫生大臣)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>de-</h2><div class="git"><span class="ipa">[di:]</span></div><hr/></div><div class="coca2">去(<font color="orangered">44%</font>)，除(<font color="orangered">28%</font>)，离(<font color="orangered">16%</font>)，解除(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">表示“除去”之义；表示“向下”之义表示“向下”之义；表示“除去”之义表示“完全”之义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

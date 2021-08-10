@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nail down</h2><div class="git"><span class="ipa">[neil daun]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 27</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 11</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 12</div><div class="gdc"><div class="dcb"><span class="dcn"> 用钉子钉住（某物）; 迫使（某人）作出决定，讲明意图[采取行动]; 钉牢</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

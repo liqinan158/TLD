@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-selection</h2><div class="git"><span class="ipa">[ˈselfsiˈlekʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52533</span><div class="total">697</div></div><div class="coca2">自己挑选(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">自己挑选</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homegrown</h2><div class="git"><span class="ipa">['həʊmɡr'əʊn]</span></div><hr/></div><div class="coca2">自家种植的(<font color="orangered">72%</font>)，土生的(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">国产的；自家种植的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

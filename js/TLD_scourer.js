@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scourer</h2><div class="git"><span class="ipa">[ˈskaʊərə(r)]</span></div><hr/></div><div class="coca2">打光机(<font color="orangered">34%</font>)，洗刷器(<font color="orangered">33%</font>)，泻药(<font color="orangered">22%</font>)，去壳机(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">擦洗者，洗刷器；泻药；打光机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

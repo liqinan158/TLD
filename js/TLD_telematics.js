@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>telematics</h2><div class="git"><span class="ipa">[ˌtelɪˈmætɪks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21369</span><div class="total">11029</div></div><div class="coca2">远程信息处理技术(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">远程信息处理</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

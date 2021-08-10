@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phallocentric</h2><div class="git"><span class="ipa">[ˌfæləʊˈsentrɪk]</span></div><hr/></div><div class="coca2">以男性为中心的(<font color="orangered">50%</font>)，由男性统治的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">强调男权观点的</span></div><div class="dcb"><span class="dcn">男性中心</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

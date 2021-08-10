@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Roseanne</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/lpd_roseanne.mp3" href="sound://media/spx/GB_lpd_roseanne.spx" title="Play British pronunciation of Roseanne"> </a><a class="amefile" href="sound://ameProns/lpd_roseanne.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="dcn"> [女子名] 罗斯安妮来源于Rose+Anne</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>percussive</h2><div class="git"><span class="ipa">[pəˈkʌsɪv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">23636</span><div class="total">8631</div></div><div class="coca2">〈医〉叩诊的(<font color="orangered">50%</font>)，有强大冲击力的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">冲击的；叩诊的，敲击的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

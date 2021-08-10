@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>notarize</h2><div class="git"><span class="ipa">[ˈnəʊtəraɪz]</span><span class="frm">notarized, notarizing, notarizes</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">39110</span><div class="total">2124</div></div><div class="coca2">公证(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">确认；证明</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

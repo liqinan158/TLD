@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slubbed</h2><div class="git"><span class="ipa">[slʌbd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">纺, 轻捻, 粗纺( slub的过去式和过去分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

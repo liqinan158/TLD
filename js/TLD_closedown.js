@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>closedown</h2><div class="git"><span class="ipa">['kləʊzdaʊn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（尤指永久的）停工; 停业; 倒闭; &lt;英&gt;（电台或电视台在一天的播送后）停止播放</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>samey</h2><div class="git"><span class="ipa">[ˈseɪmi]</span></div><hr/></div><div class="coca2">单调的(<font color="orangered">58%</font>)，缺乏多样性的(<font color="orangered">28%</font>)，变化不大的(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">adj. 变化不大的, 缺乏多样性的, 单调的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

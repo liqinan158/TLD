@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Langtry, Lillie</h2><div class="git"><span class="ipa">['læŋtri; 'lili]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">兰特里(1852～1925，英国女演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

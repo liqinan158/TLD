@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mirrorball</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （从天花板悬挂、产生灯光效果的）镜面球, 反光球</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

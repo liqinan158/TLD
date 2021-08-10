@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>terms of reference</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 11</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（委员会或报告的）受委托权限</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">职权范围；职责范围；受权调查范围</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

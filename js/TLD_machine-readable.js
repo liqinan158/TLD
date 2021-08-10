@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>machine-readable</h2><div class="git"><span class="ipa">[məˈʃi:nˈri:dəbəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">35900</span><div class="total">2773</div></div><div class="coca2">可用计算机处理的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[计] 机器可读的；可用计算机处理的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

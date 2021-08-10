@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sorbet</h2><div class="git"><span class="ipa">[ˈsɔ:beɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21765</span><div class="total">10546</div></div><div class="coca2">果汁冰糕(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">果汁冰糕；冰冻果子露；加果汁的冰水</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

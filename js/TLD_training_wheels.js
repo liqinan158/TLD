@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>training wheels</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 19</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 19</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（儿童自行车后轮两侧的）稳定轮</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">辅助轮；辅助措施；训练轮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

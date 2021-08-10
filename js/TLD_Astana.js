@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Astana</h2><div class="git"><span class="ipa">[əˈstɑ:nə]</span></div><hr/></div><div class="coca2">阿斯塔纳(<font color="orangered">96%</font>)，n.(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿斯塔纳（哈萨克斯坦共和国首都）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

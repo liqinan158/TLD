@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reluctance</h2><div class="git"><span class="ipa">[rɪ'lʌktəns]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13901</span><div class="total">28501</div></div><div class="coca2">不愿(<font color="orangered">85%</font>)，勉强(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[电磁] 磁阻；勉强；不情愿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

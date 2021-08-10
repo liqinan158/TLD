@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>indexation</h2><div class="git"><span class="ipa">[ˌɪndekˈseɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35423</span><div class="total">2886</div></div><div class="coca2">指数化(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[计划] 指数化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

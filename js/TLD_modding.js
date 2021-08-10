@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>modding</h2><span class="onm">原型:</span><span class="orm">modding 是 mod 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(mod 的现在分词) a. 现代派的, 时髦的</span></div><div class="dcb"><span class="dcn">[计] 模型, 修改, 调制, 模</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

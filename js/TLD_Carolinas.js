@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Carolinas</h2><span class="onm">原型:</span><span class="orm">Carolinas 是 carolina 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">美国南北卡罗莱纳州（Carolina的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cross-purposes</h2><div class="git"><span class="ipa">[k'rɒsp'ɜ:pəsɪz]</span></div><span class="onm">原型:</span><span class="orm">cross-purposes 是 cross-purpose 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">相反的目的；有成见；话不投机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

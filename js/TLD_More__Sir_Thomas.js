@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>More, Sir Thomas</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">莫尔(1477～1535，英国人文主义者、天主教圣徒)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sleeping policeman</h2><div class="git"><span class="ipa">[ˈsli:pɪŋ pəˈli:smən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">“隐身警察”（道路上使车辆减速的坎坎）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

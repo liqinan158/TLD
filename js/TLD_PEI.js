@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PEI</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">搪瓷研究所（Porcelain Enamel Institute）；初步工程检验（Preliminary Engineering Inspection）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

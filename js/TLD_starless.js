@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>starless</h2><div class="git"><span class="ipa">[ˈstɑ:ləs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">51744</span><div class="total">749</div></div><div class="coca2">没有星星的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">没有星光的；没有星的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

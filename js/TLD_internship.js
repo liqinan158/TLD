@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>internship</h2><div class="git"><span class="ipa">[ˈɪntɜ:nʃɪp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">4502</span><div class="total">219410</div></div><div class="coca2">实习期(<font color="orangered">91%</font>)，实习生职位(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">实习生；（美）实习期；实习医师职位</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

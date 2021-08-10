@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unemotional</h2><div class="git"><span class="ipa">[ˌʌnɪˈməʊʃənl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">38511</span><div class="total">2230</div></div><div class="coca2">不诉诸感情的(<font color="orangered">80%</font>)，无感情的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不易动感情的；非感情的；无动于衷的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

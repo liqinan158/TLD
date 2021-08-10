@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bottom-up</h2><div class="git"><span class="ipa">[ˈbɔtəmˈʌp]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">51027</span><div class="total">804</div></div><div class="coca2">自下而上的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[计] 自底向上的；从细节到总体的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

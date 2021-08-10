@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>masturbation</h2><div class="git"><span class="ipa">[ˌmæstə'beɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16367</span><div class="total">20214</div></div><div class="coca2">手淫(<font color="orangered">98%</font>)，自淫(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">手淫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

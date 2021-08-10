@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>monounsaturated fat</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">单不饱和脂肪（橄榄和坚果等中所含脂肪，不会促进胆固醇的有害增长）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">单元不饱和脂肪；单一不饱和脂肪；单元不饱和脂肪酸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

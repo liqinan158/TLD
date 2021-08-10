@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pudenda</h2><div class="git"><span class="ipa">[pju:ˈdendə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;正&gt;外生殖器（尤指女性的）; （尤指女性的）外生殖器，外阴( pudendum的名词复数 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

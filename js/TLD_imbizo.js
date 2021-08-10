@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>imbizo</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 讨论会；（尤指政界人士和公众的）对话会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

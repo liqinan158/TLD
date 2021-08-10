@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>make-or-break</h2><div class="git"><span class="ipa">[meik ɔ: breik]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">41147</span><div class="total">1808</div></div><div class="coca2">不成则败(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不成则败的；孤注一掷的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

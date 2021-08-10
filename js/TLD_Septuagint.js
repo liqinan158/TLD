@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Septuagint</h2><div class="git"><span class="ipa">['septjuәdʒint]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29261</span><div class="total">5033</div></div><div class="gdc"><div class="dcb"><span class="dcn">（公元前3世纪左右完成的）《旧约圣经》的希腊文译本</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

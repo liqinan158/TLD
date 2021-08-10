@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>womanizer</h2><div class="git"><span class="ipa">['wʊmənaɪzə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38539</span><div class="total">2226</div></div><div class="coca2">花心的男人(<font color="orangered">50%</font>)，沉迷于女色者(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">玩弄女性者；沉溺于女色的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

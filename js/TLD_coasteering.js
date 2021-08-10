@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coasteering</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 海岸攀岩（沿着海岸路线攀爬、跳下悬崖和游泳的运动）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

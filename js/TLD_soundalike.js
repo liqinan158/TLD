@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soundalike</h2><div class="git"><span class="ipa">[ˈsaʊndəlaɪk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（尤指歌手）声音（和某位著名人士）相似的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

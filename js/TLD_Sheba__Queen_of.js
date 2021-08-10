@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sheba, Queen of</h2><div class="git"><span class="ipa">['ʃi:bə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Sheba1, Queen of</span></div><div class="dcb"><span class="dcn">['ʃi:bə]</span></div><div class="dcb"><span class="dcn">【圣经】示巴女王(朝觐所罗门王并试探其智慧的女王)[《列王纪》上10：1～13]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Venus</h2><div class="git"><span class="ipa">['vi:nәs]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">CET6</span><span class="label label-success">TEM4</span></div><div class="coca2">金星(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[天] 金星；维纳斯（爱与美的女神）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

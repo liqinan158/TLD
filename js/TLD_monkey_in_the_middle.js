@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>monkey in the middle</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">过顶传球（儿童游戏，由两人抛传球，中间一人争抢）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">猴子在中间；逗瓜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

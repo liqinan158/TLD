@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>groundout</h2><div class="git"><span class="ipa">[ˈgraʊndaʊt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36506</span><div class="total">2635</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（击球员击出内场地滚球后的）被杀出局</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

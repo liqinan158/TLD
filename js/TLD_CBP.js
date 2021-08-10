@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>CBP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医][=carbohydrate-binding protein]糖结合蛋白</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

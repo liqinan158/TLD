@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>loved-up</h2><hr/></div><div class="coca2">醉的(<font color="orangered">50%</font>)，极兴奋的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> （因服用违禁迷幻药而）兴奋的，激情勃发的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

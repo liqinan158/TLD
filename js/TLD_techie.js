@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>techie</h2><div class="git"><span class="ipa">[ˈteki]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20133</span><div class="total">12690</div></div><div class="coca2">技工(<font color="orangered">50%</font>)，技师的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">高科技专家；热衷电子学的电子迷；技师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

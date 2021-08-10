@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Swanson, Gloria</h2><div class="git"><span class="ipa">['swɔnsən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Swanson, Gloria (Gloria Josephine May Swenson)</span></div><div class="dcb"><span class="dcn">['swɔnsən]</span></div><div class="dcb"><span class="dcn">斯旺森(1899～1983，美国电影女演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kitty-corner(ed)</h2><div class="git"><span class="ipa">['kiti,kɔ:nə(d)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">, adv. = cater-corner(ed)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

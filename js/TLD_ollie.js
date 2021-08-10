@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ollie</h2><div class="git"><span class="ipa">['ɒlɪ]</span></div><hr/></div><div class="coca2">奥利(男子名(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奥利（男子名，等于Oliver）；奥莉（女子名，等于Olive）；翱骊（滑板的一种动作）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

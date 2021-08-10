@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>moquette</h2><div class="git"><span class="ipa">[mɒˈket]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">机织绒面毛毯（一种有绒毛的厚地毯科）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

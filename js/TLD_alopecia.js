@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>alopecia</h2><div class="git"><span class="ipa">[ˌælə'pi:ʃə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21529</span><div class="total">10834</div></div><div class="coca2">脱发(<font color="orangered">77%</font>)，秃头症(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">秃头症</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

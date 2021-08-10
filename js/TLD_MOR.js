@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MOR</h2><div class="git"><span class="ipa">[mɔ:]</span></div><hr/></div><div class="coca2">道中间的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[土壤] 粗腐殖质</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Mor)人名；(英、意、法、罗、塞、几、土)莫尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BM</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">医学士（Bachelor of Medicine）；大英博物馆（British Museum）；巴比特合金，巴氏合金（Babbit Metal）；水平点，基准点（bench mark）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Marathi</h2><div class="git"><span class="ipa">[mә'rɑ:ti:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马拉地语(属印欧语系印度语族) </span></div><div class="dcb"><span class="pos">a.</span><span class="dcn">(印度)马哈拉施特拉邦(人)的, 马拉地语的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>institutionally</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">36240</span><div class="total">2693</div></div><div class="coca2">机构的(<font color="orangered">44%</font>)，制度上的(<font color="orangered">37%</font>)，学会的(<font color="orangered">11%</font>)，惯例的(<font color="orangered">8%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">从制度上</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

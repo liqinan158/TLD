@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Harare</h2><div class="git"><span class="ipa">[hә'rɑ:rei]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哈拉雷[津巴布韦首都](旧称索尔兹伯里)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

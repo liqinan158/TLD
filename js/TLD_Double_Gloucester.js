@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Double Gloucester</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(用全脂乳制成的)一级干酪</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">双重格洛斯特起司；斯特双料硬干酪；双层格洛斯特干酪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

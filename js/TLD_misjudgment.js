@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>misjudgment</h2><div class="git"><span class="ipa">[mɪs'dʒʌdʒmənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45368</span><div class="total">1293</div></div><div class="coca2">估计错误(<font color="orangered">60%</font>)，判断不公(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">估计错误；判断错误（等于misjudgement）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

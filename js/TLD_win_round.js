@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>win round</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">“win over”的变体；把某人拉到[争取到]自己方面</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">争取过来；把…争取过来；战胜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

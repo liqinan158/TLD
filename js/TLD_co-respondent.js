@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>co-respondent</h2><hr/></div><div class="coca2">离婚诉讼中的共同被告(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">共同被告（离婚诉讼中被牵涉之奸夫或奸妇）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

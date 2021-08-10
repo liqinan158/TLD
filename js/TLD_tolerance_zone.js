@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tolerance zone</h2><div class="git"><span class="ipa">[ˈtɔlərəns zəun]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">公差范围；公差带</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">公差区域；公差域；尺寸公差带</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

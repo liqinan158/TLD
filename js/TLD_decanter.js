@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>decanter</h2><div class="git"><span class="ipa">[dɪˈkæntə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25241</span><div class="total">7328</div></div><div class="coca2">酒瓶(<font color="orangered">70%</font>)，醒酒器(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">玻璃水瓶；滗析器；倾注洗涤器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

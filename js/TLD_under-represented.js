@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>under-represented</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [法] 代表人数不足的，代表人数低于适当比例的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

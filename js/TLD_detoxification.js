@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>detoxification</h2><div class="git"><span class="ipa">[di:ˌtɒksɪfɪˈkeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15016</span><div class="total">24209</div></div><div class="coca2">解毒(<font color="orangered">96%</font>)，去毒作用(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">解毒；[生化] 解毒作用</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

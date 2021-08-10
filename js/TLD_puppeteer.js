@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>puppeteer</h2><div class="git"><span class="ipa">[ˌpʌpɪˈtɪə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31299</span><div class="total">4161</div></div><div class="coca2">拉线木偶表演者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">傀儡师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

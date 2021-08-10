@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Heaney, Seamus</h2><div class="git"><span class="ipa">['heini:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">希尼 (1939～ ，爱尔兰诗人，获1995年诺贝尔文学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

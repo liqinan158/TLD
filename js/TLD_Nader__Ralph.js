@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nader, Ralph</h2><div class="git"><span class="ipa">['neidə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">纳德(1934～ ，美国律师、作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

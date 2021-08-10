@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>high-sticking</h2><div class="git"><span class="ipa">['hai'stikiŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【冰球】举杆过肩(犯规)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nantucket</h2><div class="git"><span class="ipa">[næn'tʌkit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">楠塔基特岛（位于美国马萨诸塞州东南沿海的岛屿）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

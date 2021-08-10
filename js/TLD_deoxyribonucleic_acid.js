@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deoxyribonucleic acid</h2><div class="git"><span class="ipa">[di:ˈɔksiˌribəuˈnju:kli:ik ˈæsid]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【生化】脱氧核糖核酸</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">去氧核糖核酸；去氧核醣核酸；去氧核酸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

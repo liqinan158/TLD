@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>park and ride</h2><div class="git"><span class="ipa">[pɑ:k ænd raid]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 停放车辆后换乘公共汽车进城措施</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

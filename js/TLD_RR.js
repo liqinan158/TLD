@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>RR</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">无线电航向信标（Radio Range-beacon）；雷达测距（Radar Ranging）；无线电接受器（Radio Receptor）；连流继电器（Reverse Relay）；阻力比（Resistance Ratio）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Polo, Marco</h2><div class="git"><span class="ipa">['pəuləu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">马可波罗(一译马可孛罗，1254～1324，意大利旅行家，生于威尼斯商人家庭，1275年5月曾到过元朝上都，受元世祖忽必烈信任，待遇优厚)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

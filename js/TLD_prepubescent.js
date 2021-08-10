@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prepubescent</h2><div class="git"><span class="ipa">[ˌpri:pju:'besənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36918</span><div class="total">2537</div></div><div class="coca2">青春期前的(<font color="orangered">86%</font>)，青春期前时期的儿童(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">青春期前的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

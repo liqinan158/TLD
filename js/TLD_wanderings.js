@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wanderings</h2><div class="git"><span class="ipa">[ˈwɒndərɪŋz]</span></div><span class="onm">原型:</span><span class="orm">wanderings 是 wandering 的复数</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30551</span><div class="total">4469</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">漫游；闲逛；胡言乱语（wandering的复数形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

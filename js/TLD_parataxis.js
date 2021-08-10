@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parataxis</h2><div class="git"><span class="ipa">[ˌpærəˈtæksɪs]</span></div><hr/></div><div class="coca2">意合(<font color="orangered">82%</font>)，并列(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">并列</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

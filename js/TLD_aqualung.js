@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aqualung</h2><div class="git"><span class="ipa">[ˈækwəlʌŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51748</span><div class="total">749</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">水肺，水中呼吸器</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">使用水肺</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

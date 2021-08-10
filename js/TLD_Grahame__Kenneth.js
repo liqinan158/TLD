@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Grahame, Kenneth</h2><div class="git"><span class="ipa">['ɡreiəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">格雷厄姆(1859～1932，英国苏格兰儿童文学作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

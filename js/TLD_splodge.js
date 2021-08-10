@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>splodge</h2><div class="git"><span class="ipa">[splɒdʒ]</span><span class="frm">splodged, splodging, splodges</span></div><hr/></div><div class="coca2">污点(<font color="orangered">84%</font>)，使 ... 有斑点(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">污点</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">使…有污点（等于splotch）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

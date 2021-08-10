@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polysemy</h2><div class="git"><span class="ipa">[pəˈlɪsɪmi]</span></div><hr/></div><div class="coca2">一词多义(<font color="orangered">88%</font>)，意义的分岐(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一词多义；意义的分歧</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

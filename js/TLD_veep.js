@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>veep</h2><div class="git"><span class="ipa">[vi:p]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45499</span><div class="total">1277</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">美国副总统（等于Veepee）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

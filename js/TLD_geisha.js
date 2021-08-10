@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>geisha</h2><div class="git"><span class="ipa">[ˈgeɪʃə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26052</span><div class="total">6800</div></div><div class="coca2">歌妓(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（日）艺妓；歌妓</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Thirty-nine Articles</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">三十九条信纲，英国圣公会的教义纲要</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

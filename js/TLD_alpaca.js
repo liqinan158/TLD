@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>alpaca</h2><div class="git"><span class="ipa">[ælˈpækə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23388</span><div class="total">8880</div></div><div class="coca2">羊驼毛(<font color="orangered">70%</font>)，羊驼呢(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">羊驼；羊驼呢；羊驼毛棉混纺织物；德国银（等于alpacca）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

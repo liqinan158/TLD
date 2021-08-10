@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pierce, Franklin</h2><div class="git"><span class="ipa">[piəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">皮尔斯(1804～1869)，美国第14任总统(1853～1857)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

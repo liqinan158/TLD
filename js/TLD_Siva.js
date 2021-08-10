@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Siva</h2><div class="git"><span class="ipa">['sivә, 'si:vә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[宗]湿婆（印度三大神中司破坏之神）；大自在天（司破坏及拯救的神）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

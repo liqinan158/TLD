@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>velodrome</h2><div class="git"><span class="ipa">[ˈvelədrəʊm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36923</span><div class="total">2537</div></div><div class="coca2">室内自行车赛场(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">奥林匹克自行车馆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

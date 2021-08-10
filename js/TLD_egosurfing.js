@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>egosurfing</h2><hr/></div><div class="coca2">自我搜索(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">自我漫游（egosurf的现在分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

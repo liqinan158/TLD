@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stockjobber</h2><div class="git"><span class="ipa">[ˈstɒkdʒɒbə(r)]</span></div><hr/></div><div class="coca2">股票投机商(<font color="orangered">60%</font>)，证券批发商(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">证券公司；[金融] 股票经纪人；股票投机商</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

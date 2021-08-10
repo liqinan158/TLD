@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>metastasis</h2><div class="git"><span class="ipa">[məˈtæstəsɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15517</span><div class="total">22531</div></div><div class="coca2">转移瘤(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">转移；新陈代谢；[地质] 同质蜕变</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

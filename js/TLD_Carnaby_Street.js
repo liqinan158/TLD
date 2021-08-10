@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Carnaby Street</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">卡纳贝街(在伦敦,六十年代以出售流行服装著名)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">卡尔纳比街；卡纳比街；卡纳比大街</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

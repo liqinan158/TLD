@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>FDI</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">fat depth indicator 油脂深度指示器; field discharge 外场充电，消磁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

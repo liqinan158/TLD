@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Post-it</h2><div class="git"><span class="ipa">[pəust it]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">报事贴; （注册商标）; 一种边缘带有贴纸的便笺纸; 可以将便笺贴在墙上等处。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

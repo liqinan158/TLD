@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mugger</h2><div class="git"><span class="ipa">[ˈmʌgə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32644</span><div class="total">3668</div></div><div class="coca2">抢劫者(<font color="orangered">82%</font>)，丑角(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">行凶抢劫者，偷袭抢劫者；泽鳄（产于非洲）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

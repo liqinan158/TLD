@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blotto</h2><div class="git"><span class="ipa">[ˈblɒtəʊ]</span></div><hr/></div><div class="coca2">形容词(<font color="orangered">50%</font>)，名词(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Blotto)人名；(法、意)布洛托</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">烂醉如泥的，烂醉的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>farthest</h2><div class="git"><span class="ipa">[ˈfɑ:ðɪst]</span></div><hr/></div><div class="coca2">最远的(<font color="orangered">82%</font>)，最远地(<font color="orangered">16%</font>)，达到最大程度的(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">最远的；最久的（far的最高级）</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">最远地（far的最高级）；最大程度地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

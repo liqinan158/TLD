@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cross-hatching</h2><div class="git"><span class="ipa">[krɔs ˈhætʃiŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55802</span><div class="total">501</div></div><div class="coca2">交叉影线(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">交叉影线</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

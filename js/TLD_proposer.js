@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>proposer</h2><div class="git"><span class="ipa">[prəˈpəʊzə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35072</span><div class="total">2967</div></div><div class="coca2">申请人(<font color="orangered">67%</font>)，提案人(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">要保人；申请人；提案人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

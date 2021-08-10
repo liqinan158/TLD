@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>photonovel</h2><div class="git"><span class="ipa">[ˈfəʊtəʊnɒvl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（用一组照片配以简略的文字说明来表现内容的）摄影小说</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

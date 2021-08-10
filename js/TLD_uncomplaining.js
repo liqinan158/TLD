@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>uncomplaining</h2><div class="git"><span class="ipa">[ˌʌnkəmˈpleɪnɪŋ]</span></div><span class="onm">原型:</span><span class="orm">uncomplaining 是 uncomplain 的现在分词</span><hr/></div><div class="coca2">顺从的(<font color="orangered">45%</font>)，没有怨言的(<font color="orangered">33%</font>)，忍受痛苦的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">没有怨言的；忍受痛苦的；顺从的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>directional</h2><div class="git"><span class="ipa">[dəˈrekʃənl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">11070</span><div class="total">44906</div></div><div class="coca2">方向的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">方向的</span></div><div class="dcb"><span class="dcn">定向型的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

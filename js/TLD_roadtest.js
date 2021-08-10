@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>roadtest</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(对车辆的)实地路检；(对人的能力的)实作检验</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">对(车辆)进行路上试车；实骑试验(自行车等)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">路考；路试；负荷测试</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

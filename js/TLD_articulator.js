@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>articulator</h2><div class="git"><span class="ipa">[ɑ:ˈtɪkjuleɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50776</span><div class="total">823</div></div><div class="coca2">发音器官(<font color="orangered">67%</font>)，发音者(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">发音之人或物；发音纠正器；接骨的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>third-generation</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27406</span><div class="total">5945</div></div><div class="gdc"><div class="dcb"><span class="dcn">[经] 第三代</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

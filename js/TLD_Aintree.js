@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aintree</h2><div class="git"><span class="ipa">['eintri]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">安特里（英国西北部利物浦市郊区）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

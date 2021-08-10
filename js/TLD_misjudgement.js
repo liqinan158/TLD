@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>misjudgement</h2><div class="git"><span class="ipa">[ˌmɪs'dʒʌdʒmənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54257</span><div class="total">588</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">误断; 冤枉; 判断错误; 判断不公</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

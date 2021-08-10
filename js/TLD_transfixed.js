@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>transfixed</h2><div class="git"><span class="ipa">[trænsˈfikst]</span></div><span class="onm">原型:</span><span class="orm">transfixed 是 transfix 的过去式和过去分词</span><hr/></div><div class="coca2">刺穿(<font color="orangered">56%</font>)，使呆住(<font color="orangered">22%</font>)，钉住(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">钉住；刺穿；使呆住</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

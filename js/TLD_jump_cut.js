@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jump cut</h2><div class="git"><span class="ipa">[dʒʌmp kʌt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （电视片）跳越剪辑, 跳动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

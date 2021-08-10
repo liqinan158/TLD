@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nullity</h2><div class="git"><span class="ipa">[ˈnʌləti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39042</span><div class="total">2135</div></div><div class="coca2">无效(<font color="orangered">90%</font>)，无足轻重(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无效；无价值的事物或人；[数] 零度；退化阶数</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

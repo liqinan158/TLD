@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teens</h2><div class="git"><span class="ipa">[ti:nz]</span></div><span class="onm">原型:</span><span class="orm">teens 是 teen 的复数</span><hr/></div><div class="coca2">名词teen的复数形式.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">十多岁，十几岁；青少年</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

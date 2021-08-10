@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hague, The</h2><div class="git"><span class="ipa">[heiɡ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">海牙(荷兰西部城市，联合国国际法院所在地)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

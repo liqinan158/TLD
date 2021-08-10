@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gamepad</h2><div class="git"><span class="ipa">['ɡeɪmpæd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24824</span><div class="total">7652</div></div><div class="coca2">游戏键盘(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">手柄；游戏控制器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

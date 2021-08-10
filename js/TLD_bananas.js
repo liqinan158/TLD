@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bananas</h2><div class="git"><span class="ipa">[bə'nɑ:nəz]</span></div><span class="onm">原型:</span><span class="orm">bananas 是 banana 的复数</span><hr/></div><div class="coca2">香蕉(<font color="orangered">99%</font>)，名词banana的复数形式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[园艺] 香蕉（banana的复数形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

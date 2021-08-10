@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blanket bath</h2><div class="git"><span class="ipa">[ˈblæŋkit bɑ:θ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（对卧病不能起床者施行的）湿毯浴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

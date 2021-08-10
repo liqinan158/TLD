@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>South Sea Bubble</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">【历史】南海泡沫(指英国南海公司于1720年在南美进行的股票投机骗局)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

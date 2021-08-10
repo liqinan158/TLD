@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tone unit</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 语调单位（即有完整音高变化的一个或多个音节）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Toscanini, Arturo</h2><div class="git"><span class="ipa">[,tɔ:skɑ:'ni:ni:; ɑ:r'tu:rɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">托斯卡尼尼(1867～1957，意大利指挥家，1928年移居美国)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dramaturgy</h2><div class="git"><span class="ipa">[ˈdræmətɜ:dʒi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48543</span><div class="total">1009</div></div><div class="coca2">演出艺术(<font color="orangered">67%</font>)，戏剧艺术(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">演出法；戏剧作法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

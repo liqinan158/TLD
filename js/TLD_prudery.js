@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prudery</h2><div class="git"><span class="ipa">[ˈpru:dəri]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58984</span><div class="total">347</div></div><div class="coca2">过分守礼(<font color="orangered">60%</font>)，假正经(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">假正经的行为；过分拘谨的言行</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

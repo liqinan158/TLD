@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>listed building</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 9</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">正式列入文物保护范围的建筑物</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">列为历史古蹟；列为保护；登记在册建筑物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

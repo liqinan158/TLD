@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>airbag</h2><div class="git"><span class="ipa">[ˈeəbæg]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">12808</span><div class="total">33564</div></div><div class="coca2">安全气囊(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">安全气袋（一种在汽车受冲撞时自动充气以免乘客撞伤的安全装置）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

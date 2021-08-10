@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>arose</h2><div class="git"><span class="ipa">[əˈrəʊz]</span></div><span class="onm">原型:</span><span class="orm">arose 是 arise 的过去式</span><hr/></div><div class="coca2">形成(<font color="orangered">50%</font>)，起立(<font color="orangered">25%</font>)，上升(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">出现（arise的过去式）；引发</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

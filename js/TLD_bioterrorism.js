@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bioterrorism</h2><div class="git"><span class="ipa">[ˌbaɪəʊ'terəˌrɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39102</span><div class="total">2126</div></div><div class="coca2">生物恐怖主义(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">生物恐怖主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

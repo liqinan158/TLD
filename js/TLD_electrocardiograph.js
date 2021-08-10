@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>electrocardiograph</h2><div class="git"><span class="ipa">[ɪˌlektrəʊ'kɑ:dɪəgrɑ:f]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[内科] 心电图仪，[内科] 心电图描记器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

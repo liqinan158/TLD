@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>AFDC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">救助无自理能力儿童（Aid to Families with Dependent Children）；自动驾驶飞行指示计算机（Autopilot Flight Director Computer）；（美）对有子女家庭补助计划（Aid to Families with Dependent Children）；亚太财经与发展中心（Asia-Pacific Finance and Development Center）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chasuble</h2><div class="git"><span class="ipa">[ˈtʃæzjʊbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55578</span><div class="total">512</div></div><div class="coca2">牧师主持圣餐(<font color="orangered">50%</font>)，弥撒时穿的礼服(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">十字褡（举行弥撒时神父穿的无袖长袍）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

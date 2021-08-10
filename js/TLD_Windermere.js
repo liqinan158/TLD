@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Windermere</h2><div class="git"><span class="ipa">['windəmiə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">温德米尔湖（英国一湖泊）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

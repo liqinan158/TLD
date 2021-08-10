@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slipstream</h2><div class="git"><span class="ipa">[ˈslɪpstri:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38840</span><div class="total">2169</div></div><div class="coca2">名词(<font color="orangered">97%</font>)，动词(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">气流；冲流</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

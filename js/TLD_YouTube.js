@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>YouTube</h2><div class="git"><span class="ipa">['ju:tju:b]</span></div><hr/></div><div class="coca2">一个互联网视频共享网站(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">视频网站（可以让用户免费上传、观赏、分享视频短片的热门视频共享网站）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

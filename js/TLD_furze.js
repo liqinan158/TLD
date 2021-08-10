@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>furze</h2><div class="git"><span class="ipa">[fɜ:z]</span></div><hr/></div><div class="coca2">荆豆(<font color="orangered">51%</font>)，金雀花(<font color="orangered">37%</font>)，=gorse.(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">荆豆（等于whin）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Furze)人名；(英)弗兹</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

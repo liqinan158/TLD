@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gas-fired</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">30879</span><div class="total">4329</div></div><div class="coca2">以煤气为燃料的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">燃气的；以煤气为燃料的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gender-specific</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36031</span><div class="total">2741</div></div><div class="coca2">只对男性的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> 女（或男）性特有的；与某一性别有关的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

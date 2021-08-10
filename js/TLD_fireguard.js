@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fireguard</h2><div class="git"><span class="ipa">[ˈfaɪəgɑ:d]</span></div><hr/></div><div class="coca2">炉栏(<font color="orangered">64%</font>)，防火线(<font color="orangered">18%</font>)，消防人员(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">火炉栏；防火员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

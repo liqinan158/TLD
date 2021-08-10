@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blogosphere</h2><div class="git"><span class="ipa">['blɒɡəsfɪə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23317</span><div class="total">8945</div></div><div class="coca2">博客圈(<font color="orangered">70%</font>)，博客世界(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">博客圈（网络上博客的总称）；博客世界</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

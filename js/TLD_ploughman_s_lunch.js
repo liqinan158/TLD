@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ploughman's lunch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（通常指在酒馆吃的，包括面包、乳酪、色拉和泡菜的）农夫午餐</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

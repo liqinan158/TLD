@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>steppe</h2><div class="git"><span class="ipa">[step]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22339</span><div class="total">9929</div></div><div class="coca2">干草原(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大草原，[地理] 干草原（特指西伯利亚一带没有树木的大草原）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

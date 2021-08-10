@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Peasants' Revolt</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">【英国历史】农民起义(爆发于1381年，持续1个月，是英格兰历史上第一次伟大的民众起义)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>azoic</h2><div class="git"><span class="ipa">[eɪˈzəʊɪk]</span></div><hr/></div><div class="coca2">无生物时代的(<font color="orangered">50%</font>)，无生的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无生代；无生代岩石</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">无生命时代的；无生命的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

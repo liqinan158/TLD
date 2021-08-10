@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lawks</h2><div class="git"><span class="ipa">[lɔ:ks]</span></div><span class="onm">原型:</span><span class="orm">lawks 是 lawk 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">&lt;英俚&gt;嗳呀！糟了！</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

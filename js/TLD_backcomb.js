@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>backcomb</h2><div class="git"><span class="ipa">[ˈbækkəʊm]</span></div><hr/></div><div class="coca2">逆梳(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">倒梳（头发）（使之蓬松）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

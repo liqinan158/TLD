@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Abbottabad</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">阿伯特阿巴德(巴基斯坦北部一山城)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">阿伯塔巴德；巴基斯坦阿伯塔巴德；阿伯塔巴德市</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

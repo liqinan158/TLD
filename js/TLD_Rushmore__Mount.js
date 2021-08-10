@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rushmore, Mount</h2><div class="git"><span class="ipa">['rʌʃmɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">拉什莫尔山(美国南达科他州西部布莱克山峰, 上面雕有华盛顿、杰弗逊、林肯和西奥多罗斯福四位总统的巨大石刻头像)[亦作Mount Rushmore National Memorial]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

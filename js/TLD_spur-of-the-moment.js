@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spur-of-the-moment</h2><div class="git"><span class="ipa">['spɜ:rəvðə'məʊmənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">43994</span><div class="total">1436</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不加思索的；一时冲动的；立刻的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

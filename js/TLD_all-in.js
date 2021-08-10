@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>all-in</h2><div class="git"><span class="ipa">[ɔ:l in]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">48307</span><div class="total">1028</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">包括一切（费用）的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Atwood, Margaret</h2><div class="git"><span class="ipa">['ætwud]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Atwood, Margaret (Elearnor)</span></div><div class="dcb"><span class="dcn">['ætwud]</span></div><div class="dcb"><span class="dcn">阿特伍德(1939～ ，加拿大女诗人、小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

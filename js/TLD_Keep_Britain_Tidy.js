@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Keep Britain Tidy</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">清洁不列颠；保持英国清洁活动；清洁大英</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Afrobeat</h2><div class="git"><span class="ipa">['æfrəʊbi:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">非洲节拍乐（将传统尼日利亚节奏及歌唱风格与爵士乐、放克乐相融合）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">非洲节奏；非洲节奏音乐；非洲打击乐</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

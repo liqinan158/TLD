@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teethe</h2><div class="git"><span class="ipa">[ti:ð]</span><span class="frm">teethed, teething, teethes</span></div><hr/></div><div class="coca2">长牙(<font color="orangered">64%</font>)，出乳牙(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">长牙齿；出乳牙</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

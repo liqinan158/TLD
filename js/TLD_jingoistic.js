@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jingoistic</h2><div class="git"><span class="ipa">[ˌdʒɪŋɡəʊ'ɪstɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">46857</span><div class="total">1150</div></div><div class="coca2">侵略分子的(<font color="orangered">50%</font>)，强硬外交政策的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">侵略分子的，强硬外交政策的；极端爱国主义的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

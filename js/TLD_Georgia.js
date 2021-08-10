@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Georgia</h2><div class="git"><span class="ipa">['dʒɒ:dʒjә]</span></div><hr/></div><div class="coca2">美国佐治亚州(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乔治亚州；格鲁吉亚（前苏联加盟共和国）；乔治娅（女子名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

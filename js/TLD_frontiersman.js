@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>frontiersman</h2><div class="git"><span class="ipa">[ˈfrʌntɪərzmən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40364</span><div class="total">1926</div></div><div class="coca2">边远者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">边远者；边远的居民（靠近未开发地带的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

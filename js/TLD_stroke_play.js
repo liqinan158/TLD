@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stroke play</h2><div class="git"><span class="ipa">[strəuk plei]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">比杆赛; [体]按总击数记分的比赛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

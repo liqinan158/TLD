@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>air quotes</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">手势引号（用双手手指比画的引号，用以表示所用词语非常规意义）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

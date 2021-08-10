@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teleworker</h2><div class="git"><span class="ipa">['telɪwɜ:kə(r)]</span></div><hr/></div><div class="coca2">远程工作人员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">远程工作人员（通过电脑终端、电传等与办公室联系的在家工作者）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

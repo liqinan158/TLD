@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ff</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">固定的费用（Fixed Fee）；灭火，消防（Fire Fighting）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

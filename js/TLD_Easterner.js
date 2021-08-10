@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Easterner</h2><div class="git"><span class="ipa">['i:stәnә(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56496</span><div class="total">466</div></div><div class="coca2">东方人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">东方人；居住在东部或东方的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

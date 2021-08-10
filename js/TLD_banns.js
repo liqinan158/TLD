@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>banns</h2><div class="git"><span class="ipa">[bænz]</span></div><span class="onm">原型:</span><span class="orm">banns 是 bann 的复数</span><hr/></div><div class="coca2">结婚预告(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（教会）结婚预告</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

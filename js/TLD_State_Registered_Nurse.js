@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>State Registered Nurse</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">州注册护士；国家注册护士；合格护士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

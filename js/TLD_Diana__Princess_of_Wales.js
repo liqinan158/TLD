@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Diana, Princess of Wales</h2><div class="git"><span class="ipa">[dai'ænə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Diana, (Princess of Wales)(Lady Diana Spencer)</span></div><div class="dcb"><span class="dcn">[dai'ænə]</span></div><div class="dcb"><span class="dcn">黛安娜公主(1961～1998，威尔士亲王查尔斯之妻，1981年7月29日结婚，后离异，因出车祸于1998年在法国去世)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

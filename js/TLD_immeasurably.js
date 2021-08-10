@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>immeasurably</h2><div class="git"><span class="ipa">[ɪ'meʒərəblɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">27071</span><div class="total">6145</div></div><div class="coca2">无限地(<font color="orangered">60%</font>)，无法计量地(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">无限地；广大无边地；不能测量地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

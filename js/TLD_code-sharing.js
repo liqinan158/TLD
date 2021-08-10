@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>code-sharing</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 代码共享协议（航空公司之间可相互运送乘客并互用航班号）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

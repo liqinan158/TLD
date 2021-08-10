@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impersonal pronoun</h2><div class="git"><span class="ipa">[ɪmˈpɜ:sənəl ˈprəunaun]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 无[非]人称代词</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

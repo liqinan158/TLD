@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hanukkah</h2><div class="git"><span class="ipa">['hɑ:nәkә]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39631</span><div class="total">2038</div></div><div class="coca2">=Chanukah.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">光明节（犹太教节日，等于Chanukah）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

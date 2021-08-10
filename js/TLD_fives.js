@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fives</h2><div class="git"><span class="ipa">[faɪvz]</span></div><span class="onm">原型:</span><span class="orm">five</span><hr/></div><div class="coca2">名词five的复数形式.(<font color="orangered">34%</font>)，墙手球(一种球戏(<font color="orangered">33%</font>)，带着手套用手或用球拍向球场的墙上击球）(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">墙手球（一种类似手球的球戏）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

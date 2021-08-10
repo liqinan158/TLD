@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>food insecurity</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">食品无保障(指因无法得到均衡食谱)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

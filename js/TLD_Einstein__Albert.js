@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Einstein, Albert</h2><div class="git"><span class="ipa">['ainstain]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">爱因斯坦(1879～1955，美籍德国理论物理学家，创立狭义相对论和广义相对论，获1921年诺贝尔物理学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

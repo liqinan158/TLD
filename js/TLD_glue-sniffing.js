@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>glue-sniffing</h2><hr/></div><div class="coca2">吸食强力胶的习惯(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">吸食强力胶的习惯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

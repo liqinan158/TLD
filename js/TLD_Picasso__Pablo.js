@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Picasso, Pablo</h2><div class="git"><span class="ipa">[pi'kɑ:sɔ:; 'pɑ:vlɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">毕加索(1881～1973，侨居法国的西班牙画家、雕塑家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

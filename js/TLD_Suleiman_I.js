@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Suleiman I</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">苏利曼一世</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">苏丹苏莱曼一世；苏莱曼大帝；奥斯曼帝国苏丹苏莱曼一世</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

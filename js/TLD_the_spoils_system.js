@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the spoils system</h2><div class="git"><span class="ipa">[ðə spɔilz ˈsistəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 政党分肥制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

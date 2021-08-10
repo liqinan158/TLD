@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>backswing</h2><div class="git"><span class="ipa">[ˈbækswɪŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27787</span><div class="total">5727</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">回复；棍棒挥出前的准备姿态；[物] 反冲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

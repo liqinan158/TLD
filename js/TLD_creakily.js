@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>creakily</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">喉音化地</span></div><div class="dcb"><span class="dcn">叽叽嘎嘎地</span></div><div class="dcb"><span class="dcn">要倒塌地（creaky的副词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

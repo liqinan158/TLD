@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the International Date Line</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">日界线（联结地球南北极的假想线。向东航行越过此线须减去一天，向西须增加一天）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">国际日期变更线</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Scott, Sir Walter</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">司各特(1771～1832，苏格兰诗人、小说家和浪漫主义运动的先驱)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

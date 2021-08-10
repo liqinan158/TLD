@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dhansak</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 兵豆香菜炖肉，炒兵豆香菜（印度菜肴）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

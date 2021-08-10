@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dashiki</h2><div class="git"><span class="ipa">[ˈdɑ:ʃɪki]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59639</span><div class="total">316</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（黑人穿的）颜色花哨的短袖套衫；大喜吉装</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rubber-stamp</h2><div class="git"><span class="ipa">[ˈrʌbəˈstæmp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49736</span><div class="total">910</div></div><div class="coca2">不经审查就批准(<font color="orangered">78%</font>)，用橡皮图章盖章(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">不经审查就批准；加盖橡皮图章</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

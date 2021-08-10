@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lenin, Vladimir Ilyich</h2><div class="git"><span class="ipa">['lenin; 'vlɑ:dimir'iljitʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(原姓 Ulyanov；亦称作 Nikolai Lenin)列宁(1870～1924)，俄国革命领导人，马克思和恩格斯革命学说的继承和发扬者；苏联人民委员会主席(1918～1924)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

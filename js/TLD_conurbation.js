@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>conurbation</h2><div class="git"><span class="ipa">[ˌkɒnɜ:ˈbeɪʃn]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TEM8</span></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44455</span><div class="total">1385</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">有卫星城的大都市；（几个邻近的城市因扩建而形成一个）组合城市，集合都市</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

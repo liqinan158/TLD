@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kilimanjaro</h2><div class="git"><span class="ipa">['kilimәn'dʒɑ:rәu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">乞力马扎罗山[坦桑尼亚东北部](非洲最高的山)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

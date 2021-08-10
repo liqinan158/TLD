@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>downwardly</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">52021</span><div class="total">730</div></div><div class="coca2">向下(<font color="orangered">79%</font>)，向下的(<font color="orangered">15%</font>)，下降的(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">向下</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

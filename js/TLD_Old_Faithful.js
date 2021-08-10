@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Old Faithful</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 18</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 14</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">忠实泉; 位于美国黄石公园; 它因有规律地喷水而得名。从它被发现到现在的100多年间; 每隔33-93分钟喷发一次</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

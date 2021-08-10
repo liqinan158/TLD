@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>displeasing</h2><div class="git"><span class="ipa">[dɪs'pli:zɪŋ]</span></div><span class="onm">原型:</span><span class="orm">displeasing 是 displease 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不愉快的，令人发火的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">冒犯，使生气，使不愉快( displease的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

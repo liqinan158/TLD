@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>HUD</h2><div class="git"><span class="ipa">[hʌd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">平视显示器（Head Up Display）；住房和城市发展部（Housing and Urban Development）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

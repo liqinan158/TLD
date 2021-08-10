@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hunky</h2><div class="git"><span class="ipa">[ˈhʌŋki]</span></div><span class="onm">级别:</span><span class="qrm">hunkier, hunkiest</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">30820</span><div class="total">4359</div></div><div class="coca2">英俊的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">匈牙利人；来自中欧的移民</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

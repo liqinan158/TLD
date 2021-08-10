@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>buzz group</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 蜂议小组, 大家说小组（由大团体划分而成, 组员讨论某一问题并各抒己见, 意见用于市场研究）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

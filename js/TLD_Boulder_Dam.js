@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Boulder Dam</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">顽石坝</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">巨石水坝；胡佛水坝又称顽石坝；鲍德水坝</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

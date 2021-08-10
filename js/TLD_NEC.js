@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NEC</h2><hr/></div><div class="coca2">日本电气公司(公司名(<font color="orangered">34%</font>)，总部所在地日本(<font color="orangered">33%</font>)，主要经营电子电气)(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">日本电气公司（Nippon Electric Company）；未校验误差（No Error Check）；（美国）全国经济委员会（National Economic Council）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

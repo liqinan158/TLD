@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shut-out</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">排除；关在外面；遮住</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>void deck</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 公寓楼大堂（在底层, 常为公用）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

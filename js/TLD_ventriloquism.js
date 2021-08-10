@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ventriloquism</h2><div class="git"><span class="ipa">[venˈtrɪləkwɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51493</span><div class="total">767</div></div><div class="coca2">腹语术(<font color="orangered">50%</font>)，口技(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">口技；腹语术</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

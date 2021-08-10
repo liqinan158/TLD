@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MRE</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">宗教教育硕士（Master of Religious Education）；平均径向误差（Mean Radial Error）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

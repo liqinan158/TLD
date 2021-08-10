@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Three Mile Island</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 7</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 7</div><div class="gdc"><div class="dcb"><span class="dcn">三(英)里岛(美国宾夕法尼亚州米德尔敦附近一岛，1979年3月该地的核电站发生灾难性事故)；[广义]典型的核能危险</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

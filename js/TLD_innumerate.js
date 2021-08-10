@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>innumerate</h2><div class="git"><span class="ipa">[ɪˈnju:mərət]</span></div><hr/></div><div class="coca2">不懂数学的(<font color="orangered">75%</font>)，不懂数学和自然科学的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不懂数学的和不懂科学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

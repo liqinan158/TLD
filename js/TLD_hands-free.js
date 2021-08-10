@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hands-free</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">16671</span><div class="total">19373</div></div><div class="coca2">免提的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">免提的；免手持的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

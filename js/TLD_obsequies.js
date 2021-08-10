@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>obsequies</h2><div class="git"><span class="ipa">[ˈɒbsəkwiz]</span></div><span class="onm">原型:</span><span class="orm">obsequies 是 obsequy 的复数</span><hr/></div><div class="coca2">葬礼(<font color="orangered">87%</font>)，名词obsequy的复数.(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">葬礼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

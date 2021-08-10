@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>endoplasm</h2><div class="git"><span class="ipa">[ˈendəʊplæzəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">内质; 内胞浆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

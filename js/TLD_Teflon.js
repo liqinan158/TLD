@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Teflon</h2><div class="git"><span class="ipa">['teflɔn]</span></div><hr/></div><div class="coca2">绝缘材料)(<font color="orangered">50%</font>)，聚四氟乙烯(塑料(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[高分子] 聚四氟乙烯；铁氟龙（商标名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

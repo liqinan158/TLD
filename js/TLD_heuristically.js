@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>heuristically</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">59815</span><div class="total">307</div></div><div class="coca2">启发式教学(<font color="orangered">73%</font>)，探索的(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">启发式地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

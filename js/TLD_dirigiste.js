@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dirigiste</h2><div class="git"><span class="ipa">[,diːriː'ʒɪʒst]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">国家干预或统制经济的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

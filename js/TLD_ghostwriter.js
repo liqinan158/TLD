@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ghostwriter</h2><div class="git"><span class="ipa">[ˈgəʊstraɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35227</span><div class="total">2932</div></div><div class="coca2">代笔人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">捉刀人；撰文者；受雇代作文章的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

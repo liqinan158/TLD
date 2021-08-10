@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>been-to</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （非洲操异国口音的）学成归来者, 海归人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Provos</h2><span class="onm">原型:</span><span class="orm">Provos 是 provo 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">北爱尔兰共和军临时派成员；普洛佛（美国犹他州中部一座城市）；（荷兰的）青年无政府主义者 (provo的变形)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

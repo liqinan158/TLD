@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>poolroom</h2><div class="git"><span class="ipa">[ˈpu:lru:m]</span></div><hr/></div><div class="coca2">台球场(<font color="orangered">64%</font>)，公开赌博场(<font color="orangered">18%</font>)，公开赌博(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">台球场；弹子房；下赌注处</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

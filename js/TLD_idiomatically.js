@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>idiomatically</h2><div class="git"><span class="ipa">[ˌɪdɪə'mætɪklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">59605</span><div class="total">318</div></div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">符合语言习惯地; 使用惯用语句，惯用地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

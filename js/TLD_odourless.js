@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>odourless</h2><div class="git"><span class="ipa">[ˈəʊdəlɪs]</span></div><hr/></div><div class="coca2">无臭的(<font color="orangered">70%</font>)，没有气味的(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无气味的；无臭的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

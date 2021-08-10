@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>re-</h2><div class="git"><span class="ipa">[ri:]</span></div><hr/></div><div class="coca2">表示“又(<font color="orangered">50%</font>)，再”(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">重新；再，又；反对</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

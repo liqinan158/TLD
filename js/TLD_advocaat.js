@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>advocaat</h2><div class="git"><span class="ipa">[ˈædvəkɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">荷兰产蛋酒（一种蛋，糖，白兰地及香料混合制成的饮料）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

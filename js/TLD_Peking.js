@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Peking</h2><div class="git"><span class="ipa">['pi:kiŋ]</span></div><span class="onm">原型:</span><span class="orm">Peking 是 peke 的现在分词</span><hr/></div><div class="coca2">北京(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">北京的旧称，现在称Beijing</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

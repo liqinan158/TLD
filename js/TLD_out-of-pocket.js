@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>out-of-pocket</h2><div class="git"><span class="ipa">['autәv'pɔkit]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">16232</span><div class="total">20519</div></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">(需)现款支付的,不列入预算的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

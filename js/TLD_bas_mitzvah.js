@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bas mitzvah</h2><div class="git"><span class="ipa">[ˌbæs ˈmɪtsvə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> (13岁时举行的)犹太女孩成人仪式； （开始承担宗教义务的）13岁犹太女孩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

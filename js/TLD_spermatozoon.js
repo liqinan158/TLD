@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spermatozoon</h2><div class="git"><span class="ipa">[ˌspɜ:mətəˈzəʊən]</span></div><hr/></div><div class="coca2">精子(<font color="orangered">76%</font>)，精虫(<font color="orangered">24%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生物] 精子；精虫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

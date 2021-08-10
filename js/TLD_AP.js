@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>AP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国联合通讯社（Associated Press）；空气污染（Air Pollution）；大气规划（Air Program）；汇编程序（Assembly Program）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ap)人名；(中)鸭(广东话·威妥玛)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

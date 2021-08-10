@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>A &amp; P</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">Great Atlantic and Pacific Tea Company (美国)大西洋及太平洋茶叶公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

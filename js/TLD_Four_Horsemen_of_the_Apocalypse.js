@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Four Horsemen of the Apocalypse</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">天启四骑士；四骑士血洒自由魂；启示录中的四骑士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

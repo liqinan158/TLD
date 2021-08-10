@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Xanadu</h2><div class="git"><span class="ipa">['zænә,du:]</span></div><hr/></div><div class="coca2">世外桃源(<font color="orangered">55%</font>)，行宫(<font color="orangered">25%</font>)，华厦(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">世外桃源；行宫；华厦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

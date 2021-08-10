@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bycatch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 误捕的鱼（捕捞其他种类的鱼时意外捕获）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

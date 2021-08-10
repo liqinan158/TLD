@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>woodman</h2><div class="git"><span class="ipa">[ˈwʊdmən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35993</span><div class="total">2751</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">樵夫; 居住于森林的人; 看管森林的人; 伐木者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

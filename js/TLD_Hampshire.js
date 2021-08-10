@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hampshire</h2><div class="git"><span class="ipa">[ˈhæmpʃiə]</span></div><hr/></div><div class="coca2">汉普夏猪(<font color="orangered">64%</font>)，汉普夏羊(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">汉普郡（英国南部之一郡）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

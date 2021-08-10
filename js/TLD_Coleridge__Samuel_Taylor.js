@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Coleridge, Samuel Taylor</h2><div class="git"><span class="ipa">['kəulridʒ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">柯尔律治(1772～1834，英国浪漫主义诗人，文艺批评家和哲学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

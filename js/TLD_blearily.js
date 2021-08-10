@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blearily</h2><div class="git"><span class="ipa">[ˈblɪərəli]</span></div><hr/></div><div class="coca2">朦胧的(<font color="orangered">54%</font>)，眼睛模糊的(<font color="orangered">35%</font>)，精疲力尽的(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">模糊地；朦胧地；困倦无神地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

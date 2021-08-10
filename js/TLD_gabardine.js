@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gabardine</h2><div class="git"><span class="ipa">[ˌgæbəˈdi:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52481</span><div class="total">700</div></div><div class="coca2">华达呢(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一种宽松的长袍；[纺] 华达呢；一种斜纹防水布料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

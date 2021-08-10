@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>AFAIC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">至于我们关心的事(As Far As I'm Concerned)；就我所关心</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

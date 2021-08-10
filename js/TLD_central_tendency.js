@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>central tendency</h2><div class="git"><span class="ipa">[ˈsentrəl ˈtendənsi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【统】集中趋势</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">居中趋势；中心趋势；中央趋势</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>senility</h2><div class="git"><span class="ipa">[sə'nɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42919</span><div class="total">1564</div></div><div class="coca2">高龄(<font color="orangered">74%</font>)，老迈(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[基医] 衰老；高龄；老态龙钟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

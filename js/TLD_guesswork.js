@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>guesswork</h2><div class="git"><span class="ipa">[ˈgeswɜ:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16317</span><div class="total">20347</div></div><div class="coca2">猜测(<font color="orangered">76%</font>)，臆测(<font color="orangered">24%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">猜测；臆测；凭猜测所作之工作</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

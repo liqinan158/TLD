@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chalk up to</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">归咎于，归因于</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

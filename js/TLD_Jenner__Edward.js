@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jenner, Edward</h2><div class="git"><span class="ipa">['dʒenə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">詹纳(1749～1823，英国医师，1796年首次给人接种牛痘成功)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

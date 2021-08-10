@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>washed-out</h2><div class="git"><span class="ipa">['wɒʃt'aʊt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">39177</span><div class="total">2112</div></div><div class="coca2">被洪水冲蚀的(<font color="orangered">50%</font>)，受到侵蚀的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">褪色的；被冲蚀的；筋疲力尽的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

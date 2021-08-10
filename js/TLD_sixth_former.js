@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sixth former</h2><div class="git"><span class="ipa">[sɪksθ ˈfɔ:mə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">（英）六年级中学生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

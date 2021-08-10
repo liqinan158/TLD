@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UB40</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">失业救济金领取卡; 领取失业救济金的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

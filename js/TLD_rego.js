@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rego</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （机动车辆等的）注册</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

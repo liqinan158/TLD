@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>workup</h2><div class="git"><span class="ipa">['wɜ:kʌp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">病情的检查;  整理;  引起;  印刷物表面的污迹</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

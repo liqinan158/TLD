@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cid, The</h2><div class="git"><span class="ipa">[sid]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">熙德(约1040～1099，抗击摩尔人的西班牙民族英雄)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

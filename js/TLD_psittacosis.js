@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>psittacosis</h2><div class="git"><span class="ipa">[ˌsɪtəˈkəʊsɪs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鹦鹉热（一种鸟病，常传染给人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

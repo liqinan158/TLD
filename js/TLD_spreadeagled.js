@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spreadeagled</h2><div class="git"><span class="ipa">[ˌspredˈi:gld]</span></div><span class="onm">原型:</span><span class="orm">spreadeagled 是 spreadeagle 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">像张着翅的鹰的，四肢舒展开的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>radiochemical</h2><div class="git"><span class="ipa">[ˌreɪdɪəʊ'kemɪkl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">放射化学的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">已含放射性同位素的化学物质</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

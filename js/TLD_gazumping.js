@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gazumping</h2><div class="git"><span class="ipa">[ɡə'zʌmpɪŋ]</span></div><span class="onm">原型:</span><span class="orm">gazumping 是 gazump 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;英&gt;&lt;口&gt;&lt;贬&gt;抬价敲诈</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">房价谈妥后又抬价改售给( gazump的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

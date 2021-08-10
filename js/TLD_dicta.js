@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dicta</h2><div class="git"><span class="ipa">[ˈdɪktə]</span></div><span class="onm">原型:</span><span class="orm">dicta 是 dictum 的复数</span><hr/></div><div class="coca2">格言(<font color="orangered">64%</font>)，声明(<font color="orangered">18%</font>)，名词dictum的复数形式.(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">格言；权威的断言（dictum的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

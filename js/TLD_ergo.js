@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ergo</h2><div class="git"><span class="ipa">[ˈɜ:gəʊ]</span></div><hr/></div><div class="coca2">因此(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ergo)人名；(法)埃尔戈</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">因此，所以</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

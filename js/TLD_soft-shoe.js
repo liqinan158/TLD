@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soft-shoe</h2><div class="git"><span class="ipa">['sɔft'ʃʊ]</span></div><hr/></div><div class="coca2">穿软底鞋跳舞(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">穿软底鞋跳踢踏舞</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">软底鞋的；软底鞋踢踏舞的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

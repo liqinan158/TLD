@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>king of the castle</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(小儿游戏中的)山寨大王</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">城堡之王；最重要的人物；国王的城堡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

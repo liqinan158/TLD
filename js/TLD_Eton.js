@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eton</h2><div class="git"><span class="ipa">['i:tn]</span></div><hr/></div><div class="coca2">伊顿(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伊顿（在伦敦附近的白金汉郡，泰晤士河边的一个市镇）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

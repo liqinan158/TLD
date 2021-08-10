@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inapplicable</h2><div class="git"><span class="ipa">[ˌɪnəˈplɪkəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">33702</span><div class="total">3340</div></div><div class="coca2">不适用的(<font color="orangered">53%</font>)，不能应用的(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不适用的；不相干的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

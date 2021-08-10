@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-emptive</h2><div class="git"><span class="ipa">[priˈemptɪv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">19757</span><div class="total">13238</div></div><div class="coca2">先发制人的(<font color="orangered">79%</font>)，优先购买的(<font color="orangered">21%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">优先购买的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

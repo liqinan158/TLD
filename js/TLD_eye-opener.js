@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eye-opener</h2><hr/></div><div class="word-frequency"><span class="label label-primary">TEM4</span></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29652</span><div class="total">4865</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">使人惊奇的事物, 迷人的人, 迷人的事物, 使人大开眼界的事物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

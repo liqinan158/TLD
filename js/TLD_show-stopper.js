@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>show-stopper</h2><div class="git"><span class="ipa">[ˈʃəʊˌstɔpə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">被长时间的掌声所打断的表演</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

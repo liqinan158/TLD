@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Thirty Years' War</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">三十年战争；三十年大战；三十年之战</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

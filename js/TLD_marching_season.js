@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>marching season</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 游行季节（北爱尔兰新教徒为纪念17世纪战胜天主教徒而在七八月份上街游行的时节）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

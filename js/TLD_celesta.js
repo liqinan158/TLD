@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>celesta</h2><div class="git"><span class="ipa">[səˈlestə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">发出如钟的声音的一种有键的小乐器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

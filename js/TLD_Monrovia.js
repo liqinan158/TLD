@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Monrovia</h2><div class="git"><span class="ipa">[mənˈrəuviə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蒙罗维亚（利比里亚首都）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

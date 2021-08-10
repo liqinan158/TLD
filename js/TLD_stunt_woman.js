@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stunt woman</h2><div class="git"><span class="ipa">[stʌnt ˈwumən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女特技演员，女替身演员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

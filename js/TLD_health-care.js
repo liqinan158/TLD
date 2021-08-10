@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>health-care</h2><div class="git"><span class="ipa">['helθkeə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">1994</span><div class="total">683708</div></div><div class="coca2">卫生保健(<font color="orangered">50%</font>)，健康保健的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卫生保健</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

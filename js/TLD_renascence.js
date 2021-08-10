@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>renascence</h2><div class="git"><span class="ipa">[rɪˈnæsns]</span></div><hr/></div><div class="coca2">重生(<font color="orangered">40%</font>)，新生(<font color="orangered">40%</font>)，复活(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">新生；再生；复活</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

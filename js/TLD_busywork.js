@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>busywork</h2><div class="git"><span class="ipa">[ˈbɪziwɜ:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46778</span><div class="total">1156</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）外加作业（使学生不致空闲而故意外加的作业）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

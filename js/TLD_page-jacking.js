@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>page-jacking</h2><div class="git"><span class="ipa">['peɪdʒdʒ'ækɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 劫页——色情网站利用不当手段劫持正派网站; 当通过搜寻引擎找出相关的网站后; 在按下某个网站时; 自动连结到色情网站</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

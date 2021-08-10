@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lusitania</h2><div class="git"><span class="ipa">[lu:si'teiniә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">路西塔尼亚(古罗马的一个省名, 相当于现今葡萄牙的大部和西班牙西部的一部分)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

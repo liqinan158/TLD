@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MADD</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">Mothers Against Drunk Drivers 反对酗酒司机的母亲; multiple acyl-CoA dehydrogenase deficiency 多乙酰辅酶A脱氢酶缺乏; Mothers Against Drunk Driving 反对酒后驾车的母亲; mitogen-activated kinase activating death domain protein 丝裂原活化激酶激活的凋亡区蛋白</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

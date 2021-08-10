@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sasquatch</h2><div class="git"><span class="ipa">[ˈsæsˌkwætʃ]</span></div><hr/></div><div class="coca2">大脚野人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">萨斯科奇人；大脚野人；北美野人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

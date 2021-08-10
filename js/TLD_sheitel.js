@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sheitel</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （犹太已婚妇女戴的）假发</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

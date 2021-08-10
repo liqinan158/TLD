@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grow away from</h2><div class="git"><span class="ipa">[ɡrəu əˈwei frɔm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 从…向不同方向生长; 同…渐渐疏远</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

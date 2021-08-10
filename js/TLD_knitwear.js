@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>knitwear</h2><div class="git"><span class="ipa">[ˈnɪtweə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24244</span><div class="total">8117</div></div><div class="coca2">针织品(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">编结的衣物；毛织类</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>natural language processing</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（计算机）自然语言处理</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">自然语言处理技术；自然语言理解；自然语音处理</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>actuary</h2><div class="git"><span class="ipa">[ˈæktʃuəri]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19172</span><div class="total">14260</div></div><div class="coca2">精算师(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[保险] 保险计算员；保险精算师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

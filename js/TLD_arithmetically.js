@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>arithmetically</h2><div class="git"><span class="ipa">[ˌærɪθ'metɪklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">55360</span><div class="total">524</div></div><div class="coca2">算术上地(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">算术上；[数] 用算术方法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

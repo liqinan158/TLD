@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hafnium</h2><div class="git"><span class="ipa">[ˈhæfniəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52620</span><div class="total">691</div></div><div class="coca2">符号 Hf)(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 铪（金属元素）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

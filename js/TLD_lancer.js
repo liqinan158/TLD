@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lancer</h2><div class="git"><span class="ipa">[ˈlɑ:nsə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17854</span><div class="total">16680</div></div><div class="coca2">长矛轻骑兵(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（19世纪法国的）长矛轻骑兵；枪骑兵；一种四人组的舞</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

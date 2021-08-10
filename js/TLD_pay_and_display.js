@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pay and display</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">停车付费系统（从售票机购得停车证置于车窗）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">不远的地方有凭票；指示牌投币买停车票；薪酬及显示</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

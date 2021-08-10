@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Anne of Cleves</h2><div class="git"><span class="ipa">[kli:vz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">克莱沃的安妮(英国王后(1540年1月至7月), 是亨利八世的第四个妻子)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

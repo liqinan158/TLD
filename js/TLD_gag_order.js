@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gag order</h2><div class="git"><span class="ipa">[gæg ˈɔ:də]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 35</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 35</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">禁言令，由法院下达，禁止涉案各方在公众场合谈论案情。; [法] 司法限制言论令</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

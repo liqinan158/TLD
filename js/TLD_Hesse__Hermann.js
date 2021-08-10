@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hesse, Hermann</h2><div class="git"><span class="ipa">['hesə; 'hemɑ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">海赛(1877～1962，德国小说家、诗人，获1964年诺贝尔文学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

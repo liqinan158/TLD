@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Helen of Troy</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 20</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 20</div><div class="gdc"><div class="dcb"><span class="dcn">特洛伊的海伦（斯巴达王墨涅拉俄斯之妻，引起特洛伊战争的绝世美女）；木马屠城记（电影名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

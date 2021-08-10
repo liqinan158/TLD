@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crackberry</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">黑莓成瘾症；黑莓族；破裂的黑莓</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

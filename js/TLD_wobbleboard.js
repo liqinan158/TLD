@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wobbleboard</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 晃动板（原澳大利亚土著乐器, 晃动发低音）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

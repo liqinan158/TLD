@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>microgeneration</h2><div class="git"><span class="ipa">['maɪkrəʊ.dʒenəreɪʃ(ə)n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">微型发电；微型发电机组；微型电热生产</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

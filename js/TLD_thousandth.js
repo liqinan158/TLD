@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thousandth</h2><div class="git"><span class="ipa">[ˈθaʊznθ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NUM</span><span class="rank">30646</span><div class="total">4431</div></div><div class="coca2">千分之一(<font color="orangered">64%</font>)，第一千(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">千分之一的；第一千的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

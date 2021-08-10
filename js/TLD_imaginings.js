@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>imaginings</h2><div class="git"><span class="ipa">[ɪˈmædʒɪnɪŋz]</span></div><span class="onm">原型:</span><span class="orm">imaginings 是 imagining 的复数</span><hr/></div><div class="coca2">想象(<font color="orangered">74%</font>)，幻想(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">想象；想像出来的东西</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

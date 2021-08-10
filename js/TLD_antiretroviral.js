@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>antiretroviral</h2><div class="git"><span class="ipa">[ˌæntɪˌretrəʊ'vaɪrəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52293</span><div class="total">712</div></div><div class="gdc"><div class="dcb"><span class="dcn"> [医]抗逆转录病毒的，抗后病毒的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

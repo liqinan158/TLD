@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>snooze button</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（收音机闹钟的）小睡催醒按钮</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">止闹按钮；贪睡按键；她喜欢按掉闹钟再小睡一下</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

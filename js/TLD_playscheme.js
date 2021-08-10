@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>playscheme</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （尤指学校放假期间为儿童制订的）游戏活动计划</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

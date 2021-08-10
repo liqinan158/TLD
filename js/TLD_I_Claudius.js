@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>I Claudius</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">克劳狄一世；我是克劳迪亚斯；罗马帝国兴亡史</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

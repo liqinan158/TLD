@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gung-ho</h2><div class="git"><span class="ipa">[ˌgʌŋ ˈhəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">33433</span><div class="total">3419</div></div><div class="coca2">起劲的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">同心协力的；雄心壮志的；强烈的；起劲的，热心的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

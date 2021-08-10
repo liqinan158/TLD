@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>florin</h2><div class="git"><span class="ipa">[ˈflɒrɪn]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">弗罗林（一种货币）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Florin)人名；(德、西、罗、瑞典)弗洛林；(法)弗洛兰</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

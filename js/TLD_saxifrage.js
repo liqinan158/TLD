@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>saxifrage</h2><div class="git"><span class="ipa">['sæksɪfreɪdʒ]</span></div><hr/></div><div class="coca2">虎耳草属植物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">虎耳草属植物；锐齿茴芹</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

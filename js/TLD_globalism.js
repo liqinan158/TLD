@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>globalism</h2><div class="git"><span class="ipa">['gləʊbəlɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34340</span><div class="total">3162</div></div><div class="coca2">全球性(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">全球主义；全球性干涉政策；世界化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

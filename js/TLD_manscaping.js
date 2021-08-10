@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>manscaping</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">男性脱毛；男性体毛修剪；男士美容</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

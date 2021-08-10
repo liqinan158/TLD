@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>plug-ugly</h2><div class="git"><span class="ipa">[ˈplʌɡˌʌɡli]</span></div><hr/></div><div class="coca2">歹徒(<font color="orangered">50%</font>)，暴力分子(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">歹徒；暴力分子；城市流氓</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

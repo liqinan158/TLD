@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unglued</h2><div class="git"><span class="ipa">[ʌnˈglu:d]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">39893</span><div class="total">1999</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">心烦意乱的；脱粘的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">拆开（unglue的过去式和过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

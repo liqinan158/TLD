@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Latinate</h2><div class="git"><span class="ipa">['lætineit]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">59609</span><div class="total">318</div></div><div class="coca2">从拉丁文衍生的(<font color="orangered">50%</font>)，类似拉丁文的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">从拉丁文衍生的；类似拉丁文的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

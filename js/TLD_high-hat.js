@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>high-hat</h2><div class="git"><span class="ipa">[ˈhaiˈhæt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">&lt;美俚&gt;势力的，傲慢的</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">自命不凡，妄自尊大</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">势利者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

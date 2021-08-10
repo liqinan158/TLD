@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sen.</h2><hr/></div><div class="coca2">参议员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">senate；senator</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

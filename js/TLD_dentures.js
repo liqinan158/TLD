@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dentures</h2><div class="git"><span class="ipa">[ˈdentʃəz]</span></div><span class="onm">原型:</span><span class="orm">dentures 是 denture 的第三人称单数</span><hr/></div><div class="coca2">补齿(<font color="orangered">75%</font>)，名词denture的复数形式.(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">假牙；补齿（常用复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

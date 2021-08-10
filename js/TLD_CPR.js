@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>CPR</h2><hr/></div><div class="coca2">心脏复苏术(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">加拿大太平洋铁路（Canadian Pacific Railways）；现行页面寄存器（Current Page Register）；心肺复苏术（cardiopulmonary resuscitation）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>decagon</h2><div class="git"><span class="ipa">[ˈdekəgən]</span></div><hr/></div><div class="coca2">十边形(<font color="orangered">56%</font>)，十角形(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[数] 十角形；[数] 十边形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shinto</h2><div class="git"><span class="ipa">['ʃɪntəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36540</span><div class="total">2628</div></div><div class="coca2">日本之神道教(<font color="orangered">72%</font>)，1945年前为日本国教(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">日本的神道教（1945年前为日本国教 ）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

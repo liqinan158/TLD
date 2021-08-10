@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>off-air</h2><div class="git"><span class="ipa">[ɔf eə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50358</span><div class="total">856</div></div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">（广播、电视节目）不在广播中；（发生）在播送节目之外</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coat-tails</h2><span class="onm">原型:</span><span class="orm">coat-tails 是 coat-tail 的复数</span><hr/></div><div class="coca2">指燕尾服的后摆(<font color="orangered">50%</font>)，后摆(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">（男人上衣的）后摆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

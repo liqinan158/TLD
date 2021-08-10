@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-starter</h2><div class="git"><span class="ipa">[selfˈstɑ:tə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26317</span><div class="total">6630</div></div><div class="coca2">电动式起动装置(<font color="orangered">67%</font>)，有主动精神的人(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电动式起动装置，自动起动器；做事主动的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

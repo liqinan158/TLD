@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>khakis</h2><div class="git"><span class="ipa">['kɑːki]</span></div><span class="onm">原型:</span><span class="orm">khakis 是 khaki 的复数</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28372</span><div class="total">5436</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡其裤；卡其服装；卡其黄（khaki的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

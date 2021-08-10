@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Alger, Horatio</h2><div class="git"><span class="ipa">['ældʒə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿尔杰(1832～1899，美国儿童文学作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

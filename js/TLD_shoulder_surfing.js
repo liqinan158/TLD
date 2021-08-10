@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shoulder surfing</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">肩窥（越过肩膀探看别人操作获取信息的做法）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

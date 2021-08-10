@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Milton, John</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">弥尔顿(1608～1674，英国诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

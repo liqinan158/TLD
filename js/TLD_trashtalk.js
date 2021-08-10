@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trashtalk</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">口水战（为令对手等丧失自信心）；打击对手士气的言论</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">场上说脏话</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

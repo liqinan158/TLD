@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beanie</h2><div class="git"><span class="ipa">[ˈbi:ni]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19821</span><div class="total">13145</div></div><div class="coca2">小便帽(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无檐小便帽；（有花饰或羽饰的）小圆女帽</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fatberg</h2><div class="git"><span class="ipa">[ˈfatbəːɡ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">油脂块：下水道系统中的大块固体废物，由冲下厕所的油脂和个人卫生用品凝固而成</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

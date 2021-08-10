@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coattails</h2><span class="onm">原型:</span><span class="orm">coattail</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39179</span><div class="total">2112</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">男装的上衣背尾；燕尾服的燕尾（coattail的复数形式）；（用复数）燕尾提举力</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

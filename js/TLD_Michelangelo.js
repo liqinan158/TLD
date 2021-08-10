@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Michelangelo</h2><div class="git"><span class="ipa">[.mi:kel'ɑ:ndʒelɒ:]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">米开朗基罗（意大利文艺复兴时期成就卓著的科学家，艺术家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

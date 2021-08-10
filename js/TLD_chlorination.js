@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chlorination</h2><div class="git"><span class="ipa">[ˌklɔ:rɪ'neɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35472</span><div class="total">2875</div></div><div class="coca2">氯化(<font color="orangered">99%</font>)，用氯处理(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">氯化作用，加氯消毒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

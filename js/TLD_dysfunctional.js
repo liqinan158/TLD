@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dysfunctional</h2><div class="git"><span class="ipa">[dɪsˈfʌŋkʃənl]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">13773</span><div class="total">28947</div></div><div class="gdc"><div class="dcb"><span class="dcn">机能失调的,功能障碍的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

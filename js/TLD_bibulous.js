@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bibulous</h2><div class="git"><span class="ipa">[ˈbɪbjʊləs]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">高度吸收的(<font color="orangered">50%</font>)，酗酒的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">吸水的；嗜酒的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

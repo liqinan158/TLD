@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>astrophysicist</h2><div class="git"><span class="ipa">[ˌæstrəʊ'fɪzɪsɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27264</span><div class="total">6031</div></div><div class="coca2">天体物理学家(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">天体物理学家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

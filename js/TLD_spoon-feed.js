@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spoon-feed</h2><div class="git"><span class="ipa">[ˈspu:nˌfi:d]</span></div><hr/></div><div class="coca2">用匙喂(<font color="orangered">67%</font>)，填鸭式教育(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">用匙喂；溺爱；填鸭式教育</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">用匙喂；填鸭式教育</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

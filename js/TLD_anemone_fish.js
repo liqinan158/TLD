@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anemone fish</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [鱼类]双锯鱼 (Amphiprion)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

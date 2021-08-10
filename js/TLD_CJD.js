@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>CJD</h2><div class="git"><span class="ipa">[.siː dʒeɪ 'diː]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">克罗伊茨费尔特—雅各布病（Creutzfeldt-Jakob disease）；中国期刊全文数据库</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

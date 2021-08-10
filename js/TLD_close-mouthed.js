@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>close-mouthed</h2><div class="git"><span class="ipa">[ˌkləʊs ˈmaʊðd]</span></div><hr/></div><div class="coca2">缄口不言的(<font color="orangered">67%</font>)，缄默的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">守口如瓶的</span></div><div class="dcb"><span class="dcn">（对某事）保持沉默的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

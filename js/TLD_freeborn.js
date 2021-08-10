@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>freeborn</h2><div class="git"><span class="ipa">[ˈfri:bɔ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">生而自由的，自由民的，适于自由民的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

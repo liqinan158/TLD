@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Van Dyck, Sir Anthony</h2><div class="git"><span class="ipa">[,væn'daik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">凡戴克(1599～1641，佛兰德斯画家) [亦作 Vandyke]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>caret</h2><div class="git"><span class="ipa">[ˈkærət]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">脱字符号；插入符号</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Caret)人名；(法)卡雷；(英)卡雷特</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

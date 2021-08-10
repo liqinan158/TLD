@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>debenture</h2><div class="git"><span class="ipa">[dɪˈbentʃə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20317</span><div class="total">12430</div></div><div class="coca2">信用债券(<font color="orangered">60%</font>)，退税证明书(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英）[金融] 公司债券；[税收] 退税证明书</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

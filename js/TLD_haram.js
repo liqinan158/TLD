@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>haram</h2><div class="git"><span class="ipa">['heərəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（伊斯兰教徒）女眷居住的内室; 闺房; （伊斯兰教徒的）女眷; 共配一雄的一群雌性动物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

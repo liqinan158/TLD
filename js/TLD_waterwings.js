@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>waterwings</h2><div class="git"><span class="ipa">['wɔ:təwɪŋz]</span></div><span class="onm">原型:</span><span class="orm">waterwings 是 waterwing 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(学游泳时用的)翼形浮袋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

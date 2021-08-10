@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>maximally</h2><div class="git"><span class="ipa">['mæksiməli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">29605</span><div class="total">4886</div></div><div class="coca2">最大的(<font color="orangered">79%</font>)，最高的(<font color="orangered">21%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">最大地；最高地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

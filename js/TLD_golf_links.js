@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>golf links</h2><div class="git"><span class="ipa">[ɡɔlf liŋks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （尤指海边的）高尔夫球场</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

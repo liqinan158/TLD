@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>foregather</h2><div class="git"><span class="ipa">[ˌfɔ:ˈgæðə(r)]</span><span class="frm">foregathered, foregathering, foregathers</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">偶然碰见，相遇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

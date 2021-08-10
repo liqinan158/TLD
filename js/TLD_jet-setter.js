@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jet-setter</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52569</span><div class="total">694</div></div><div class="coca2">乘喷气式飞机到处旅游的阔佬(<font color="orangered">50%</font>)，往来各地旅游的富豪(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乘喷气式飞机到处旅游的富佬；名流人物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cocteau, Jean</h2><div class="git"><span class="ipa">[kɔk'təu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">科克托(1891～1963，法国诗人、小说家、剧作家、艺术家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>frown on</h2><div class="git"><span class="ipa">[fraun ɔn]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 30</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 10</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 11</div><div class="gdc"><div class="dcb"><span class="dcn"> 以蹙额或蹙眉而露出不悦之色; 不赞成; 不同意; 不许可</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

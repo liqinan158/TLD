@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rhodes</h2><div class="git"><span class="ipa">[rəudz]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">罗兹岛（希腊东南端佐泽卡尼索斯群岛中最大的岛屿）；罗兹市（罗兹岛上的港口城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

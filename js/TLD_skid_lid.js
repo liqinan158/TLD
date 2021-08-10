@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skid lid</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （自行车、滑板运动等中戴的）防撞头盔, 安全帽</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

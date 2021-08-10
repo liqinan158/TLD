@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>weatherstripping</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【建】(塞在窗门缝里)挡风雨的木条[橡皮条]</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">槽沟可加塑料挡风条；门边软条；防风雨条</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

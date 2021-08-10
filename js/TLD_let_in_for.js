@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>let in for</h2><div class="git"><span class="ipa">[let in fɔ:]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">使…遭到</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">损害</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

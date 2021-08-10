@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>silverback</h2><div class="git"><span class="ipa">[ˈsɪlvəbæk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40574</span><div class="total">1893</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">银背大猩猩（指背部颈下方有银白色毛的雄性成年大猩猩）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>conjoint</h2><div class="git"><span class="ipa">[kənˈdʒɔɪnt]</span></div><hr/></div><div class="coca2">共同的(<font color="orangered">48%</font>)，联合的(<font color="orangered">26%</font>)，相连的(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">相连的；共同的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

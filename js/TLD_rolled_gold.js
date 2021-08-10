@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rolled gold</h2><div class="git"><span class="ipa">[rəuld ɡəuld]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">轧制金箔；包金</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">覆饰用极薄金箔；套金；金色</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

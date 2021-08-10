@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blue movie</h2><div class="git"><span class="ipa">[blu: ˈmu:vi]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 7</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">色情电影</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">蓝色电影；不健康的电影；色情片</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

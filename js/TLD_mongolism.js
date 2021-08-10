@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mongolism</h2><div class="git"><span class="ipa">[ˈmɔŋɡəlizəm]</span></div><hr/></div><div class="coca2">蒙古症(<font color="orangered">55%</font>)，先天愚型(<font color="orangered">45%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蒙古症；[医] 先天愚型（一种先天性畸形病症，表现为扁平额、斜眼、小指头短等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

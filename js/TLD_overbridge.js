@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overbridge</h2><div class="git"><span class="ipa">[ˈəʊvəbrɪdʒ]</span></div><hr/></div><div class="coca2">天桥(<font color="orangered">82%</font>)，陆桥(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">天桥；旱桥</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

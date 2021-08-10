@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Islington</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伊斯灵顿（地名, 圭亚那、美国、新西兰、牙买加、英国）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

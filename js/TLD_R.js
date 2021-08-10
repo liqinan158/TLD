@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>R</h2><div class="git"><span class="ipa">[ɑ:(r)]</span></div><hr/></div><div class="coca2">字母r(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">英语字母中的第十八个字母</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">电阻（resistance）；比率（ratio）；医生处方（recipe）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

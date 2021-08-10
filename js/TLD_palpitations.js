@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>palpitations</h2><div class="git"><span class="ipa">[ˌpælpɪˈteɪʃnz]</span></div><span class="onm">原型:</span><span class="orm">palpitations 是 palpitation 的复数</span><hr/></div><div class="coca2">心悸(<font color="orangered">94%</font>)，颤动(<font color="orangered">3%</font>)，急速不规则的跳动(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[内科] 心悸（palpitation的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

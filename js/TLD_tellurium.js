@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tellurium</h2><div class="git"><span class="ipa">[teˈljʊəriəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45236</span><div class="total">1306</div></div><div class="coca2">符号Te)(<font color="orangered">50%</font>)，碲(两性金属元素(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 碲（元素符号Te）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

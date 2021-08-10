@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>abseiling</h2><div class="git"><span class="ipa">[æb'si:lɪŋ]</span></div><span class="onm">原型:</span><span class="orm">abseiling 是 abseil 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">（登山运动中的）沿绳滑下法( abseil的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

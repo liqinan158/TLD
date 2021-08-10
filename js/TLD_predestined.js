@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>predestined</h2><div class="git"><span class="ipa">[ˌpri:ˈdestɪnd]</span></div><span class="onm">原型:</span><span class="orm">predestined 是 predestine 的过去式和过去分词</span><hr/></div><div class="coca2">动词predestine的过去式和过去分词形式.(<font color="orangered">50%</font>)，注定如此的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">注定的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

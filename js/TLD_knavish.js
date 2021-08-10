@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>knavish</h2><div class="git"><span class="ipa">['neɪvɪʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无赖（似）的，不正的; 刁诈</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

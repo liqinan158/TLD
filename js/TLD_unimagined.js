@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unimagined</h2><div class="git"><span class="ipa">[,ʌni'mædʒind]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">45486</span><div class="total">1278</div></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">没有想到过的, 从未设想过的, 无法想象的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

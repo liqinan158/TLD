@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>windburn</h2><div class="git"><span class="ipa">['wɪndbɜ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">吹风引起的皮肤炎，风造成的树皮或树叶损伤; 风害</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

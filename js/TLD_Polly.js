@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Polly</h2><div class="git"><span class="ipa">[ˈpɔli]</span></div><hr/></div><div class="coca2">波莉(女子名(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">波莉（女子名，等于Mary）；鹦哥（鹦鹉的通称，等于poll parrot）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

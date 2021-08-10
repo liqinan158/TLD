@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crazy paving</h2><div class="git"><span class="ipa">[ˈkreizi ˈpeiviŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">用不同形状的花砖（或石板）拼铺</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

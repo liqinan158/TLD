@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pussyfoot</h2><div class="git"><span class="ipa">[ˈpʊsifʊt]</span><span class="frm">pussyfooted, pussyfooting, pussyfoots</span></div><hr/></div><div class="coca2">消极行事(<font color="orangered">67%</font>)，俏俏走路(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">偷偷地走；轻轻地走；谨慎行事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

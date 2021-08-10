@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Blue Cross</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 9</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 9</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">〈美〉畜类保护协会；医疗服务救济协会；催嚏性毒气</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">蓝十字；蓝十字会；蓝十字保险公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unintended</h2><div class="git"><span class="ipa">[ˌʌnɪnˈtendɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">12428</span><div class="total">35660</div></div><div class="coca2">非计划中的(<font color="orangered">55%</font>)，非故意的(<font color="orangered">45%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无意识的；非计划中的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

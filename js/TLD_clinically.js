@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clinically</h2><div class="git"><span class="ipa">['klɪnɪklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">9880</span><div class="total">55846</div></div><div class="coca2">临床地(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">临床地；门诊部地；不偏不倚；通过临床诊断</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

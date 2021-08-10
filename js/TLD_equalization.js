@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>equalization</h2><div class="git"><span class="ipa">[ˌi:kwəlaɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20672</span><div class="total">11960</div></div><div class="coca2">均衡(<font color="orangered">85%</font>)，均等(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">均衡；均等；同等化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

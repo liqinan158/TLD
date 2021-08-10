@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lookalike</h2><div class="git"><span class="ipa">[ˈlʊkəlaɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27442</span><div class="total">5925</div></div><div class="coca2">相像者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">酷似…的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Waterford</h2><div class="git"><span class="ipa">['wɔ:təfəd; 'wɔ-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">沃特福德（爱尔兰东南部港市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

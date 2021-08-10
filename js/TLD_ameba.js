@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ameba</h2><div class="git"><span class="ipa">[əˈmi:bə]</span></div><hr/></div><div class="coca2">阿米巴(<font color="orangered">54%</font>)，变形虫(<font color="orangered">33%</font>)，=amoeba.(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">变形虫；[无脊椎] 阿米巴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

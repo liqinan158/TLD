@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gravelled</h2><div class="git"><span class="ipa">[ 'ɡræv(ə)ld]</span></div><span class="onm">原型:</span><span class="orm">gravelled 是 gravel 的过去式</span><hr/></div><div class="coca2">碎石(<font color="orangered">92%</font>)，使困惑(<font color="orangered">6%</font>)，铺碎石(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">铺砂砾的，铺碎石的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

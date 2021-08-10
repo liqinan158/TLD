@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>patination</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57017</span><div class="total">441</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 绿锈；生绿锈；（金属、木器等的）光泽；生成光泽</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

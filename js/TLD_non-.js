@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-</h2><div class="git"><span class="ipa">[nɒn]</span></div><hr/></div><div class="coca2">不(<font color="orangered">66%</font>)，无(<font color="orangered">33%</font>)，表示非(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">非；不；无</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>effortlessness</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48279</span><div class="total">1031</div></div><div class="coca2">容易的(<font color="orangered">59%</font>)，不费力气的(<font color="orangered">31%</font>)，应付自如的(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">毫不费力</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

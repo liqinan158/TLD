@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eco-friendly</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">10758</span><div class="total">47337</div></div><div class="coca2">不妨害生态环境的(<font color="orangered">50%</font>)，对生态环境友好的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">对生态环境友好的，不妨害生态环境的；不损坏生态环境的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

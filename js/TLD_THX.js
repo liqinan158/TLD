@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>THX</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">汤·霍尔曼实验（tom holmans expriment的缩写）；谢谢（thanks的缩写）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

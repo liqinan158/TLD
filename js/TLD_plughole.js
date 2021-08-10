@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>plughole</h2><div class="git"><span class="ipa">[ˈplʌghəʊl]</span></div><hr/></div><div class="coca2">塞孔(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">塞孔，插孔；出水孔，放水孔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

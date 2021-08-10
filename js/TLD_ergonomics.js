@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ergonomics</h2><div class="git"><span class="ipa">[ˌɜ:gəˈnɒmɪks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14129</span><div class="total">27499</div></div><div class="coca2">人类工程学(<font color="orangered">82%</font>)，工作环境改造学(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">工效学；人类工程学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

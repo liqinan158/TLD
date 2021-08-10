@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>intubate</h2><div class="git"><span class="ipa">['ɪntjʊbeɪt]</span><span class="frm">intubated, intubating, intubates</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">41206</span><div class="total">1800</div></div><div class="coca2">插管法治疗(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">把管子插进</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

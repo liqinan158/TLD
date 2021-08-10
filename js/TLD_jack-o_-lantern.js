@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jack-o'-lantern</h2><div class="git"><span class="ipa">[ˌdʒæk ə ˈlæntən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鬼火；空心南瓜灯；行踪不定的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

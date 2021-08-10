@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coreferential</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 同指的（两个词或短语指称的对象相同）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

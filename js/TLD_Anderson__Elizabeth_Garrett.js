@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Anderson, Elizabeth Garrett</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">安德森(1836～1917，英国医师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skincare</h2><div class="git"><span class="ipa">['skɪnkeə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">11007</span><div class="total">45361</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">护理皮肤的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

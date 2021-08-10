@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>offprint</h2><div class="git"><span class="ipa">[ˈɒfprɪnt]</span></div><hr/></div><div class="coca2">选刊(<font color="orangered">64%</font>)，单独重刊(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">选刊；单独重刊；[图情] 抽印本</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">印成单行本</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

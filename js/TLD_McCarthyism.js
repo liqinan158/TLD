@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>McCarthyism</h2><div class="git"><span class="ipa">[mə'kɑːrθi.ɪz(ə)m]</span></div><hr/></div><div class="coca2">不正当的调查及指控(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">麦卡锡主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

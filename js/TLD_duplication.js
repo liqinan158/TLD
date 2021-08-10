@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>duplication</h2><div class="git"><span class="ipa">[ˌdju:plɪ'keɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">12880</span><div class="total">33170</div></div><div class="coca2">复制(<font color="orangered">90%</font>)，副本(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">复制；副本；成倍</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

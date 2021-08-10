@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>relativist</h2><div class="git"><span class="ipa">['relətɪvɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38593</span><div class="total">2217</div></div><div class="coca2">相对主义者(<font color="orangered">54%</font>)，相对论者(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">相对主义者；相对论者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

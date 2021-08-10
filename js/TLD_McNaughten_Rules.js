@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>McNaughten Rules</h2><div class="git"><span class="ipa">[mək'nɔ:tən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">McNa(u)ghten Rules</span></div><div class="dcb"><span class="dcn">[mək'nɔ:tən]</span></div><div class="dcb"><span class="dcn">[复数]=M'Naghten rules</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

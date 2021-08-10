@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pepper-and-salt</h2><div class="git"><span class="ipa">[ˌpepərənˈsɔ:lt]</span></div><hr/></div><div class="coca2">椒盐色的(<font color="orangered">67%</font>)，黑白相间精细地交织成的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">椒盐色的；黑白相间的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

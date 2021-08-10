@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Alps</h2><div class="git"><span class="ipa">[ælps]</span></div><span class="onm">原型:</span><span class="orm">Alps 是 alp 的第三人称单数</span><hr/></div><div class="coca2">阿尔卑斯山脉(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿尔卑斯山脉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

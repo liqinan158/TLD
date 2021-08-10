@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Underwriters' Laboratories</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">美国安全检测实验室公司；美国保险商实验室；美国保险商实验所安全标准</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

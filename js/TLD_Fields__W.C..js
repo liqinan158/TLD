@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fields, W.C.</h2><div class="git"><span class="ipa">[fi:ldz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Fields, W.C.(William Claude Duken fields)</span></div><div class="dcb"><span class="dcn">[fi:ldz]</span></div><div class="dcb"><span class="dcn">菲尔兹(1880～1946，美国喜剧演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

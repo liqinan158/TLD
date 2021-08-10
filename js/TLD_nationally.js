@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nationally</h2><div class="git"><span class="ipa">[ˈnæʃnəli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">5404</span><div class="total">164743</div></div><div class="coca2">全国性地(<font color="orangered">63%</font>)，在全国范围内(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">全国性地；以国民立场地；举国一致地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

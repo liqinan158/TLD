@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Monroe, James</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">门罗(1758～1831)，美国第五任总统(1817～1825)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

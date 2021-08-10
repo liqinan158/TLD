@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>semi-finalist</h2><div class="git"><span class="ipa">[ˈsemi ˈfaɪnəlɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21267</span><div class="total">11189</div></div><div class="coca2">参加半决赛的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">半决赛选手</span></div><div class="dcb"><span class="dcn">半决赛参赛队</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

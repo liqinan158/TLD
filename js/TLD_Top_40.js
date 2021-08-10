@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Top 40</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[有时作 t-](某段时期内)40张最畅销唱片(的), 播放(或排行, 构成)40张畅销唱片(的)[亦作 Top Forty, top forty]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

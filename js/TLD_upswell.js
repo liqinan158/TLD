@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>upswell</h2><div class="git"><span class="ipa">[ˈʌpswel]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">肿起; 隆起; 鼓起; 上涨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PAYE</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（所得税的）发薪时扣除制（Pay As You Earn）；开车入内付费（Pay As You Enter）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

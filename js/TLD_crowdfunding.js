@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crowdfunding</h2><div class="git"><span class="ipa">[kraʊd'fʌndɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">众筹</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">群众集资；网路集资；集资模式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

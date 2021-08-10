@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>circuitry</h2><div class="git"><span class="ipa">[ˈsɜ:kɪtri]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13091</span><div class="total">32133</div></div><div class="coca2">电路(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电路；电路系统；电路学；一环路</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

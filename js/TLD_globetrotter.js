@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>globetrotter</h2><div class="git"><span class="ipa">['ɡləʊbtrɒtə(r)]</span></div><hr/></div><div class="coca2">世界观光旅行家(<font color="orangered">78%</font>)，=globe-trotter.(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">环球旅行者；世界观光旅行家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

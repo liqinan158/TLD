@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>syncope</h2><div class="git"><span class="ipa">[ˈsɪŋkəpi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32297</span><div class="total">3800</div></div><div class="coca2">中略(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[内科] 晕厥；字中音省略，中略</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

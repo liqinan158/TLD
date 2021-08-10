@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>subcompact</h2><div class="git"><span class="ipa">[ˈsʌbkəmpækt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31905</span><div class="total">3942</div></div><div class="coca2">超小型汽车(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[车辆] 超小型汽车；微型小客车</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

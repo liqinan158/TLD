@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>customer-facing</h2><hr/></div><div class="coca2">直面顾客的(<font color="orangered">50%</font>)，一线的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">直面顾客的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

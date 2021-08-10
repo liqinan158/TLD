@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gastronomically</h2><div class="git"><span class="ipa">[,gæstrə'nɔmikəli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">60385</span><div class="total">278</div></div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">从美食法角度；从烹饪法角度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parimutuel</h2><div class="git"><span class="ipa">[ˌpærɪ'mju:tʃʊəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（赛马中）前三名赢家分享（除赌场抽头提成外）的全部赌金的方法; （按赌金分享法）计算赌金的机器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

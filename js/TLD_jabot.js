@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jabot</h2><div class="git"><span class="ipa">[ˈʒæbəʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">胸部装饰; 女衬胸饰</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

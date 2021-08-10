@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ostend</h2><div class="git"><span class="ipa">[ɔ'stend, 'ɔstend]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">奥斯坦德[比利时西北部港市]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

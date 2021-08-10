@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>B-52</h2><div class="git"><span class="ipa">['bi:fifti'tu:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [军事] B—52 轰炸机</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">52's美国八引擎喷气式轰炸机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

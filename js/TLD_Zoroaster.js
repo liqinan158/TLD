@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Zoroaster</h2><div class="git"><span class="ipa">[zɔrәu'æstә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">琐罗亚斯德, 古代波斯国国教拜火教之祖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

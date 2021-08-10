@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Australia Day</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">澳大利亚日（1 月 26 日，澳大利亚国庆日，纪念 1788 年新南威尔士州成立）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">澳洲国庆日；澳洲日；澳大利亚国庆节</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

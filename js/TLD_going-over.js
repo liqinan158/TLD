@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>going-over</h2><div class="git"><span class="ipa">[ˈɡəuiŋˈəuvə]</span></div><hr/></div><div class="coca2">严格的检查(<font color="orangered">44%</font>)，毒打(<font color="orangered">28%</font>)，苛斥(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">苛斥；毒打；严格的检查</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

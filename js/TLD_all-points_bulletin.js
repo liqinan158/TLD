@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>all-points bulletin</h2><div class="git"><span class="ipa">['ɔ:l,pɔints]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [美国、加拿大英语]（警方为追捕嫌疑犯用无线电发出的）告示全境的通告[略作 APB]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

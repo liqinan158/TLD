@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aftermost</h2><div class="git"><span class="ipa">[ˈɑ:ftəməʊst]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">最后的，最后部的，靠船尾的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

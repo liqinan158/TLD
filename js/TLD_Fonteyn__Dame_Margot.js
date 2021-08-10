@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fonteyn, Dame Margot</h2><div class="git"><span class="ipa">[fɔn'tein]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">芳廷夫人(1919～1991，英国著名芭蕾舞演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

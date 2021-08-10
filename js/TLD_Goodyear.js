@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Goodyear</h2><div class="git"><span class="ipa">['^udjiә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">固特异轮胎（世界500强的橡胶产业, 总部设于美国）；古德伊尔（①姓氏②Charles, 1800-1860, 发明硬橡皮制造法的美国人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

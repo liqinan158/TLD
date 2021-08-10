@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Borghese Gallery</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【旅】波格赛美术馆；博盖塞艺廊</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">波各赛美术馆；鲍格才美术馆；博尔盖塞美术馆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

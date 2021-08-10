@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oberon</h2><div class="git"><span class="ipa">['әubәrɒn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奥伯龙(民间传说的仙王), 天卫四</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

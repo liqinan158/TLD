@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>AFC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">自动频率控制</span></div><div class="dcb"><span class="dcn">[计] 自动频率控制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

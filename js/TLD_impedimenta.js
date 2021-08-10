@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impedimenta</h2><div class="git"><span class="ipa">[ɪmˌpedɪˈmentə]</span></div><hr/></div><div class="coca2">累赘(<font color="orangered">80%</font>)，妨碍行进的重负(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">累赘，包袱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

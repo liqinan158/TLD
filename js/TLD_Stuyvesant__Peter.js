@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stuyvesant, Peter</h2><div class="git"><span class="ipa">['staivisənt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯特伊弗桑特(1592～1672)，荷兰驻北美殖民地总督(1646～1664)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vegemite</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蔬菜调味品，蔬菜味添加剂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

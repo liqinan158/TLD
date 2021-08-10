@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Quant, Mary</h2><div class="git"><span class="ipa">[kwɔnt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">匡特(1934～ ， 英国时装设计师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

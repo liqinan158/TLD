@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bustier</h2><div class="git"><span class="ipa">[ˈbʌstieɪ]</span></div><span class="onm">原型:</span><span class="orm">bustier 是 busty 的比较级</span><hr/></div><div class="coca2">紧身女胸衣(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">紧身女胸衣</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">胸部丰满的（busty的比较级）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

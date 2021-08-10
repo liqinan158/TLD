@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>buy-to-let</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">买房出租；购房出租；购房以出租</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

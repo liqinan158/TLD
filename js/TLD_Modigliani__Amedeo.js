@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Modigliani, Amedeo</h2><div class="git"><span class="ipa">[,mɔ:di:'ljɑ:ni:; ,ɑ:me'deɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">莫迪里阿尼(1884～1920，意大利画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

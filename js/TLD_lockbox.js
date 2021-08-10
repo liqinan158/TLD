@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lockbox</h2><div class="git"><span class="ipa">['lɒkbɒks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25758</span><div class="total">6985</div></div><div class="coca2">有锁的箱子(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">连锁的箱子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shroud-waving</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 挥裹尸布示警（告诫政府不增加投入会对医疗保健产生严重影响）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

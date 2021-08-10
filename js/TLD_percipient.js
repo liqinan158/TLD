@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>percipient</h2><div class="git"><span class="ipa">[pəˈsɪpiənt]</span></div><hr/></div><div class="coca2">洞察者(<font color="orangered">34%</font>)，洞察力强的(<font color="orangered">33%</font>)，敏锐的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">有感知力的人</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">目光敏锐的；有洞察力的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

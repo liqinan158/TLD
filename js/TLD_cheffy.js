@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cheffy</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">cheffy (comparative more cheffy, superlative most cheffy)</span></div><div class="dcb"><span class="dcn">(informal) Of food: elaborate and complex, like that prepared by an expert chef.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

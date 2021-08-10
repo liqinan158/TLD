@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fey</h2><div class="git"><span class="ipa">[feɪ]</span></div><hr/></div><div class="coca2">发疯的(<font color="orangered">60%</font>)，有预兆的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Fey)人名；(德)法伊；(法)费</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">（苏格兰）注定要死的；垂死的；（临死前）异常兴奋的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

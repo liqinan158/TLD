@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>locavore</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51261</span><div class="total">785</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">它指的是吃新鲜的本地产品的倾向; 土食者，本土膳食主义者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

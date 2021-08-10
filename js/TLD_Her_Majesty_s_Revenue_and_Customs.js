@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Her Majesty's Revenue and Customs</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国税务及海关总署；税务暨海关部；女王陛下税收和关税局</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

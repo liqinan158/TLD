@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soil science</h2><div class="git"><span class="ipa">[sɔil ˈsaiəns]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">土壤科学，社会科学；土壤学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ontario</h2><div class="git"><span class="ipa">[ɒn'teərɪəʊ]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">安大略湖（北美五大湖之一）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

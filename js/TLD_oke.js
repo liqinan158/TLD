@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oke</h2><div class="git"><span class="ipa">[əʊk]</span></div><hr/></div><div class="coca2">没问题的(<font color="orangered">40%</font>)，好的(<font color="orangered">40%</font>)，=OK.(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">好的，没问题的（等于okay）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Oke)人名；(土)奥凯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

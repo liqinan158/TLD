@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>happy slapping</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">开心掌掴（指几人围殴一人，由同伙将袭击画面拍下）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">乐掴；掴掌乐；掌掴乐</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sociolect</h2><div class="git"><span class="ipa">[ˈsəʊsiəʊlekt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（在语言集团内某一群人或某一阶层内使用的）社会方言</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

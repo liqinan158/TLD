@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Islamophobia</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47602</span><div class="total">1089</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 伊斯兰恐惧症</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

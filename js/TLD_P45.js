@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>P45</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英国）税收缴纳证明</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Greenwich</h2><div class="git"><span class="ipa">['grinidʒ]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">格林威治（英国伦敦东南一市镇， 从前皇家天文台的所在地； 通过该天文台的经线被定为本初子午线）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

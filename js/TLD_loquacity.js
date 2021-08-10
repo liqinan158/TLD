@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>loquacity</h2><div class="git"><span class="ipa">[lə'kwæsətɪ]</span></div><hr/></div><div class="coca2">喧噪(<font color="orangered">40%</font>)，好辩(<font color="orangered">40%</font>)，多嘴(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多话，饶舌；喧噪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

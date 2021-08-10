@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stokowski, Leopold</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">列奥波尔德·斯托科夫斯基（美国音乐指挥家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

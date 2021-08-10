@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cahoots</h2><div class="git"><span class="ipa">[kəˈhu:ts]</span></div><span class="onm">原型:</span><span class="orm">cahoots 是 cahoot 的复数</span><hr/></div><div class="coca2">与 ... 共谋(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">结伙，与…共谋（cahoot的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>te</h2><div class="git"><span class="ipa">[ti:]</span></div><hr/></div><div class="coca2">瞄准角(<font color="orangered">50%</font>)，仰角(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">瞄准角；仰角（tangent elevation）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Te)人名；(柬)德；(刚(金))特</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

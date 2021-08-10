@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dalmatia</h2><div class="git"><span class="ipa">[dæl'meiʃiә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">达尔马提亚(南斯拉夫一地区)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

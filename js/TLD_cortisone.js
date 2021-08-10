@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cortisone</h2><div class="git"><span class="ipa">[ˈkɔ:tɪzəʊn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25566</span><div class="total">7110</div></div><div class="coca2">可的松(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[药] 可的松；肾上腺皮质酮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crabwise</h2><div class="git"><span class="ipa">[ˈkræbwaɪz]</span></div><hr/></div><div class="coca2">横斜地(<font color="orangered">60%</font>)，小心地(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">横行的；小心翼翼的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">横斜地；横向地；小心地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

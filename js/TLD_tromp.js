@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tromp</h2><div class="git"><span class="ipa">[trɔmp]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">57715</span><div class="total">409</div></div><div class="coca2">践踏(<font color="orangered">60%</font>)，跺脚(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">践踏；跺脚；彻底打败（等于tramp或trounce）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

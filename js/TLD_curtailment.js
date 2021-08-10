@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>curtailment</h2><div class="git"><span class="ipa">[kɜ:'teɪlmənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32789</span><div class="total">3628</div></div><div class="coca2">缩减(<font color="orangered">55%</font>)，缩短(<font color="orangered">45%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">缩减；削减；缩短；紧缩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

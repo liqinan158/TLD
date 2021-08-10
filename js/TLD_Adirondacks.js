@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Adirondacks</h2><span class="onm">原型:</span><span class="orm">adirondacks 是 adirondack 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(adirondack 的复数) n. 阿尔岗金族印第安人; 艾迪龙达克（美国IBM公司大型计算机System3081D在开发时期所用代号）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

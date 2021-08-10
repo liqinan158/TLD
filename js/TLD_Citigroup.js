@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Citigroup</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">花旗集团1998年4月6日; 花旗公司与旅行者集团宣布合并; 合并组成的新公司称为“花旗集团”; 其商标为旅行者集团的红雨伞和花旗银行的兰色字标。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>biliary</h2><div class="git"><span class="ipa">[ˈbɪliəri]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26482</span><div class="total">6517</div></div><div class="coca2">胆汁的(<font color="orangered">58%</font>)，胆的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">胆的；胆汁的；输送胆汁的；由于胆汁异状的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

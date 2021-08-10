@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Frank, Anne</h2><div class="git"><span class="ipa">[fræŋk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">安妮弗兰克[1929～1945，荷籍犹太少女，第二次世界大战中一家在阿姆斯特丹匿居时写了两年日记(1942～1944)，被纳粹处死后于1947年发现，轰动一时，曾拍电影，出版《安妮日记》]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

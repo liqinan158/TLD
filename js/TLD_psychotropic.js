@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>psychotropic</h2><div class="git"><span class="ipa">[ˌsaɪkə'trəʊpɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">29133</span><div class="total">5086</div></div><div class="coca2">治疗精神病的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">治疗精神病的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

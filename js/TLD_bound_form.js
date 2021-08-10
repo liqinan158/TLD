@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bound form</h2><div class="git"><span class="ipa">[baund fɔ:m]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">束缚型（必须与他字连用而无法独立成字的部分）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

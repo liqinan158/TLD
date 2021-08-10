@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pepys, Samuel</h2><div class="git"><span class="ipa">[pi:ps]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">佩皮斯(1633～1703，英国政府官员，文学家，以其日记著称)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Castro, Fidel</h2><div class="git"><span class="ipa">['kæstrəu; fi'del]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡斯特罗(1926～ )，古巴革命和政党领导者，总理(1959～1976)，国务委员会主席 (1976～  )，古巴共产党总书记(1976～ )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

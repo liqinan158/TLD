@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Haight-Ashbury</h2><div class="git"><span class="ipa">[hait'æʃberi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(美国旧金山)海特—黑什伯里区(20世纪60年代曾为嬉皮士聚集吸毒的地方) [亦作Haight and Ashbury]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

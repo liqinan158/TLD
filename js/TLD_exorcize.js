@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exorcize</h2><div class="git"><span class="ipa">[ˈeksɔ:saɪz]</span><span class="frm">exorcized, exorcizing, exorcizes</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">31118</span><div class="total">4234</div></div><div class="coca2">驱魔(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">除怪，驱邪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>off-screen</h2><div class="git"><span class="ipa">[ɔf skri:n]</span></div><hr/></div><div class="coca2">停拍(<font color="orangered">34%</font>)，在观众视线以外发生的(<font color="orangered">33%</font>)，离开屏幕(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">在观众视线以外发生的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

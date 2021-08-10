@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gang-bang</h2><div class="git"><span class="ipa">[ɡæŋ bæŋ]</span></div><hr/></div><div class="coca2">集体性交(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">重击；轮奸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

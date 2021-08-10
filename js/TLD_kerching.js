@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kerching</h2><div class="git"><span class="ipa">[kə:tʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">刻赤半岛(位于俄罗斯西南部半岛)</span></div><div class="dcb"><span class="dcn">刻赤海峡(刻赤半岛以东的海峡)</span></div><div class="dcb"><span class="dcn">刻赤(刻赤半岛上的港市)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

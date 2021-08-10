@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Caliban</h2><div class="git"><span class="ipa">['kælibæn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡利班(莎士比亚剧本中丑陋凶残的奴仆), 卑下而凶残的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

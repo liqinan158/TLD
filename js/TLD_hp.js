@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hp</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">惠普公司</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">大功率（High Power）；高压（High Pressure）；高性能（High Performance）；高聚物（High Polymer）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

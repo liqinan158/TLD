@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>arak</h2><div class="git"><span class="ipa">[əˈrɑ:k]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">亚力酒（一种亚洲产烈酒，用椰子汁，糖蜜或枣酿制）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

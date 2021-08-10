@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dumdum</h2><div class="git"><span class="ipa">[ˈdʌmdʌm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">达姆弹（一种击中目标就马上扩散的杀伤力很强的子弹头）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

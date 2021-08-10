@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tomography</h2><div class="git"><span class="ipa">[təˈmɒgrəfi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18550</span><div class="total">15272</div></div><div class="coca2">X线体层照相术(<font color="orangered">50%</font>)，X线断层摄影术(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">X线断层摄影术（等于laminography）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

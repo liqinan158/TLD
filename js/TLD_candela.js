@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>candela</h2><div class="git"><span class="ipa">[kæn'di:lә]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">烛光；发光强度单位</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Candela)人名；(意)坎代拉；(西)坎德拉</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">小雪茄烟的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

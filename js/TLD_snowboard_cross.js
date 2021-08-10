@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>snowboard cross</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">男子越野雪板；单板追逐赛；越野式滑雪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

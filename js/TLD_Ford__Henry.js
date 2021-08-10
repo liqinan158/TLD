@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ford, Henry</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">福特(1863～1947，美国汽车制造商，福特公司创办者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

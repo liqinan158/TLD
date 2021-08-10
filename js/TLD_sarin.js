@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sarin</h2><div class="git"><span class="ipa">[ˈsɑ:rɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33899</span><div class="total">3283</div></div><div class="coca2">沙林(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">沙林；甲氟膦酸异丙酯（一种用作神经性毒气的化学剂）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>doe-eyed</h2><div class="git"><span class="ipa">['dəʊ'aɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">49220</span><div class="total">954</div></div><div class="coca2">眼睛大大黑黑的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">(像雌鹿般)眼睛天真无邪的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deal-breaker</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28574</span><div class="total">5339</div></div><div class="coca2">造成生意受阻的原因(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">血色交易（电影名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

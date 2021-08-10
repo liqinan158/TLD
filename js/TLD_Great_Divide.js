@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Great Divide</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">北美(洲)大陆分水岭；分水界；分界线；生死线</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">大分水岭；大峡谷；沿著大分水岭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

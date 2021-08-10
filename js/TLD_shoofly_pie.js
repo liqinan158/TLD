@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shoofly pie</h2><div class="git"><span class="ipa">[ˌʃu:flaɪ ˈpaɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> &lt;美&gt;（用糖浆做馅子的）“驱蝇”馅饼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

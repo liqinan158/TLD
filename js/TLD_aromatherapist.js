@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aromatherapist</h2><div class="git"><span class="ipa">[əˌrəʊmə'θerəpɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37130</span><div class="total">2493</div></div><div class="coca2">香油按摩治疗医师(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">芳香疗法专家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

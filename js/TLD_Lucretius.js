@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lucretius</h2><div class="git"><span class="ipa">[lu:'kri:ʃiәs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卢克莱修(①男子名 ②Carus, 前99?-前55, 罗马哲学家、诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

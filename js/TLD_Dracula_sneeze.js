@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dracula sneeze</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">holding your arm up over your face in a position similar to Dracula holding up his cape and then sneezing into you elbow</span></div><div class="dcb"><span class="deq">&gt; Do to the H1N1 swine flu pandemic the Centers For Disease Control recommends using the Dracula sneeze technique to avoid spreading germs.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

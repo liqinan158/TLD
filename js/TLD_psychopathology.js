@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>psychopathology</h2><div class="git"><span class="ipa">[ˌsaɪkəʊpəˈθɒlədʒi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31119</span><div class="total">4234</div></div><div class="coca2">精神病理学(<font color="orangered">80%</font>)，精神错乱(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">精神病理学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

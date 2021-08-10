@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dry slope</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （练习用）人造滑雪斜坡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

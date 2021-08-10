@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Desdemona</h2><div class="git"><span class="ipa">[,dezdi'məunə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">苔丝狄蒙娜（女子名）；苔丝狄蒙娜（莎士比亚悲剧奥赛罗中的女主人公）；天卫十（环绕天王星运行的一颗卫星）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

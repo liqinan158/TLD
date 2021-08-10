@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lay-by</h2><div class="git"><span class="ipa">[ˈleibai]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42579</span><div class="total">1608</div></div><div class="coca2">紧急避难所(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">河道让船处；路侧停车带；紧急避难所</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

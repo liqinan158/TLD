@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>boomerang kid</h2><div class="git"><span class="ipa">[ˈbu:məˌræŋ kid]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 回归家庭的子女</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

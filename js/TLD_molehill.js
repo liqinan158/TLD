@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>molehill</h2><div class="git"><span class="ipa">[ˈməʊlhɪl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43357</span><div class="total">1509</div></div><div class="coca2">鼹鼠丘(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（由鼹鼠打洞扒出的泥土堆成的）鼹鼠丘；琐事；无意义的事；小困难（或障碍）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

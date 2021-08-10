@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eurocrat</h2><div class="git"><span class="ipa">[ˈjʊərəkræt]</span></div><hr/></div><div class="coca2">欧洲共同市场的官员或职员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">欧洲共同市场的官员或职员；欧洲经济共同体的官员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

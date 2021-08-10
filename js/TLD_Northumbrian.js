@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Northumbrian</h2><div class="git"><span class="ipa">[nɔ:'θʌmbriәn]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">37454</span><div class="total">2424</div></div><div class="gdc"><div class="dcb"><span class="dcn">(英国)诺 森伯兰(Northumbria)的(人、方言), 诺森伯兰郡的(人、方言)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>CBS</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">哥伦比亚广播公司（Columbia Broadcasting System）；共电式振铃设备（Central Battery Signalling）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

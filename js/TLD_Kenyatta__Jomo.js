@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kenyatta, Jomo</h2><div class="git"><span class="ipa">[ken'jɑ:tə; 'dʒəuməu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">肯雅塔(1893?～1978)，肯尼亚总统(1964～1978)，肯尼亚非洲民族联盟终身主席</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

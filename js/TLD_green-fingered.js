@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>green-fingered</h2><div class="git"><span class="ipa">['ɡri:n'fiŋɡəd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">[英国英语]；具有精湛的种植花木蔬菜技能的, 擅长种植的, 精通园艺的, 有绿手指的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

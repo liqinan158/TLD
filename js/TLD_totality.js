@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>totality</h2><div class="git"><span class="ipa">[təʊˈtæləti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16334</span><div class="total">20310</div></div><div class="coca2">全部(<font color="orangered">63%</font>)，总数(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[天] 全食；全体；总数</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

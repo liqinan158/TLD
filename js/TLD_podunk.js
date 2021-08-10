@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>podunk</h2><div class="git"><span class="ipa">[ˈpəʊdʌŋk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;美口&gt;无名小镇，偏僻小村</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

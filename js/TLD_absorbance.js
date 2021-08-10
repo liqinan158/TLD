@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>absorbance</h2><div class="git"><span class="ipa">[əbˈsɔ:bəns]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29575</span><div class="total">4903</div></div><div class="coca2">吸收率(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[物化] 吸光度；吸收率</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>plainsong</h2><div class="git"><span class="ipa">[ˈpleɪnsɒŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57041</span><div class="total">440</div></div><div class="coca2">单声圣歌(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">素歌，单旋律圣歌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

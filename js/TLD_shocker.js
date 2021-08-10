@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shocker</h2><div class="git"><span class="ipa">[ˈʃɒkə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21908</span><div class="total">10391</div></div><div class="coca2">令人震惊的人或事物(<font color="orangered">50%</font>)，耸人听闻的故事或小说(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">令人震惊的人或事物；耸人听闻的故事或小说</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

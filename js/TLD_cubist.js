@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cubist</h2><div class="git"><span class="ipa">['kju:bist]</span></div><hr/></div><div class="coca2">立体派艺术家(<font color="orangered">54%</font>)，立体派的(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">立体派艺术家；立体派画家</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">立体派的；立体主义的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

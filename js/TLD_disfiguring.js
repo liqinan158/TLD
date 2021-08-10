@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disfiguring</h2><div class="git"><span class="ipa">[dɪsˈfɪgjərɪŋ]</span></div><span class="onm">原型:</span><span class="orm">disfiguring 是 disfigure 的现在分词</span><hr/></div><div class="coca2">使丑陋(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使变丑；损毁…的外形；使大为减色</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

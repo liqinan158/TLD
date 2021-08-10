@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DVT</h2><div class="git"><span class="ipa">[,di: vi: 'ti:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">设计验证测试（Design Verification Testing）；设备向量表（Device Vector Table）；深静脉血栓（Deep Vein Thrombosis）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

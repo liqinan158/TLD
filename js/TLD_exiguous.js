@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exiguous</h2><div class="git"><span class="ipa">[egˈzɪgjuəs]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">稀少的(<font color="orangered">84%</font>)，极度不足的(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">稀少的；细小的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

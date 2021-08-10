@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>compiler</h2><div class="git"><span class="ipa">[kəmˈpaɪlə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">7898</span><div class="total">84157</div></div><div class="coca2">编译程序(<font color="orangered">72%</font>)，编辑者(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">编译器；[计] 编译程序；编辑者，汇编者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

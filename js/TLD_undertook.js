@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>undertook</h2><div class="git"><span class="ipa">[ˌʌndə'tʊk]</span></div><span class="onm">原型:</span><span class="orm">undertook 是 undertake 的过去式</span><hr/></div><div class="coca2">动词undertake的过去式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">承担（undertake的过去式）；着手做</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

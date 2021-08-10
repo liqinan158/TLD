@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Mason-Dixon Line</h2><div class="git"><span class="ipa">[ˌmeɪsn 'dɪksn laɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">梅森 — 迪克森线（美国马里兰州与宾夕法尼亚州之间的分界线，为过去蓄奴州的最北边界线）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

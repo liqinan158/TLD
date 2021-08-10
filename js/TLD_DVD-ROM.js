@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DVD-ROM</h2><div class="git"><span class="ipa">[ˌdi:vi:di:'rɒm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43697</span><div class="total">1471</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">高密度只读光盘（Digital Video Disk-Read Only Memory）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

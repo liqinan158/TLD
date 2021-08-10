@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>keynoter</h2><div class="git"><span class="ipa">['ki:nəʊtə(r)]</span></div><hr/></div><div class="coca2">政党方针的演说人(<font color="orangered">75%</font>)，作基调演说者(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">政党方针的演说人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

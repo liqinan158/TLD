@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Coca-Cola</h2><hr/></div><div class="word-frequency"><span class="label label-primary">CET4</span></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">可口可乐（美国饮料公司）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gaffer tape</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电工胶布；厚胶布</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">不会留下痕迹磁带；胶带；摄影胶带</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

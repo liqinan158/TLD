@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vibraphone</h2><div class="git"><span class="ipa">[ˈvaɪbrəfəʊn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49540</span><div class="total">927</div></div><div class="coca2">电颤琴(<font color="orangered">78%</font>)，铁琴(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电颤琴（形似木琴的一种电子打击乐器）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

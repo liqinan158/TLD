@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>channelling</h2><div class="git"><span class="ipa">['tʃænlɪŋ]</span></div><span class="onm">原型:</span><span class="orm">channelling 是 channel 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 开渠; 溶沟; 落水洞</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homebody</h2><div class="git"><span class="ipa">[ˈhəʊmbɒdi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39028</span><div class="total">2137</div></div><div class="coca2">家庭至上者(<font color="orangered">50%</font>)，喜欢在家消遣的人(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">喜欢在家消遣的男人；家庭第一主义的男人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>technophobia</h2><div class="git"><span class="ipa">[teknəʊ'fəʊbɪə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">技术恐惧（指对技术对社会及环境造成不良影响的恐惧）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

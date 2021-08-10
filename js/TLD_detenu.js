@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>detenu</h2><div class="git"><span class="ipa">[dɪ'tenʌ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [法]被拘留者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

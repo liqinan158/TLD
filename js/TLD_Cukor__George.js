@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cukor, George</h2><div class="git"><span class="ipa">['ku:kə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">丘克(1899～1983，美国电影导演)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

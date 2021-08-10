@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Peacock, Thomas Love</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">皮科克(1785～1866，英国小说家、诗人，雪莱的密友)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

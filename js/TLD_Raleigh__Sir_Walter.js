@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Raleigh, Sir Walter</h2><div class="git"><span class="ipa">['rɔ:li]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">罗利爵士(1552?～1618，英王国廷臣、探险家、作家，伊丽莎白一世宠臣，詹姆斯一世登基后失宠并被打入监狱)[亦作Ralegh]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

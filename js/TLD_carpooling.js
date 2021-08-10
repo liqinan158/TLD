@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>carpooling</h2><div class="git"><span class="ipa">['kɑ:pu:liŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">汽车合用组织( car pool的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

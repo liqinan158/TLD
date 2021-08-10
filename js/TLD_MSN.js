@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MSN</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">微软网络服务（Microsoft service Network）；即时通讯软件（MSN Messenger）；总编号（等于Master Serial Number）；军事编号（Military Serial Number）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

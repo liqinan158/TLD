@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Civil Aviation Authority</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国民航局；民航管理局；民用航空局</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

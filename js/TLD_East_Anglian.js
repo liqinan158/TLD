@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>East Anglian</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">东安格利亚（古代英格兰国家）；东英格兰；东安格里亚大学 (East Anglia的变形)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deflation</h2><div class="git"><span class="ipa">[ˌdi:ˈfleɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18059</span><div class="total">16227</div></div><div class="coca2">通货紧缩(<font color="orangered">97%</font>)，放气(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">通货紧缩；放气</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

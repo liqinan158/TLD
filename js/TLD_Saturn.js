@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Saturn</h2><div class="git"><span class="ipa">['sætәn]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">CET6</span><span class="label label-success">TEM4</span></div><div class="coca2">土星(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[天] 土星；农业之神（罗马神话中的一个形象）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

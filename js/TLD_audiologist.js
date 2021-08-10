@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>audiologist</h2><div class="git"><span class="ipa">[ˌɔ:dɪ'ɒlədʒɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23185</span><div class="total">9069</div></div><div class="coca2">听力学家(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">听力学家；听觉病矫治专家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

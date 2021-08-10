@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>RP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">菲律宾共和国（Republic of the Philippines）；标准发音（Received Pronunciation）；无线电传真（Radio-Photography）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

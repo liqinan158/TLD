@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lilliput</h2><div class="git"><span class="ipa">[ˈlilipʌt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">小人国（英国作家Jonathan Swift所著小说&lt;格列佛游记&gt;(1726年）中的假想国，其居民身高仅6英寸左右)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

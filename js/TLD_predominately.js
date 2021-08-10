@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>predominately</h2><div class="git"><span class="ipa">[prɪ'dɒmɪnətlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">20078</span><div class="total">12771</div></div><div class="coca2">占优势(<font color="orangered">63%</font>)，支配(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">占优势地；有影响力地；更大量地；占绝大多数地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

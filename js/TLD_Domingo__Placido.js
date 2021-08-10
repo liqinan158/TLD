@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Domingo, Placido</h2><div class="git"><span class="ipa">['plɑ:θiðəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">多明戈(1914～  ，侨居美国的西班牙歌剧男高音歌唱家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

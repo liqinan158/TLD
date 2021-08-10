@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Three Tenors</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">三大男高音；世界三大男高音首选典藏；男高音联唱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

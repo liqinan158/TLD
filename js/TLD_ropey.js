@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ropey</h2><div class="git"><span class="ipa">['rəʊpɪ]</span></div><hr/></div><div class="coca2">粘稠的(<font color="orangered">25%</font>)，糟糕的(<font color="orangered">25%</font>)，=ropy(<font color="orangered">25%</font>)，绳状的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">旧式的；破旧的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

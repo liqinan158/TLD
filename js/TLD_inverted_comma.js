@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inverted comma</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;主英&gt;引号，单引号（用于引文内另一引文的起始和结束处）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

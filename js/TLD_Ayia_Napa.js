@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ayia Napa</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">圣纳帕；塞浦路斯；阿亚纳帕</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

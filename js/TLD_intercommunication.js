@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>intercommunication</h2><div class="git"><span class="ipa">[ˌɪntəkəˌmju:nɪˈkeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56470</span><div class="total">467</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">互相交往，交际，双向（或多向）通信; 连通</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

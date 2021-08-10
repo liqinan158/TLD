@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bacteriological</h2><div class="git"><span class="ipa">[bækˌtɪərɪə'lɒdʒɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">44054</span><div class="total">1430</div></div><div class="coca2">细菌学的(<font color="orangered">54%</font>)，细菌学上的(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">细菌学的，[微] 细菌学上的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

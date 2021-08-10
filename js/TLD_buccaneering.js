@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>buccaneering</h2><div class="git"><span class="ipa">[ˌbʌkəˈnɪərɪŋ]</span></div><hr/></div><div class="coca2">海盗行为(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">海盗行为；掠夺</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">海盗的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">当海盗；当冒险家（buccaneer的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

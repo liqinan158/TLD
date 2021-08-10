@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>muscle-bound</h2><div class="git"><span class="ipa">[ˈmʌsəlˌbaʊnd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">49539</span><div class="total">927</div></div><div class="coca2">失去弹性的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">失去弹性的；肌肉僵硬的（由于运动或劳累过度造成的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

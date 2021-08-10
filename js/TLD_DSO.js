@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DSO</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[计] 数据安全员, 直接系统输出</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

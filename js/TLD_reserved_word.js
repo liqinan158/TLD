@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reserved word</h2><div class="git"><span class="ipa">[rɪˈzɜ:vd wə:d]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 76</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 38</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">保留字</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">预定字；预留字；运算公式保留字</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

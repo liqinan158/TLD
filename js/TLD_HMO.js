@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>HMO</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20531</span><div class="total">12152</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">卫生维护组织（Health Maintenance Organization）；心脏每分钟输出量（heart minute output）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

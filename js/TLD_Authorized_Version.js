@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Authorized Version</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">《圣经》钦定英译本（英王詹姆斯一世于 1611 年颁行）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">钦定本；钦定圣经英译本；圣经钦定本</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

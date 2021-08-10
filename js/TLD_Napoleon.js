@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Napoleon</h2><div class="git"><span class="ipa">[nə'pəʊljən]</span></div><hr/></div><div class="coca2">一种法国金币(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">刻有拿破仑头像的法国金币；长统靴的一种</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

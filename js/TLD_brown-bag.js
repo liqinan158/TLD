@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brown-bag</h2><div class="git"><span class="ipa">[ˈbraʊnˈbæg]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">棕色食品袋</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">自带午餐上班或上学</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">用棕色纸袋自带午饭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

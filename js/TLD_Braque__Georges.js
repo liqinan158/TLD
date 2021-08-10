@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Braque, Georges</h2><div class="git"><span class="ipa">[brɑ:k; ʒɔrʒ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">布拉克(1882～1963，法国画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

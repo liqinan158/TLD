@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blimpish</h2><div class="git"><span class="ipa">['blimpiʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">高傲无知又极端保守的；（英国报章漫画人物）毕灵普上校式的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

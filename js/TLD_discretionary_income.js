@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>discretionary income</h2><div class="git"><span class="ipa">[dɪˈskreʃəˌneri: ˈinkəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">随意支配的收入；可自由支配的收入；可自行处理的收入</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">可自由支配收入；自由支配所得；可随意支配的收入</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

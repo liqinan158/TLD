@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flying start</h2><div class="git"><span class="ipa">[ˈflaɪɪŋ stɑ:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">快速开端；疾速起跑法；迅速起步，迅速发展</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

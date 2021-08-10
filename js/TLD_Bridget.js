@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bridget</h2><div class="git"><span class="ipa">['bridʒit]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">布丽奇特（女子名）；圣布里奇特（瑞典修女，布里奇特勋章的创立者）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

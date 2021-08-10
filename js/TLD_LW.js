@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>LW</h2><hr/></div><div class="coca2">长波(<font color="orangered">56%</font>)，左翼(轻便警戒雷达(<font color="orangered">22%</font>)，低水位)(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">低潮（low water）；左翼（Left Wing）；长波（Long Wave）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

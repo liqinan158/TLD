@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paddleboarding</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">拔仔还在海中畅玩单桨冲浪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

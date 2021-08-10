@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teamworking</h2><span class="onm">原型:</span><span class="orm">teamworking 是 teamwork 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(teamwork 的现在分词) n. 协同作业, 协力</span></div><div class="dcb"><span class="dcn">[法] 联合工作, 联合行动, 协调工作</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>evangelism</h2><div class="git"><span class="ipa">[iˈvændʒilizəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17165</span><div class="total">18199</div></div><div class="coca2">福音传道(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">福音传道；福音传道者的工作；福音主义；传道狂般的热情</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

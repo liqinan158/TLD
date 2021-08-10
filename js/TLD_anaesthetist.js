@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anaesthetist</h2><div class="git"><span class="ipa">[əˈni:sθətɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31594</span><div class="total">4058</div></div><div class="coca2">麻醉师(<font color="orangered">91%</font>)，=anesthetist.(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">麻醉师（等于anesthetist）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

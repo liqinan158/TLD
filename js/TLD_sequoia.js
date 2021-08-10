@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sequoia</h2><div class="git"><span class="ipa">[sɪˈkwɔɪə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28367</span><div class="total">5438</div></div><div class="coca2">红杉(<font color="orangered">80%</font>)，巨杉(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">红杉（产于美国加州）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

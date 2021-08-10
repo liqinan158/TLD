@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kraken</h2><div class="git"><span class="ipa">[ˈkrɑ:kən]</span></div><hr/></div><div class="coca2">相传在挪威海中出现的怪物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">相传在挪威海中出现的怪物；挪威传说中的北海巨妖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

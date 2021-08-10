@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ti</h2><div class="git"><span class="ipa">[ti:]</span></div><hr/></div><div class="coca2">元素钛的符号(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">铁树；全音阶的第七音（等于si或te）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ti)人名；(中)地(广东话·威妥玛)；(缅)蒂；(柬)狄</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>internee</h2><div class="git"><span class="ipa">[ˌɪntɜ:ˈni:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40006</span><div class="total">1984</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">被拘留者（尤指战俘或敌侨）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>peer-to-peer</h2><div class="git"><span class="ipa">[piə tu: piə]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">16122</span><div class="total">20815</div></div><div class="coca2">对等网络(<font color="orangered">94%</font>)，=P2P.(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">对等；对等网络</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

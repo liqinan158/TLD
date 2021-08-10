@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>apparent magnitude</h2><div class="git"><span class="ipa">[əˈpærənt ˈmæɡnitju:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 视星等</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

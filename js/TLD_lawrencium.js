@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lawrencium</h2><div class="git"><span class="ipa">[lɒˈrensiəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 铹（人工获得的放射性元素，超铀元素之一）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

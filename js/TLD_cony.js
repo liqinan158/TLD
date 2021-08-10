@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cony</h2><div class="git"><span class="ipa">['kəʊnɪ]</span></div><hr/></div><div class="coca2">兔毛皮(<font color="orangered">84%</font>)，=coney.(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">兔子，兔毛皮；《圣经》中说的岩狸</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Cony)人名；(英、法)科尼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

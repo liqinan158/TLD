@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>picture-postcard</h2><div class="git"><span class="ipa">[ˈpiktʃə ˈpəʊstkɑːd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50701</span><div class="total">828</div></div><div class="coca2">美丽的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">美术明信片</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

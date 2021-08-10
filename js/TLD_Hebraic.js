@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hebraic</h2><div class="git"><span class="ipa">[hi:'breiik]</span></div><hr/></div><div class="coca2">希伯来人的(<font color="orangered">37%</font>)，希伯来语的(<font color="orangered">36%</font>)，希伯来文化的(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">希伯来语的；希伯来人的；希伯来文化的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

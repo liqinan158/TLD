@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>signposting</h2><div class="git"><span class="ipa">['saɪnpəʊstɪŋ]</span></div><span class="onm">原型:</span><span class="orm">signposting 是 signpost 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">指示牌，标志杆( signpost的现在分词 ); 路标</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

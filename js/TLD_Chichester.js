@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Chichester</h2><div class="git"><span class="ipa">['tʃitʃәstә(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">奇切斯特[英国英格兰南部城市](西苏塞克斯郡首府)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

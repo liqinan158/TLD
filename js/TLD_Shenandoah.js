@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shenandoah</h2><div class="git"><span class="ipa">[,ʃenən'dəuə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">谢南多厄河（美国弗吉尼亚州河流）；谢南多厄河谷（地名）；情人渡, 水手瑶（歌曲名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

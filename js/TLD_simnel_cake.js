@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>simnel cake</h2><div class="git"><span class="ipa">[ˈsɪmnəl keɪk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（为圣诞节或复活节做的）重油水果蛋糕</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>punchbag</h2><div class="git"><span class="ipa">[ˈpʌntʃbæg]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拳击吊袋；发泄怒气的对象</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>garrulousness</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多嘴多舌；喋喋不休；多话；唠叨（原形是garrulous）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pay-as-you-go</h2><div class="git"><span class="ipa">[pei æz ju: ɡəu]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27544</span><div class="total">5856</div></div><div class="coca2">费用发生拨款制(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">现收现付制；量入为出；费用发生拨款制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

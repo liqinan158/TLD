@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gubbins</h2><div class="git"><span class="ipa">[ˈgʌbɪnz]</span></div><span class="onm">原型:</span><span class="orm">gubbins 是 gubbin 的复数</span><hr/></div><div class="coca2">小装置(<font color="orangered">60%</font>)，小机件(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">小机件；小装置</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

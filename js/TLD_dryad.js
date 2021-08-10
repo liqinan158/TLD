@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dryad</h2><div class="git"><span class="ipa">[ˈdraɪæd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43524</span><div class="total">1491</div></div><div class="coca2">森林的精灵(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">德律阿得斯（希腊神话中的树神）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

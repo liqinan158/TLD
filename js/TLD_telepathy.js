@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>telepathy</h2><div class="git"><span class="ipa">[təˈlepəθi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25794</span><div class="total">6958</div></div><div class="coca2">心灵感应(<font color="orangered">86%</font>)，传心术(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">心灵感应；传心术</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

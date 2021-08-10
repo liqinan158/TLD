@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>play-acting</h2><div class="git"><span class="ipa">[pleɪ ˈæktɪŋ]</span></div><span class="onm">原型:</span><span class="orm">play-act</span><hr/></div><div class="coca2">表演 2(<font color="orangered">50%</font>)，vt 1.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">表演，装扮，假扮（play-act的现在分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UFW</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">United Farm Workers 联合农场工人; United Furniture Workers &lt;美国&gt;家具工人联合会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

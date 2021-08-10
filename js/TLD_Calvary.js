@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Calvary</h2><div class="git"><span class="ipa">[ˈkælvəri]</span></div><hr/></div><div class="coca2">耶稣受难像(<font color="orangered">50%</font>)，大磨难(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">骷髅地（耶稣被钉上十字架的地方）；基督于十字架上之受难像</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

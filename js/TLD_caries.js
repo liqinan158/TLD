@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>caries</h2><div class="git"><span class="ipa">[ˈkeəri:z]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24149</span><div class="total">8190</div></div><div class="coca2">龋齿(<font color="orangered">88%</font>)，骨溃疡(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[口腔] 龋齿；骨疡；骨溃疡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>octosyllable</h2><div class="git"><span class="ipa">[ˈɒktəʊsɪləbl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">八音节字，八音节的诗句</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

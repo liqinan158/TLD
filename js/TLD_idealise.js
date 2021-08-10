@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>idealise</h2><div class="git"><span class="ipa">[aɪ'dɪəlaɪz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">（英）把…理想化（等于idealize）</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">形成理想；理想化地表现</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

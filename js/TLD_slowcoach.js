@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slowcoach</h2><div class="git"><span class="ipa">[ˈsləʊkəʊtʃ]</span></div><hr/></div><div class="coca2">行动迟缓的人(<font color="orangered">50%</font>)，慢性子(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">行动迟缓的人；笨拙迟钝的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

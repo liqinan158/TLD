@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>George, Saint</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">圣乔治(?～303?，基督教的殉教者，英格兰主保圣人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

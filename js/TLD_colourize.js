@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>colourize</h2><div class="git"><span class="ipa">['kʌlәraiz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">给…着色,使有色彩, 着彩色于(黑白影片)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

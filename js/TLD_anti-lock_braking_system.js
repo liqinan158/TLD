@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anti-lock braking system</h2><div class="git"><span class="ipa">[ˈænti:ˌlɔk ˈbreikiŋ ˈsistəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">防抱死制动系统(ABS); 急刹车缓冲装置(ABS)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

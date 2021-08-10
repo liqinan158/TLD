@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Behan, Brendan</h2><div class="git"><span class="ipa">['bi:ən; 'brendən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Behan, Brendan</span></div><div class="dcb"><span class="dcn">(Francis)</span></div><div class="dcb"><span class="dcn">['bi:ən; 'brendən]</span></div><div class="dcb"><span class="dcn">贝汉(1923～1964，爱尔兰剧作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

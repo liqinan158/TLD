@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>three-card trick</h2><div class="git"><span class="ipa">[θri: kɑ:d trik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">三牌猜王后（赌博戏，参加者猜三张正面朝下的纸牌中哪一张为王后）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">三牌赌皇后</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

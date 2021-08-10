@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ChildLine</h2><div class="git"><span class="ipa">['tʃaildlain]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">儿童教养热线(一种有关儿童教养的电话咨询服务项目)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

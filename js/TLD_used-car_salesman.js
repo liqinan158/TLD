@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>used-car salesman</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">二手车推销员；二手车业务员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

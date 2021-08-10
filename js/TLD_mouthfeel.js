@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mouthfeel</h2><div class="git"><span class="ipa">[mu:θ'fi:l]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28820</span><div class="total">5225</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（进食者对食品的）口觉，口感</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

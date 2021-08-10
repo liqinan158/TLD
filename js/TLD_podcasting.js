@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>podcasting</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">播客：由iPod（苹果MP3播放器）和broadcasting（广播）组合而成。它是一种新的技术; 是Rss技术与MP3播放器结合的产物; 简单地说; 就是把预先录制的MP3音频文件发布在Blog上</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

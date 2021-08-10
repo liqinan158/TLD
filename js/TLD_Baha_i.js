@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Baha'i</h2><div class="git"><span class="ipa">[bə'ha:i]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">38611</span><div class="total">2215</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">巴哈派教徒；宣讲巴哈教派教义的人</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">巴哈教的；巴哈教派信徒的（等于Bahai）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

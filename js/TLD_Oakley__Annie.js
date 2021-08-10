@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oakley, Annie</h2><div class="git"><span class="ipa">['əukli]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(Phoebe Anne Oakley Mozee) 安妮奥克莉(1860～1926,美国女神枪手)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

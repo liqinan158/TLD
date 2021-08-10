@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>virology</h2><div class="git"><span class="ipa">[vaɪˈrɒlədʒi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35025</span><div class="total">2980</div></div><div class="coca2">病毒学(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[病毒] 病毒学，滤过性微生物学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

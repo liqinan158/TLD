@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cromwell, Oliver</h2><div class="git"><span class="ipa">['krɔmwəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">克伦威尔 (1599～1658)， 英国将军、政治家、独立派领袖，英格兰、苏格兰和爱尔兰护国公(1653～1658)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

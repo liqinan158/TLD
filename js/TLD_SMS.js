@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SMS</h2><span class="onm">原型:</span><span class="orm">sm</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">短讯服务（Short Messaging Service）；存储管理服务（Storage Management Services）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

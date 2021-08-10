@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bloatware</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 大软件，膨胀件（指占用过多内存的程序）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

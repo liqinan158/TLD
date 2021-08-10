@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>firebug</h2><div class="git"><span class="ipa">[ˈfaɪəbʌg]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39114</span><div class="total">2124</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">放火者，萤火虫，放火狂; 火甲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

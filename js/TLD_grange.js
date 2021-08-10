@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grange</h2><div class="git"><span class="ipa">['greindʒ]</span></div><hr/></div><div class="coca2">农场(<font color="orangered">53%</font>)，庄园(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">田庄；农场</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Grange)人名；(西)格兰赫；(英)格兰奇；(意)格兰杰；(法)格朗热</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

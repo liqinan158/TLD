@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Odysseus</h2><div class="git"><span class="ipa">[ә'disju:s]</span></div><hr/></div><div class="coca2">伊塞卡国王(<font color="orangered">34%</font>)，奥德修斯(古希腊荷马所作史诗《奥德赛》中的主人公(<font color="orangered">33%</font>)，在特洛伊战中献木马计)(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奥德修斯（荷马史诗《奥德赛》中的主人公； 曾指挥特洛伊战争， 献木马计，使希腊获胜）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

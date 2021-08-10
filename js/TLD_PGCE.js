@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PGCE</h2><div class="git"><span class="ipa">[ˌpi: dʒi: si: ˈi:]</span></div><hr/></div><div class="coca2">=Postgraduate Certificate of Education 研究生毕业证书(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">=Postgraduate Certificate of Education 研究生毕业证书；Post-Graduate Certificate of Education 教育学研究生证书</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

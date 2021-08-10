@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kirk</h2><div class="git"><span class="ipa">[kɜ:k]</span></div><hr/></div><div class="coca2">苏格兰教会(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">教会；苏格兰教会</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Kirk)人名；(德、丹)基尔克；(英)柯克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brougham</h2><div class="git"><span class="ipa">[ˈbru:əm]</span></div><hr/></div><div class="coca2">四轮轿式马车(<font color="orangered">60%</font>)，有篷马车(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一种有篷马车</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Brougham)人名；(英)布鲁厄姆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>JSA</h2><hr/></div><div class="coca2">n.(<font color="orangered">50%</font>)，危险地震协会(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">日本规格协会（Japanese Standards Association）；美国正义协会（Justice Society of America）；工作安全分析（Job Safety Analysis）；共同安全地带（Joint Security Area）；求职者津贴（Jobseeker's Allowance）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

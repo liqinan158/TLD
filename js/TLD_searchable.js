@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>searchable</h2><div class="git"><span class="ipa">[ˈsɜ:tʃəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">13320</span><div class="total">31061</div></div><div class="coca2">形容词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可被搜查的；透过搜查能找到的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

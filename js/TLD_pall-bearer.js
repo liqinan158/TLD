@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pall-bearer</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 扶灵者；抬棺者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

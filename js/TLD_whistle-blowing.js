@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>whistle-blowing</h2><div class="git"><span class="ipa">['wɪslbl'əʊɪŋ]</span></div><hr/></div><div class="coca2">告密(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">告密；揭发内幕</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

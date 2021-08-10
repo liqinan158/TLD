@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oligopoly</h2><div class="git"><span class="ipa">[ˌɒlɪ'gɒpəlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36038</span><div class="total">2739</div></div><div class="coca2">寡头(<font color="orangered">67%</font>)，少数卖主垄断(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">寡占；寡头买主垄断</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

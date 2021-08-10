@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>acrylics</h2><div class="git"><span class="ipa">[ə'krɪlɪks]</span></div><span class="onm">原型:</span><span class="orm">acrylics 是 acrylic 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">丙烯酸树脂; 丙烯酸塑料( acrylic的名词复数 ); &lt;画&gt;丙烯画; 丙烯酸树脂漆; 塑胶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

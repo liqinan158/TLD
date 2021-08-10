@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Candlemas</h2><div class="git"><span class="ipa">['kændlmәs]</span></div><span class="onm">原型:</span><span class="orm">Candlemas 是 candlema 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圣烛节</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

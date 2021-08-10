@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>daddy-long-legs</h2><span class="onm">原型:</span><span class="orm">daddy-long-legs 是 daddy-long-leg 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">长脚蜘蛛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

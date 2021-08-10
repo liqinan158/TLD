@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>accoutrements</h2><div class="git"><span class="ipa">[əˈku:trəmənts]</span></div><span class="onm">原型:</span><span class="orm">accoutrements 是 accoutrement 的复数</span><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">军人的配备；服装</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

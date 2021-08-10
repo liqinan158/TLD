@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>psycho-</h2><div class="git"><span class="ipa">[ˈsaɪkəʊ]</span></div><hr/></div><div class="coca2">表示"灵魂 精神"之义(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">精神；心理</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

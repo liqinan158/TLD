@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MIT</h2><div class="git"><span class="ipa">[mit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">麻省理工学院（Massachu-setts Institute of Technology）；制造完整性试验（Manufacturing Integrity Test）；主指令带， 主程序带， 主控带（Master Instruction Tape）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Mit)人名；(柬)米；(泰)密</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>depoliticize</h2><div class="git"><span class="ipa">[ˌdi:pə'lɪtəˌsaɪz]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">59689</span><div class="total">314</div></div><div class="coca2">使非政治化(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使…非政治化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

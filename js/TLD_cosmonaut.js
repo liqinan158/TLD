@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cosmonaut</h2><div class="git"><span class="ipa">[ˈkɒzmənɔ:t]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30857</span><div class="total">4339</div></div><div class="coca2">苏联太空人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（俄）宇航员（等于astronaut）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

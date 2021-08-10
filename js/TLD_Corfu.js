@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Corfu</h2><div class="git"><span class="ipa">[kɔ:'fu:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">科孚岛（位于希腊西北沿海）；科夫（科孚岛的主要港市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

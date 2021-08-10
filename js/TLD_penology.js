@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>penology</h2><div class="git"><span class="ipa">[pi:ˈnɒlədʒi]</span></div><hr/></div><div class="coca2">刑罚学(<font color="orangered">74%</font>)，监狱管理学(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[法] 监狱管理学；刑罚学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

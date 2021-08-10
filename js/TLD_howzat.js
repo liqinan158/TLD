@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>howzat</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 怎么办（告知板球裁判员对方击球手可判出局）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

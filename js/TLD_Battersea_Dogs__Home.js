@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Battersea Dogs' Home</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">巴特西猫狗之家；拜特希流浪狗之家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

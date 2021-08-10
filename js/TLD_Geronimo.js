@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Geronimo</h2><div class="git"><span class="ipa">[dʒe'rɔni,məu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">杰罗尼莫（美国印第安人阿柏切族首领）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

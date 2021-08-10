@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>repro</h2><div class="git"><span class="ipa">[ˈri:prəʊ]</span></div><hr/></div><div class="coca2">复制品(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">复制品；再生产；繁殖</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">清样（reproduction proof）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

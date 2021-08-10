@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>compassion fatigue</h2><div class="git"><span class="ipa">[kəmˈpæʃən fəˈti:ɡ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 7</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 4</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">由于过分暴露于人类痛苦而造成的怜悯心或同情心之丧失</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

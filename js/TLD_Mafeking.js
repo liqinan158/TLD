@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mafeking</h2><div class="git"><span class="ipa">['mæfikiŋ]</span></div><span class="onm">原型:</span><span class="orm">Mafeking 是 mafeke 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马弗京（南非北部城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

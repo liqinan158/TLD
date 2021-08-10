@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>first-time</h2><div class="git"><span class="ipa">['fə:sttaim]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">8739</span><div class="total">69965</div></div><div class="coca2">第一次(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">初次的，第一次的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

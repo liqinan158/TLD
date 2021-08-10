@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fakie</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55039</span><div class="total">542</div></div><div class="gdc"><div class="dcb"><span class="dcn"> （用滑板或滑雪板的）倒滑，倒溜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

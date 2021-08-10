@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>snake eyes</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 27</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 27</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蛇眼（掷出的两枚骰子均为一点）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">忍者蛇眼；面具人；蛇眼天眼追凶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

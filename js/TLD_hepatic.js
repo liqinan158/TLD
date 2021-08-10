@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hepatic</h2><div class="git"><span class="ipa">[hɪˈpætɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">14894</span><div class="total">24598</div></div><div class="coca2">肝的(<font color="orangered">72%</font>)，保肝药(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">肝的；肝脏色的；治肝病的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jehad</h2><div class="git"><span class="ipa">[dʒiˈhɑ:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圣战，维护（或反对）某种信仰的（狂热）运动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

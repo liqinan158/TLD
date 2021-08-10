@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jali</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [地名] [冈比亚、尼日尔、印度尼西亚] 贾利</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>episcopacy</h2><div class="git"><span class="ipa">[ɪˈpɪskəpəsi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50326</span><div class="total">858</div></div><div class="coca2">主教制度(<font color="orangered">64%</font>)，主教的职位(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">主教制度；主教的职位</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

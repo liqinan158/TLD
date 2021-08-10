@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Darwinism</h2><div class="git"><span class="ipa">['dɑ:winizm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25831</span><div class="total">6936</div></div><div class="coca2">达尔文学说(<font color="orangered">58%</font>)，进化论(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">达尔文学说；达尔文主义；进化论</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

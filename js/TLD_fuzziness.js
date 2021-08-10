@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fuzziness</h2><div class="git"><span class="ipa">['fʌzɪnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38912</span><div class="total">2157</div></div><div class="coca2">模糊(<font color="orangered">99%</font>)，不清楚(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">绒毛的特性；模糊不清</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Little Englander</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(尤指19世纪反对对外扩张的)英格兰本土主义者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

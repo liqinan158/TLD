@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>two-way street</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">人和人相互帮助和关心的关系，而不是单方面做出努力。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

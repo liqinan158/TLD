@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>surfie</h2><div class="git"><span class="ipa">[ˈsɜ:fi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;主澳俚&gt;冲浪运动员，冲浪迷</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

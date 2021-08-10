@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drag-and-drop</h2><div class="git"><span class="ipa">[dræɡ ænd drɔp]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">20368</span><div class="total">12349</div></div><div class="coca2">拖放(<font color="orangered">50%</font>)，拖曳(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">拖放</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

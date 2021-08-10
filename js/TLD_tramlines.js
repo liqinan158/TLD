@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tramlines</h2><div class="git"><span class="ipa">[ˈtræmlaɪnz]</span></div><span class="onm">原型:</span><span class="orm">tramlines 是 tramline 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">有轨电车路线；（英）电车轨道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tripartite</h2><div class="git"><span class="ipa">[traɪˈpɑ:taɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">29881</span><div class="total">4768</div></div><div class="coca2">分成三部分的(<font color="orangered">60%</font>)，一式三份的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">三重的；分成三部分的；一式三份的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

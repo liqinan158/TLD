@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>A&amp;W</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">《英汉医学词典》a&amp;w</span></div><div class="dcb"><span class="dcn">[=alive and well]健在,非常健康</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

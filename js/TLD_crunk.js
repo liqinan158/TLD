@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crunk</h2><div class="git"><span class="ipa">[k'rʌŋk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60839</span><div class="total">265</div></div><div class="coca2">"旷课乐"(<font color="orangered">50%</font>)，南方一种说唱音乐风格(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">旷课乐（一种音乐形式，发源于美国南部）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

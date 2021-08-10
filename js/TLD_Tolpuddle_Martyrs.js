@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tolpuddle Martyrs</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(复)(英史)托尔普德尔蒙难者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

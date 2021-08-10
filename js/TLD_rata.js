@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rata</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">36620</span><div class="total">2609</div><span class="pos">NOUN</span><span class="rank">60664</span><div class="total">270</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">放免法测（抗）甲状腺抗体</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Rata)人名；(西、塞)拉塔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

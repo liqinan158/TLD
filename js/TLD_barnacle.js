@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>barnacle</h2><div class="git"><span class="ipa">[ˈbɑ:nəkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25778</span><div class="total">6967</div></div><div class="coca2">藤壶(<font color="orangered">76%</font>)，黑雁(<font color="orangered">24%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[无脊椎] 藤壶；茗荷介；难以摆脱的人；黑雁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

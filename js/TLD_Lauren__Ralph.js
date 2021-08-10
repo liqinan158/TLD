@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lauren, Ralph</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">拉夫劳伦女装；拉夫劳伦男装</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

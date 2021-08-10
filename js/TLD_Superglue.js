@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Superglue</h2><div class="git"><span class="ipa">[ˈsu:pəglu:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32858</span><div class="total">3605</div></div><div class="coca2">超强力胶水(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">超强力胶水；超效黏合剂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

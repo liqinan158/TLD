@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Adam, Robert</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">亚当(1728～1792，英国建筑师和家具设计师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

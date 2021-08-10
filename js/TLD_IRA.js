@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>IRA</h2><div class="git"><span class="ipa">['aiәrә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">爱尔兰共和军（Irish Republican Army）；个人退休帐户（Individual Retirement Account）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ira)人名；(土、芬、捷、西)伊拉；(英)艾拉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

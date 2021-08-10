@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>satnav</h2><div class="git"><span class="ipa">['sætnæv]</span></div><hr/></div><div class="coca2">卫星导航(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">卫星导航（satellite navigation）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

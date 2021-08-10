@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-governmental</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">非政府；非政府的；非政府性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

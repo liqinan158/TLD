@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nutriment</h2><div class="git"><span class="ipa">['nju:trɪmənt]</span></div><hr/></div><div class="coca2">促进生长的东西(<font color="orangered">50%</font>)，营养品(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">营养物；促进生长的东西</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

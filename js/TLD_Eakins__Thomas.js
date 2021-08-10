@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eakins, Thomas</h2><div class="git"><span class="ipa">['eikinz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伊肯斯(1844～1916，美国画家、雕塑家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

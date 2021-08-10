@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Adenauer, Konrad</h2><div class="git"><span class="ipa">['ædənauə; 'kɔnræd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿登纳(1876～1967)，联邦德国总理(1949～1963)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

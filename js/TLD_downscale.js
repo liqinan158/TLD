@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>downscale</h2><div class="git"><span class="ipa">[ˌdaʊnˈskeɪl]</span></div><hr/></div><div class="coca2">缩减 ... 规模或比例(<font color="orangered">50%</font>)，低收入消费者的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">缩减…规模</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">缩减规模</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

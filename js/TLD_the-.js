@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the-</h2><div class="git"><span class="ipa">[ðə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">art.</span><span class="dcn">这；那</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">更加（用于比较级, 最高级前）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cold Comfort Farm</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">寒冷舒适的农庄；令人难以宽慰的农庄；冻土</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

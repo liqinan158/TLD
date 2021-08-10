@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scatter cushion</h2><div class="git"><span class="ipa">[ˈskætə ˈkuʃən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">散放的垫子；小块软垫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

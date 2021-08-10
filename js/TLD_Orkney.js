@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Orkney</h2><div class="git"><span class="ipa">['ɔ:kni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奥克尼群岛；奥克尼（苏格兰东北方群岛）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

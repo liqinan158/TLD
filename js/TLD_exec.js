@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exec</h2><div class="git"><span class="ipa">[ɪgˈzek]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13330</span><div class="total">31022</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">执行，执行程序；主任参谋，副舰长</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">实行（execute）；实行的（executive）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

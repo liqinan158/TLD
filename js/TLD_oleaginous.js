@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oleaginous</h2><div class="git"><span class="ipa">[ˌəʊliˈædʒɪnəs]</span></div><hr/></div><div class="coca2">含油的(<font color="orangered">62%</font>)，油腻的(<font color="orangered">38%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">油质的；油腻的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

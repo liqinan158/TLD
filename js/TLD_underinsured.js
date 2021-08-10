@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>underinsured</h2><div class="git"><span class="ipa">[ˌʌndərɪnˈʃʊəd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">31578</span><div class="total">4065</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">保险（额）不足的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

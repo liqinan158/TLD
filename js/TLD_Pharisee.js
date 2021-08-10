@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pharisee</h2><div class="git"><span class="ipa">['færisi:]</span></div><hr/></div><div class="coca2">伪善者(<font color="orangered">58%</font>)，《圣经》中称他们为言行不一的伪善者)(<font color="orangered">14%</font>)，法利赛人(古代犹太教派(<font color="orangered">14%</font>)，该派标榜墨守传统礼仪(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">古代犹太法利赛教派的教徒；伪善者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

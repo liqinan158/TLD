@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mistiming</h2><div class="git"><span class="ipa">[ˌmɪs'taɪmɪŋ]</span></div><span class="onm">原型:</span><span class="orm">mistiming 是 mistime 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">误时</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">在不适宜的时候说或做( mistime的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

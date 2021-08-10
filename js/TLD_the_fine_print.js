@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the fine print</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（协议或法律文件中易于被忽略但重要的）小号字印刷的附加条款</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">要点；细节图；细粒度印记</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

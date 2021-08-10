@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ISDN</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">综合业务数字网（Integrated Services Digital Network）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

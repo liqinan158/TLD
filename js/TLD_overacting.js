@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overacting</h2><div class="git"><span class="ipa">['əʊvəræktɪŋ]</span></div><span class="onm">原型:</span><span class="orm">overacting 是 overact 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">过火地表演（角色）( overact的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

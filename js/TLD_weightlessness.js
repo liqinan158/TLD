@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>weightlessness</h2><div class="git"><span class="ipa">['weɪtləsnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35871</span><div class="total">2778</div></div><div class="coca2">失重(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">失重；无重状态</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

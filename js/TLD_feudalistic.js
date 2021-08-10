@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>feudalistic</h2><div class="git"><span class="ipa">[ˌfju:də'lɪstɪk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">封建制度的，封建性的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

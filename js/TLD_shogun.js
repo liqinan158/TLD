@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shogun</h2><div class="git"><span class="ipa">[ˈʃəʊgən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42165</span><div class="total">1664</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（日）幕府时代的将军，幕府的首领</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

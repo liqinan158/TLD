@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grew</h2><div class="git"><span class="ipa">[gru:]</span></div><span class="onm">原型:</span><span class="orm">grew 是 grow 的过去式</span><hr/></div><div class="coca2">动词grow的过去式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">成长，种植（grow的过去式）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Grew)人名；(芬)格雷夫；(英、葡)格鲁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

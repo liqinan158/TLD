@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fine Gael</h2><div class="git"><span class="ipa">[ˌfi:nə 'geɪl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">统一党（爱尔兰共和国两大政党之一，保守党派）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">爱尔兰党；联合爱尔兰党；反对党联合爱尔兰党</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

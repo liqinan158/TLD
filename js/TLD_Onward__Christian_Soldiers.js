@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Onward, Christian Soldiers</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">基督精兵；信徒精兵歌；基督精兵前进</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

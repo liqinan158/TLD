@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>congressperson</h2><div class="git"><span class="ipa">['kɔn^res,p\\:sәn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53940</span><div class="total">607</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">美国国会议员（不分性别的。尤其指美国众议院议员）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

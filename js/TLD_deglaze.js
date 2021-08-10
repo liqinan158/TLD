@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deglaze</h2><div class="git"><span class="ipa">[ˌdi:'ɡleɪz]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">39067</span><div class="total">2131</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使脱釉； 溶解粘在（煎锅）上的肉粒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Antrim</h2><div class="git"><span class="ipa">['æntrim]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">安特里姆郡[英国北爱尔兰郡名]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>no-claims bonus</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">无赔偿退款</span></div><div class="dcb"><span class="dcn">无赔款退费</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

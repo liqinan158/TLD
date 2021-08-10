@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>terrapin</h2><div class="git"><span class="ipa">[ˈterəpɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42912</span><div class="total">1565</div></div><div class="coca2">水龟(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">水龟（产于北美淡水中，可食用）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

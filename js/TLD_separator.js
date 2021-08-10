@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>separator</h2><div class="git"><span class="ipa">[ˈsepəreɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13909</span><div class="total">28473</div></div><div class="coca2">分离器(<font color="orangered">78%</font>)，分隔符(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">分离器；[计] 分隔符</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

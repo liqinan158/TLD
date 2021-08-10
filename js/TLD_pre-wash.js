@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-wash</h2><div class="git"><span class="ipa">[pri:ˈwɔʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（尤指在自动洗衣机里的）预洗</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">（尤指上市前）预洗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

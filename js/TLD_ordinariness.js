@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ordinariness</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47977</span><div class="total">1056</div></div><div class="coca2">普通的(<font color="orangered">72%</font>)，平凡的(<font color="orangered">21%</font>)，平淡的(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">平凡；平常（ordinary的变形）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

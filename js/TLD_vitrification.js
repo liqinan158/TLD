@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vitrification</h2><div class="git"><span class="ipa">[ˌvɪtrɪfɪ'keɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45471</span><div class="total">1280</div></div><div class="coca2">玻璃化(<font color="orangered">95%</font>)，玻璃化物(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">玻璃化；透明化；玻璃状物（等于vitrifaction）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

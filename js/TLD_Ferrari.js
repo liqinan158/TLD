@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ferrari</h2><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">法拉利（世界上最闻名的赛车和运动跑车的生产厂家， 总部在意大利的摩德纳）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

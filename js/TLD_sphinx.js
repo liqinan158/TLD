@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sphinx</h2><div class="git"><span class="ipa">[sfiŋks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18194</span><div class="total">15917</div></div><div class="coca2">狮身人面像(<font color="orangered">84%</font>)，谜一样的人(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（古埃及）狮身人面像；难于理解的人；天蛾</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

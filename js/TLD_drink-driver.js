@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drink-driver</h2><div class="git"><span class="ipa">[driŋk ˈdraivə]</span></div><hr/></div><div class="coca2">血液中酒精含量过高者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[英国英语](违章)酒后驾车者[美国英语drunk driver]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

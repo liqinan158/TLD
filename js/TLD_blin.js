@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blin</h2><div class="git"><span class="ipa">[blɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（与鱼子酱、酸乳酪等同吃的）俄式薄煎饼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

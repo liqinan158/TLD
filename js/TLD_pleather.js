@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pleather</h2><div class="git"><span class="ipa">['pleðə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44496</span><div class="total">1379</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">塑料皮革；人造革</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">仿制的皮革；人造皮革；皮绳</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

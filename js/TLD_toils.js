@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>toils</h2><div class="git"><span class="ipa">[tɔɪlz]</span></div><span class="onm">原型:</span><span class="orm">toils 是 toil 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">网</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">长时间或辛苦地工作( toil的第三人称单数 ); 艰难缓慢地移动，跋涉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

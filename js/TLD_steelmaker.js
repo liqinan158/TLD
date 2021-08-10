@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>steelmaker</h2><div class="git"><span class="ipa">['sti:lˌmeɪkə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45012</span><div class="total">1328</div></div><div class="coca2">炼钢工(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">钢铁制造商；炼钢工</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

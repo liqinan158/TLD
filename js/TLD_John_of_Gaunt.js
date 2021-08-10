@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>John of Gaunt</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">约翰；冈特的约翰；兰开斯特公爵冈特的约翰</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

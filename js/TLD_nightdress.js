@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nightdress</h2><div class="git"><span class="ipa">[ˈnaɪtdres]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55942</span><div class="total">495</div></div><div class="coca2">女睡衣(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女式睡衣；孩子穿的睡衣</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

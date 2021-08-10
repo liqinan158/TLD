@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>abduction</h2><div class="git"><span class="ipa">[æb'dʌkʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14077</span><div class="total">27711</div></div><div class="coca2">诱拐(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">诱拐，绑架；诱导</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

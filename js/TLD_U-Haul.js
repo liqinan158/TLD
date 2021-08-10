@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>U-Haul</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">搬家公司；装进一个卡车；金辉货车出租公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bigfoot</h2><div class="git"><span class="ipa">[ˈbɪgfʊt]</span></div><hr/></div><div class="coca2">亦称Sasquatch)(<font color="orangered">50%</font>)，大脚怪(据称生活在北美洲西北部太平洋沿岸森林中的野人(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大脚；传说中生存于北美洲西北部太平洋沿岸森林中的野人（等于Sasquatch）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

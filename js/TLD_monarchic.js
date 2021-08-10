@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>monarchic</h2><div class="git"><span class="ipa">[mə'nɑ:kɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">60054</span><div class="total">293</div></div><div class="coca2">君主政体的(<font color="orangered">58%</font>)，君主的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">君主政体的；君主的；赞成君主政体的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

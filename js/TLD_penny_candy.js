@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>penny candy</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">一便士糖果； ph.；【英】【旧】一分钱糖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

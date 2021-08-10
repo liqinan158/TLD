@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Trade Descriptions Act</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">商品说明法；在英国；商品说明法是防止公司以欺诈或误导方式介绍他们的货物或业务一项法律</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fauxmance</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 捏造恋情（指的是明星们为吸引媒体注意捏造的恋情）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

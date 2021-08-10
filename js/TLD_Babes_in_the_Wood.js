@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Babes in the Wood</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">幼稚易受骗的人；易受伤害的人</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">森林里的小孩；树林中的宝贝；孩干们在森林里</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

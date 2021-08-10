@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drank</h2><div class="git"><span class="ipa">[dræŋk]</span></div><span class="onm">原型:</span><span class="orm">drank 是 drink 的过去式</span><hr/></div><div class="coca2">喝(<font color="orangered">88%</font>)，饮(<font color="orangered">11%</font>)，动词drink的过去式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">喝；喝酒（drink的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Alban, Saint</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">圣阿尔班(?～304?不列颠第一个殉教者，6月22日为其纪念日)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>meh</h2><div class="git"><span class="ipa">[ me]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">给水泵汽轮机控制系统；小汽机电液调节系统</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>GCE</h2><hr/></div><div class="coca2">炮控设备(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">炮控设备（Gun Control Equipment）；（英国）普通教育证书（General Certificate of Education）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Goodwood</h2><div class="git"><span class="ipa">['^jdwjd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(英国苏塞克斯郡境内)古德伍德公园附近举行的赛马会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

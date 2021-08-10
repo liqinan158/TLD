@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>court card</h2><div class="git"><span class="ipa">[kɔ:t kɑ:d]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">人头牌（纸牌中之King,Queen和Jack）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

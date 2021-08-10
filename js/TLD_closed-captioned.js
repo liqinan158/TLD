@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>closed-captioned</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 闭路字幕的（用解码器才能阅读）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

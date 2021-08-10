@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dillinger, John</h2><div class="git"><span class="ipa">['dilindʒə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">迪林杰(1902～1934，美国匪首、“头号公敌”、银行抢劫犯和杀人犯)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

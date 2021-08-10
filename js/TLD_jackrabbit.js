@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jackrabbit</h2><div class="git"><span class="ipa">[ˈdʒækræbɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35315</span><div class="total">2912</div></div><div class="coca2">长耳大野兔(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">长耳大野兔（主要生长于北美西部）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

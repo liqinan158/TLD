@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phonologically</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">音系学地, （一种语言的）语音（或音位）体系地（phonological的副词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

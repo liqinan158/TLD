@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kinetics</h2><div class="git"><span class="ipa">[kɪ'netɪks]</span></div><span class="onm">原型:</span><span class="orm">kinetic</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22262</span><div class="total">9994</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[力] 动力学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

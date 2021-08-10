@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bouquet garni</h2><div class="git"><span class="ipa">[ˌbu:keɪ gɑ:ˈni:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 香料包，烹调混合香料（一束药草，用干酪包布包住或装在小布袋中，在烹调时浸入汤或炖品中）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>house-trained</h2><span class="onm">原型:</span><span class="orm">house-trained 是 house-train 的过去式</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">55306</span><div class="total">527</div></div><div class="gdc"><div class="dcb"><span class="dcn">训练成不在室内大小便的（猫、狗）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

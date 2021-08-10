@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>low-water mark</h2><div class="git"><span class="ipa">[ləu ˈwɔ:tə mɑ:k]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">低潮线；低潮水位标记</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">最低点；低水位线；低潮水位标志</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

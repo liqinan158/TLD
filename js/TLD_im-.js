@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>im-</h2><div class="git"><span class="ipa">[aɪm]</span></div><hr/></div><div class="coca2">表示“否定(<font color="orangered">50%</font>)，与 ... 相反”之义(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">表示“否定，与…相反”之义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

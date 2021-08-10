@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wigeon</h2><div class="git"><span class="ipa">['wɪdʒən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56143</span><div class="total">484</div></div><div class="coca2">水凫(<font color="orangered">50%</font>)，赤颈凫(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">野鸭；水凫；赤颈凫（等于widgeon）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>territorially</h2><div class="git"><span class="ipa">[,teri'tɔ:riəli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">54190</span><div class="total">592</div></div><div class="coca2">领土地(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">在领土方面</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

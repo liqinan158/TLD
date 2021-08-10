@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spreadeagle</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【纹章】展翼鹰；美国人对于本国的自夸自赞；自夸者</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">展鹰</span></div><span class="frm">spreadeagled, spreadeagling, spreadeagles</span></div></div>`;
+window.parent.postMessage(custom_content,'*');

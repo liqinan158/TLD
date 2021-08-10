@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fufu</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 馥馥白糕（将煮熟的芋头或木薯等碾碎制成，常与汤或炖菜一起吃）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

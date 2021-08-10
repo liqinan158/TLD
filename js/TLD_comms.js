@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>comms</h2><div class="git"><span class="ipa">[kɔms]</span></div><span class="onm">原型:</span><span class="orm">comms 是 comm 的复数</span><hr/></div><div class="coca2">通信(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">面向客户制造管理系统（Customer Oriented Manufacturing Management System）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inheritable</h2><div class="git"><span class="ipa">[ɪnˈherɪtəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">44797</span><div class="total">1348</div></div><div class="coca2">可继承的(<font color="orangered">54%</font>)，可遗传的(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可继承的；会遗传的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

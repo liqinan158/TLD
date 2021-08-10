@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bacardi</h2><div class="git"><span class="ipa">[bə'kɑ:di:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">巴卡第（一种古巴的兰姆酒）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Markova, Dame Alicia</h2><div class="git"><span class="ipa">[mɑ:'kəuvə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">马尔科娃(1910～ ，英国芭蕾舞剧女演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

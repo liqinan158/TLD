@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>breadbasket</h2><div class="git"><span class="ipa">[ˈbredbɑ:skɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47532</span><div class="total">1094</div></div><div class="coca2">装面包的篮子(<font color="orangered">75%</font>)，谷物主产地(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">胃；面包篮；产粮地区；大型空投炸弹</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

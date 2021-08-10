@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unruled</h2><div class="git"><span class="ipa">[ˌʌnˈru:ld]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不在控制之下的，未加统治的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

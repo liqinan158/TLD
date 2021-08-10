@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Darby and Joan</h2><div class="git"><span class="ipa">['dɑ:bi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">上了年纪的恩爱夫妻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pentecostalism</h2><div class="git"><span class="ipa">[,pentə'kɔ:stə,lizəm]</span></div><hr/></div><div class="coca2">五旬节的(<font color="orangered">50%</font>)，圣灵降临节的(<font color="orangered">40%</font>)，圣灵降临节集会教徒(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">五旬节派；灵恩派；圣神同祷派；神恩复兴派</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

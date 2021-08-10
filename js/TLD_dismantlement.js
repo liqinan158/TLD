@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dismantlement</h2><div class="git"><span class="ipa">[ˌdɪs'mæntlment]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52260</span><div class="total">713</div></div><div class="coca2">拆卸(<font color="orangered">75%</font>)，拆除的行动或状态(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拆卸；拆除的行动或状态</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

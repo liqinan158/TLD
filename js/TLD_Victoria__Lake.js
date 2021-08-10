@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Victoria, Lake</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">维多利亚湖(东非湖泊, 在乌干达、坦桑尼亚和肯尼亚接壤处, 为世界第二大淡水湖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>audacity</h2><div class="git"><span class="ipa">[ɔ:ˈdæsəti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17329</span><div class="total">17798</div></div><div class="coca2">大胆(<font color="orangered">74%</font>)，厚颜(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大胆；厚颜无耻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

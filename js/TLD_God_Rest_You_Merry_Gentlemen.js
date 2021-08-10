@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>God Rest You Merry Gentlemen</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">天赐欢乐；愿上帝赐你们平安；喜乐的善民</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

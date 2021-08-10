@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>speechlessness</h2><div class="git"><span class="ipa">['spi:tʃlisnis]</span></div><hr/></div><div class="coca2">无言的(<font color="orangered">41%</font>)，说不出话的(<font color="orangered">26%</font>)，不会说话的(<font color="orangered">20%</font>)，非言语能表达的(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一时讲不出话来的样子；哑口无言</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

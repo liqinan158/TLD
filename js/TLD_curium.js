@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>curium</h2><div class="git"><span class="ipa">[ˈkjʊəriəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学][核] 锔（元素符号Cm）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

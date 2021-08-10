@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>honey-do list</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">honey-do list</span></div><div class="dcb"><span class="dcn">(妻子列给丈夫的)假日家务活目录</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

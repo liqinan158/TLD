@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bleariness</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">bleary（睡眼惺忪的, 因缺觉而眼睛模糊的）的变形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

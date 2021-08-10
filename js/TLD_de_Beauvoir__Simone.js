@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>de Beauvoir, Simone</h2><div class="git"><span class="ipa">[dəbəur'wɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">de Beauvoir, Simone(Lucie Ernestine Marie Bertrand)</span></div><div class="dcb"><span class="dcn">[dəbəur'wɑ:]</span></div><div class="dcb"><span class="dcn">德波伏瓦(1908～1986，法国剧作家、小说家和散文家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

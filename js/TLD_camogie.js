@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>camogie</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 卡莫奇（类似于爱尔兰曲棍球的球赛，两支参赛队各有15名女队员）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

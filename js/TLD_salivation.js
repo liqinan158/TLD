@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>salivation</h2><div class="git"><span class="ipa">[ˌsælɪ'veɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36956</span><div class="total">2528</div></div><div class="coca2">流涎症(<font color="orangered">54%</font>)，分泌唾液(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">分泌唾液；流涎症；汞中毒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

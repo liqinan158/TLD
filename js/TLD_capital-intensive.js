@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>capital-intensive</h2><div class="git"><span class="ipa">[ˌkæpɪtlɪnˈtensɪv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">41066</span><div class="total">1820</div></div><div class="coca2">资本密集型的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">资本密集的；投资密集的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

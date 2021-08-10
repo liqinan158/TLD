@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Emmenthal</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【食】瑞士多孔干酪</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">爱芒特奶酪；一种瑞士多孔奶酪；埃门塔尔干酪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

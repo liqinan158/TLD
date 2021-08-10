@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paywall</h2><div class="git"><span class="ipa">['peɪwɔːl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30313</span><div class="total">4572</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">网上付费专区，它通常以阻止用户打开某网页并要求付费的形式出现。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

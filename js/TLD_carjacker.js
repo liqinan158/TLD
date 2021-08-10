@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>carjacker</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52587</span><div class="total">693</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">武力劫夺汽车；抢劫司机财物 (carjacking的变形)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Swallows and Amazons</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">燕子与鹦鹉；燕子和鹦鹉；燕子与亚马逊</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

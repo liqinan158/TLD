@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>partway</h2><div class="git"><span class="ipa">['pɑ:t'weɪ]</span></div><hr/></div><div class="coca2">到中途(<font color="orangered">67%</font>)，到达一半(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">部分地，到某种程度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

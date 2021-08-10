@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>monozygotic twin</h2><div class="git"><span class="ipa">[ˌmɒnəʊzaɪˈgɒtɪk twɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医]单合子双生, 单卵双生; 一卵双胞</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

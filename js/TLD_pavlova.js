@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pavlova</h2><div class="git"><span class="ipa">['pævləvə]</span></div><hr/></div><div class="coca2">奶油蛋白甜饼(<font color="orangered">58%</font>)，奶油水果蛋白饼(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奶油蛋白甜饼</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Pavlova)人名；(俄)帕夫洛娃</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

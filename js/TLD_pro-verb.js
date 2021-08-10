@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pro-verb</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 代动词（意义依另一动词而定, 如She likes chocolate and so do I中的do）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

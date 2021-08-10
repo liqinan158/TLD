@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-human</h2><div class="git"><span class="ipa">[nɔnˈhju:mən]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">22919</span><div class="total">9304</div></div><div class="coca2">非人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">非人类的；非人工的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

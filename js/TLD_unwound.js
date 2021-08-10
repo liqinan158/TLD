@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unwound</h2><div class="git"><span class="ipa">[ˌʌnˈwaʊnd]</span></div><span class="onm">原型:</span><span class="orm">unwound 是 unwind 的过去式</span><hr/></div><div class="coca2">展开(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">未上发条的；未卷绕的；松散的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">松开（unwind的过去式和过去分词）；解开</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

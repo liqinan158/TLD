@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hilton</h2><div class="git"><span class="ipa">[ˈhiltən]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">希尔顿（姓氏）；希尔顿集团（主营酒店和香烟等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

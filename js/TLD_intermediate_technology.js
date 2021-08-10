@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>intermediate technology</h2><div class="git"><span class="ipa">[ˌɪntəˈmi:djət tekˈnɔlədʒi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">中间技术（因成本低廉、简便以及可使用当地原料而适用于发展中国家）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">中级科技；中等科技；介入技术</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

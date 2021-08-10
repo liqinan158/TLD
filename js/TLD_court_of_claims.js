@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>court of claims</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美国）求偿法院（负责审理对政府的申诉案件）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">索赔法院；权利申诉法院；行政法院</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

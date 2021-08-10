@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trail away</h2><div class="git"><span class="ipa">[treil əˈwei]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 散去; （声音）逐渐变弱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eichmann, Adolf</h2><div class="git"><span class="ipa">['aiʃmɑ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">艾希曼(1906～1962，德国纳粹战犯，1960年在阿根廷被以色列人逮捕，被判绞刑)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

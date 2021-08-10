@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polysyllable</h2><div class="git"><span class="ipa">[ˈpɒlisɪləbl]</span></div><hr/></div><div class="coca2">多音节字(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多音节词（多于三个音节的词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

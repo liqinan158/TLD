@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Statehouse</h2><div class="git"><span class="ipa">[s'teɪthaʊs]</span></div><hr/></div><div class="coca2">州议会的议场(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">州议会的议场；州议会大厦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

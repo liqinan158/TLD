@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>accident-prone</h2><div class="git"><span class="ipa">[ˈæksidəntprəun]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">48951</span><div class="total">976</div></div><div class="coca2">易出事故的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">易出事故的；易惹事故的；事故率超出一般的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eden, Sir Anthony</h2><div class="git"><span class="ipa">['i:dən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Eden, Sir(Robert)Anthony</span></div><div class="dcb"><span class="dcn">['i:dən]</span></div><div class="dcb"><span class="dcn">艾登(1897～1977)，英国首相(1955～1957)，保守党领袖(1942～1951)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

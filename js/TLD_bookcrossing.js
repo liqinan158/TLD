@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bookcrossing</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">图书漂流（将一本书留在公共场所, 等待其他人捡走阅读, 捡走书的人读后也会照做）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chavvy</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">chavvy (comparative chavvier, superlative chavviest)</span></div><div class="dcb"><span class="dcn">Of or pertaining to a chav or something that a chav might do or use.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Maupassant, Guy de</h2><div class="git"><span class="ipa">[məup'sɑ:nt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Maupassant, (Henri René Albert) Guy de</span></div><div class="dcb"><span class="dcn">[məup'sɑ:nt]</span></div><div class="dcb"><span class="dcn">莫泊桑（1850～1893，法国小说家，尤以短篇小说著称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

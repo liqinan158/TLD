@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mary,Queen of Scots</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">玛丽女王 (1542～1587)，苏格兰女王(1542～1567)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

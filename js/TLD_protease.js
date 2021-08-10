@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>protease</h2><div class="git"><span class="ipa">[ˈprəʊtieɪz]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22780</span><div class="total">9467</div></div><div class="coca2">蛋白酶(<font color="orangered">97%</font>)，蛋白酶类(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生化] 蛋白酶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flotsam</h2><div class="git"><span class="ipa">[ˈflɒtsəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41454</span><div class="total">1764</div></div><div class="coca2">不值钱的零碎物(<font color="orangered">50%</font>)，无业游民(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">废料；（遇难船的）漂流货物；浮货；零碎物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

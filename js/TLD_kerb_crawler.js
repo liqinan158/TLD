@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kerb crawler</h2><div class="git"><span class="ipa">[kɜ:b ˈkrɔ:lə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （驾车者为了勾搭女人）沿路缘缓慢行驶的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

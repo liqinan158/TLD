@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>un-</h2><div class="git"><span class="ipa">[ʌn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">用于形容词之前，表示“不”；加于动词前，表“做出相反的动作”；加于名词前，表“由…取出”</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

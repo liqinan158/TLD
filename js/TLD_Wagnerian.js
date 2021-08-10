@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wagnerian</h2><div class="git"><span class="ipa">[vɑ:^'niәriәn]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">47451</span><div class="total">1101</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">华格纳之崇拜者或追随者</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">（德国歌剧家、作曲家）华格纳作风的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

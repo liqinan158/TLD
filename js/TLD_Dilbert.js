@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dilbert</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 在工作上被主管过分要求、被主管亏待或利用。通常做 be dilberted 动词词组使用。（源自美国卡通人物Dilbert（呆伯特）。）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

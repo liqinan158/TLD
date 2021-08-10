@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>post-paid</h2><div class="git"><span class="ipa">[ˈpəʊstˈpeɪd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 邮资已付（的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

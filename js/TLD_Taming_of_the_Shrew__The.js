@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Taming of the Shrew, The</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">《驯悍记》(莎士比亚喜剧，1593)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

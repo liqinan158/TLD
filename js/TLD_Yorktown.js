@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Yorktown</h2><div class="git"><span class="ipa">['jɔ:ktajn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">约克城（美国弗吉尼亚州东南部城镇）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

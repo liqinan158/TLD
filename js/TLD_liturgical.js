@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>liturgical</h2><div class="git"><span class="ipa">[lɪ'tɜ:dʒɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">16867</span><div class="total">18884</div></div><div class="coca2">礼拜式的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">礼拜仪式的（等于liturgic）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

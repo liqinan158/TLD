@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nom</h2><div class="git"><span class="ipa">[n:m]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">名义上的（等于nominal）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Nom)人名；(柬、泰)农</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

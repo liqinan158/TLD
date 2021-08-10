@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>maharaja</h2><div class="git"><span class="ipa">[ˌmɑ:həˈrɑ:dʒə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49590</span><div class="total">921</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（印度的）王公</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

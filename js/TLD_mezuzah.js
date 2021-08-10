@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mezuzah</h2><div class="git"><span class="ipa">['metsu:zə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51096</span><div class="total">798</div></div><div class="coca2">犹太人贴在门口的安家符(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">(犹太教)门柱圣卷</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

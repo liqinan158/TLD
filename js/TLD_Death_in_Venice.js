@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Death in Venice</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 13</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 7</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">魂断威尼斯；威尼斯之死；死在威尼斯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

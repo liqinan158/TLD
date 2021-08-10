@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fleur-de-lis</h2><div class="git"><span class="ipa">[ˌflɜ:də'li:]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">42926</span><div class="total">1563</div></div><div class="coca2">鸢尾(<font color="orangered">60%</font>)，鸢尾花形的纹章(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鸢尾；鸢尾花形的纹章；旧时法兰西王室纹章</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

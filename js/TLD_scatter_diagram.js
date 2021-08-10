@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scatter diagram</h2><div class="git"><span class="ipa">[ˈskætəgræm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（表示两变量关系的）点聚图</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">散布图；散点图；分布图</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

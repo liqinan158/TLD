@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>factive</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 叙实的， 事实性的 （如 know 和 realize）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

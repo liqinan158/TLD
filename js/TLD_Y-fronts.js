@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Y-fronts</h2><span class="onm">原型:</span><span class="orm">y-fronts 是 y-front 的复数</span><hr/></div><div class="coca2">缝有倒Y形缝的内裤(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">（前部有倒Y字形开口的）男式内裤（y-front的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

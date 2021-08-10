@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>misogynistic</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26804</span><div class="total">6317</div></div><div class="coca2">与'misogynist'意思相同(<font color="orangered">50%</font>)，厌恶女人者(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">歧视女性的</span></div><div class="dcb"><span class="dcn">厌恶女人的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

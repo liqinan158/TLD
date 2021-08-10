@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cajun</h2><div class="git"><span class="ipa">['keɪdʒ(ə)n]</span></div><hr/></div><div class="coca2">阿卡迪亚烹饪风格的(<font color="orangered">50%</font>)，阿卡迪亚人的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">法人后裔（移居美国路易斯安纳州的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

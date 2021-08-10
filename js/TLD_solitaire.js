@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>solitaire</h2><div class="git"><span class="ipa">[ˌsɒlɪˈteə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20286</span><div class="total">12481</div></div><div class="coca2">单人纸牌(<font color="orangered">60%</font>)，独粒宝石(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">单粒宝石的饰物; 独居者; 单人玩的牌戏; 隐士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

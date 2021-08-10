@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Robinson, Edward G.</h2><div class="git"><span class="ipa">['rɔbinsən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">鲁滨逊(1893～1973，罗马尼亚出生的美国电影演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

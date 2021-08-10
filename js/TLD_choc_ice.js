@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>choc ice</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">巧克力脆皮冰淇淋；紫雪糕</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">脆皮雪条；巧克力冰沙；夹心巧克力冰激淋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>efficiently</h2><div class="git"><span class="ipa">[ɪ'fɪʃntlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">4251</span><div class="total">238800</div></div><div class="coca2">有效地(<font color="orangered">75%</font>)，高效率地(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">有效地；效率高地（efficient的副词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

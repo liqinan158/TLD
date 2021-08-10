@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>banoffi pie</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 香蕉太妃派（用乳脂糖、香蕉和奶油制成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

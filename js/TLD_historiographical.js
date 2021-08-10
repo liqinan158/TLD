@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>historiographical</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">47383</span><div class="total">1106</div></div><div class="coca2">编史(<font color="orangered">64%</font>)，史料编纂法(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">编史</span></div><div class="dcb"><span class="dcn">史料编纂法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

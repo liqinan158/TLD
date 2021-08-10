@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kilowatt-hour</h2><div class="git"><span class="ipa">[ˈkiləuwɔtˈauə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28158</span><div class="total">5534</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">千瓦时；一度电（能量单位）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

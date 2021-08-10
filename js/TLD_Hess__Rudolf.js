@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hess, Rudolf</h2><div class="git"><span class="ipa">['vɑ:ltə'ritʃɑ:t'ru:dɔ:lf]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Hess,(Walther Richard)Rudolf</span></div><div class="dcb"><span class="dcn">['vɑ:ltə'ritʃɑ:t'ru:dɔ:lf]</span></div><div class="dcb"><span class="dcn">赫斯(1894～1987，德国纳粹党头子)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

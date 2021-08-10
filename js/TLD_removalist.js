@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>removalist</h2><div class="git"><span class="ipa">[rɪ'mu:vəlɪst]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;澳&gt;（代客搬家的）搬运工，搬运商，搬运公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

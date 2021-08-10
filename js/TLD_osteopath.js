@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>osteopath</h2><div class="git"><span class="ipa">[ˈɒstiəpæθ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35920</span><div class="total">2769</div></div><div class="coca2">整骨疗法家(<font color="orangered">50%</font>)，整骨医生(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">整骨疗法家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>enjambement</h2><div class="git"><span class="ipa">[ɪnˈdʒæmbmənt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（诗句的）跨行连续</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

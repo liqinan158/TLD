@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impassively</h2><div class="git"><span class="ipa">[ɪm'pæsɪvlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">53061</span><div class="total">662</div></div><div class="coca2">无感情地(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">无感情地；缺乏热情；冷淡，冷漠</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

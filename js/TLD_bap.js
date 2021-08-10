@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bap</h2><div class="git"><span class="ipa">[bæp]</span></div><hr/></div><div class="coca2">=Bapt.(<font color="orangered">34%</font>)，浸礼会的(<font color="orangered">33%</font>)，浸礼会教徒(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">软面包卷</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Bap)人名；(英)巴普</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

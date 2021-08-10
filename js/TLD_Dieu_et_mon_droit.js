@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dieu et mon droit</h2><div class="git"><span class="ipa">['djɔ ei mәun 'drɔit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[法]上有天帝, 我有权利(英王的座右铭)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

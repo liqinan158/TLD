@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>psst</h2><div class="git"><span class="ipa">[pst]</span></div><hr/></div><div class="coca2">为引起人的注意时所发的声音(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">喂！；为引起人的注意时所发的声音</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

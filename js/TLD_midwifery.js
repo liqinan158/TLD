@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>midwifery</h2><div class="git"><span class="ipa">[ˌmɪdˈwɪfəri]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17587</span><div class="total">17226</div></div><div class="coca2">助产术(<font color="orangered">50%</font>)，产科学(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">产科学，助产学；助产术；促成</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

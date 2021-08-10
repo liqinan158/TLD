@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chequered flag</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （赛车到达终点时挥动的）黑白方格旗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

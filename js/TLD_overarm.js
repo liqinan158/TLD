@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overarm</h2><div class="git"><span class="ipa">[ˈəʊvərɑ:m]</span></div><hr/></div><div class="coca2">举手过肩而投球的(<font color="orangered">75%</font>)，拔手泳的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">举手过肩而投球的；（游泳）自由式的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rogers, Ginger</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">罗杰斯(1911～ ，美国电影女演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

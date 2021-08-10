@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hard-code</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 编写硬代码, 编写硬编码（编码不会被轻易更改）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

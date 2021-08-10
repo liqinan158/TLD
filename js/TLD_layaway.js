@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>layaway</h2><div class="git"><span class="ipa">[ˈleɪəweɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33366</span><div class="total">3441</div></div><div class="coca2">通过预约订购保留下来的东西(<font color="orangered">50%</font>)，预约订购法(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">保留供将来客户付清货款的商品；制革桶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

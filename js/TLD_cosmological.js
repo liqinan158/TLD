@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cosmological</h2><div class="git"><span class="ipa">[ˌkɒzmə'lɒdʒɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">24013</span><div class="total">8319</div></div><div class="coca2">宇宙哲学的(<font color="orangered">54%</font>)，宇宙论的(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">宇宙论的；宇宙哲学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

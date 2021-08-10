@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Flash Gordon</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 12</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 12</div><div class="gdc"><div class="dcb"><span class="dcn">闪电戈登(美国1933年以来流行的科学幻想连环图画和电影中的主人公)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

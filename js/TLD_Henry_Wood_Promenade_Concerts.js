@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Henry Wood Promenade Concerts</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">亨利伍德逍遥音乐会；亨利伍德露天音乐会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

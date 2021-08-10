@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>man boob</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">肥大的男性乳房；男波波</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">男人胸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

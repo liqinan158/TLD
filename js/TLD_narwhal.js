@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>narwhal</h2><div class="git"><span class="ipa">[ˈnɑ:wəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52005</span><div class="total">731</div></div><div class="coca2">独角鲸(<font color="orangered">72%</font>)，一角鲸(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">独角鲸（等于narwal）；[脊椎] 一角鲸（一种齿鲸，雄性有一长牙）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

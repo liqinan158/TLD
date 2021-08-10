@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fleming, Sir Alexander</h2><div class="git"><span class="ipa">['flemiŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">弗莱明爵士(1881～1995，英国细菌学家，青霉素的共同发现者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

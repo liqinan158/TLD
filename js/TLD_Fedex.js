@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fedex</h2><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">21861</span><div class="total">10436</div></div><div class="coca2">主要经营邮递包裹运输)(<font color="orangered">34%</font>)，联邦快递(财富500强公司之一(<font color="orangered">33%</font>)，总部所在地美国(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">联邦快递（等于the Federal Express）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

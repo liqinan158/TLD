@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>asynchronous</h2><div class="git"><span class="ipa">[eɪˈsɪŋkrənəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">13636</span><div class="total">29590</div></div><div class="coca2">异步的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[电] 异步的；不同时的；不同期的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

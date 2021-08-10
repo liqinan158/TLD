@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pearl S Buck</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">赛珍珠；美国女作家赛珍珠；S·巴克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

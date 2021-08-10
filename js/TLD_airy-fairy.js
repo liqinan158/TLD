@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>airy-fairy</h2><div class="git"><span class="ipa">[ˈeəri:ˈfeəri:]</span></div><hr/></div><div class="coca2">空想的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">空想的；象童话中仙子般的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gym bunny</h2><div class="git"><span class="ipa">[dʒim ˈbʌni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （美俚）过度重视健美的男同性恋或女同性恋者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

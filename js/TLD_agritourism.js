@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>agritourism</h2><div class="git"><span class="ipa">[ˈægrɪtʊərɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50878</span><div class="total">814</div></div><div class="coca2">农业旅游(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">农业旅游</span></div><div class="dcb"><span class="dcn">观光农业</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

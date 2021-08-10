@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>powerlifting</h2><div class="git"><span class="ipa">[ˈpaʊəlɪftɪŋ]</span></div><span class="onm">原型:</span><span class="orm">powerlifting 是 powerlift 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">力量举重(20世纪70年代初从举重运动中分化出来的一项新兴运动，以深蹲、卧推和硬拉为比赛内容)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

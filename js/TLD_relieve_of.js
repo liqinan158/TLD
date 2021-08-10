@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>relieve of</h2><div class="git"><span class="ipa">[riˈli:v ɔv]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 23</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 11</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn"> 解除（某人）的（负担、困难等）; 免除（某人）的（职务、麻烦等）; 盗取（某人）的（东西）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

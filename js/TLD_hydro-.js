@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hydro-</h2><div class="git"><span class="ipa">['haɪdrəʊ]</span></div><hr/></div><div class="coca2">表示“水(<font color="orangered">30%</font>)，液(<font color="orangered">28%</font>)，流体”之义(<font color="orangered">28%</font>)，表示“氢的 含氢的”之义(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">表示“氢的，含氢的”之义；表示“水， 液，流体”之义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

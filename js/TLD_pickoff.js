@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pickoff</h2><div class="git"><span class="ipa">[ˈpɪkɒf]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51431</span><div class="total">772</div></div><div class="coca2">以牵制球使出局(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">以牵制球使出局；选截器；传感器；敏感元件</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

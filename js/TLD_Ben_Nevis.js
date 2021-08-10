@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ben Nevis</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 16</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="dcn">本尼维斯山（位于英国苏格兰中西部, 是英伦三岛的最高峰）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

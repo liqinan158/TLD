@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kris</h2><div class="git"><span class="ipa">[kri:s]</span></div><hr/></div><div class="coca2">=creese.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">波壮刃短剑（等于creese，马来西亚和印尼的）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Kris)人名；(印、阿拉伯)克里斯；(泰)吉；(英)克里斯，克丽丝(女名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

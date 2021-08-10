@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>postman's knock</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">〈英〉邮递员敲门游戏(一种儿童游戏，一人装作给另一个人送信，以索吻作为奖赏)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

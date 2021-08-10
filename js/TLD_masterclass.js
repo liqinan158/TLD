@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>masterclass</h2><div class="git"><span class="ipa">[ˈmɑ:stəklɑ:s]</span></div><hr/></div><div class="coca2">高级音乐讲习班(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（由舞蹈、音乐等方面的名家为优秀生讲授的）高级讲习班</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>staff nurse</h2><div class="git"><span class="ipa">[stɑ:f nə:s]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英国）医院护士</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">科室护士；护理人员；护理护士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

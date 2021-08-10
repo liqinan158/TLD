@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>co-worker</h2><div class="git"><span class="ipa">[ˈkəʊˌwɜ:kə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">5593</span><div class="total">155082</div></div><div class="coca2">合作者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">同事；合作者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

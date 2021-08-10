@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stateswoman</h2><div class="git"><span class="ipa">[s'teɪtswʊmən]</span></div><hr/></div><div class="coca2">妇女政治家(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女政治家；有治国才能的女子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

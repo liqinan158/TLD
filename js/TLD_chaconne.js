@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chaconne</h2><div class="git"><span class="ipa">[ʃə'kɒn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(16-18世纪法国宫廷流行的)恰空舞（一种3/4拍子的舞蹈），恰空舞曲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

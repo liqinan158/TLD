@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flung</h2><div class="git"><span class="ipa">[flʌŋ]</span></div><span class="onm">原型:</span><span class="orm">flung 是 fling 的过去式和过去分词</span><hr/></div><div class="coca2">动词fling的过去式和过去分词形式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">挥动（fling的过去式及过去分词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

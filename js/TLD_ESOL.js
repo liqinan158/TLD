@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ESOL</h2><div class="git"><span class="ipa">['esәl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">English for Speakers of Other Languages&lt;主美&gt; 操其他语种者的英语课程</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bogart, Humphrey</h2><div class="git"><span class="ipa">['bəuɡɑ:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">博加特(1899～1957，美国电影演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

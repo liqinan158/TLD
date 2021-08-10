@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homogeneously</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">53568</span><div class="total">630</div></div><div class="coca2">同质的(<font color="orangered">49%</font>)，同种的(<font color="orangered">29%</font>)，相似的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">同样地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

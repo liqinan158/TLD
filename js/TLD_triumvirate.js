@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>triumvirate</h2><div class="git"><span class="ipa">[traɪˈʌmvərət]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33383</span><div class="total">3434</div></div><div class="coca2">三人统治执政(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">三头统治；三人执政</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>IELTS</h2><hr/></div><div class="coca2">雅思考试(<font color="orangered">88%</font>)，= The International English Language Testing System 国际英语能力测验系统(<font color="orangered">4%</font>)，国际英语考试(<font color="orangered">4%</font>)，abbr.(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">雅思（The International English Language Testing System）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

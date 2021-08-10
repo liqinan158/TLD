@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paratha</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49313</span><div class="total">948</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 抛饼（南亚食品，不发酵，通常用鏊子煎成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

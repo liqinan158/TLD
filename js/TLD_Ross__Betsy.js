@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ross, Betsy</h2><div class="git"><span class="ipa">[rɔs; rɔ:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">罗斯(1752～1836，美国女裁缝，因制作第一面美国国旗而闻名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

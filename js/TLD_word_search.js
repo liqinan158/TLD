@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>word search</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">词检索；搜索；单词搜索</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

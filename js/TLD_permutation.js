@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>permutation</h2><div class="git"><span class="ipa">[ˌpɜ:mjuˈteɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16852</span><div class="total">18923</div></div><div class="coca2">排列(<font color="orangered">73%</font>)，交换(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[数] 排列；[数] 置换</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

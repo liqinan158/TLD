@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dhania</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 香菜叶, 香菜籽（用作调味料）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

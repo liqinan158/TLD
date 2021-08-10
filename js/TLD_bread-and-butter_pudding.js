@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bread-and-butter pudding</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 面包黄油布丁, 面包奶油布丁（黄油面包层加干果在鸡蛋牛奶中烘焙而成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

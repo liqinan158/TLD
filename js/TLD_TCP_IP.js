@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>TCP/IP</h2><div class="git"><span class="ipa">[ˌti: si: ˌpi: aɪ ˈpi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">用于网络的一组通讯协议（包括IP和TCP）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

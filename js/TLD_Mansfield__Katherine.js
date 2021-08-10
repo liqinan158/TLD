@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mansfield, Katherine</h2><div class="git"><span class="ipa">['mænsfi:ld]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">曼斯菲尔德 (1888～1923，英国短篇小说女作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chipotle</h2><div class="git"><span class="ipa">[ʃɪpɒtlə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23394</span><div class="total">8871</div></div><div class="coca2">墨西哥干辣椒(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">干红辣椒，烟味辣椒，墨西哥风味快速便餐</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

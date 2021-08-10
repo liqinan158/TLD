@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>photoreceptor</h2><div class="git"><span class="ipa">[ˈfəʊtəʊrɪseptə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27929</span><div class="total">5654</div></div><div class="coca2">光感受器(<font color="orangered">56%</font>)，感光器(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生理] 光感受器；[生理][动] 感光器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

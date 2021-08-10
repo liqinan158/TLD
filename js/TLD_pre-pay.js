@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-pay</h2><hr/></div><div class="coca2">服务模式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">预付；提前缴纳</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>receivables</h2><div class="git"><span class="ipa">[rɪˈsi:vəblz]</span></div><span class="onm">原型:</span><span class="orm">receivables 是 receivable 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 应收账户，应收账款，应收票据</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

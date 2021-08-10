@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pot-bellied</h2><span class="onm">原型:</span><span class="orm">pot-bellied 是 pot-belly 的过去式</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">44472</span><div class="total">1383</div></div><div class="coca2">大腹的(<font color="orangered">50%</font>)，有圆肚的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">有圆肚的；大腹的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

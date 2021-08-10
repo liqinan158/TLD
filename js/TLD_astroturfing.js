@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>astroturfing</h2><div class="git"><span class="ipa">['æstrəutə:f]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【商标】(用绿色尼龙等材料制成铺设运动场等的)人造草皮，阿斯特罗草皮[参较 Grasstex， Har-Tru， Tartan Turf]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

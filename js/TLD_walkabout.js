@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>walkabout</h2><div class="git"><span class="ipa">[ˈwɔ:kəbaʊt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">徒步旅行；长期旅行；（澳洲土著的）短期丛林流浪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

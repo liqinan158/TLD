@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sambo</h2><div class="git"><span class="ipa">[ˈsæmbəu]</span></div><hr/></div><div class="coca2">黑人与印第安人或黑白混血儿的后裔(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">黑人；黑人与印第安人或欧洲人的混血儿</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Sambo)人名；(意、柬、马达、贝宁、尼日尔)桑博</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

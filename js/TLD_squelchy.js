@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>squelchy</h2><div class="git"><span class="ipa">['skweltʃi]</span></div><span class="onm">级别:</span><span class="qrm">squelchier, squelchiest</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">57189</span><div class="total">433</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">嘎吱声的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

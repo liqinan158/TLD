@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inorganically</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">无机地, 无机物地, 无组织体系地（inorganic的副词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

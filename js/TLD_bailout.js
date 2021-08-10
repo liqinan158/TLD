@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bailout</h2><div class="git"><span class="ipa">[ˈbeɪlaʊt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15448</span><div class="total">22787</div></div><div class="coca2">紧急融资(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">紧急救助；跳伞</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

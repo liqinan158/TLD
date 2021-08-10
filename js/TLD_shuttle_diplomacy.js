@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shuttle diplomacy</h2><div class="git"><span class="ipa">[ˈʃʌtl dɪˈpləʊməsi:]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 12</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">穿梭外交</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">穿梭式外交</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

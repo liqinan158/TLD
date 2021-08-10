@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wikipedia</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">维基百科（一个基于wiki技术的多语言的百科全书协作计划, 也是一部用不同语言写成的网络百科全书, 其目标及宗旨是为全人类提供自由的百科全书）；开放性的百科全书</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

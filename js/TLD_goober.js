@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>goober</h2><div class="git"><span class="ipa">['gu:bə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44558</span><div class="total">1374</div></div><div class="coca2">落花生(<font color="orangered">50%</font>)，花生(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">花生；落花生（等于goober pea）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

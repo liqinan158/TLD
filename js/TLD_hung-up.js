@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hung-up</h2><hr/></div><div class="coca2">迷恋于(<font color="orangered">34%</font>)，心理有问题的(<font color="orangered">33%</font>)，专心于(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">挂断，提高；挂起来；套牢</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Little John</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 26</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 21</div><div class="gdc"><div class="dcb"><span class="dcn">小约翰（英国传说中侠盗罗宾汉手下）；[军] 小约翰火箭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

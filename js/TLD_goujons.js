@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>goujons</h2><span class="onm">原型:</span><span class="orm">goujons 是 goujon 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(goujon 的复数) n. 扁头鲶鱼（等于flathead catfish）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

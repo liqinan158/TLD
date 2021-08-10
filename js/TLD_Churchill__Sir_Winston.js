@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Churchill, Sir Winston</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Churchill, Sir Winston (Leonard Spencer)</span></div><div class="dcb"><span class="dcn">丘吉尔爵士 (1874～1965)，英国保守党领袖、作家，英国首相(1940～1945， 1951～1955)， 获1953年诺贝尔文学奖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

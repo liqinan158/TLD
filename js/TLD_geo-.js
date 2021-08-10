@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>geo-</h2><div class="git"><span class="ipa">[ˈdʒi:əu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">comb.</span><span class="dcn">地球；土地（等于ge-）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

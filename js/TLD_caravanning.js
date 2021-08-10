@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>caravanning</h2><div class="git"><span class="ipa">[ˈkærəvænɪŋ]</span></div><span class="onm">原型:</span><span class="orm">caravanning 是 caravan 的现在分词</span><hr/></div><div class="coca2">乘宿营旅行车度假(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">乘旅行拖车外出度假</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

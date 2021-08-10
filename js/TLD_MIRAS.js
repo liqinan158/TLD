@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MIRAS</h2><span class="onm">原型:</span><span class="orm">miras 是 mira 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(mira 的复数) n. [天]（鲸鱼星座中的）薴藁增二</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>industrialism</h2><div class="git"><span class="ipa">[ɪnˈdʌstriəlɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45788</span><div class="total">1252</div></div><div class="coca2">产业主义(<font color="orangered">65%</font>)，工业制度(<font color="orangered">35%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">产业主义，工业主义；工业制度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

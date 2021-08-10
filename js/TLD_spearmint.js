@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spearmint</h2><div class="git"><span class="ipa">[ˈspɪəmɪnt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32169</span><div class="total">3852</div></div><div class="coca2">留兰香(<font color="orangered">88%</font>)，荷兰薄荷(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">绿薄荷；[园艺] 留兰香（等于Mentha spicata）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

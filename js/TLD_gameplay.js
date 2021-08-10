@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gameplay</h2><div class="git"><span class="ipa">[ˈgeɪmpleɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">5541</span><div class="total">157570</div></div><div class="coca2">电脑游戏玩法(<font color="orangered">50%</font>)，指电脑游戏设计的方式和所需的技巧(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">游戏设置</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

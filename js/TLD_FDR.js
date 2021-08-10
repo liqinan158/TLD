@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>FDR</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">富兰克林·德兰诺·罗斯福（美国第三十二任总统）（Franklin Delano Roosevelt）；飞行资料记录器（ flight data recorder ）；x射线量刻度盘读数（fluorometer dial readings）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

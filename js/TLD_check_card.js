@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>check card</h2><div class="git"><span class="ipa">[tʃek kɑ:d]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">检验卡片；检查卡片</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">支票卡；支票保证卡；信用卡之支票卡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sportscast</h2><div class="git"><span class="ipa">[ˈspɔ:tskɑ:st]</span></div><hr/></div><div class="coca2">比赛实况说明(<font color="orangered">50%</font>)，运动比赛转播(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">运动比赛转播；比赛实况说明</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

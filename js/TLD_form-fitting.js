@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>form-fitting</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">33632</span><div class="total">3362</div></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">贴身的</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">合身的；形状配合的；适体</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

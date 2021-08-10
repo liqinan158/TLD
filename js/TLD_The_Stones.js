@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>The Stones</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">滚石；滚石乐团；斯通斯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

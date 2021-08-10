@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dutch Reformed Church</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">【基督教】(南非)荷兰归正会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

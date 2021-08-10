@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oxon</h2><div class="git"><span class="ipa">['ɔksɔn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(=Oxfordshire)牛津郡(英格兰中南部的一郡, 首府Oxford)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

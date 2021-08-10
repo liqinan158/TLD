@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>text-to-speech</h2><div class="git"><span class="ipa">['teksttu'spi:tʃ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">34924</span><div class="total">3007</div></div><div class="coca2">文语转换(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">语音合成；文字转语音；文字-话音切换</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

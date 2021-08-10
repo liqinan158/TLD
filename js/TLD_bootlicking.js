@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bootlicking</h2><div class="git"><span class="ipa">[ˈbu:tlikɪŋ]</span></div><span class="onm">原型:</span><span class="orm">bootlicking 是 bootlick 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">&lt;俚&gt;拍马屁，谄媚( bootlick的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

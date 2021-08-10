@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>burqa</h2><div class="git"><span class="ipa">['bɜ:kə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35925</span><div class="total">2768</div></div><div class="coca2">=burka.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">布卡（伊斯兰国家妇女穿的全身式罩袍）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

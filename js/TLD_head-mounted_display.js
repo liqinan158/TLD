@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>head-mounted display</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">头盔显示（可产生三维空间的幻觉），头盔显示器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

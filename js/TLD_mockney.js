@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mockney</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Mockney</span></div><div class="dcb"><span class="dcn">['mɔkni]</span></div><div class="dcb"><span class="pos">n.</span></div><div class="dcb"><span class="dcn">模仿伦敦方言口音的人，(模仿伦敦方言口音)装作无产者的人，假冒伦敦东区佬的人，假冒无产阶级者</span></div><div class="dcb"><span class="dcn">以上来源于：《21世纪大英汉词典》</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

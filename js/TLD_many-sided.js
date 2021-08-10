@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>many-sided</h2><div class="git"><span class="ipa">['menɪ'saɪdɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">54476</span><div class="total">576</div></div><div class="coca2">多方面的(<font color="orangered">60%</font>)，多边的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">多方面的；多边的；多种性质的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

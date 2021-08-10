@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jockstrap</h2><div class="git"><span class="ipa">[ˈdʒɒkstræp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45671</span><div class="total">1261</div></div><div class="coca2">护身三角绷带(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">下体弹力护身；护身三角绷带</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

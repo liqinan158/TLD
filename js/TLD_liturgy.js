@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>liturgy</h2><div class="git"><span class="ipa">[ˈlɪtədʒi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14260</span><div class="total">26958</div></div><div class="coca2">圣餐仪式(<font color="orangered">82%</font>)，礼拜形式(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">礼拜仪式；圣餐仪式；祷告文</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

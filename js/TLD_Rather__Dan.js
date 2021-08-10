@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rather, Dan</h2><div class="git"><span class="ipa">['rɑ:ðə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">拉瑟(1931～ ，美国哥伦比亚广播公司首席新闻广播员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

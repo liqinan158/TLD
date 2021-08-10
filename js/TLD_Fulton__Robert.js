@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fulton, Robert</h2><div class="git"><span class="ipa">['fultən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">富尔顿(1765～1815，美国发明家、工程师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aapa</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">亚太航空协会（Association Of Asia Pacific Airlines）；美国助理内科医师协会（American Academy of Physician's Assistants）；美洲港务局协会（American Association of Port Authorities）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

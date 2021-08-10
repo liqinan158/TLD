@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>poutine</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34326</span><div class="total">3166</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 肉汁乳酪薯条（以软乳酪覆盖，浇肉汁等食用）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

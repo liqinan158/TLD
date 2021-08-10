@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>milk tooth</h2><div class="git"><span class="ipa">[milk tu:θ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乳齿；乳牙</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">奶牙；暂牙</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

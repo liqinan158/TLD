@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>goody two shoes</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">过于正经的人（对人对己要求很高）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">假正经的人；自命清高的人；伪君子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

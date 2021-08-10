@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rochester</h2><div class="git"><span class="ipa">['rɒtʃɪstə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">罗契斯特市（美国明尼苏达州一城市）；罗契斯特市（美国纽约州港市）；罗契斯特市（英国东南部一城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

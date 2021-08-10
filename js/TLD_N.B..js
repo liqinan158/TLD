@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>N.B.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">留心(=New Brunswick)新布伦兹维克</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">注意；毒品调查科；代表人民的利益</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

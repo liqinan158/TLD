@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slacktivist</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">懒惰的社会知识分子（在网上换换头像颜色、或者对某个事件发布一条状态更新，而不是用积极行动去支持这件事的人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Turner, Nat</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">特纳(1800～1831，美国黑奴，领导1831年奴隶起义)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

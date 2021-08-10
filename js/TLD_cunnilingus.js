@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cunnilingus</h2><div class="git"><span class="ipa">[ˌkʌnɪˈlɪŋgəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50603</span><div class="total">836</div></div><div class="coca2">=cunnilinctus.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">舔阴，为她口交</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

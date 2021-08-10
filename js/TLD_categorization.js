@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>categorization</h2><div class="git"><span class="ipa">[ˌkætəɡəraɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20883</span><div class="total">11683</div></div><div class="coca2">分门别类(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">分类；分门别类；编目方法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>endogamy</h2><div class="git"><span class="ipa">[enˈdɒgəmi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60741</span><div class="total">268</div></div><div class="coca2">同系交配(<font color="orangered">60%</font>)，同族结婚(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">同部族婚姻；同组结婚；同族结婚；[植] 同系配合，[生物] 同系交配</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

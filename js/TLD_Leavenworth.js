@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Leavenworth</h2><div class="git"><span class="ipa">['levnwə:θ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">莱文沃斯（美国堪萨斯州东北部城市名, 是位于西雅图东边约2小时车程的一个德国村, 在那里有德国啤酒, 音乐和传统服装）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>East River</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 20</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 20</div><div class="gdc"><div class="dcb"><span class="dcn">东河（美国纽约州东南部的海峡, 位于曼哈顿岛与长岛之间）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

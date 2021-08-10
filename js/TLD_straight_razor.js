@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>straight razor</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 14</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 14</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(一般理发厅用的)折叠式剃刀</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">直形剃刀；直剃刀；连续剃须刀</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

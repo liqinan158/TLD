@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hospital-acquired</h2><div class="git"><span class="ipa">[ˈhɔspitəl əˈkwaɪəd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">40981</span><div class="total">1830</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 医源性; 院内</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

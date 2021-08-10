@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teletypewriter</h2><div class="git"><span class="ipa">[ˌteliˈtaɪpraɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59328</span><div class="total">331</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电传打字机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

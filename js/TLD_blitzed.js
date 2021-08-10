@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blitzed</h2><div class="git"><span class="ipa">[blitst]</span></div><span class="onm">原型:</span><span class="orm">blitzed 是 blitze 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">极累的，烂醉如泥的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">用闪电战攻击( blitz的过去式 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

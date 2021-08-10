@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>propelling pencil</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">自动铅笔；活动铅笔（等于mechanical pencil ）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

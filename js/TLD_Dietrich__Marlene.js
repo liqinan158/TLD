@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dietrich, Marlene</h2><div class="git"><span class="ipa">['di:trif; mɑ:'leinə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">黛德丽(1904～1992，美籍德国女电影演员、歌唱家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blunderbuss</h2><div class="git"><span class="ipa">[ˈblʌndəbʌs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49756</span><div class="total">909</div></div><div class="coca2">老犯错误的人(<font color="orangered">50%</font>)，老式的大口径短炮或枪(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">老式的大口径短枪；轻率的人；蠢材</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

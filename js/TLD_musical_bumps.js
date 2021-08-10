@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>musical bumps</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 音乐屁股蹲（儿童游戏, 每次乐声停止时最后坐下者被淘汰）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

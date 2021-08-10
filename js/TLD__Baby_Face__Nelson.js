@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>'Baby Face' Nelson</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">娃娃脸尼尔森；娃娃脸纳尔逊；孩子脸尼尔逊</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

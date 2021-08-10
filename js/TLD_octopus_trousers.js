@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>octopus trousers</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 章鱼须长裤（缀有很多布条）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

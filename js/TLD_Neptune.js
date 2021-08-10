@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Neptune</h2><div class="git"><span class="ipa">['neptju:n]</span></div><hr/></div><div class="coca2">海王星(<font color="orangered">72%</font>)，海神(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[天] 海王星；海神</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

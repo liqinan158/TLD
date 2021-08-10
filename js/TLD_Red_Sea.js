@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Red Sea</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 30</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 9</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 15</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">红海（印度洋西北的长形内海, 在亚洲阿拉伯半岛同非洲东北部之间）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

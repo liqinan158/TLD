@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>commutable</h2><div class="git"><span class="ipa">[kəˈmju:təbl]</span></div><hr/></div><div class="coca2">可取代的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可取代的；可交换的；可抵偿的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Callaghan, James</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">詹姆斯·卡拉汉（1976-1979英国首相）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

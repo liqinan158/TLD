@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>socio-</h2><div class="git"><span class="ipa">[ˈsəʊsiəʊ]</span></div><hr/></div><div class="coca2">1(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">comb.</span><span class="dcn">表示“社会的”，“社会主义的”之义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

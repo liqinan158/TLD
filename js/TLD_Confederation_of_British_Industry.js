@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Confederation of British Industry</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">英国工业联合会</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国工业联盟；英国工商业联合会；英国工业联会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

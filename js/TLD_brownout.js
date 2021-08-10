@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brownout</h2><div class="git"><span class="ipa">['braʊnaʊt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46623</span><div class="total">1172</div></div><div class="coca2">警戒灯火管制(<font color="orangered">50%</font>)，使电灯暗淡(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">使电灯暗淡；警戒灯火管制；（工作等）动力减退</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

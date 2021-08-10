@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eyepiece</h2><div class="git"><span class="ipa">[ˈaɪpi:s]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15870</span><div class="total">21522</div></div><div class="coca2">目镜(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[光] 目镜，[光] 接目镜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

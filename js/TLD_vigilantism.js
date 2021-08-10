@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vigilantism</h2><div class="git"><span class="ipa">[ˌvɪdʒɪ'læntɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45295</span><div class="total">1300</div></div><div class="coca2">治安维持会的政策(制度(<font color="orangered">50%</font>)，做法)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）治安委员会的政策</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

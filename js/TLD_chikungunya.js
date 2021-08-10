@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chikungunya</h2><div class="git"><span class="ipa">[ˌtʃɪkənˈgʌnjə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医]切昆贡亚热：一种由甲病毒(alphavirus)所致自限性登革热样疾患, 主要由伊蚊(Aedes)传播</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

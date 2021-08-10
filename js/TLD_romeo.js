@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>romeo</h2><div class="git"><span class="ipa">['rәumiәu]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">罗密欧（莎士比亚悲剧《罗密欧与朱丽叶》之男主角）；热恋的男子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

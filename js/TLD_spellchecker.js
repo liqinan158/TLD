@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spellchecker</h2><div class="git"><span class="ipa">[ˈspeltʃekə(r)]</span></div><hr/></div><div class="coca2">拼法检查程序(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（计算机的）拼写检查程序</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

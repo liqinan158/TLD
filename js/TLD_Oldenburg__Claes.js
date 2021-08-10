@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oldenburg, Claes</h2><div class="git"><span class="ipa">['əuldənbə:ɡ; -buk; klaus-'turə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Oldenburg, Claes(Thure)</span></div><div class="dcb"><span class="dcn">['əuldənbə:ɡ; -buk; klaus-'turə]</span></div><div class="dcb"><span class="dcn">奥顿伯格(1929～</span></div><div class="dcb"><span class="dcn">，瑞典裔美籍雕塑家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

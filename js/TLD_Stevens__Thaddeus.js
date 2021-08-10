@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stevens, Thaddeus</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯蒂文斯(1792～1868，美国共和党政治领袖、废奴主义者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

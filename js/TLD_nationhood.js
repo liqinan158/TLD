@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nationhood</h2><div class="git"><span class="ipa">['neɪʃnhʊd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36953</span><div class="total">2530</div></div><div class="coca2">作为一个国家的地位(<font color="orangered">67%</font>)，成为国家的状态(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">作为一个国家的地位</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

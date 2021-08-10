@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Chicano</h2><div class="git"><span class="ipa">[tʃiˈkɑ:nəu]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37817</span><div class="total">2348</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奇卡诺人（指墨西哥裔美国人或在美国的讲西班牙语的拉丁美洲人后裔）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

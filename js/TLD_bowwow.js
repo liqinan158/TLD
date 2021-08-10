@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bowwow</h2><div class="git"><span class="ipa">['bəʊwaʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">（狗叫声）汪汪</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">狗吠的声音</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">狗叫; 汪汪地叫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mudroom</h2><div class="git"><span class="ipa">['mʌdru:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31020</span><div class="total">4272</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（专门存放湿衣物或沾泥衣物的）沾泥物品寄存室</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

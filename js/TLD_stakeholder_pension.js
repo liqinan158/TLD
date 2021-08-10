@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stakeholder pension</h2><div class="git"><span class="ipa">[ˈstekˌholdɚ ˈpɛnʃən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">存托养老金计划（英国的一种低管理费用的养老金）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

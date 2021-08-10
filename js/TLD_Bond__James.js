@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bond, James</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">邦德(英国小说家 Ian Fleming 的13部间谍小说中神通广大的特工人员，代号007)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

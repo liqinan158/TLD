@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ja</h2><div class="git"><span class="ipa">[jɑ:]</span></div><hr/></div><div class="coca2">联合代理人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">军法官（judge advocate）；共同户头（joint account）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

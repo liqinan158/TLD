@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>melange</h2><div class="git"><span class="ipa">[meɪˈlɑ:nʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35348</span><div class="total">2904</div></div><div class="coca2">混合物(<font color="orangered">80%</font>)，杂录(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">混合物；文学作品的杂集</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

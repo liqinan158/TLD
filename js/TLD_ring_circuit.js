@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ring circuit</h2><div class="git"><span class="ipa">[riŋ ˈsə:kit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（房间或建筑物内的）环形电路</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">环路；回路；环形线路</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

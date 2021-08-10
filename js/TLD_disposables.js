@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disposables</h2><div class="git"><span class="ipa">[dɪˈspəʊzəblz]</span></div><span class="onm">原型:</span><span class="orm">disposables 是 disposable 的第三人称单数</span><hr/></div><div class="coca2">可处理物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一次性用品；可处理废弃物（disposable的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

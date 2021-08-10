@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>double-stopping</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （小提琴等的）双音演奏（一弓拉奏两条弦）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

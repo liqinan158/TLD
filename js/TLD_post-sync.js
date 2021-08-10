@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>post-sync</h2><div class="git"><span class="ipa">[pəust siŋk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">post-synchronization of a sound track made after a motion-picture film has been shot 电影胶片摄制完成以后的后期录音合成</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

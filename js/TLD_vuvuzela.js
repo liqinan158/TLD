@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vuvuzela</h2><div class="git"><span class="ipa">[vuːvəˈzɛlə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">呜呜祖啦 (2010南非世界杯助威工具)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

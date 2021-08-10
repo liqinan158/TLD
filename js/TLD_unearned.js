@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unearned</h2><div class="git"><span class="ipa">[ˌʌnˈɜ:nd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">20970</span><div class="total">11561</div></div><div class="coca2">不劳而获的(<font color="orangered">89%</font>)，不应得到的(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不劳而获的；非劳动所得的；不相称的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

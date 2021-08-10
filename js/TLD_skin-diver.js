@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skin-diver</h2><div class="git"><span class="ipa">[skin ˈdaɪvə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（不穿潜水服的）深水潜泳者, 赤身潜水者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

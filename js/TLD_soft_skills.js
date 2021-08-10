@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soft skills</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">软能力，一般是指与他人和谐相处的能力、语言沟通能力、社交礼仪等。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

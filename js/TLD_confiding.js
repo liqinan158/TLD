@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>confiding</h2><div class="git"><span class="ipa">[kənˈfaɪdɪŋ]</span></div><span class="onm">原型:</span><span class="orm">confiding 是 confide 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">相信人的，易于相信的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">吐露（秘密，心事等）( confide的现在分词 ); （向某人）吐露（隐私、秘密等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

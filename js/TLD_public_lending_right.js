@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>public lending right</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[亦作p-l-r-][英国英语]公共出借报酬权(公共图书馆按作品出借的次数付给作者的报酬)[略作PLR]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

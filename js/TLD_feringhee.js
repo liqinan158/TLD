@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>feringhee</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （一些亚洲国家用词，尤指欧洲或美洲的）白人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

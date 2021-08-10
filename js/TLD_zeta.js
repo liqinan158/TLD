@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>zeta</h2><div class="git"><span class="ipa">[ 'zi:tə]</span></div><hr/></div><div class="coca2">希腊第六个字母(Z(<font color="orangered">50%</font>)，ζ)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">希腊语第六个字母</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Zeta)人名；(英)泽塔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

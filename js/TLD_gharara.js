@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gharara</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （南亚妇女配克米兹和围巾穿的）加格拉喇叭裤</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

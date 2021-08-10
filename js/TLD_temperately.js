@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>temperately</h2><div class="git"><span class="ipa">['tempərətlɪ]</span></div><hr/></div><div class="coca2">节制地(<font color="orangered">72%</font>)，适可而止的(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">适度地；有节制地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

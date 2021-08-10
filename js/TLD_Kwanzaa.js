@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kwanzaa</h2><div class="git"><span class="ipa">['kwænzɑ:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53499</span><div class="total">634</div></div><div class="coca2">宽扎节(一种非洲裔美国人的文化节日(<font color="orangered">50%</font>)，自12月26日庆祝至1月1日)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">宽扎节（非裔美国人的节日）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

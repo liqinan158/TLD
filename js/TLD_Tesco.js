@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tesco</h2><div class="git"><span class="ipa">[teskəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">特斯科（财富500强公司之一）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

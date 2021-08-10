@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flapper</h2><div class="git"><span class="ipa">[ˈflæpə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24003</span><div class="total">8325</div></div><div class="coca2">拍击物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">苍蝇拍；轻佻女子；刚学飞的小禽</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

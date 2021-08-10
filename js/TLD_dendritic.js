@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dendritic</h2><div class="git"><span class="ipa">[ˌden'drɪtɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27219</span><div class="total">6053</div></div><div class="coca2">树枝状的(<font color="orangered">64%</font>)，模树石的(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">树枝状的；树状的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eros</h2><div class="git"><span class="ipa">['irɒs]</span></div><span class="onm">原型:</span><span class="orm">eros 是 ero 的复数</span><hr/></div><div class="coca2">性欲(<font color="orangered">43%</font>)，性爱(<font color="orangered">41%</font>)，本能(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">厄洛斯（爱神）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

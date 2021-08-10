@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>complementizer</h2><div class="git"><span class="ipa">[ˈkɒmplɪməntaɪzə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（引导补语分句的）补语化成分</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

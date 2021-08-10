@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>croup</h2><div class="git"><span class="ipa">[kru:p]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37092</span><div class="total">2501</div></div><div class="coca2">哮吼咳嗽(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（四脚动物的）臀部；格鲁布性喉头炎</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

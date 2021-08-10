@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>star turn</h2><div class="git"><span class="ipa">[stɑ: tə:n]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（节目的）主要演员</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">压轴戏；最受欢迎的综艺节目</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

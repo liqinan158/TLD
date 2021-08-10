@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grandiloquent</h2><div class="git"><span class="ipa">[grænˈdɪləkwənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">58390</span><div class="total">377</div></div><div class="coca2">浮夸的(<font color="orangered">78%</font>)，辞藻浮华的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">夸张的；夸大的；大言不惭的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

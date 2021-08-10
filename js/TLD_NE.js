@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NE</h2><div class="git"><span class="ipa">[ne]</span></div><hr/></div><div class="coca2">新的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">旧姓的；原名的；Niger，尼日尔</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">不超过…（的）（not exceeding）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

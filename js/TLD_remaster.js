@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>remaster</h2><div class="git"><span class="ipa">[ˌri:ˈmɑ:stə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">25452</span><div class="total">7182</div><span class="pos">NOUN</span><span class="rank">26789</span><div class="total">6327</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">（根据旧唱片或磁带的）重新灌录</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

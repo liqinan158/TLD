@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Spitalfields</h2><span class="onm">原型:</span><span class="orm">spitalfields 是 spitalfield 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">满地小花领带织物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

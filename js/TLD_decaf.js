@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>decaf</h2><div class="git"><span class="ipa">['di:kæf]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29940</span><div class="total">4740</div></div><div class="coca2">无咖啡因(<font color="orangered">77%</font>)，脱咖啡因咖啡(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无咖啡因咖啡；脱因咖啡（等于decaffeinated coffee）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

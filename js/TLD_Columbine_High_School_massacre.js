@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Columbine High School massacre</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">哥伦拜恩校园事件；科伦拜高中大屠杀；科伦拜高中屠杀案</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

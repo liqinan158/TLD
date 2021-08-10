@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Robeson, Paul</h2><div class="git"><span class="ipa">['rəubsən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">罗伯逊(1898～1976，美国男低音歌唱家、演员和社会活动家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

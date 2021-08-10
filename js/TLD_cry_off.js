@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cry off</h2><div class="git"><span class="ipa">[krai ɔf]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">撤回；(从交易等上)撒手；宣布退出</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">取消；取消前约；决定不参加</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

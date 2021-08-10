@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PX</h2><div class="git"><span class="ipa">[ˌpi: 'eks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">专用小交换机（Private Exchange）；二苯甲（p-Xylene）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

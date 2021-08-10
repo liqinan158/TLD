@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>silly season</h2><div class="git"><span class="ipa">[ˈsili ˈsi:zən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无聊季节（通常为夏季，因没有重大新闻，报上充斥着无聊内容）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">新闻缺乏时期；无聊新闻期；无聊季度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

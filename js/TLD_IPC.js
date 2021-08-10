@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>IPC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">信息处理中心(Information Processing Center)；工业过程控制(Industrial Process Control)；国际残疾人奥林匹克委员会(International Paralympic Committee)；进程间通信(Interprosses communication)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

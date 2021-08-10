@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>whomever</h2><div class="git"><span class="ipa">[ˌhu:mˈevə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">PRON</span><span class="rank">16100</span><div class="total">20867</div></div><div class="coca2">任何人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pron.</span><span class="dcn">whoever的宾格，无论谁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

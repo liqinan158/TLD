@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Erse</h2><div class="git"><span class="ipa">[ә:s]</span></div><hr/></div><div class="coca2">厄尔斯语(<font color="orangered">67%</font>)，厄尔斯语的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">苏格兰克尔特语；爱尔兰克尔特语</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">苏格兰克尔特语的；爱尔兰克尔特语的（等于Gaelic）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>micron</h2><div class="git"><span class="ipa">[ˈmaɪkrɒn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13414</span><div class="total">30640</div></div><div class="coca2">微米(<font color="orangered">97%</font>)，百万分之一米(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">微米（等于百万分之一米）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

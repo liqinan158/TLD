@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Parsee</h2><div class="git"><span class="ipa">[pɑ:'si:, 'pɑ:'si:]</span></div><hr/></div><div class="coca2">印度拜火教徒(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">印度拜火教徒；帕西人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>students' union</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 学生会； 学生活动中心（大楼）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

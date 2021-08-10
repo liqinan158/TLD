@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UCATT</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Union of Construction, Allied Trades, and Technicians 建筑、协作贸易和技师联盟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bartender</h2><div class="git"><span class="ipa">[ˈbɑ:tendə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">11788</span><div class="total">39879</div></div><div class="coca2">酒保(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">酒保，酒吧间销售酒精饮料的人；酒吧侍者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

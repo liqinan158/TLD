@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ouzo</h2><div class="git"><span class="ipa">[ˈu:zəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42935</span><div class="total">1562</div></div><div class="coca2">茴香烈酒(<font color="orangered">70%</font>)，希腊产的饭后酒之一种(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（希腊）茴香烈酒；饭后酒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

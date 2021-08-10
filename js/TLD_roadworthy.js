@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>roadworthy</h2><div class="git"><span class="ipa">[ˈrəʊdwɜ:ði]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36036</span><div class="total">2740</div></div><div class="coca2">适于公路行驶的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">适于行驶的；适合道路上使用的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

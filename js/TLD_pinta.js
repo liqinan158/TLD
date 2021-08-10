@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pinta</h2><div class="git"><span class="ipa">[ˈpaɪntə]</span></div><hr/></div><div class="coca2">一品脱的饮料(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[皮肤] 品他病（一种皮肤病）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Pinta)人名；(英、西、葡、芬、捷)平塔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

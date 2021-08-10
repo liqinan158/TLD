@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Berlitz</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Berlitz)人名；(法、西)贝利茨；(德)贝尔利茨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

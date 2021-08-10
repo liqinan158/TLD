@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Donne, John</h2><div class="git"><span class="ipa">[dʌn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">多恩(1573～1631，英国诗人、牧师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

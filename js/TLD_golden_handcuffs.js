@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>golden handcuffs</h2><div class="git"><span class="ipa">[ˈɡəuldən ˈhændkʌfs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">黄金手铐（公司丰厚的奖金、红利和配股等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

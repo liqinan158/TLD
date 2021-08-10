@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sand, George</h2><div class="git"><span class="ipa">[sɔŋd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">乔治桑(1804～1876，法国著名女小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

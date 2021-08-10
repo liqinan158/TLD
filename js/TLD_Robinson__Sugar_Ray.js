@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Robinson, Sugar Ray</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">鲁滨逊(1921～1989，美国黑人拳击运动员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

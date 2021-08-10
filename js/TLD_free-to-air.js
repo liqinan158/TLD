@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>free-to-air</h2><div class="git"><span class="ipa">[fri: tu: eə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">33964</span><div class="total">3267</div></div><div class="coca2">免费收看的(<font color="orangered">50%</font>)，无须申请或付费(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（电视节目和频道）供免费接收的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

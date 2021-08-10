@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>M-cat</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">The Medical College Admission Test.  An 8-hour marathon of an exam required of all prospective medical school applicants.  Believe me, it sucks ASS!</span></div><div class="dcb"><span class="deq">&gt; You're taking the MCAT in April?  Oh, my condolences.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

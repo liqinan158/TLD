@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>speciesism</h2><div class="git"><span class="ipa">[ˈspi:ʃi:zɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55623</span><div class="total">510</div></div><div class="coca2">物种歧视(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">物种歧视</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

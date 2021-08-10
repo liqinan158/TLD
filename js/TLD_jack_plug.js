@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jack plug</h2><div class="git"><span class="ipa">[dʒæk plʌɡ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 64</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 32</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">接头</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">插头；原装现货库存；欢迎您的来电</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

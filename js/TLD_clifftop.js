@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clifftop</h2><div class="git"><span class="ipa">[ˈklɪftɒp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39473</span><div class="total">2064</div></div><div class="coca2">悬崖顶部(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">克利夫托普(美国地名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

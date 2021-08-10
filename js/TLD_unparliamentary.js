@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unparliamentary</h2><div class="git"><span class="ipa">[ˌʌnˌpɑ:ləˈmentri]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">违反议会法的，不根据议会法的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

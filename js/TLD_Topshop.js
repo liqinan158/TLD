@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Topshop</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/lpd_topshop.mp3" href="sound://media/spx/GB_lpd_topshop.spx" title="Play British pronunciation of Topshop"> </a><a class="amefile" href="sound://ameProns/lpd_topshop.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">拓扑肖普；时尚品牌；英国</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

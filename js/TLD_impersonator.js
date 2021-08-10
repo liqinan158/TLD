@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impersonator</h2><div class="git"><span class="ipa">[ɪmˈpɜ:səneɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26853</span><div class="total">6289</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">演员；模拟艺人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

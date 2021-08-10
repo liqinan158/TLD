@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Belisha beacon</h2><div class="git"><span class="ipa">[bəˌli:ʃə 'bi:kən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">人行道指示灯；斑马线标识</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

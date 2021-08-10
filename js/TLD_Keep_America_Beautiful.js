@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Keep America Beautiful</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">保持美国美丽组织；美化美国；让美国永远美丽</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

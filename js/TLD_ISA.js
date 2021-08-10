@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ISA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">工业标准结构（Industry Standard Architecture）；美国仪器学会（Instrument Society of America）；网络安全与加速（Internet Security and Acceleration）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

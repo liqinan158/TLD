@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tarsus</h2><div class="git"><span class="ipa">['tɑ:səs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52999</span><div class="total">666</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">踝; 踝骨; 眼睑软骨; 跗骨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

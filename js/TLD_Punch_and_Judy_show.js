@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Punch and Judy show</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">《庞奇和朱迪》傀儡戏（英国传统木偶剧，讲述总和妻子朱迪打闹的庞奇的故事）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">木偶戏表演</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

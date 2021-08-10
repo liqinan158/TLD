@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ecoterrorist</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 过激环保分子; 生态恐怖分子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

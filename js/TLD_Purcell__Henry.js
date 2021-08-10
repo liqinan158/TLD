@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Purcell, Henry</h2><div class="git"><span class="ipa">['pə:səl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">普赛尔(约1659～1695，英国作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

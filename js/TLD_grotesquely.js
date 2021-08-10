@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grotesquely</h2><div class="git"><span class="ipa">[ɡrəʊ'tesklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">39072</span><div class="total">2130</div></div><div class="coca2">奇异地(<font color="orangered">60%</font>)，荒诞地(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">奇异地；荒诞地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quietus</h2><div class="git"><span class="ipa">[kwaɪˈi:təs]</span></div><hr/></div><div class="coca2">偿清(<font color="orangered">51%</font>)，生命的终止(<font color="orangered">33%</font>)，抑制物(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">解除；偿清；生命的终止；寂灭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

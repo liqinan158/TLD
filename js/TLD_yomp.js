@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yomp</h2><div class="git"><span class="ipa">[jɒmp]</span></div><hr/></div><div class="coca2">艰苦跋涉于(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">, vt. (负重)吃力地行走(于)，艰苦跋涉于</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

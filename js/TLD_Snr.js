@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Snr</h2><hr/></div><div class="coca2">信号-噪声比(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">信噪比（Signal Noise Ratio）；航海研究学会（Society for Nautical Reseach）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

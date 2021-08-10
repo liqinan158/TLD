@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ego-surfing</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 自我冲浪, 自我搜寻 （在互联网上搜索提及自己名字的网页）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

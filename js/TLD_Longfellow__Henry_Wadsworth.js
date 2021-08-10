@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Longfellow, Henry Wadsworth</h2><div class="git"><span class="ipa">['lɔŋ,feləu; 'wɔdzwə:θ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">郎费罗(1807～1882，美国诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

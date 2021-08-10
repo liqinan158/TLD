@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Heinz</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">海因茨（姓氏）；亨氏食品公司（世界著名的食品供应商, 主要产品包括调味品和餐食两大类）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

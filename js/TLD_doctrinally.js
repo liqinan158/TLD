@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>doctrinally</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">45609</span><div class="total">1266</div></div><div class="coca2">教义的(<font color="orangered">77%</font>)，学理上的(<font color="orangered">14%</font>)，教理的(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">教条地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>smellies</h2><span class="onm">原型:</span><span class="orm">smellies 是 smelly 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(smelly 的复数) a. 发臭的, 有臭味的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>urtext</h2><div class="git"><span class="ipa">['jәtekst,'u:r-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">&lt;德&gt;n.原始文本(如乐谱等)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

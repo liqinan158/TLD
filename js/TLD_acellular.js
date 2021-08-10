@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>acellular</h2><div class="git"><span class="ipa">[ˌeɪˈseljələ(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">48104</span><div class="total">1046</div></div><div class="coca2">非细胞组成的(<font color="orangered">64%</font>)，非细胞的(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[生物] 非细胞的；非细胞组成的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

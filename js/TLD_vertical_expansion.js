@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vertical expansion</h2><div class="git"><span class="ipa">[ˈvə:tikəl iksˈpænʃən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">增加单位产量；垂直膨胀</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">城市的垂直扩展；纵向扩张</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

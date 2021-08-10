@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pikestaff</h2><div class="git"><span class="ipa">[ˈpaɪkstɑ:f]</span></div><hr/></div><div class="coca2">枪柄(<font color="orangered">60%</font>)，锡杖附有尖形铜帽的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">枪柄；有铁尖的行路杖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Advent calendar</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">基督降临历（硬纸制成的儿童日历，上有门型开口，里面有图片或巧克力）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">降临节日历；基督降临节日历；圣诞降临历</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

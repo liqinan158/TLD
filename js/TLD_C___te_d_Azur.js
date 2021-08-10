@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>C ô te d'Azur</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/ld5_c____te_d_azu.mp3" href="sound://media/spx/GB_ld5_c____te_d_azu.spx" title="Play British pronunciation of C ô te d’Azur"> </a><a class="amefile" href="sound://ameProns/c____te_d_azur__t.mp3"><img src="lus.png"/></a></div>`;
+window.parent.postMessage(custom_content,'*');

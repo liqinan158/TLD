@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anthologist</h2><div class="git"><span class="ipa">['ænθələdʒɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60416</span><div class="total">277</div></div><div class="coca2">名诗集的编者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">选集的编者；文选编者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

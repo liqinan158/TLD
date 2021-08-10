@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shylock</h2><div class="git"><span class="ipa">['ʃailɔk]</span></div><hr/></div><div class="coca2">放高利贷(<font color="orangered">34%</font>)，夏洛克(男子名(<font color="orangered">22%</font>)，原为莎士比亚剧作《威尼斯商人》中的犹太放高利贷者)(<font color="orangered">22%</font>)，放高利贷者(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">夏洛克（莎士比亚《威尼斯商人》中的犹太放高利贷者）；冷酷无情的高利贷者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

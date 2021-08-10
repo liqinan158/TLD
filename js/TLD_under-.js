@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>under-</h2><div class="git"><span class="ipa">[ˈʌndə(r)]</span></div><hr/></div><div class="coca2">表示“在 ... 下(<font color="orangered">50%</font>)，次于”之义(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">在…之下；次于…；不足；隶属于</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

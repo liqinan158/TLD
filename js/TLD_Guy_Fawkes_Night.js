@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Guy Fawkes Night</h2><div class="git"><span class="ipa">['gaɪ fɔ:ks naɪt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">盖伊·福克斯之夜（11月5日焚人像并燃放焰火之夜）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

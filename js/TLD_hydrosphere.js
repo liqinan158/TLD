@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hydrosphere</h2><div class="git"><span class="ipa">[ˈhaɪdrəʊsfɪə(r)]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TOEFL</span></div><div class="coca2">水圈(<font color="orangered">70%</font>)，水气(<font color="orangered">18%</font>)，水界(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[地物] 水界，[地物] 水圈；水气</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

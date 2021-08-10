@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>receptivity</h2><div class="git"><span class="ipa">[ˌri:sep'tɪvətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32972</span><div class="total">3567</div></div><div class="coca2">感受性(<font color="orangered">82%</font>)，接纳能力(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">接受能力；[生理] 感受性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

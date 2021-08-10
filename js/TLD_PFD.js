@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PFD</h2><div class="git"><span class="ipa">['pi:'efd'i:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">paraffined 石蜡的; personal flotation device 个人漂浮设备; preferred 优先的; 更喜欢的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

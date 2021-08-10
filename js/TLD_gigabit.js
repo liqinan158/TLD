@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gigabit</h2><div class="git"><span class="ipa">['ɡɪɡəbɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21118</span><div class="total">11379</div></div><div class="coca2">吉比特(<font color="orangered">67%</font>)，千兆比特(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[计] 千兆比特，吉比特（10的9次方比特，相当于十亿比特的信息单位）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

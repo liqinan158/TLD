@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>did</h2><div class="git"><span class="ipa">[dɪd]</span></div><span class="onm">原型:</span><span class="orm">did 是 do 的过去式</span><hr/></div><div class="coca2">是(<font color="orangered">52%</font>)，做(<font color="orangered">37%</font>)，要(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">做（do的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

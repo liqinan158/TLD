@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UCLA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">加州大学洛杉矶分校（University of California at Los Angeles）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

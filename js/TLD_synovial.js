@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>synovial</h2><div class="git"><span class="ipa">[saɪˈnəʊviəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">24763</span><div class="total">7701</div></div><div class="coca2">分泌滑液的(<font color="orangered">58%</font>)，含有滑液的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">滑液的；分泌滑液的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

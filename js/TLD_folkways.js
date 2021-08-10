@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>folkways</h2><div class="git"><span class="ipa">['ʃeʊkˌweɪz]</span></div><span class="onm">原型:</span><span class="orm">folkways 是 folkway 的复数</span><hr/></div><div class="coca2">民俗(<font color="orangered">70%</font>)，习俗(<font color="orangered">25%</font>)，名词folkway的复数形式.(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">习俗，民俗，风俗习惯（folkway的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

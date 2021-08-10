@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bombe</h2><div class="git"><span class="ipa">[bɒmb]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57294</span><div class="total">428</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;法&gt;（冰淇淋或奶油冻等做的）瓜形（或球形、杯形）甜点心</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">（家具）正面（或侧面）向外弯曲的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>walkies</h2><div class="git"><span class="ipa">[ˈwɔ:kiz]</span></div><span class="onm">原型:</span><span class="orm">walkies 是 walky 的复数</span><hr/></div><div class="coca2">遛狗的一段时间(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">散步（非正式，用于对狗发话）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

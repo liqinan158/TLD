@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>synaesthesia</h2><div class="git"><span class="ipa">[ˌsɪnəsˈθi:ziə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54038</span><div class="total">602</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">联觉，牵连感觉，共同感觉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

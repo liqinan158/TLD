@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tapestried</h2><div class="git"><span class="ipa">['tæpɪstrɪd]</span></div><span class="onm">原型:</span><span class="orm">tapestried 是 tapestry 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">饰挂绣帷的，织在绣帷上的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">用挂毯（或绣帷）装饰( tapestry的过去式和过去分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

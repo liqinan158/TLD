@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>frame tent</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 框架式大帐篷（篷顶和篷壁形成的坡度很小）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

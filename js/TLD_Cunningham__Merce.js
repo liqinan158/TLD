@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cunningham, Merce</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">坎宁安(1919～ ，美国现代舞演员和编导)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

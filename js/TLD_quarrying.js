@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quarrying</h2><div class="git"><span class="ipa">[ˈkwɔriiŋ]</span></div><span class="onm">原型:</span><span class="orm">quarrying 是 quarry 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">采石; 从采石场采得( quarry的现在分词 ); 从（书本等中）努力发掘（资料等）; 在采石场采石</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>double decomposition</h2><div class="git"><span class="ipa">[ˈdʌbl ˌdi:kɔmpəˈzɪʃən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">复分解</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">双重分解；复分解作用；复分解法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

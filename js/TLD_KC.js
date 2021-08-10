@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>KC</h2><hr/></div><div class="coca2">千居里(<font color="orangered">40%</font>)，千字符(<font color="orangered">40%</font>)，千赫(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">堪萨斯城（Kansas City）；皇家律师（King's Counsel）；哥伦布慈善会（Knights of Columbus）；伦敦大学国王学院（King's College）；即时通信软件（Keep Contact）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

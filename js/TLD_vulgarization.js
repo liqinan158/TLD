@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vulgarization</h2><div class="git"><span class="ipa">[ˌvʌlɡəraɪ'zeɪʃn]</span></div><hr/></div><div class="coca2">俗化(<font color="orangered">71%</font>)，粗俗化(<font color="orangered">16%</font>)，卑俗化(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">通俗化；粗俗化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

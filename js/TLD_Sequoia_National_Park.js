@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sequoia National Park</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">美国国家加州红杉公园</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">红杉国家公园；美洲杉国家公园；红杉树国家公园</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>push polling</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">导向性民意调查; 民意测验中使用的一种技巧：向被询问者提出关于某争论事项或关于某候选人的非常具体的问题; 用以测出竞选中可能出现的话题。某些不择手段的竞选运动工作者会使用此种技巧; 在问题中参杂错误信息或误导信息</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

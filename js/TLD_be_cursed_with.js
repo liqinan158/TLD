@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>be cursed with</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">受到某种灾祸；被…所苦；生(疮等)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">受…折磨；受某事物之害；因…而受害</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

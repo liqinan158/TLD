@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bowie, David</h2><div class="git"><span class="ipa">['baui; 'bəui]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">鲍伊(1947～ ，英国流行歌曲作家、摇滚乐歌手和电影演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

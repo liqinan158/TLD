@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Smith, Joseph</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">史密斯(1805～1844，美国摩门教创始人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

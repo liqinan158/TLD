@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blithering</h2><div class="git"><span class="ipa">[ˈblɪðərɪŋ]</span></div><hr/></div><div class="coca2">唠叨不已的(<font color="orangered">44%</font>)，胡扯的(<font color="orangered">42%</font>)，动词blither的现在分词形式.(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">胡扯的；唠叨不已的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

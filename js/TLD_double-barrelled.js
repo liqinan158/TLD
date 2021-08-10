@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>double-barrelled</h2><div class="git"><span class="ipa">[ˈdʌbəlˈbærəld]</span></div><hr/></div><div class="coca2">双筒的(<font color="orangered">40%</font>)，含糊的(<font color="orangered">12%</font>)，模棱两可的(<font color="orangered">12%</font>)，意义双关的(<font color="orangered">12%</font>)，双重目的的(<font color="orangered">12%</font>)，复合的(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">双筒的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

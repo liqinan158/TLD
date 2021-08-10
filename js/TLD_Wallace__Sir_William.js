@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wallace, Sir William</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">华莱士爵士(约1272～1305，苏格兰爱国主义者，曾领导反对英格兰爱德华一世的斗争)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>schuss</h2><div class="git"><span class="ipa">[ʃʊs]</span><span class="frm">schussed, schussing, schusses</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">高速直线滑雪</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">直线滑降</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

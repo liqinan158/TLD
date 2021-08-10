@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>adder</h2><div class="git"><span class="ipa">[ˈædə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25606</span><div class="total">7083</div></div><div class="coca2">加法器(<font color="orangered">74%</font>)，蝰蛇(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蝰蛇（欧洲产的小毒蛇）；加算器；猪鼻蛇（北美产无毒的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

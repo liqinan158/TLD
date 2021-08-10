@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>minatory</h2><div class="git"><span class="ipa">[ˈmɪnətəri]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">威胁的(<font color="orangered">60%</font>)，恫吓的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">恐吓的，威胁的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

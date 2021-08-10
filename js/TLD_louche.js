@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>louche</h2><div class="git"><span class="ipa">[lu:ʃ]</span></div><hr/></div><div class="coca2">品德有问题的(<font color="orangered">60%</font>)，声名狼籍的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">声名狼籍的；品德有问题的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Louche)人名；(法、阿拉伯、英)卢什</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>farthingale</h2><div class="git"><span class="ipa">[ˈfɑ:ðɪŋgeɪl]</span></div><hr/></div><div class="coca2">鲸骨圆环(<font color="orangered">50%</font>)，用鲸骨圆环扩大的裙子(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鲸骨圆环；用鲸骨圆环扩大的裙子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

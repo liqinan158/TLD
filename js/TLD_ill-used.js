@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ill-used</h2><div class="git"><span class="ipa">[il ju:zd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">虐待，凌辱( ill-use的过去式和过去分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

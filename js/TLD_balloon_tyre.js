@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>balloon tyre</h2><div class="git"><span class="ipa">[bəˈlu:n ˈtaiə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">低压轮胎</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">发音播放</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

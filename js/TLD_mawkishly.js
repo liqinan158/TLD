@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mawkishly</h2><div class="git"><span class="ipa">['mɔ:kɪʃlɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">mawkish（淡而无味的）的变形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

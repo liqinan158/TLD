@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bunkum</h2><div class="git"><span class="ipa">[ˈbʌŋkəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57176</span><div class="total">434</div></div><div class="coca2">废话(<font color="orangered">85%</font>)，=buncombe.(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">假话；夸夸其谈的演说（等于buncombe）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

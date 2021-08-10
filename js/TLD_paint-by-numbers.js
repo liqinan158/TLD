@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paint-by-numbers</h2><hr/></div><div class="coca2">用数字表明填色区域的；缺乏想象力的(<font color="orangered">50%</font>)，刻板的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> 用数字标明填色区域的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Screen Actors' Guild</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美国）影视演员协会</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">美国演员工会；美国演员工会奖；银幕演员工会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

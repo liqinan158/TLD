@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">防潮的（Damp Proofing）；民主党（Democratic Party）；露点（Dew Point）；数据处理（Data Processing）；难民（Displaced Person）；棒球双杀（Double Play）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chill pill</h2><div class="git"><span class="ipa">[tʃil pil]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">能让人安静、镇定或放松的东西，通常是想象中的。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

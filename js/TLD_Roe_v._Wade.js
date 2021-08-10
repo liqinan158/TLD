@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Roe v. Wade</h2><div class="git"><span class="ipa">[ˌrəʊ vɜ:səs 'weɪd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">罗诉韦德案（美国最高法院判决堕胎不违宪的案件）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">罗伊诉韦德；罗伊诉韦德案；罗伊诉韦德一案</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

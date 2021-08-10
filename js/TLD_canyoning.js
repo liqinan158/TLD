@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>canyoning</h2><div class="git"><span class="ipa">[ˈkænjənɪŋ]</span></div><hr/></div><div class="coca2">美国英语中多用 canyoneer(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">溪降运动；峡谷漂流</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

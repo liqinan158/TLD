@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>concordance</h2><div class="git"><span class="ipa">[kənˈkɔ:dəns]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26400</span><div class="total">6572</div></div><div class="coca2">一致(<font color="orangered">81%</font>)，索引(<font color="orangered">19%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">调和，一致；用语索引；著作或作家全集的重要用字索引</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

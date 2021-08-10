@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Joan Rivers</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">A Dead Clown Carcass</span></div><div class="dcb"><span class="deq">&gt; Joan Rivers looks like a dead clown carcass</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quasi-</h2><div class="git"><span class="ipa">[ˈkweɪzaɪ]</span></div><hr/></div><div class="coca2">准(<font color="orangered">86%</font>)，半”之义(<font color="orangered">7%</font>)，表示“类似(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">准；类似（用以构成复合词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

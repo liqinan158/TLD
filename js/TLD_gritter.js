@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gritter</h2><div class="git"><span class="ipa">[ˈgrɪtə(r)]</span></div><hr/></div><div class="coca2">铺砂机(<font color="orangered">60%</font>)，撒盐车(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">铺砂机；撒盐车（将砂、盐等覆盖在道路上以防止路滑）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

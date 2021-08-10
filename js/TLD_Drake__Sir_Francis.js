@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Drake, Sir Francis</h2><div class="git"><span class="ipa">[dreik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">德雷克(1540～1596，英国海军上将、航海家，1577～1580年驾船航行世界的第一个英国人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

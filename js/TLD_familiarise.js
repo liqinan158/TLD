@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>familiarise</h2><div class="git"><span class="ipa">[fə'mɪljəraɪz]</span><span class="frm">familiarised, familiarising, familiarises</span></div><hr/></div><div class="coca2">使熟悉(<font color="orangered">50%</font>)，使普及(<font color="orangered">25%</font>)，使闻名(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使熟悉（等于familiarize）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

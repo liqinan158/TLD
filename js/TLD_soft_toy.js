@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soft toy</h2><div class="git"><span class="ipa">[sɔft tɔi]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（动物造型的）软体玩具</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">软的玩具；布类玩具；车缝及充棉玩具</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kimberley</h2><div class="git"><span class="ipa">['kimbәli]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">金伯利[南非(阿扎尼亚)中部城市]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

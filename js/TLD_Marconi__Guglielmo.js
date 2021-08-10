@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Marconi, Guglielmo</h2><div class="git"><span class="ipa">[mɑ:'kəuni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">马可尼(1874～1937，意大利物理学家，实用无线电报系统的发明人，获1909年诺贝尔物理学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

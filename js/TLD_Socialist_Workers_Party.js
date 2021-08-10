@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Socialist Workers Party</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">社会工人党；社会主义工人党；工人社会党</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

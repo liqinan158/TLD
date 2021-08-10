@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cocksucker</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43586</span><div class="total">1483</div></div><div class="coca2">混蛋(<font color="orangered">67%</font>)，与男子进行口交者(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">混蛋；与男子进行口交者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

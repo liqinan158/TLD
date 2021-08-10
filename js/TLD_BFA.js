@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BFA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美术学士（Bachelor of Fine Arts）；博鳌亚洲论坛（Boao Forum for Asia）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

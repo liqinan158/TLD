@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>okapi</h2><div class="git"><span class="ipa">[əʊˈkɑ:pi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42237</span><div class="total">1653</div></div><div class="coca2">一种鹿(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">霍加皮（一种非洲鹿，复数okapi）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

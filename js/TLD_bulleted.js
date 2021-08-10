@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bulleted</h2><div class="git"><span class="ipa">[ˈbʌlɪtɪd]</span></div><span class="onm">原型:</span><span class="orm">bulleted 是 bullete 的过去式</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">31697</span><div class="total">4018</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 强调符号</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

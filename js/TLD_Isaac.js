@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Isaac</h2><div class="git"><span class="ipa">['aizәk]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">以撒（希伯来族长， 犹太人的始祖亚伯拉罕和萨拉的儿子）；艾萨克（男人名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

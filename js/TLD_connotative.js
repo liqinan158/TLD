@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>connotative</h2><div class="git"><span class="ipa">[kə'nəʊtətɪv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">54332</span><div class="total">584</div></div><div class="coca2">暗示的(<font color="orangered">50%</font>)，有隐含意的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">内涵的；隐含的；含蓄的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

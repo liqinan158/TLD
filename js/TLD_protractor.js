@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>protractor</h2><div class="git"><span class="ipa">[prəˈtræktə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29768</span><div class="total">4818</div></div><div class="coca2">量角器(<font color="orangered">71%</font>)，分度规(<font color="orangered">29%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伸肌；分度器；伤处异物摘出器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

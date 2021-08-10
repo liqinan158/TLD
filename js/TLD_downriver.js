@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>downriver</h2><div class="git"><span class="ipa">[daʊnˈrɪvə(r)]</span></div><hr/></div><div class="coca2">下游的(<font color="orangered">55%</font>)，向下游(<font color="orangered">36%</font>)，=downstream.(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">下游的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">向下游</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

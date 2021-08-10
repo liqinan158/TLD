@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>awkward squad</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">〈比喻〉一群生手；训练不足的新兵班</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">一群没有经验的人；乌合之众；一小队训练不足的新兵</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

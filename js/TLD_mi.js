@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mi</h2><div class="git"><span class="ipa">[mi:]</span></div><hr/></div><div class="coca2">大音阶的第三音(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">惯性矩（moment of inertia）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">大音阶的第三音</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Mi)人名；(老、柬)米</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

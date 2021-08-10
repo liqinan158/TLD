@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>official secret</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn"> 国家机密，官方机密（英国根据“官方机密法”政府工作人员不得泄露）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

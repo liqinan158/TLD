@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">兰韦尔普尔古因吉尔戈格里惠尔恩德罗布尔兰蒂西利奥戈戈戈赫（威尔士的安格尔西岛的一个村庄，英国最长的官方承认地名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

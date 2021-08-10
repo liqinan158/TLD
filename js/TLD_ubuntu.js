@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ubuntu</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乌班图；一种Linux操作系统</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

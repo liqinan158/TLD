@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clean eating</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">饮食方面尽量维持干净；净化饮食；洁食</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

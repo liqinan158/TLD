@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>potentiometer</h2><div class="git"><span class="ipa">[pəˌtenʃiˈɒmɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20757</span><div class="total">11841</div></div><div class="coca2">电位计(<font color="orangered">73%</font>)，分压计(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电位计；分压计</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

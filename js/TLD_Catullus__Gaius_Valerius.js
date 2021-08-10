@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Catullus, Gaius Valerius</h2><div class="git"><span class="ipa">[kə'tʌləs; 'ɡeiəsvə'li:riəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡图鲁斯 (约公元前84～前54，古罗马抒情诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

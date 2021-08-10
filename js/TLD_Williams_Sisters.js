@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Williams Sisters</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">威廉丝姊妹；威廉丝姐妹；威廉姐妹</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>octet</h2><div class="git"><span class="ipa">[ɒkˈtet]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26864</span><div class="total">6280</div></div><div class="coca2">八重奏(<font color="orangered">71%</font>)，八位位组(<font color="orangered">29%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">八重奏，八重唱；八行诗；八个一组的物品；[计] 八位字节</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

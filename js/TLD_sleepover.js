@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sleepover</h2><div class="git"><span class="ipa">[ˈsli:pəʊvə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22643</span><div class="total">9613</div></div><div class="coca2">在别人家里过夜的人(<font color="orangered">50%</font>)，彻夜作客(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【美】（尤指小孩）在朋友家过夜的晚会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

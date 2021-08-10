@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stevens, Wallace</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">史蒂文斯(1879～1955，美国诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

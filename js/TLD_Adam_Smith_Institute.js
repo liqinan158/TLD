@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Adam Smith Institute</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">亚当斯密研究所；亚当·斯密斯研究所；美国亚当斯密研究院</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

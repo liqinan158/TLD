@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lino</h2><div class="git"><span class="ipa">[ˈlaɪnəʊ]</span></div><hr/></div><div class="coca2">漆布(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">亚麻油地毡；漆布（等于linoleum）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Lino)人名；(西、意、葡、瑞典、马耳他、英)利诺</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>weatherboarding</h2><div class="git"><span class="ipa">['weðəbɔ:dɪŋ]</span></div><span class="onm">原型:</span><span class="orm">weatherboarding 是 weatherboard 的现在分词</span><hr/></div><div class="coca2">装檐板(<font color="orangered">34%</font>)，檐板(<font color="orangered">33%</font>)，装房面板(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[建] 护墙板；挡雨板；挡雨板</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

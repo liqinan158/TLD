@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>creationist</h2><div class="git"><span class="ipa">[krɪ'eɪʃnɪst]</span></div><hr/></div><div class="coca2">神灵论者(<font color="orangered">75%</font>)，上帝论者(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">神造说鼓吹者；神灵论者；特创论者（即相信万物皆由上帝一次造成者）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

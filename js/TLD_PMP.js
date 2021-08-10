@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PMP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">私有交易市场 (Private Market Place)</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">项目管理专业人员（Project Management Professional）；平行微程序处理器（Parallel Microprogrammed Processor）；个人多媒体播放器（Personal Multimedia Player）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

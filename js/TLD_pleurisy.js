@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pleurisy</h2><div class="git"><span class="ipa">[ˈplʊərəsi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44732</span><div class="total">1356</div></div><div class="coca2">胸膜炎(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[内科] 胸膜炎；[内科] 肋膜炎</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

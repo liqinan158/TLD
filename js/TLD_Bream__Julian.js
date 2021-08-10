@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bream, Julian</h2><div class="git"><span class="ipa">[bri:m]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Bream, Julian(Alexander)</span></div><div class="dcb"><span class="dcn">[bri:m]</span></div><div class="dcb"><span class="dcn">布里姆(1933～ ，英国吉他和古琵琶演奏家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

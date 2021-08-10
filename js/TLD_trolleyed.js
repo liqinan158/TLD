@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trolleyed</h2><hr/></div><div class="coca2">手推车(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">, vi. trolley的变形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

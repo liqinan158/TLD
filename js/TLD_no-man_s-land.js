@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>no-man's-land</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">无主土地</span></div><div class="dcb"><span class="dcn">三不管地带</span></div><div class="dcb"><span class="dcn">荒地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

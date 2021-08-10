@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>backpedal</h2><div class="git"><span class="ipa">['bækˌpedl]</span><span class="frm">backpedalled, backpedalling, backpedals</span></div><hr/></div><div class="coca2">倒踏脚踏板(<font color="orangered">75%</font>)，食言(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">倒踏脚踏板；（拳击中的）后退；（意见等的）撤回；变卦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

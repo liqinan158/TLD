@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Anheuser-Busch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">安海斯布希（公司名，总部所在地美国，主要经营饮料）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

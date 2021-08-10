@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mein Kampf</h2><div class="git"><span class="ipa">[,main'kɑ:mpf]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 13</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 9</div><div class="gdc"><div class="dcb"><span class="dcn">[德语]《我的奋斗》(德国法西斯头子希特勒的著作，1925～1927)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

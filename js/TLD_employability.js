@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>employability</h2><div class="git"><span class="ipa">[em'plɔɪ'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18394</span><div class="total">15534</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 可雇性; 可用性; 适于雇用; 受雇就业能力</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

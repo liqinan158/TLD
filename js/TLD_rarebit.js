@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rarebit</h2><div class="git"><span class="ipa">[ˈreəbɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54532</span><div class="total">572</div></div><div class="coca2">家兔(<font color="orangered">50%</font>)，欧洲种的兔子(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">欧洲种的兔子；家兔；干酪土司（等于Welsh rabbit）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

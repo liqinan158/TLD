@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Piccadilly</h2><div class="git"><span class="ipa">[,pikә'dili]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">皮卡迪利大街（伦敦的繁华街道）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

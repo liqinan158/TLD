@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unscheduled</h2><div class="git"><span class="ipa">[ʌnˈʃedju:ld]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">23620</span><div class="total">8654</div></div><div class="coca2">计划外的(<font color="orangered">62%</font>)，事先未安排的(<font color="orangered">38%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">事先未安排的；不按计划的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

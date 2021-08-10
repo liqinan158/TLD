@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slitty-eyed</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 细长眼的（常用以描述东亚人, 含冒犯意）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

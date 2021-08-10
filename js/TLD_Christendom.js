@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Christendom</h2><div class="git"><span class="ipa">['krisәndәm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22692</span><div class="total">9557</div></div><div class="coca2">基督教世界(<font color="orangered">50%</font>)，基督教徒的总称(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">基督教徒的总称；信奉基督教的国家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

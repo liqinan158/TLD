@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hades</h2><div class="git"><span class="ipa">['heidi:z]</span></div><span class="onm">原型:</span><span class="orm">Hades 是 hade 的复数</span><hr/></div><div class="coca2">地狱(<font color="orangered">58%</font>)，冥府(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">冥府；地狱；阎王</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

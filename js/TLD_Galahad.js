@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Galahad</h2><div class="git"><span class="ipa">['gælәhæd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">加勒哈德(亚瑟王的骑士), 高洁之士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

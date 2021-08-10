@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Coolidge, (John) Calvin</h2><div class="git"><span class="ipa">['ku:lidʒ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">柯立芝(1872～1933)美国第30届总统(1923～1929)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>strobing</h2><div class="git"><span class="ipa">[ˈstrəʊbɪŋ]</span></div><span class="onm">原型:</span><span class="orm">strobing 是 strobe 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[电子] 选通</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">发出选通脉冲（strobe的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

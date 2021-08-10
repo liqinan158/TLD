@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>infocom</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">信息通信(infocommunications)；信息公司；计算机通信国际会议</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

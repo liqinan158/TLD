@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>closed-circuit television</h2><div class="git"><span class="ipa">[ˈkləʊzdˈsɜ:kɪt ˈteliˌviʒən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">闭路电视</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">闭路电视监控系统；闭路电视检测系统；闭路监视系统</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

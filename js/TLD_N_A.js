@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>N/A</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （用于回答表格问题）不相关，不适用</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

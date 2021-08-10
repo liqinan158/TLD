@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>motivator</h2><div class="git"><span class="ipa">['məʊtɪveɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15113</span><div class="total">23827</div></div><div class="coca2">激发因素(<font color="orangered">50%</font>)，动因(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">动力；激励因素</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

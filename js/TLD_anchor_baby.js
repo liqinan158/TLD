@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anchor baby</h2><div class="git"><span class="ipa">[ˈæŋkə ˈbeibi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">定锚婴儿。指为获得美国国籍在美国出生的外国小孩，或来自非法移民家庭的小孩。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

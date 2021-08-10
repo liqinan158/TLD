@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>platteland</h2><div class="git"><span class="ipa">['plɑːt,lɑːnd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(南非)乡下，乡间；内地；偏僻闭塞的乡村地区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

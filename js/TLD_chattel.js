@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chattel</h2><div class="git"><span class="ipa">[ˈtʃætl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26355</span><div class="total">6605</div></div><div class="coca2">奴隶(<font color="orangered">73%</font>)，财产(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">动产；奴隶（常用复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

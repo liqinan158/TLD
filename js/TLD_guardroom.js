@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>guardroom</h2><div class="git"><span class="ipa">[ˈgɑ:dru:m]</span></div><hr/></div><div class="coca2">卫兵室(<font color="orangered">56%</font>)，守候室(<font color="orangered">33%</font>)，军中禁闭室(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">守卫室；禁闭室</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

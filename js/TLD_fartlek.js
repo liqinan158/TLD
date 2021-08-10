@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fartlek</h2><div class="git"><span class="ipa">[ˈfɑ:tlek]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">法特莱克训练法（一种加速跑与慢跑交替进行的中长跑训练方法）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

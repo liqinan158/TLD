@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ladies' Day</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[美国英语]妇女日(妇女于当日可以减价看戏或免费看棒球比赛等)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

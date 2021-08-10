@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>goldwasser</h2><div class="git"><span class="ipa">[ˈgəʊldvæsə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">金水酒（一种含有大量小片金叶状物的酒，原产于波兰格但斯克）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

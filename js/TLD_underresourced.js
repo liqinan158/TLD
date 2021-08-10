@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>underresourced</h2><div class="git"><span class="ipa">[.ʌndərɪ'sɔː(r)st]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">缺乏资源的；资金（或人手、材料等）不足的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

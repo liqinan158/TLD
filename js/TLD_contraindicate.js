@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>contraindicate</h2><div class="git"><span class="ipa">[ˌkɒntrəˈɪndɪkeɪt]</span><span class="frm">contraindicated, contraindicating, contraindicates</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">23467</span><div class="total">8802</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">禁忌（某种疗法或药物）；显示（治疗或处置）不当</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

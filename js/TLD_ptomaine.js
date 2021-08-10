@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ptomaine</h2><div class="git"><span class="ipa">['təʊmeɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">尸碱，尸毒，肉毒胺; 动物性生物碱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

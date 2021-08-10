@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pantechnicon</h2><div class="git"><span class="ipa">[pænˈteknɪkən]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">家具搬运车(<font color="orangered">63%</font>)，家具仓库(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">家具搬运车；家具仓库</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

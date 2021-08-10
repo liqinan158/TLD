@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Amis, Kingsley</h2><div class="git"><span class="ipa">['eimis]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">艾米斯(1922～1995，英国小说家、诗人，20世纪50年代英国“愤怒的青年”代表作家之一)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ne'er-do-well</h2><div class="git"><span class="ipa">[ˈneədu:wel]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49882</span><div class="total">898</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">没用的人；饭桶</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">无用的；游手好闲的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

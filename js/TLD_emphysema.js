@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>emphysema</h2><div class="git"><span class="ipa">[ˌemfɪˈsi:mə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24176</span><div class="total">8170</div></div><div class="coca2">肺气肿(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[临床] 气肿；肺气肿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

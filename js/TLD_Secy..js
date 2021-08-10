@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Secy.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">秘书（secretary）</span></div><div class="dcb"><span class="dcn">分泌作用的分，泌的，促进分泌的（secretary）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

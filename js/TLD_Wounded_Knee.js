@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wounded Knee</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">翁迪德尼（地名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>contralto</h2><div class="git"><span class="ipa">[kənˈtræltəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43802</span><div class="total">1458</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女低音，女低音歌唱家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

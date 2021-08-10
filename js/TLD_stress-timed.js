@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stress-timed</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">[语言学]（语言）重要拍子的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

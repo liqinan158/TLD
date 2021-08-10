@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>f-word</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43909</span><div class="total">1448</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">粗话（那个以f开头的词，指fuck性交）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gleanings</h2><div class="git"><span class="ipa">[ˈgli:nɪŋz]</span></div><span class="onm">原型:</span><span class="orm">gleanings 是 gleaning 的复数</span><hr/></div><div class="coca2">搜集物(<font color="orangered">67%</font>)，收集到的零星消息(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">收集到的零星消息；拾遗；搜集物（gleaning的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

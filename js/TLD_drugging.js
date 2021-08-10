@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drugging</h2><span class="onm">原型:</span><span class="orm">drugging 是 drug 的现在分词</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58573</span><div class="total">367</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">（在食物或饮料中）投放麻醉药，下麻醉药（drug的现在分词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

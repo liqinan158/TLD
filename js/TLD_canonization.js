@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>canonization</h2><div class="git"><span class="ipa">[ˌkænənaɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32674</span><div class="total">3658</div></div><div class="coca2">追封为圣者(<font color="orangered">54%</font>)，承认为圣典(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">承认为圣典；追封为圣者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

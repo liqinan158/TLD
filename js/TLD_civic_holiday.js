@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>civic holiday</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 市政日（八月的第一个星期一, 除魁北克、艾伯塔和爱德华王子岛省之外加拿大各地的假日）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clerihew</h2><div class="git"><span class="ipa">[ˈklerɪhju:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克莱里休4行打油诗（一种刻画人物特征的幽默讽刺诗，为英国作家所创）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

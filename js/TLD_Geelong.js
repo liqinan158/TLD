@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Geelong</h2><div class="git"><span class="ipa">[dʒә'lɔŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">季隆[澳大利亚东南部港市]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

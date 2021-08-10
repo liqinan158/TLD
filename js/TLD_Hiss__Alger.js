@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hiss, Alger</h2><div class="git"><span class="ipa">[his]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">希斯(1904～ ，美国政府官员，因伪证罪于1950～1954年入狱)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

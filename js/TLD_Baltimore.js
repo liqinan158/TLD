@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Baltimore</h2><div class="git"><span class="ipa">['bɒ:ltimɒ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">巴尔的摩（美国一座港市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

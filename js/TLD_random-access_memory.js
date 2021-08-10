@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>random-access memory</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">随机存取存储器</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">随机存储器；随机存取记忆体；随机访问存储器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

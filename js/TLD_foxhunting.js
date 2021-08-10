@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>foxhunting</h2><span class="onm">原型:</span><span class="orm">foxhunting 是 foxhunt 的现在分词</span><hr/></div><div class="coca2">猎狐(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">猎狐</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

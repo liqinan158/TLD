@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paginate</h2><div class="git"><span class="ipa">[ˈpædʒɪneɪt]</span><span class="frm">paginated, paginating, paginates</span></div><hr/></div><div class="coca2">标页数(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">为…标页数</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">随意翻阅</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

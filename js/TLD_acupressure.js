@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>acupressure</h2><div class="git"><span class="ipa">[ˈækjupreʃə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28407</span><div class="total">5421</div></div><div class="coca2">针压法(<font color="orangered">67%</font>)，指压按摩(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">针压法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>corniche</h2><div class="git"><span class="ipa">['kɔ:nɪʃ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47559</span><div class="total">1093</div></div><div class="coca2">=corniche road.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">沿著山崖的滨海道路</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

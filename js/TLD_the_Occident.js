@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Occident</h2><div class="git"><span class="ipa">['ɒksɪdənt]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">西方世界（尤指欧洲和美洲）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">泰西；西方的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

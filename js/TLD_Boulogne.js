@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Boulogne</h2><div class="git"><span class="ipa">[bu'lәun]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">布伦[法国北部港市](即滨海市洛涅)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

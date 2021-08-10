@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>champagne socialist</h2><div class="git"><span class="ipa">[ʃæmˈpein ˈsəuʃəlist]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[贬义]香槟社会主义者，阔佬社会主义者，声称支持社会主义的高收入者 (指富有的左翼政治家，其生活方式与其所鼓吹的社会主义相悖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

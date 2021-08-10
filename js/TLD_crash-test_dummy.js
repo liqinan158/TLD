@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crash-test dummy</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 撞击试验假人（当作驾驶者或乘客）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

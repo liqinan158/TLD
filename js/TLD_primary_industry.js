@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>primary industry</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">第一产业（指农业、矿业等生产原材料的产业）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">初级产业；第二产业；第一次产业</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

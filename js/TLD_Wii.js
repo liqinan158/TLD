@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wii</h2><hr/></div><div class="coca2">任天堂公司的家用游戏机(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">任天堂在2006年推出的新一代电视游戏机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

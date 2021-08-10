@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Peugeot</h2><hr/></div><div class="coca2">标致(财富500强公司之一(<font color="orangered">34%</font>)，总部所在地法国(<font color="orangered">33%</font>)，主要经营汽车)(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">法国标致（法国汽车公司）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

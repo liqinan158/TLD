@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disparagingly</h2><div class="git"><span class="ipa">[dɪ'spærɪdʒɪŋlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">48762</span><div class="total">991</div></div><div class="coca2">以贬抑的口吻(<font color="orangered">60%</font>)，以轻视的态度(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">以轻视的态度，蔑视地；以贬抑的口吻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

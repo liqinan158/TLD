@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Square Mile</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">平方英里城（指伦敦金融城）（银行和金融业的聚集地）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">一平方英里；那一平方英里；平方一哩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>remap</h2><div class="git"><span class="ipa">[ri:ˈmæp]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">27644</span><div class="total">5805</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">重测图; 选区的重新划分</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">重新绘制地图; 重新勘测; 重新策划</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

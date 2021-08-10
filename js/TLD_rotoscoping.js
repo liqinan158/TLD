@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rotoscoping</h2><span class="onm">原型:</span><span class="orm">rotoscoping 是 rotoscope 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(rotoscope 的现在分词)  速动观察器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

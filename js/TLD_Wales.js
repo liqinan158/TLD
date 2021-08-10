@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wales</h2><div class="git"><span class="ipa">[weilz]</span></div><span class="onm">原型:</span><span class="orm">Wales 是 wale 的复数</span><hr/></div><div class="coca2">英国威尔士（英国的一部分(<font color="orangered">50%</font>)，位于大不列颠岛西南）(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">威尔士（英国大不列颠岛西南部地区）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

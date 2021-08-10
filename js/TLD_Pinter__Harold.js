@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pinter, Harold</h2><div class="git"><span class="ipa">['pintə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">品特(1930～ ，英国剧作家，荒诞派戏剧的代表人物)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

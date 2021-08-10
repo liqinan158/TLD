@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Andersen, Hans Christian</h2><div class="git"><span class="ipa">['ændəsən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">安徒生(1805～1875，丹麦作家、童话大师、剧作家、小说家、诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>panchayat</h2><div class="git"><span class="ipa">[pʌn'tʃaiәt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50083</span><div class="total">879</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">( 印度的) 村务委员会, 五人长老会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

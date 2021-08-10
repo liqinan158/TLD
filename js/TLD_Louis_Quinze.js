@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Louis Quinze</h2><div class="git"><span class="ipa">[kæŋz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">路易十五式的；(建筑、家具式样、装饰艺术等)路易十五时代的风格的(为洛可可式风格)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

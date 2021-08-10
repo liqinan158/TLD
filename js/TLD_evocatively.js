@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>evocatively</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">51028</span><div class="total">804</div></div><div class="coca2">引起回忆或唤起感情的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">唤起地（evocative的副词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tutankhamen</h2><div class="git"><span class="ipa">[,tu:tən'kɑ:men; -mən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">图坦卡蒙（埃及法老名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

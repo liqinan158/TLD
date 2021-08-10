@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cottager</h2><div class="git"><span class="ipa">[ˈkɒtɪdʒə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48441</span><div class="total">1016</div></div><div class="coca2">住在乡下房子的人(<font color="orangered">50%</font>)，佃农(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">住在乡下房子的人；佃农（等于cotter，cottier）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

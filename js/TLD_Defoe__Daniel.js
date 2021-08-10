@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Defoe, Daniel</h2><div class="git"><span class="ipa">[di'fəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">笛福(1660?～1731，英国小说家、新闻记者、报刊撰稿人)[亦作De Foe]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

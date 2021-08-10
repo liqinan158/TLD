@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>left-click</h2><div class="git"><span class="ipa">['leftkl'ɪk]</span></div><hr/></div><div class="coca2">指点电脑鼠标的左键(<font color="orangered">50%</font>)，点左键(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">左击</span></div><div class="dcb"><span class="dcn">点击（鼠标）左键</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

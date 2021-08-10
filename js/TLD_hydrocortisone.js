@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hydrocortisone</h2><div class="git"><span class="ipa">[ˌhaɪdrəˈkɔ:tɪzəʊn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31839</span><div class="total">3967</div></div><div class="coca2">氢羟肾上腺皮质素(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[药] 氢化可的松；[生化] 皮质醇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

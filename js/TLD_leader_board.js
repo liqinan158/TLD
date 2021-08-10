@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>leader board</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （尤指高尔夫球比赛中的）领先选手积分牌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

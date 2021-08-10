@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>syntagmatic</h2><div class="git"><span class="ipa">[ ˌsɪntæg'mætɪk]</span></div><hr/></div><div class="coca2">语段的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">组合关系的；横组合的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

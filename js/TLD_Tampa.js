@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tampa</h2><div class="git"><span class="ipa">['tæmpә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">坦帕市（美国佛罗里达州西部港市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

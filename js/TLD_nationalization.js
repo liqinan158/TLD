@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nationalization</h2><div class="git"><span class="ipa">[ˌnæʃnəlaɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34959</span><div class="total">2998</div></div><div class="coca2">国有化(<font color="orangered">93%</font>)，收归国有(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">国有化；同化，归化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

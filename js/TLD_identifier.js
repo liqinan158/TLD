@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>identifier</h2><div class="git"><span class="ipa">[aɪˈdentɪfaɪə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">7284</span><div class="total">97285</div></div><div class="coca2">标识符(<font color="orangered">99%</font>)，鉴定人(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">标识符，认同者；检验人，鉴定人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

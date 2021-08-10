@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rocker switch</h2><div class="git"><span class="ipa">[ˈrɔkə switʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 摇臂开关</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

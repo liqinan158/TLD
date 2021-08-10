@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>two-hander</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52438</span><div class="total">703</div></div><div class="coca2">两个演员的一场戏(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">只有两个角色的戏，两角戏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

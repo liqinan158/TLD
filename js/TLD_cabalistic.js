@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cabalistic</h2><div class="git"><span class="ipa">[ˌkæbə'lɪstɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50383</span><div class="total">853</div></div><div class="coca2">神妙的(<font color="orangered">67%</font>)，犹太教神秘哲学的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">神秘的；犹太神秘哲学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>piggybacking</h2><div class="git"><span class="ipa">[ˈpiɡibækiŋ]</span></div><span class="onm">原型:</span><span class="orm">piggybacking 是 piggyback 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">借道（法）</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">背着，肩驮( piggyback的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

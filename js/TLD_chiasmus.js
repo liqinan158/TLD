@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chiasmus</h2><div class="git"><span class="ipa">[kaɪˈæzməs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59841</span><div class="total">306</div></div><div class="coca2">交错法(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">交错法，交错配列法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

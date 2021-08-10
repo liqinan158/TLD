@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shorn</h2><div class="git"><span class="ipa">[ʃɔ:n]</span></div><span class="onm">原型:</span><span class="orm">shorn 是 shear 的过去分词</span><hr/></div><div class="coca2">动词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">抢夺（shear的过去分词）</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">剪了毛的；被剥夺了的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

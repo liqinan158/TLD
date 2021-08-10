@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nazareth</h2><div class="git"><span class="ipa">['næzәriθ]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拿撒勒（巴勒斯坦地区北部古城，相传为耶稣的故乡）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

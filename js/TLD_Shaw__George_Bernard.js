@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shaw, George Bernard</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">萧伯纳(1856～1950，爱尔兰戏剧家、小说家和评论家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

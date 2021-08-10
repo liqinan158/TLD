@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Toryism</h2><div class="git"><span class="ipa">['tɒ:riizm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">英国保守党, 英国保守党党员的主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

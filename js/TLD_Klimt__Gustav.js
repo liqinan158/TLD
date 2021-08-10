@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Klimt, Gustav</h2><div class="git"><span class="ipa">[klimt; 'ɡustɑ:f]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">克利姆特(1862～1918，奥地利画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>water bug</h2><div class="git"><span class="ipa">[ˈwɔ:tə bʌɡ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">水生蝽；茶婆虫</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">半翅类水虫；蟑螂；负子虫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

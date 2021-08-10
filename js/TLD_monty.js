@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>monty</h2><div class="git"><span class="ipa">[ˈmɒnti]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（澳新口）必定的事物（尤指赛马时必赢的马）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Monty)人名；(英)蒙蒂(教名Montague的昵称)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

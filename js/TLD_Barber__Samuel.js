@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Barber, Samuel</h2><div class="git"><span class="ipa">['bɑ:bə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">巴伯(1910～1981，美国作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>refloat</h2><div class="git"><span class="ipa">[ˌri:ˈfləʊt]</span><span class="frm">refloated, refloating, refloats</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">58867</span><div class="total">353</div></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">（使）再浮起</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

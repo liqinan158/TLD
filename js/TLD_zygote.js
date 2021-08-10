@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>zygote</h2><div class="git"><span class="ipa">['zaigәut]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33382</span><div class="total">3435</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">合子, 受精卵</span></div><div class="dcb"><span class="dcn">[医] 合子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

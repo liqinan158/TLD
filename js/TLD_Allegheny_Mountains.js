@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Allegheny Mountains</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 12</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">阿勒格尼山脉(北美阿巴拉契亚山系西北部的分支多山峰、海拔1,000米左右)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">塔克县阿勒格尼山脉；阿利根尼山脉；阿雷格尼山</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parallax</h2><div class="git"><span class="ipa">[ˈpærəlæks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22931</span><div class="total">9292</div></div><div class="coca2">视差(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">视差；著名的影视编辑软件</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

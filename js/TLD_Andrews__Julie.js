@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Andrews, Julie</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Andrews, Julie (Julia Elizabeth Wells)</span></div><div class="dcb"><span class="dcn">安德鲁斯 (1935～ ，美国女演员，出生于英格兰)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

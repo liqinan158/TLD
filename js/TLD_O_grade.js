@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>O grade</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">普通等级考试（苏格兰旧时的单科考试，低于高级考试，通常在 16 岁时参加。1988 年由标准等级考试取代）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

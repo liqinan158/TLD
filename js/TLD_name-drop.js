@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>name-drop</h2><div class="git"><span class="ipa">[ˈneimdrɔp]</span></div><hr/></div><div class="coca2">借名流权贵来抬高自己(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">借名流权贵来抬高身价</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

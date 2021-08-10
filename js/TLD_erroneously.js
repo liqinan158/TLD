@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>erroneously</h2><div class="git"><span class="ipa">[ɪ'rəʊnɪəslɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">19323</span><div class="total">14006</div></div><div class="coca2">错误地(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">错误地；不正确</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

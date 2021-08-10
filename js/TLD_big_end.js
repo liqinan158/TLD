@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>big end</h2><div class="git"><span class="ipa">[biɡ end]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（汽车引擎中带动曲轴的）连杆大头</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">大端；连杆的曲柄头；大尾</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

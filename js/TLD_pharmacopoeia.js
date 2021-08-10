@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pharmacopoeia</h2><div class="git"><span class="ipa">[ˌfɑ:məkə'pi:ə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48688</span><div class="total">997</div></div><div class="coca2">药典(<font color="orangered">93%</font>)，一批药物(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">药典，处方书；一批备用药品</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

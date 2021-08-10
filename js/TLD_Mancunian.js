@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mancunian</h2><div class="git"><span class="ipa">[mæŋ'kju:niәn]</span></div><hr/></div><div class="coca2">曼彻斯特的(<font color="orangered">75%</font>)，曼彻斯特(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">曼彻斯特的；曼彻斯特人的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">曼彻斯特人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

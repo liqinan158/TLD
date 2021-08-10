@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>matchwood</h2><div class="git"><span class="ipa">[ˈmætʃwʊd]</span></div><hr/></div><div class="coca2">火柴杆的木柴(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">碎片；做火柴杆的木料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

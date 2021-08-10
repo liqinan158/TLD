@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bwana</h2><div class="git"><span class="ipa">[ˈbwɑ:nə]</span></div><hr/></div><div class="coca2">主人(<font color="orangered">38%</font>)，先生(<font color="orangered">37%</font>)，老板(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">先生，老爷</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Bwana)人名；(刚(金))布瓦纳；</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

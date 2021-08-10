@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>substrate</h2><div class="git"><span class="ipa">[ˈsʌbstreɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">8004</span><div class="total">82382</div></div><div class="coca2">承印物(<font color="orangered">84%</font>)，被酶作用物(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">基质；基片；底层（等于substratum）；酶作用物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

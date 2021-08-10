@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>squillion</h2><hr/></div><div class="coca2">极大数目(<font color="orangered">50%</font>)，许许多多(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">无数</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

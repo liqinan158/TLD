@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cancan</h2><div class="git"><span class="ipa">[ˈkænkæn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（法）康康舞（一种高踢大腿的法国式舞蹈）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vulgar Latin</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 60</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 29</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【语】俗拉丁文；“Low Latin”的变体</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">通俗拉丁语；通俗拉丁文；民间拉丁文</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

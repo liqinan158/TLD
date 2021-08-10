@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>peg leg</h2><div class="git"><span class="ipa">[peɡ leɡ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 8</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 8</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">假腿（尤指木制的）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">假肢木脚；木制假腿；装上木腿的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

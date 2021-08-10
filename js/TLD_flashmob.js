@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flashmob</h2><div class="git"><span class="ipa">['flæʃmɒb]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">快闪族：通过网络召集大量互不相识的人; 约定时间在某一地点集中; 闪烁暴徒; A group of people who appear from out of nowhere</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ibo</h2><div class="git"><span class="ipa">['i:bəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伊博人（尼日利亚居民）；伊博语</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ibo)人名；(日)揖保 (姓)；(土)伊博</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">国际广播组织（International Broadcasting Organization）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

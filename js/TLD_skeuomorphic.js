@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skeuomorphic</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">福斯托崇尚的是仿实设计；设计一直强调模仿现实物品；福斯托崇尚的是拟物化设计</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

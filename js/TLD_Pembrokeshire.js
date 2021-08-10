@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pembrokeshire</h2><div class="git"><span class="ipa">['pembrjkʃiә(r), -brәjk-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">彭布鲁克郡[英国威尔士原郡名]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

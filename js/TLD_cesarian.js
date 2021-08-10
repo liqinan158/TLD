@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cesarian</h2><div class="git"><span class="ipa">[sɪˈzeəri:ən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">罗马皇帝的崇拜者, 专制政体的拥护者</span></div><div class="dcb"><span class="pos">a.</span><span class="dcn">凯撒的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

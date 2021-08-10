@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>externship</h2><div class="git"><span class="ipa">['ekstɜ:nʃɪp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29349</span><div class="total">5002</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（师范、工程等专业学生的）校外实习期</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

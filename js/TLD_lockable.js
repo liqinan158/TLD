@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lockable</h2><div class="git"><span class="ipa">[ˈlɒkəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">23256</span><div class="total">8995</div></div><div class="coca2">可封闭的(<font color="orangered">60%</font>)，可锁定的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可锁定的；可封闭的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

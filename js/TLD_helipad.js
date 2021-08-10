@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>helipad</h2><div class="git"><span class="ipa">[ˈhelipæd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34479</span><div class="total">3126</div></div><div class="coca2">直升飞机机场(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">直升机起飞及降落场</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

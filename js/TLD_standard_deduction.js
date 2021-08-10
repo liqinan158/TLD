@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>standard deduction</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">工资免税标准；工资免税额</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">标准扣除额；减免额；标准扣税</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

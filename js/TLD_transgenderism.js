@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>transgenderism</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47840</span><div class="total">1069</div></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">跨性别；跨性别主义；跨越性别</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

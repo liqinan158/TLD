@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>under-rehearsed</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 排演不够的；练习过少的；准备不充分的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

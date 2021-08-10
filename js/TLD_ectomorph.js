@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ectomorph</h2><div class="git"><span class="ipa">[ˈektəʊmɔ:f]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46733</span><div class="total">1161</div></div><div class="coca2">瘦长而肌肉不发达的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[心理] 外胚层体型者；[人类] 瘦型体质者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

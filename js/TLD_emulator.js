@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>emulator</h2><div class="git"><span class="ipa">[ˈemjuleɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">10026</span><div class="total">54340</div></div><div class="coca2">仿真器(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">仿真器，模拟器；竞争者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

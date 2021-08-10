@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Millett, Kate</h2><div class="git"><span class="ipa">[mi'let]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">米利特(1934～ ，20世纪60年代美国女权运动领袖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

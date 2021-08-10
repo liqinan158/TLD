@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Group of Eight</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">八国集团（指美、德、英、法、意、加、日、俄八国组成的国际经济同盟）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

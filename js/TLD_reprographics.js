@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reprographics</h2><div class="git"><span class="ipa">[ˌri:prəˈgræfɪks]</span></div><span class="onm">原型:</span><span class="orm">reprographics 是 reprographic 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [计]复[翻]印</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

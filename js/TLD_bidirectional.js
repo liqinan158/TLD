@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bidirectional</h2><div class="git"><span class="ipa">[ˌbaɪdəˈrekʃənl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">18842</span><div class="total">14795</div></div><div class="coca2">双向的(<font color="orangered">74%</font>)，双向作用的(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">双向的；双向作用的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mondrian, Piet</h2><div class="git"><span class="ipa">['mɔndriɑ:n; pi:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">蒙德里安(1872～1944，旅居法国和美国的荷兰画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

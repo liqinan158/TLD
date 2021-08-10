@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exchange rate mechanism</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">汇率机制</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">欧洲汇率机制；欧洲货币体系汇率机制；汇率兑换机制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

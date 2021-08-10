@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>warpaint</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60332</span><div class="total">280</div></div><div class="gdc"><div class="dcb"><span class="dcn"> （美洲土著等）出征前涂在身上和脸上的颜料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

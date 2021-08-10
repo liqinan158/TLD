@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Luther, Martin</h2><div class="git"><span class="ipa">['lu:θə; 'mɑ:rti:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">马丁路德(1483～1546，德国神学家、《圣经》译者、德国新教改革领袖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

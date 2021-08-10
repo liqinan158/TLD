@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Admiralty</h2><div class="git"><span class="ipa">['ædmərəltɪ]</span></div><hr/></div><div class="coca2">海事法庭(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">海军部；海事法庭；海军上将的职位</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

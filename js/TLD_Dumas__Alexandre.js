@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dumas, Alexandre</h2><div class="git"><span class="ipa">[dju:'mɑ:; ɑ:lek'sɔŋdrə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Dumas, Alexandre1</span></div><div class="dcb"><span class="dcn">(“Dumas père”)</span></div><div class="dcb"><span class="dcn">[dju:'mɑ:; ɑ:lek'sɔŋdrə]</span></div><div class="dcb"><span class="dcn">大仲马(1802～1870，法国剧作家、小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>felafel</h2><div class="git"><span class="ipa">[fəˈlɑ:fəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">炸泥豆三明治（等于falafel）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

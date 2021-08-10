@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sutherland, Joan</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">萨瑟兰(1926～，澳大利亚女高音歌唱家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

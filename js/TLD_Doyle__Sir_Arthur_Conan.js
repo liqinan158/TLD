@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Doyle, Sir Arthur Conan</h2><div class="git"><span class="ipa">[dɔil; 'kɔ:nən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">柯南道尔(1859～1930，英国医生、小说家、侦探小说作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

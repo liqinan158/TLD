@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>RV</h2><div class="git"><span class="ipa">[.ɑː(r) 'viː]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（设有床位、厨房等野营用的）娱乐车（Recreational Vehicle）；重返大气层飞行器（Reentry Vehicle）；《圣经》的修订本（Revised Version）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

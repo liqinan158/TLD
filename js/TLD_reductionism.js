@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reductionism</h2><div class="git"><span class="ipa">[rɪˈdʌkʃənɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37075</span><div class="total">2504</div></div><div class="coca2">还原论(<font color="orangered">65%</font>)，简化论(<font color="orangered">35%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">还原论；简化论</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

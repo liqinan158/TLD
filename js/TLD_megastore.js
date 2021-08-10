@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>megastore</h2><div class="git"><span class="ipa">[ˈmegəstɔ:(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44481</span><div class="total">1381</div></div><div class="coca2">大型商场(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">售货种类繁多而方式如同超级市场的商店</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

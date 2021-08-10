@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Skopje</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">斯科普里（南斯拉夫东南部城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

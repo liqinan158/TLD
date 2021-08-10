@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>division bell</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （英国议会的）分组表决钟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

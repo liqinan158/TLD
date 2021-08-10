@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jordan</h2><div class="git"><span class="ipa">['dʒɒ:dәn]</span></div><hr/></div><div class="coca2">约旦(<font color="orangered">78%</font>)，约旦河(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">约旦（阿拉伯北部的国家）；乔丹（男子名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

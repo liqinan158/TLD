@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gold-digger</h2><div class="git"><span class="ipa">[ɡəuld ˈdiɡə]</span></div><hr/></div><div class="coca2">淘金者(<font color="orangered">50%</font>)，用色相骗取钱财的女人.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">淘金者；用色相骗取钱财的女人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

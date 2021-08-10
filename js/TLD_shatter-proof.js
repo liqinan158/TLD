@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shatter-proof</h2><div class="git"><span class="ipa">[ˈʃætə pru:f]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 不碎的; 耐震</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

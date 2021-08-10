@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ten Green Bottles</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">十个绿瓶子；十个绿色的小瓶子；十个绿色瓶子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anthroposophy</h2><div class="git"><span class="ipa">[ˌænθrəˈpɒsəfi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">关于人类本性的知识，人类智慧; 人智学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

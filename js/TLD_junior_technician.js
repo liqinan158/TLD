@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>junior technician</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （英国空军）初级技师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

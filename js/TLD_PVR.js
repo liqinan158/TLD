@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PVR</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">精密电压基准（Precision Voltage Reference）；个人录像机（Personal Video Recorder）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

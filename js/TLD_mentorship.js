@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mentorship</h2><div class="git"><span class="ipa">['mentɔːʃɪp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13762</span><div class="total">28985</div></div><div class="coca2">师徒制(<font color="orangered">50%</font>)，良师益友关系(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">导师制，辅导教师；师徒制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

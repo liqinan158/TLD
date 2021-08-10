@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dot-matrix printer</h2><div class="git"><span class="ipa">[dɑt ˈmetrɪks ˈprɪntɚ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">点阵打印机</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">点矩阵式打印机；针式打印机；点矩阵印表机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Transport for London</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">伦敦交通局；伦敦运输局；伦敦交通管理局</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

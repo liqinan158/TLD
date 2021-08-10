@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>D.C.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(direct current)直流电, (District of Columbia)哥伦比亚特区</span></div><div class="dcb"><span class="dcn">[电] 直流, direct current的简写</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

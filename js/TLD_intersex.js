@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>intersex</h2><div class="git"><span class="ipa">[ˈɪntəseks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34705</span><div class="total">3065</div></div><div class="coca2">阴阳人(<font color="orangered">72%</font>)，兼具两性特徵者(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">雌雄间性；阴阳人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

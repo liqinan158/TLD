@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>priapism</h2><div class="git"><span class="ipa">[ˈpraɪəpɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45159</span><div class="total">1314</div></div><div class="coca2">阴茎持续勃起症(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">淫荡行为；阴茎持续勃起症</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

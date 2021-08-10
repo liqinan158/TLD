@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>buoyantly</h2><div class="git"><span class="ipa">['bɔiəntli]</span></div><hr/></div><div class="coca2">有浮力的(<font color="orangered">67%</font>)，心情愉快的(<font color="orangered">22%</font>)，趋于上涨的(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">心情愉快地；有浮力地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tradespeople</h2><div class="git"><span class="ipa">[ˈtreɪdzpi:pl]</span></div><hr/></div><div class="coca2">商人(<font color="orangered">58%</font>)，商界(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">商人；商界；开商店者及其家属</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

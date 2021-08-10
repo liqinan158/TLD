@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>triangulation</h2><div class="git"><span class="ipa">[traɪˌæŋgjuˈleɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29251</span><div class="total">5036</div></div><div class="coca2">三角测量法(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[测] 三角测量；三角形划分</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

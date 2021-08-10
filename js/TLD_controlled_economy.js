@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>controlled economy</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">管制经济（由政府控制国家工业并决定产品的种类与数量）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">统制经济；受控经济；控制经济</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

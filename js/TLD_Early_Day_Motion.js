@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Early Day Motion</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">早期动议；早期提案；三五四号的动议</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

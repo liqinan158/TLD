@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chaps</h2><div class="git"><span class="ipa">[tʃæps]</span></div><span class="onm">原型:</span><span class="orm">chaps 是 chap 的第三人称单数</span><hr/></div><div class="coca2">皮套裤(<font color="orangered">55%</font>)，皮护腿套裤(<font color="orangered">27%</font>)，名词chap的复数形式.(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">皮套裤（指皮护腿套裤）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

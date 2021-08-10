@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stockhausen, Karlheinz</h2><div class="git"><span class="ipa">['ʃtɔkhəuzn; 'kɑ:lhi:nts]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">施托克豪森(1928～ ，德国作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

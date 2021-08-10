@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bodice-ripper</h2><hr/></div><div class="coca2">关于两性之间浪漫的情爱小说或电影(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> （以旧时生活为背景的）情色小说（或电影）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

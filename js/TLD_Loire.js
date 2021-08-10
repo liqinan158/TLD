@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Loire</h2><div class="git"><span class="ipa">[lwɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卢瓦尔河[法国中部](或译罗亚尔河, 发源于塞文山脉,经中央高原,西流注入大西洋的比斯开湾,是法国最长的河流)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

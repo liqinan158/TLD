@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>waitron</h2><div class="git"><span class="ipa">['weɪtrɒn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">1。侍者，服务员(waiter或waitress与patron之缩合，可指男性或女性)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

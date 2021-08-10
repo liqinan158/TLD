@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Save the Children</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">救救孩子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

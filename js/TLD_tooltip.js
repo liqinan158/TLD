@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tooltip</h2><div class="git"><span class="ipa">['tuːltɪp]</span></div><hr/></div><div class="coca2">工具提示(<font color="orangered">78%</font>)，提示信息(<font color="orangered">9%</font>)，提示框(<font color="orangered">9%</font>)，提示文本(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">工具提示；提示信息；提示框；提示文本</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Global Zero</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">全球空白(全球范围内废除核武器的观点)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teleprinter</h2><div class="git"><span class="ipa">[ˈteliprɪntə(r)]</span></div><hr/></div><div class="coca2">电传打印机(<font color="orangered">80%</font>)，=teletypewriter.(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[通信] 电传打字机，电传打字电报机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

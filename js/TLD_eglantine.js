@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eglantine</h2><div class="git"><span class="ipa">[ˈegləntaɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多花蔷薇（野蔷薇的一种）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

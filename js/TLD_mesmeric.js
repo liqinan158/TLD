@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mesmeric</h2><div class="git"><span class="ipa">[mezˈmerɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">47560</span><div class="total">1093</div></div><div class="coca2">催眠术的(<font color="orangered">75%</font>)，催眠的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">催眠术的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

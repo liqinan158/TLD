@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Watt, James</h2><div class="git"><span class="ipa">[wɔt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">瓦特(1736～1819，英国工程师、发明家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

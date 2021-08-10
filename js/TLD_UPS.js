@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UPS</h2><span class="onm">原型:</span><span class="orm">UPS 是 up 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">不间断电源（Uninterrupted Power Supply）；紫外光电子能谱（Ultraviolet Photoelectron Spectroscopy）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

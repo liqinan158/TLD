@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>antimatter</h2><div class="git"><span class="ipa">[ˈæntimætə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29406</span><div class="total">4980</div></div><div class="coca2">反物质(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[物] 反物质</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

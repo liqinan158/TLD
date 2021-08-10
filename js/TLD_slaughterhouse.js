@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slaughterhouse</h2><div class="git"><span class="ipa">[ˈslɔ:təhaʊs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22785</span><div class="total">9457</div></div><div class="coca2">屠宰场(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">屠宰场（等于abattoir）；屠杀场</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

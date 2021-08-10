@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ANSI</h2><hr/></div><div class="coca2">美国国家标准学会(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国国家标准学会（ American National Standards Institute）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ansi)人名；(阿拉伯)安西</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

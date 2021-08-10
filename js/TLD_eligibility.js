@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eligibility</h2><div class="git"><span class="ipa">[ˌelɪdʒə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">4222</span><div class="total">241205</div></div><div class="coca2">合格(<font color="orangered">78%</font>)，有资格(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">适任，合格；被选举资格</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

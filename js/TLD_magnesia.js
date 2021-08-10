@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>magnesia</h2><div class="git"><span class="ipa">[mægˈni:ʒə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38029</span><div class="total">2310</div></div><div class="coca2">氧化镁(<font color="orangered">84%</font>)，苦土(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">氧化镁；苦土；水合碳酸镁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

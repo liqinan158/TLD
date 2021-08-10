@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dordogne</h2><div class="git"><span class="ipa">[dɔ:'dɔ:njə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多尔多涅河；多尔多涅省；多尔多涅区（位于法国西南部）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

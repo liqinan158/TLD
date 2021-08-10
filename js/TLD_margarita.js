@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>margarita</h2><div class="git"><span class="ipa">[ˌmɑ:gəˈri:tə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16839</span><div class="total">18955</div></div><div class="coca2">玛格丽塔鸡尾酒(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">玛格丽塔（Margaret的异体，女子名）；玛格丽塔（一种鸡尾酒名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

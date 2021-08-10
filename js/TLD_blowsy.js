@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blowsy</h2><div class="git"><span class="ipa">[ˈblaʊzi]</span></div><hr/></div><div class="coca2">晒黑的(<font color="orangered">39%</font>)，红脸的(<font color="orangered">37%</font>)，=blowzy.(<font color="orangered">12%</font>)，邋遢的(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">晒黑的；红脸的；蓬乱的；不整洁的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

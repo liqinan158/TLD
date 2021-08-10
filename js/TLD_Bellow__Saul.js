@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bellow, Saul</h2><div class="git"><span class="ipa">['beləu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">贝洛(1915～1990，美国当代小说家，获1976年诺贝尔文学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pussy Cat, Pussy Cat, Where Have You Been?</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">猫姑娘，猫姑娘，你去过哪儿?</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

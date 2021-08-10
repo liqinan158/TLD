@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gesundheit</h2><div class="git"><span class="ipa">[gəˈzʊndhaɪt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">祝你健康; 对刚打喷嚏的人的祝愿；（德）为你的健康干杯！</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

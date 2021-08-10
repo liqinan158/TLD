@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>social bookmarking</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">网页书签</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">社会书签；社会性书签；社交书签</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Crow, Jim</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">〈美俚〉黑人对白人的歧视</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

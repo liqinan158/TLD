@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Queen's Award for Enterprise</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">女王企业奖；荣获女王企业奖；英女皇企业奖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

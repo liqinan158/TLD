@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>benchwarmer</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （运动队的）板凳队员，替补队员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

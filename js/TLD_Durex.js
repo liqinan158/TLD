@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Durex</h2><div class="git"><span class="ipa">['du:reks]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">杜蕾斯避孕套（商标名）；（澳）杜尔莱克斯牌透明胶带</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>CNN</h2><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国有线电视新闻网络（Cable News Network）；卷积神经网络（convolutional neural network）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

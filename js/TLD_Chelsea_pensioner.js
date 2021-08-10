@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Chelsea pensioner</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">在切尔西皇家医院养老的残老军人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

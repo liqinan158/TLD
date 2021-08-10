@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>housemistress</h2><div class="git"><span class="ipa">[ˈhaʊsmɑ:stə(r)]</span></div><hr/></div><div class="coca2">女舍监(<font color="orangered">39%</font>)，女主人(<font color="orangered">33%</font>)，主妇(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">主妇；女舍监；女主人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

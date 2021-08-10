@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>freeride</h2><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">45785</span><div class="total">1253</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 全能滑雪板（在各种雪上使用）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hitler, Adolf</h2><div class="git"><span class="ipa">['hitlə; 'ɑ:dɔ:lf]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">希特勒(1889～1945，纳粹德国元首，头号战犯；出生于奥地利)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

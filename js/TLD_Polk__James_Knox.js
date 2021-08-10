@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Polk, James Knox</h2><div class="git"><span class="ipa">[pəuk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">波尔克(1795～1849)，美国第十一任总统(1845～1849)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

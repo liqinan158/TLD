@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>McLuhan, Marshall</h2><div class="git"><span class="ipa">[mə'klu:ən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">McLuhan, (Herbert) Marshall</span></div><div class="dcb"><span class="dcn">[mə'klu:ən]</span></div><div class="dcb"><span class="dcn">麦克卢恩(1911～1980，加拿大作家、教育家、大众传播手段专家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

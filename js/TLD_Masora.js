@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Masora</h2><div class="git"><span class="ipa">[mə'səurə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[犹太教]马所拉(意为“传统”); 《圣经》马所拉本(6～10世纪一些犹太教学者根据《圣经》编写)[亦作Masorah, Massorah, Massora]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

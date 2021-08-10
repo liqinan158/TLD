@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sacerdotal</h2><div class="git"><span class="ipa">[ˌsæsəˈdəʊtl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">48863</span><div class="total">983</div></div><div class="coca2">僧侣的(<font color="orangered">75%</font>)，圣职的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">僧侣的；相信僧侣神权的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

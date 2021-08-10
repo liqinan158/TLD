@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>derivable</h2><div class="git"><span class="ipa">[dɪ'raɪvəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">52815</span><div class="total">678</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可引出的，可推论的，可诱导的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

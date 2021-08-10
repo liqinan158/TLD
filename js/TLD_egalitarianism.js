@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>egalitarianism</h2><div class="git"><span class="ipa">[ɪˌɡælɪ'teərɪənɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34779</span><div class="total">3042</div></div><div class="coca2">平均主义(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">平等主义，[经] 平均主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

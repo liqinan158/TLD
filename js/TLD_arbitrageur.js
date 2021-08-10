@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>arbitrageur</h2><div class="git"><span class="ipa">[ˌɑ:bɪtrɑ:'ʒɜ:(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56000</span><div class="total">492</div></div><div class="coca2">套利者(<font color="orangered">67%</font>)，套汇商(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">从事于套利或套汇之人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

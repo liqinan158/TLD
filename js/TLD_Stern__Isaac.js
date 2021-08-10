@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stern, Isaac</h2><div class="git"><span class="ipa">[stə:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯特恩(1920～  ，俄裔美国小提琴家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overground</h2><div class="git"><span class="ipa">[ˈəʊvəgraʊnd]</span></div><hr/></div><div class="coca2">地上的(<font color="orangered">58%</font>)，公开的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">地上的；为社会所接受的；公开的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

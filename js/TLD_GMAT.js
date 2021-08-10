@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>GMAT</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">格林尼治天文平时（Greenwich mean astronomical time）；研究生管理专业入学考试（Graduate Management Admissions Test）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nignog</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">What black people drink at christmas, instead of egg nog</span></div><div class="dcb"><span class="deq">&gt; Pass the nig nog ya nig nog</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

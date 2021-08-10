@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>insobriety</h2><div class="git"><span class="ipa">[ˌɪnsəˈbraɪəti]</span></div><hr/></div><div class="coca2">酗酒(<font color="orangered">46%</font>)，不节制(<font color="orangered">36%</font>)，暴饮(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无节制；头脑不清醒；酗酒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

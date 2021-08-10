@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shelf-stacker</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （尤指超市的）货物上架员, 上货员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

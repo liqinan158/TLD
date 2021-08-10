@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kublai Khan</h2><div class="git"><span class="ipa">['ku:blai 'kɑ:n]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 18</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 7</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 7</div><div class="gdc"><div class="dcb"><span class="dcn">忽必烈(1216-1294, 元世祖, 中国元朝皇帝, 成吉思汗之孙)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

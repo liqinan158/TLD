@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>after-image</h2><div class="git"><span class="ipa">[ˈɑ:ftə ˈimidʒ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [计] 更新后图象，改后录象; [医] 后象</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

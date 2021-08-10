@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pandal</h2><div class="git"><span class="ipa">['pændl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(印度公共集会等用的)临时棚舍</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

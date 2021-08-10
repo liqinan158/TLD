@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oedipus</h2><div class="git"><span class="ipa">['i:dipәs]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">俄狄浦斯（希腊神话人物）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

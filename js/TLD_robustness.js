@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>robustness</h2><div class="git"><span class="ipa">[rəʊ'bʌstnəs]</span></div><hr/></div><div class="coca2">坚固性(<font color="orangered">50%</font>)，强度(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[自] 鲁棒性；[计] 稳健性；健壮性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

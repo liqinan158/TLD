@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>joinery</h2><div class="git"><span class="ipa">[ˈdʒɔɪnəri]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21663</span><div class="total">10681</div></div><div class="coca2">细木工活(<font color="orangered">50%</font>)，细木工手艺(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[木] 细木工业；细木工制品</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

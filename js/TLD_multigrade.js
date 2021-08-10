@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>multigrade</h2><div class="git"><span class="ipa">[ˈmʌltigreɪd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（润滑油）多级通用的，多品位的，稠化的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

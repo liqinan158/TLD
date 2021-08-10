@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>philtre</h2><div class="git"><span class="ipa">[ˈfɪltə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">催情药，春药</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">刺激，使兴奋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>OAS</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美洲国家组织（Organization of American States）；现役（On Active Service）；光接入系统（Optical Access System）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

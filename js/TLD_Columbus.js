@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Columbus</h2><div class="git"><span class="ipa">[kə'lʌmbəs]</span></div><hr/></div><div class="coca2">哥伦布(意大利航海家(<font color="orangered">50%</font>)，新大陆发行者)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">哥伦布（美国一座城市）；哥伦布（意大利航海家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

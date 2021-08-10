@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Transvaal</h2><div class="git"><span class="ipa">['trænzvɑ:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">德兰士瓦省[南非(阿扎尼亚)省名]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

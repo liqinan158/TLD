@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shauri</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 需要讨论（或决定）的事；麻烦事；问题</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

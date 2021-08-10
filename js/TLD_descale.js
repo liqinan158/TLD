@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>descale</h2><div class="git"><span class="ipa">[ˌdi:ˈskeɪl]</span><span class="frm">descaled, descaling, descales</span></div><hr/></div><div class="coca2">除垢(<font color="orangered">46%</font>)，除去锈皮(<font color="orangered">36%</font>)，除磷(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">除去锈皮；除去…的锅垢；缩小比例</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

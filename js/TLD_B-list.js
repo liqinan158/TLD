@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>B-list</h2><div class="git"><span class="ipa">['bi:list]</span></div><hr/></div><div class="coca2">二流的(<font color="orangered">50%</font>)，才能平平的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">二流的，次等的，才能平平的，平庸的 [参较 A-list]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

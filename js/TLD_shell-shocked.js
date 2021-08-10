@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shell-shocked</h2><div class="git"><span class="ipa">[ʃel ʃɔkt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">37004</span><div class="total">2519</div></div><div class="coca2">患炮弹休克的(<font color="orangered">50%</font>)，患战争疲劳症的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">患战斗疲劳症的；患炮弹休克症的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

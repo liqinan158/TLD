@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>catch-all</h2><div class="git"><span class="ipa">[kætʃ ɔ:l]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">25847</span><div class="total">6932</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">分沫器，截液器</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">全方位的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

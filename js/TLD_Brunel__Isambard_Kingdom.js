@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Brunel, Isambard Kingdom</h2><div class="git"><span class="ipa">['bru:'nelɔ; 'izmbɑ:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">布鲁内尔(1806～1859，英国土木工程师、机械工程师、海军船舶工程师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

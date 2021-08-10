@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gooseflesh</h2><div class="git"><span class="ipa">['gʊsfleʃ]</span></div><hr/></div><div class="coca2">(恐惧(<font color="orangered">50%</font>)，寒冷等引起的)鸡皮疙瘩(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（由于寒冷、恐惧或激动而起的）鸡皮疙瘩</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">起鸡皮疙瘩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

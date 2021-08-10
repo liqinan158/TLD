@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>confidante</h2><div class="git"><span class="ipa">[ˌkɒnfɪ'dænt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30785</span><div class="total">4373</div></div><div class="coca2">红粉知己(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">知心女友；18世纪的一种沙发（等于confidente）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>knuckle-duster</h2><div class="git"><span class="ipa">['nʌkld'ʌstər]</span></div><hr/></div><div class="coca2">戴在指关节的金属套(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">指节铜套</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

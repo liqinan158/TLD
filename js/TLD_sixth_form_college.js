@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sixth form college</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">第六级学院；高级中学；第六学级学院</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

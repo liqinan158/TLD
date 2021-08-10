@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ppi</h2><div class="git"><span class="ipa">[ˌpi: pi: ˈaɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">生产者物价指数（producer price index）；包装、邮费和保险费（Packing， Postage and Insurance）；处理机/外围设备接口（Processor/Peripheral Interface）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

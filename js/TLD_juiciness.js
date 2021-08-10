@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>juiciness</h2><div class="git"><span class="ipa">[d'ʒu:sɪnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40715</span><div class="total">1871</div></div><div class="coca2">汁液性(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多汁，多汁性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

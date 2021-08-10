@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sidearm</h2><div class="git"><span class="ipa">['saɪdɑ:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30082</span><div class="total">4677</div></div><div class="coca2">侧投的(<font color="orangered">56%</font>)，从侧面(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">侧投球的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

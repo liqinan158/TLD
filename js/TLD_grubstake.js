@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grubstake</h2><div class="git"><span class="ipa">['grʌbsteɪk]</span><span class="frm">grubstaked, grubstaking, grubstakes</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">衣服，食物物质的援助，资金</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">以利益条件供给资金</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

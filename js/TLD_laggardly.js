@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>laggardly</h2><div class="git"><span class="ipa">['læɡədlɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">缓慢的，落后的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">行动缓慢地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>highball</h2><div class="git"><span class="ipa">[ˈhaɪbɔ:l]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37877</span><div class="total">2336</div></div><div class="coca2">全速或高速前进(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">掺了苏打水的威士忌；掺了姜汁啤酒的威士忌；高杯酒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

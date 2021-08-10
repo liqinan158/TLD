@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fah-fee</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 推筒子, 押宝（一种对所选点数押钱赌博的游戏）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

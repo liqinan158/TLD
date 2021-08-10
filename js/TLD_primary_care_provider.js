@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>primary care provider</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">初级护理机构；基础医疗机构</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">家庭医生；基础医疗医师；医疗提供者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

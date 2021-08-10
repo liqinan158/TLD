@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>outride</h2><div class="git"><span class="ipa">['aʊtraɪd]</span><span class="frm">outrode, outridden, outriding, outrides</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">骑得比…更好，安然度过风暴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

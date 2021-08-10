@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chatline</h2><div class="git"><span class="ipa">[ˈtʃætlaɪn]</span></div><hr/></div><div class="coca2">聊天热线(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">聊天热线；青少年热线交谈服务</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

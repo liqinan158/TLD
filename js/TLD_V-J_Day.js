@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>V-J Day</h2><div class="git"><span class="ipa">['vi:'dʒei]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">抗日战争胜利日(指1945年8月15日日本在第二次世界大战中宣布无条件投降日或1945年9月2日日本正式签字投降日)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

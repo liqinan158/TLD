@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polygamist</h2><div class="git"><span class="ipa">[pə'lɪɡəmɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41857</span><div class="total">1709</div></div><div class="coca2">一夫多妻者(<font color="orangered">67%</font>)，一妻多夫者(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多配偶的人；多配偶论者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ploughman</h2><div class="git"><span class="ipa">[ˈplaʊmən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49553</span><div class="total">926</div></div><div class="coca2">庄稼汉(<font color="orangered">53%</font>)，犁田者(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">农夫；庄稼汉；犁田者（等于plowman）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

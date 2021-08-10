@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>muddle-headed</h2><div class="git"><span class="ipa">[ˈmʌdlˌhedɪd]</span></div><hr/></div><div class="coca2">昏庸的(<font color="orangered">75%</font>)，笨拙的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">糊涂的；昏庸的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

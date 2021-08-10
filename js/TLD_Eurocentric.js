@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eurocentric</h2><div class="git"><span class="ipa">[,jjәrәj'sentrik]</span></div><hr/></div><div class="coca2">以欧洲为中心的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（英）以欧洲为中心的；主要与欧洲有关的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

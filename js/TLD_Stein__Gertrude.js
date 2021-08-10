@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stein, Gertrude</h2><div class="git"><span class="ipa">[stain]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯泰因(1874～1946，法裔美籍女作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>respray</h2><div class="git"><span class="ipa">[ˌri:ˈspreɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 重新喷涂，重新油漆; 再喷</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

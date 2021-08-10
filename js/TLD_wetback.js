@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wetback</h2><div class="git"><span class="ipa">[ˈwetbæk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53047</span><div class="total">663</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">非法入境的农业劳工（尤指非法入境的墨西哥劳工）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anthropomorphism</h2><div class="git"><span class="ipa">[ˌænθrəpə'mɔ:fɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44768</span><div class="total">1352</div></div><div class="coca2">拟人论(<font color="orangered">59%</font>)，拟人观(<font color="orangered">41%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">神人同形同性论</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

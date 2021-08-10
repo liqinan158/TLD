@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>djinn</h2><div class="git"><span class="ipa">[dʒin]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （阿拉伯神话）神怪，神灵，精灵</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

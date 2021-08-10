@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>epistemic</h2><div class="git"><span class="ipa">[ˌepɪˈsti:mɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26226</span><div class="total">6683</div></div><div class="coca2">认识的(<font color="orangered">58%</font>)，知识的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">知识的；认识的，与认识有关的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>colcannon</h2><div class="git"><span class="ipa">[kɒlˈkænən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">爱尔兰菜肴的一种，马铃薯卷心菜泥</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

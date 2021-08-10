@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ICT</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">结缔组织炎症（Inflammation of Connective Tissue）；粘土工艺学会（Ins-titute of Clay Technology）；计算机技术研究所（Institute of Computer Technology）；集成电路测试仪器（Integrated Circuit Tester）；集成电路计算机遥测技术（Integrated Computer Telemetry）；国际计算机与制表机公司（International Computers and Tabulators Company）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

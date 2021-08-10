@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Alfred the Great</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 10</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="dcn">阿尔弗雷德大帝（英国国王）；阿佛烈大帝；奇兵定江山（电影名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

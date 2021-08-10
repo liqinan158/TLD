@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>immutable</h2><div class="git"><span class="ipa">[ɪˈmju:təbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">17976</span><div class="total">16433</div></div><div class="coca2">不变的(<font color="orangered">57%</font>)，不可变的(<font color="orangered">43%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不变的；不可变的；不能变的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

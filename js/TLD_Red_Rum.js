@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Red Rum</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">谋杀（美国黑帮英语，murder反过来写）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

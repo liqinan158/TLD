@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Epcot Center</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">明日世界；科特中心；艾波卡特中心</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

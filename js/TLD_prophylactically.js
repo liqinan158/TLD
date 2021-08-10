@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prophylactically</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">51991</span><div class="total">732</div></div><div class="coca2">预防疾病的(<font color="orangered">53%</font>)，预防药(<font color="orangered">30%</font>)，避孕用品(<font color="orangered">17%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">预防地；预防上</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

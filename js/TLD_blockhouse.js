@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blockhouse</h2><div class="git"><span class="ipa">[ˈblɒkhaʊs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44006</span><div class="total">1435</div></div><div class="coca2">木堡(<font color="orangered">72%</font>)，防舍(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">碉堡；木堡；发射管制台</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

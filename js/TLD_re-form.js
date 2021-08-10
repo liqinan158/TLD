@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>re-form</h2><div class="git"><span class="ipa">[riˈfɔ:m]</span><span class="frm">re-formed, re-forming, re-forms</span></div><hr/></div><div class="coca2">再形成(<font color="orangered">50%</font>)，再组成(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">重做；重新改编</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">再组成；再形成</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

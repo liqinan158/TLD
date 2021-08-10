@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>direct-to-consumer</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">直接面对消费者；针对消费者的促销；直接面对消费者的营销模式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gabriel</h2><div class="git"><span class="ipa">['geibriәl]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">加布里埃尔（男子名）；加百利（替上帝把好消息报告世人的天使）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

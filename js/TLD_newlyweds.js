@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>newlyweds</h2><div class="git"><span class="ipa">[n'ju:lɪwedz]</span></div><span class="onm">原型:</span><span class="orm">newlyweds 是 newlywed 的复数</span><hr/></div><div class="coca2">新婚夫妇(<font color="orangered">98%</font>)，名词newlywed的复数.(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">新婚夫妇；新婚的人（newlywed的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

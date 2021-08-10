@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rapid transit system</h2><div class="git"><span class="ipa">[ˈræpid ˈtrænsit ˈsistəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> &lt;美&gt;（市内）高速铁路交通系统</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

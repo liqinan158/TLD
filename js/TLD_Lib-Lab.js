@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lib-Lab</h2><div class="git"><span class="ipa">['lib'læb]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">[英国英语]自由党—工党的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

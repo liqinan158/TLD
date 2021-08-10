@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chunder</h2><div class="git"><span class="ipa">[ˈtʃʌndə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">呕吐（澳俚）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Chunder)人名；(印)琼德尔</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">呕吐（澳俚）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

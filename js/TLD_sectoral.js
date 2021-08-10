@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sectoral</h2><div class="git"><span class="ipa">['sektərə]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">34244</span><div class="total">3186</div></div><div class="coca2">经济领域的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">部门的；行业的；经济领域的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

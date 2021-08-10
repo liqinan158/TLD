@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dog-leg</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （道路的）急转弯；（高尔夫球场的）弯曲球道, ＜形击球区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

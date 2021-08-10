@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>circumstantially</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">59825</span><div class="total">307</div></div><div class="coca2">详细地(<font color="orangered">25%</font>)，附随地(<font color="orangered">25%</font>)，偶然地(<font color="orangered">25%</font>)，因情形地(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">依照情况地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

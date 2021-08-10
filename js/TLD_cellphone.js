@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cellphone</h2><div class="git"><span class="ipa">[ˈselfəʊn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">10829</span><div class="total">46750</div></div><div class="coca2">手机(<font color="orangered">99%</font>)，便携无线电话(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蜂窝式便携无线电话；大哥大</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

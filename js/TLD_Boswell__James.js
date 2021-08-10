@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Boswell, James</h2><div class="git"><span class="ipa">['bɔzwel]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">鲍斯韦尔(1740～1795，英国苏格兰律师、作家，塞缪尔约翰逊的传记作者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

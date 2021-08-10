@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>revivalism</h2><div class="git"><span class="ipa">[rɪˈvaɪvəlɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51371</span><div class="total">776</div></div><div class="coca2">信仰复兴运动(<font color="orangered">60%</font>)，复兴倾向(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">信仰复兴运动；复兴倾向</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

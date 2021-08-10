@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mammon</h2><div class="git"><span class="ipa">[ˈmæmən]</span></div><hr/></div><div class="coca2">贪财(<font color="orangered">50%</font>)，贪欲之神(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">钱财（作为偶像或罪恶根源看的，常为贬义）；财神；贪欲（等于mammon）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

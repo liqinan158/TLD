@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tal</h2><div class="git"><span class="ipa">[lt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医][=tachypleus amebocyte lysate]鲎变形细胞溶解物，鲎试剂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

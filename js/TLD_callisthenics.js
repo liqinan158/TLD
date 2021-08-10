@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>callisthenics</h2><div class="git"><span class="ipa">[ˌkælɪsˈθenɪks]</span></div><span class="onm">原型:</span><span class="orm">callisthenics 是 callisthenic 的复数</span><hr/></div><div class="coca2">健美操(<font color="orangered">60%</font>)，柔软体操(<font color="orangered">30%</font>)，=calisthenics.(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">运动；柔软体操</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

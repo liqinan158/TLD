@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>charge capping</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （地方政府为公共服务向公众收取的）收费限额</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

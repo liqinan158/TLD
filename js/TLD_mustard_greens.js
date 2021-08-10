@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mustard greens</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">芥菜叶（烹调或拌色拉用，尤见于美国南部）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">芥末芽；芥菜的叶子；芥末类绿色素</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

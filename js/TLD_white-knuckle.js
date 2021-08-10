@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>white-knuckle</h2><div class="git"><span class="ipa">['waɪtn'ʌkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">45623</span><div class="total">1265</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">白标签（为推销目的等而标明唱片预先发行的一种标识）</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">神经紧张的；引起神经紧张的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

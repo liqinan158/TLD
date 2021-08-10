@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>open-plan</h2><div class="git"><span class="ipa">[ˈəupən plæn]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">23517</span><div class="total">8758</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">开敞式平面布置的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>frenziedly</h2><div class="git"><span class="ipa">['frenzidli]</span></div><hr/></div><div class="coca2">疯狂的(<font color="orangered">80%</font>)，激怒的(<font color="orangered">15%</font>)，动词frenzy的过去式和过去分词形式.(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">极其激动地；狂乱地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

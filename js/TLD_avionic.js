@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>avionic</h2><div class="git"><span class="ipa">[ˌeɪvɪ'ɒnɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">51332</span><div class="total">780</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 航空电子学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

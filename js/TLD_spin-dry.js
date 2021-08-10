@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spin-dry</h2><div class="git"><span class="ipa">[spin drai]</span><span class="frm">spin-dried, spin-drying, spin-dries</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">利用离心力脱水</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

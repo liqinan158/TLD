@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>penny-farthing</h2><div class="git"><span class="ipa">[ˈpeni ˈfɑ:ðɪŋ]</span></div><hr/></div><div class="coca2">前轮大后轮小的自行车(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">一种前轮大后轮小的脚踏车</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>set book</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （考试）指定课本, 指定用书</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

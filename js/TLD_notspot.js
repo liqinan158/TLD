@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>notspot</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">notspot (plural notspots)</span></div><div class="dcb"><span class="dcn">(informal) An area where wireless Internet access is not available.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rectilinear</h2><div class="git"><span class="ipa">[ˌrektɪˈlɪniə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36804</span><div class="total">2566</div></div><div class="coca2">直线的(<font color="orangered">67%</font>)，用直线围着的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">直线运动的；形成直线的；用直线围着的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>con artist</h2><div class="git"><span class="ipa">[kɔn ˈɑ:tist]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 70</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 6</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 53</div><div class="gdc"><div class="dcb"><span class="dcn">骗子；以花言巧语骗人的人；过上了舒适懒散生活的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

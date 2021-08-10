@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shied</h2><div class="git"><span class="ipa">[ʃaɪd]</span></div><span class="onm">原型:</span><span class="orm">shied 是 shy 的过去式和过去分词</span><hr/></div><div class="coca2">动词shy的过去式或过去分词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">回避；（指马）惊退；后退；厌恶（shy的过去分词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

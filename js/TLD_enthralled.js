@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>enthralled</h2><div class="git"><span class="ipa">[ɪnˈθrɔ:ld]</span></div><span class="onm">原型:</span><span class="orm">enthralled 是 enthral 的过去式和过去分词</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">61212</span><div class="total">255</div></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">迷住，吸引住( enthrall的过去式和过去分词 ); 使感到非常愉快</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

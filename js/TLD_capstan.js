@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>capstan</h2><div class="git"><span class="ipa">[ˈkæpstən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35371</span><div class="total">2896</div></div><div class="coca2">主动轮(<font color="orangered">58%</font>)，卷扬机(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">绞盘，起锚机；主动轮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

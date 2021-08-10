@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>may've</h2><div class="git"><span class="ipa">['meɪvi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">（尤当have为助动词时，为may have 的口语形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

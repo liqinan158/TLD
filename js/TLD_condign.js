@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>condign</h2><div class="git"><span class="ipa">[kənˈdaɪn]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">相当的(<font color="orangered">50%</font>)，适宜的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">相当的；应得的（尤指惩罚）；适宜的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

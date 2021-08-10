@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cohan, George M.</h2><div class="git"><span class="ipa">[kəu'hæn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Cohan, George M(ichael)</span></div><div class="dcb"><span class="dcn">[kəu'hæn]</span></div><div class="dcb"><span class="dcn">科汉 (1878～1942，美国演员，剧作家，舞台监督，流行歌曲创作者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

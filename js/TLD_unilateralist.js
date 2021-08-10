@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unilateralist</h2><div class="git"><span class="ipa">[ˌju:nɪ'lætrəlɪst]</span></div><hr/></div><div class="coca2">主张片面武论者(<font color="orangered">50%</font>)，主张片面武论的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">主张片面限武论者；单边主义者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

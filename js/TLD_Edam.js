@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Edam</h2><div class="git"><span class="ipa">['i:dәm]</span></div><hr/></div><div class="coca2">荷兰形干酪(<font color="orangered">50%</font>)，一种用红蜡包封的黄色乳酪(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">荷兰球形干酪（黄色，用红蜡包包装）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

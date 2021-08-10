@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rah-rah skirt</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 拉拉队裙（拉拉队员常穿的多层短裙）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

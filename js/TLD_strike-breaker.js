@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>strike-breaker</h2><div class="git"><span class="ipa">[straik ˈbreikə]</span></div><hr/></div><div class="coca2">或顶替参与罢工的工人的职务(<font color="orangered">34%</font>)，在罢工期间继续工作(<font color="orangered">33%</font>)，工贼或破坏罢工的工人(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">破坏及反罢工的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

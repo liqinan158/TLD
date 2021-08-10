@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>debutante</h2><div class="git"><span class="ipa">[ˈdebjutɑ:nt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36668</span><div class="total">2597</div></div><div class="coca2">初次进入社交界的女子(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">初次参加上层社会社交活动的少女</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

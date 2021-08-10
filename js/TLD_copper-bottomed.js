@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>copper-bottomed</h2><span class="onm">原型:</span><span class="orm">copper-bottomed 是 copper-bottom 的过去式和过去分词</span><hr/></div><div class="coca2">可靠的(<font color="orangered">50%</font>)，稳妥的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">底包铜皮的；耐航海的；绝对安全的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

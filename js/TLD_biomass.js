@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>biomass</h2><div class="git"><span class="ipa">[ˈbaɪəʊmæs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13086</span><div class="total">32150</div></div><div class="coca2">生物量(<font color="orangered">99%</font>)，用作燃料的植物或动物废弃物(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（单位面积或体积内的）[生态] 生物量</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

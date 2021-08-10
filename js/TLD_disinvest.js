@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disinvest</h2><div class="git"><span class="ipa">[ˌdɪsɪnˈvest]</span></div><hr/></div><div class="coca2">减资(<font color="orangered">50%</font>)，投资缩减(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">投资缩减；减资</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

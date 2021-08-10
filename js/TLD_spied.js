@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spied</h2><div class="git"><span class="ipa">[spaɪd]</span></div><span class="onm">原型:</span><span class="orm">spied 是 spy 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">看见，发现（ spy的过去式和过去分词 ）; 当间谍; 从事间谍活动; 搜集情报</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

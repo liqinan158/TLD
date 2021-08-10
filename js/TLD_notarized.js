@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>notarized</h2><div class="git"><span class="ipa">[ˈnəʊtəˌraɪzd]</span></div><span class="onm">原型:</span><span class="orm">notarized 是 notarize 的过去式和过去分词</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">25944</span><div class="total">6871</div></div><div class="coca2">公证(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">[法] 由公证人证实的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

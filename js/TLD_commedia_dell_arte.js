@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>commedia dell'arte</h2><div class="git"><span class="ipa">[kɒˌmeɪdɪə del ˈɑ:teɪ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">即兴喜剧；义大利即兴喜剧；艺术喜剧</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

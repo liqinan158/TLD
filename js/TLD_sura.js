@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sura</h2><div class="git"><span class="ipa">['sʊərə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34875</span><div class="total">3021</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">节，章；[解剖] 腓肠</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Sura)人名；(意、英、西、罗、捷)苏拉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>supervision order</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">监督令（英国法院要求地方政府或缓刑监视官对少年进行监督）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">监管令；其监管令；监护令</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gangling</h2><div class="git"><span class="ipa">[ˈgæŋglɪŋ]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">瘦长难看的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">过分瘦长的；动作笨拙难看的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">笨拙地移动（gangle的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Band-Aid</h2><div class="git"><span class="ipa">['bændeid]</span></div><hr/></div><div class="coca2">补缀的(<font color="orangered">75%</font>)，权宜的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">创可贴</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">补缀的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

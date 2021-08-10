@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>statutory sick pay</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">法定患病工资；法定带薪病假；周的法定病假工资</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

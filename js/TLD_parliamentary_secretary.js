@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parliamentary secretary</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">政务次官（大臣掌管的政府部门的议员）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">国会秘书；政务次长；大臣政务官</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

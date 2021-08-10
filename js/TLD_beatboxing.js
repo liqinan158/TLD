@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beatboxing</h2><div class="git"><span class="ipa">['bi;tbɒksɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（嘻哈音乐的）节奏口技</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">口技鼓击；口技音乐；长笛彼得与狼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

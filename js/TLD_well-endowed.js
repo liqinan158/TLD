@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>well-endowed</h2><div class="git"><span class="ipa">[welɪn'daʊd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">47168</span><div class="total">1122</div></div><div class="coca2">天生优势的(<font color="orangered">50%</font>)，资金充足的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">天赋好的；生殖器健全的，生殖器大的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

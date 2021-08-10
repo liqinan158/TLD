@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Frost, Robert</h2><div class="git"><span class="ipa">['frɔst]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Frost, Robert (Lee)</span></div><div class="dcb"><span class="dcn">['frɔst]</span></div><div class="dcb"><span class="dcn">弗罗斯特(1874～1963，美国诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

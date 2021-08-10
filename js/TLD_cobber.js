@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cobber</h2><div class="git"><span class="ipa">[ˈkɒbə(r)]</span></div><hr/></div><div class="coca2">伙伴(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（澳俚）伙伴；朋友</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

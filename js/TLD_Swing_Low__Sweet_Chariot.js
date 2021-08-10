@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Swing Low, Sweet Chariot</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">战车下来载我回家；马车从天上下来；心随歌动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

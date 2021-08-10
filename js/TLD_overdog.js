@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overdog</h2><div class="git"><span class="ipa">['əʊvədɒɡ]</span></div><hr/></div><div class="coca2">占上风的一方(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">占上风者；属于统治阶级或特权阶级者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

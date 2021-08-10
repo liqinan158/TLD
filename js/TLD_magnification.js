@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>magnification</h2><div class="git"><span class="ipa">[ˌmægnɪfɪˈkeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">11126</span><div class="total">44408</div></div><div class="coca2">放大(<font color="orangered">99%</font>)，夸张(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">放大；放大率；放大的复制品</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>continuo</h2><div class="git"><span class="ipa">[kənˈtɪnjuəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40389</span><div class="total">1922</div></div><div class="coca2">数字低音(<font color="orangered">84%</font>)，低音连奏(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">数字低音；键盘乐器的低音部</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

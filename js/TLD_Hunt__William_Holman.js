@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hunt, William Holman</h2><div class="git"><span class="ipa">['həulmən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Hunt,(William) Holman</span></div><div class="dcb"><span class="dcn">['həulmən]</span></div><div class="dcb"><span class="dcn">亨特(1827～1910，英国画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>piscatorial</h2><div class="git"><span class="ipa">[ˌpɪskəˈtɔ:riəl]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">渔业的(<font color="orangered">50%</font>)，渔民的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">渔业的；渔民的；捕鱼的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

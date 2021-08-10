@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vaulting horse</h2><div class="git"><span class="ipa">[ˈvɔ:ltiŋ hɔ:s]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（体操器械）跳马</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">鞍马；木马；拱柱或拱墩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

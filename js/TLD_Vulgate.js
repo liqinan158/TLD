@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vulgate</h2><div class="git"><span class="ipa">['vʌl^eit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拉丁文&lt;&lt;圣经&gt;&gt;</span></div><div class="dcb"><span class="pos">a.</span><span class="dcn">拉丁文&lt;&lt;圣经&gt;&gt;的, 公认文本的, 通行的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overshare</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">〈口,非正式〉(过于私人或细节的)信息</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">过度分享</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">分享控；感同身受</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

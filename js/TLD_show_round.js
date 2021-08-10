@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>show round</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">带(某人)参观；[主英国英语]= show around</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Range Rover</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 37</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 33</div><div class="gdc"><div class="dcb"><span class="dcn">大型越野车(状似吉普车)[亦作Land Rover, Pajaro]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>halwa</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 哈瓦（用粗面粉或胡萝卜加杏仁和豆蔻干籽制成的南亚甜食）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

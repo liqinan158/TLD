@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kaffeeklatch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">咖啡茶点叙谈会；为咖啡八卦屋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

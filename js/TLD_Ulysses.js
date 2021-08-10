@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ulysses</h2><div class="git"><span class="ipa">[ju(:)'lisi:z]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">尤里西斯（希腊神话中男子名, 也是爱尔兰意识流文学作家詹姆斯·乔伊斯小说名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>locoweed</h2><div class="git"><span class="ipa">['ləʊkəʊwi:d]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TOEFL</span></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;美&gt;疯草（牲畜食后引起疯草病）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

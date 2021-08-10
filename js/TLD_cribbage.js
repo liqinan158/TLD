@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cribbage</h2><div class="git"><span class="ipa">[ˈkrɪbɪdʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52418</span><div class="total">704</div></div><div class="coca2">克里比奇纸牌游戏(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克里比奇牌戏（纸牌玩法之一）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

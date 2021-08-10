@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unrecorded</h2><div class="git"><span class="ipa">[ˌʌnrɪˈkɔ:dɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">33713</span><div class="total">3338</div></div><div class="coca2">未记录下来的(<font color="orangered">80%</font>)，未入账的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">未记录下来的；未登记的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>WI</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">熟铁（Wrought Iron）；妇女协会（Women 's Institute）；西印度群岛（West Indies）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

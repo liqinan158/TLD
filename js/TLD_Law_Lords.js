@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Law Lords</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">上议院高等法官；上议院法官；英国上议院高等法院</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

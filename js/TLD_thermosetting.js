@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thermosetting</h2><div class="git"><span class="ipa">['θɜ:məʊˌsetɪŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50630</span><div class="total">833</div></div><div class="coca2">热固的(<font color="orangered">75%</font>)，热硬化性的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">热固的；热硬化性的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

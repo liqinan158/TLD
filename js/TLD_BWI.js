@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BWI</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">英属西印度群岛（British West Indies）；布雷顿森林机构（Bretton Woods Institutions）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

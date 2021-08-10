@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exonormative</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 基于第二语言在本国的使用情况的；外成规范的；外规范语言的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

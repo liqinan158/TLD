@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>H.E.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【宗】阁下；对位于较高职位的人</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">苏木素伊红；热交换器；眼高</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

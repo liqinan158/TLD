@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>belabour</h2><div class="git"><span class="ipa">[bɪˈleɪbə(r)]</span><span class="frm">belaboured, belabouring, belabours</span></div><hr/></div><div class="coca2">痛打(<font color="orangered">54%</font>)，抨击(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">痛打；不断辱骂和嘲弄</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

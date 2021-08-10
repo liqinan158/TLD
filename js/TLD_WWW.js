@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>WWW</h2><hr/></div><div class="coca2">环球网(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">万维网（World Wide Web）；世界气象监视网（World Weather Watch）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

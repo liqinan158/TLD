@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unicycle</h2><div class="git"><span class="ipa">[ˈju:nɪsaɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34573</span><div class="total">3101</div></div><div class="coca2">名词(<font color="orangered">92%</font>)，动词(<font color="orangered">8%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">单轮车；独轮脚踏车</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

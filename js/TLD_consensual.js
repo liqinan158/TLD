@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>consensual</h2><div class="git"><span class="ipa">[kənˈsenʃuəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">19924</span><div class="total">13003</div></div><div class="coca2">交感性的(<font color="orangered">50%</font>)，在两愿下成立的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">交感的；在双方同意下成立的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

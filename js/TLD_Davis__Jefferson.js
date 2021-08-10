@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Davis, Jefferson</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">戴维斯(1808～1889)，美国南北战争时期南方联盟政府总统(1861～1865)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

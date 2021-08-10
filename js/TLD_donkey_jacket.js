@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>donkey jacket</h2><div class="git"><span class="ipa">[ˈdɔŋki ˈdʒækit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[英国英语](野外作业工人穿的)风雨衣，泥水服</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dirndl</h2><div class="git"><span class="ipa">[ˈdɜ:ndl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55370</span><div class="total">523</div></div><div class="coca2">紧身连衣裙(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">紧身连衣裙；少女装（阿尔卑斯山地农民的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

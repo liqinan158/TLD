@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tailboard</h2><div class="git"><span class="ipa">[ˈteɪlbɔ:d]</span></div><hr/></div><div class="coca2">可取下的尾板(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">可取下的尾板；（车辆的）后挡板</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hons</h2><span class="onm">原型:</span><span class="orm">Hons 是 hon 的复数</span><hr/></div><div class="coca2">=Honours  学士学位(<font color="orangered">50%</font>)，尊敬(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">学士学位（Honours）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

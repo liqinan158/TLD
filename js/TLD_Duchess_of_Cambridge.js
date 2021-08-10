@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Duchess of Cambridge</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">剑桥公爵夫人；凯特王妃；英国剑桥公爵夫人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

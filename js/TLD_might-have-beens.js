@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>might-have-beens</h2><span class="onm">原型:</span><span class="orm">might-have-beens 是 might-have-been 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(might-have-been 的复数) n. 本可实现或发生的事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

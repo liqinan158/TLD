@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BSE</h2><div class="git"><span class="ipa">[ˌbi:es'i:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">疯牛病（bovine spongiform encephalopathy）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

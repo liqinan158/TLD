@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impoverishment</h2><div class="git"><span class="ipa">[ɪm'pɒvərɪʃmənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37910</span><div class="total">2331</div></div><div class="coca2">贫穷(<font color="orangered">67%</font>)，穷困(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">贫穷；致使贫乏或贫瘠之事物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

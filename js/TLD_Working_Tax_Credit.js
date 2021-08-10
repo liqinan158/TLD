@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Working Tax Credit</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">工作税务优惠；工作所得税减免；工作税务减免</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

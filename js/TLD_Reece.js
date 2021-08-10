@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Reece</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [人名] 里斯; [地名] [美国] 里斯; [人名]瑞斯·里奇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

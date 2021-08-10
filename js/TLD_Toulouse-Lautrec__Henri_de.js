@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Toulouse-Lautrec, Henri de</h2><div class="git"><span class="ipa">[tu:'lu:zləu'trek; ɔŋ'ri:; mɑ:'ri:re'muŋ; də]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Toulouse-Lautrec, Henri (Marie Raymond) de</span></div><div class="dcb"><span class="dcn">[tu:'lu:zləu'trek; ɔŋ'ri:; mɑ:'ri:re'muŋ; də]</span></div><div class="dcb"><span class="dcn">土鲁斯—劳特累克(1864～1901，法国画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

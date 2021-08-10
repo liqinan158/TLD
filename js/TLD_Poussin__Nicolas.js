@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Poussin, Nicolas</h2><div class="git"><span class="ipa">[pu:'sæŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">普桑 ／ni:kɔ'lɑ:／ (1594～1665，法国画家，法国古典主义绘画奠基人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

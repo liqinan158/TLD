@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shadow Cabinet</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 8</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">〈英〉(假拟的由在野党人士组成的)影子内阁</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国政府的影子内阁；即在野党内阁；影子政府</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

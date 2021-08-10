@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>femur</h2><div class="git"><span class="ipa">[ˈfi:mə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16650</span><div class="total">19449</div></div><div class="coca2">股骨(<font color="orangered">87%</font>)，大腿骨(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[解剖] 股骨；大腿骨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

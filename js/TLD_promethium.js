@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>promethium</h2><div class="git"><span class="ipa">[prəˈmi:θiəm]</span></div><hr/></div><div class="coca2">原子序61）(<font color="orangered">50%</font>)，符号 Pm(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 钷（稀土金属元素）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

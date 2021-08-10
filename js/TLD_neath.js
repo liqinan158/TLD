@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>neath</h2><div class="git"><span class="ipa">[ni:θ]</span></div><hr/></div><div class="coca iweb"><span class="pos">PREP</span><span class="rank">44406</span><div class="total">1390</div></div><div class="coca2">在……之下(<font color="orangered">50%</font>)，=beneath.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">prep.</span><span class="dcn">在…之下</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

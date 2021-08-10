@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homonym</h2><div class="git"><span class="ipa">[ˈhɒmənɪm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40675</span><div class="total">1878</div></div><div class="coca2">同名异物(<font color="orangered">50%</font>)，同音异义字(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">同音异义词；同形异义词；同形同音异义词；同名异物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

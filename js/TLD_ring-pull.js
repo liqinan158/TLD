@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ring-pull</h2><div class="git"><span class="ipa">['rɪŋp'ʊl]</span></div><hr/></div><div class="coca2">带易拉环的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">拉环</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

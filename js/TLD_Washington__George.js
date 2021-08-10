@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Washington, George</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">华盛顿(1732～1799)，美国第一任总统(1789～1797)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

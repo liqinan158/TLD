@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>duality</h2><div class="git"><span class="ipa">[dju:ˈæləti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18170</span><div class="total">15969</div></div><div class="coca2">二元性(<font color="orangered">83%</font>)，两重性(<font color="orangered">17%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">二元性；[物] 二象性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

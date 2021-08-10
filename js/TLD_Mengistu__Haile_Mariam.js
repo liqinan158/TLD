@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mengistu, Haile Mariam</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">门格斯图；马里亚姆；门格斯图·海尔·马里亚姆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

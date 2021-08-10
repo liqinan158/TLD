@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ria</h2><div class="git"><span class="ipa">[ˈri:ə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[地理] 溺湾，沉溺河；河口</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ria)人名；(西、意)里亚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

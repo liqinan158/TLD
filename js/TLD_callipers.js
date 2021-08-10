@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>callipers</h2><div class="git"><span class="ipa">['kælɪpəz]</span></div><span class="onm">原型:</span><span class="orm">callipers 是 calliper 的第三人称单数</span><hr/></div><div class="coca2">弯脚规(<font color="orangered">60%</font>)，测径器(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[机] 卡钳；测径器；弯脚规</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

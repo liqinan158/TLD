@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>public service broadcasting</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">公共服务广播（由英国广播公司等受公款资助的非政府独立机构播放的节目）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">公共广播服务；公共广电服务；公共事业广播</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

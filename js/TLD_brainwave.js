@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brainwave</h2><div class="git"><span class="ipa">[ˈbreɪnweɪv]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27117</span><div class="total">6115</div></div><div class="coca2">脑波(<font color="orangered">73%</font>)，灵机一动(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">脑电波；灵感</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

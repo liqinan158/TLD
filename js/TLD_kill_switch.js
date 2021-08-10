@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kill switch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">实验安全开关</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">杀戮时刻；关闭开关；杀戳开关</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

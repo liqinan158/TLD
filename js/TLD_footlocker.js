@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>footlocker</h2><div class="git"><span class="ipa">['fʊtˌlɒkə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50888</span><div class="total">813</div></div><div class="coca2">军人用小型提箱(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">军人用小型提箱；军人用床脚柜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

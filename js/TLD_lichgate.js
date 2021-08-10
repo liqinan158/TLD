@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lichgate</h2><div class="git"><span class="ipa">[ˈlitʃɡeit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;英&gt;有屋顶的公墓入口（可暂时停放棺材等待主持牧师等到来）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

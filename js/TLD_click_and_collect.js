@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>click and collect</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">点击收藏</span></div><div class="dcb"><span class="dcn">点击提货</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

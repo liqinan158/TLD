@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Luddite</h2><div class="git"><span class="ipa">['lʌdait]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">勒德分子（十九世纪初英国手工业工人中参加捣毁机器的人）；强烈反对机械化或自动化的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>athwart</h2><div class="git"><span class="ipa">[əˈθwɔ:t]</span></div><hr/></div><div class="coca2">相对(<font color="orangered">50%</font>)，横跨地(<font color="orangered">25%</font>)，相反地(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">prep.</span><span class="dcn">横跨；与...相反</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">横跨着；相反</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

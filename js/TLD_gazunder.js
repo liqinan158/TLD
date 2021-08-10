@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gazunder</h2><div class="git"><span class="ipa">[gəˈzʌndə(r)]</span></div><hr/></div><div class="coca2">在临签合同之前压价(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">,vi. [英国俚语](对某人)压价敲诈，(购房者在即将交换合同前要求卖方)减价，成交后压价</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

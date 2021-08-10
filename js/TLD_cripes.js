@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cripes</h2><div class="git"><span class="ipa">[kraɪps]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">天啊！（christ的委婉说法，表示惊讶，不耐烦）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

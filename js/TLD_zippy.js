@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>zippy</h2><div class="git"><span class="ipa">[ˈzɪpi]</span></div><span class="onm">级别:</span><span class="qrm">zippier, zippiest</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">29559</span><div class="total">4910</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">&lt;非正&gt;能迅速移动的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

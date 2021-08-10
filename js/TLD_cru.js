@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cru</h2><div class="git"><span class="ipa">[kru:]</span></div><hr/></div><div class="coca2">产酒的葡萄园或葡萄产地(<font color="orangered">50%</font>)，酒的等级(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">酒的度数；（法国的）葡萄园</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Cru)人名；(法)克吕；(西)克鲁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

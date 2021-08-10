@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tallness</h2><div class="git"><span class="ipa">[tɔ:lnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56903</span><div class="total">447</div></div><div class="coca2">高(<font color="orangered">67%</font>)，高度(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">高；高度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

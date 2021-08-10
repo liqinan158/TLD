@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overproduction</h2><div class="git"><span class="ipa">[ˌəʊvəprə'dʌkʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26143</span><div class="total">6742</div></div><div class="coca2">生产过剩(<font color="orangered">79%</font>)，过量生产(<font color="orangered">21%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">生产过剩；过度产生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

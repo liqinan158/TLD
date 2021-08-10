@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sextuplet</h2><div class="git"><span class="ipa">[ˈsekstʊplət]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54485</span><div class="total">575</div></div><div class="coca2">六个一组(<font color="orangered">75%</font>)，六胞胎的一人(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">六个一组；六胞胎之一</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

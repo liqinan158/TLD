@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>noncustodial</h2><div class="git"><span class="ipa">[nɒnkʌs'təʊdaɪəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（离婚诉讼案中的父亲或母亲）非抚养的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

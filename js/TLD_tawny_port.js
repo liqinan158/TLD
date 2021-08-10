@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tawny port</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">黄褐色波尔图葡萄酒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

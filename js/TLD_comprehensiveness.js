@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>comprehensiveness</h2><div class="git"><span class="ipa">[ˌkɒmprɪ'hensɪvnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37247</span><div class="total">2467</div></div><div class="coca2">综合性(<font color="orangered">84%</font>)，广泛性(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">综合；详尽</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

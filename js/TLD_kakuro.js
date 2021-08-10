@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kakuro</h2><div class="git"><span class="ipa">[ˌkɑ:'kʊərəʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">数和 （图表中的白格所填数字之和等于黑格所给数字）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">数谜；数迷；解决数谜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>muggins</h2><div class="git"><span class="ipa">[ˈmʌgɪnz]</span></div><span class="onm">原型:</span><span class="orm">muggins 是 muggin 的复数</span><hr/></div><div class="coca2">傻瓜(<font color="orangered">40%</font>)，笨蛋(<font color="orangered">38%</font>)，一种牌戏手法(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蠢人；一种牌戏手法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tillage</h2><div class="git"><span class="ipa">[ˈtɪlɪdʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28442</span><div class="total">5397</div></div><div class="coca2">耕种(<font color="orangered">84%</font>)，已耕种的土地(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">耕作，耕种</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

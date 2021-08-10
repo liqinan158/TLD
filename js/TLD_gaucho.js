@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gaucho</h2><div class="git"><span class="ipa">[ˈgaʊtʃəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25501</span><div class="total">7156</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">加乌乔人（居住于南美大草原上的印第安人和西班牙人的混血种族）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

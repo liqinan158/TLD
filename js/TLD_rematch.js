@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rematch</h2><div class="git"><span class="ipa">[ˈri:mætʃ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16090</span><div class="total">20899</div></div><div class="coca2">重赛(<font color="orangered">50%</font>)，复赛(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">复赛；再匹配</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

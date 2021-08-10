@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dutiable</h2><div class="git"><span class="ipa">['dju:tɪəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">48348</span><div class="total">1026</div></div><div class="coca2">有税的(<font color="orangered">50%</font>)，应纳关税的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">应纳税的；应征税的；（输入品）应课关税的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

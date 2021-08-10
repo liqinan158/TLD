@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aspersions</h2><div class="git"><span class="ipa">[əˈspɜ:ʃnz]</span></div><span class="onm">原型:</span><span class="orm">aspersions 是 aspersion 的复数</span><hr/></div><div class="coca2">诽谤(<font color="orangered">57%</font>)，中伤(<font color="orangered">43%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">中伤，诽谤；洒水</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

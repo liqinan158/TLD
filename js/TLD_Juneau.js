@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Juneau</h2><div class="git"><span class="ipa">['dʒu:nәu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">朱诺（美国阿拉斯加州的首府）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Garfield</h2><div class="git"><span class="ipa">[ˈgɑ:ˌfi:ld]</span></div><hr/></div><div class="coca2">男子名）(<font color="orangered">50%</font>)，加菲尔德（新泽西东北部城市(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">加菲猫（卡通形象）；加菲尔德（男子名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

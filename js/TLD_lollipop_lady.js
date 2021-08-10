@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lollipop lady</h2><div class="git"><span class="ipa">[ˈlɔli:ˌpɔp ˈleidi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;英口&gt;手持车辆暂停示意牌的女交通警察</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

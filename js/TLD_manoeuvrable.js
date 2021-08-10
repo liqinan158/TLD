@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>manoeuvrable</h2><div class="git"><span class="ipa">[məˈnu:vərəbl]</span></div><hr/></div><div class="coca2">操纵灵活的(<font color="orangered">44%</font>)，可调动的(<font color="orangered">28%</font>)，机动的(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可调动的；操纵灵活的；机动的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

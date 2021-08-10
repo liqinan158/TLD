@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>owner-occupier</h2><div class="git"><span class="ipa">[ˈəʊnə(r) ˈɒkjupaɪə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英）业主居住者（其居住之房屋产权属于自己）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

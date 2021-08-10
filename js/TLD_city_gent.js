@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>city gent</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （尤指在伦敦金融区工作的）商人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>app</h2><div class="git"><span class="ipa">[æp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">734</span><div class="total">2113817</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">应用（Application）；穿甲试验（Armor Piercing Proof）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(App)人名；(英)阿普</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

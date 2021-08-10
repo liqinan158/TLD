@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>demerge</h2><div class="git"><span class="ipa">[ˌdi:ˈmɜ:dʒ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使分解；使…分离</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">分为若干子公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

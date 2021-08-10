@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>congresswoman</h2><div class="git"><span class="ipa">['kɒŋgreswumәn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27417</span><div class="total">5941</div></div><div class="coca2">国会女议员(<font color="orangered">64%</font>)，众议院女议员(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）国会女议员；众议院女议员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

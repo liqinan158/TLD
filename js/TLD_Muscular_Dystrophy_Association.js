@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Muscular Dystrophy Association</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">肌肉萎缩症协会；肌肉萎缩协会；肌营养不良协会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

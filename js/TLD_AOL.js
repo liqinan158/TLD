@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>AOL</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国境内提供线上加值网络服务的公司（American On Line）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

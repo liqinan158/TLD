@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>JCB</h2><div class="git"><span class="ipa">[.dʒeɪ siː 'biː]</span></div><hr/></div><div class="coca2">作业控制块(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">作业控制块（Job Control Block）；日本国际信用卡公司（Japan Credit Bureau）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

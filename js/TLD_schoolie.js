@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>schoolie</h2><hr/></div><div class="coca2">教师(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[俚语]教官；[澳大利亚英语、英国方言]教师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

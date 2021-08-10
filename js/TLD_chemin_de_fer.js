@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chemin de fer</h2><div class="git"><span class="ipa">[ʃəˈmændəˈfɛə]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;法&gt;十一点（一种纸牌戏，法语原义为“铁路”）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

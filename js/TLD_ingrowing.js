@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ingrowing</h2><div class="git"><span class="ipa">[ˈɪngrəʊɪŋ]</span></div><span class="onm">原型:</span><span class="orm">ingrowing 是 ingrow 的现在分词</span><hr/></div><div class="coca2">生进肉内的(<font color="orangered">50%</font>)，向内生长(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">向内生长的；（指甲）长到肉里去的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

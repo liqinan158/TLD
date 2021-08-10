@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dufy, Raoul</h2><div class="git"><span class="ipa">[dju:'fi:; rɑ:'u:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">杜飞(1877～1953，法国画家、平印工、装饰者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

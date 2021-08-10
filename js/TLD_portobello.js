@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>portobello</h2><div class="git"><span class="ipa">[,pɔːtə'beləʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34990</span><div class="total">2990</div></div><div class="coca2">大型顶蘑菇(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">波多贝罗（爱丁堡海滩）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

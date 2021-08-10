@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>re-election</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13115</span><div class="total">32041</div></div><div class="coca2">连任(<font color="orangered">94%</font>)，再次竞选(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">改选，重选；再次竞选</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

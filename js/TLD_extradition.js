@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>extradition</h2><div class="git"><span class="ipa">[ˌekstrə'dɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18494</span><div class="total">15361</div></div><div class="coca2">引渡逃犯(<font color="orangered">72%</font>)，将亡命者送还本国(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">引渡；亡命者送还本国</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

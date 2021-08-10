@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cosplay</h2><div class="git"><span class="ipa">[kɒspleɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">英文Costume Play的简略写法，一般指利用服装、饰品、道具以及化妆来扮演动漫作品、游戏中的角色。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

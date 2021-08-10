@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cussed</h2><div class="git"><span class="ipa">[ˈkʌsɪd]</span></div><span class="onm">原型:</span><span class="orm">cussed 是 cuss 的过去式和过去分词</span><hr/></div><div class="coca2">顽固的(<font color="orangered">50%</font>)，执拗的(<font color="orangered">40%</font>)，动词cuss的过去式和过去分词形式.(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">固执的，顽固的；该诅咒的；乖僻的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

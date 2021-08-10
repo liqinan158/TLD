@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sewn</h2><div class="git"><span class="ipa">[səʊn]</span></div><span class="onm">原型:</span><span class="orm">sewn 是 sew 的过去分词</span><hr/></div><div class="coca2">缝纫的(<font color="orangered">50%</font>)，动词sew的过去分词形式.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">缝纫，缝上；装订（sew的过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

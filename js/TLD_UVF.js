@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UVF</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">紫外荧光（Ultraviolet Fluorescence）；（爱尔兰）阿尔斯特志愿者武装（Ulster Volunteer Force）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pathogenesis</h2><div class="git"><span class="ipa">[ˌpæθəˈdʒenɪsɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22987</span><div class="total">9238</div></div><div class="coca2">发病机制(<font color="orangered">99%</font>)，致病原因(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">发病机理；发病原</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

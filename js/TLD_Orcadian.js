@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Orcadian</h2><div class="git"><span class="ipa">[ɔ:'keidiәn, -djәn]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">55534</span><div class="total">514</div></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">英国奥尼克郡(Orkney) 群岛的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

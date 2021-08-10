@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UVC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 超声振动切削</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

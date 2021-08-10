@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>smithereens</h2><div class="git"><span class="ipa">[ˌsmɪðəˈri:nz]</span></div><span class="onm">原型:</span><span class="orm">smithereens 是 smithereen 的复数</span><hr/></div><div class="coca2">碎片(<font color="orangered">81%</font>)，小片(<font color="orangered">19%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">碎片</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

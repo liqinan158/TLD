@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vegetative</h2><div class="git"><span class="ipa">[ˈvedʒɪtətɪv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">19837</span><div class="total">13126</div></div><div class="coca2">植物生长的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">植物的；植物人状态的，无所作为的；促使植物生长的；有生长力的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

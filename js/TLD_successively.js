@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>successively</h2><div class="git"><span class="ipa">[sək'sesɪvlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">23301</span><div class="total">8958</div></div><div class="coca2">一个接一个地(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">相继地；接连着地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

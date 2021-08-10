@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>race riot</h2><div class="git"><span class="ipa">[reis ˈraiət]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">种族骚乱；种族暴乱</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">种族暴动；种族骚动；种族冲突</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

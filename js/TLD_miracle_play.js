@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>miracle play</h2><div class="git"><span class="ipa">[ˈmirəkl pleɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （中世纪表演&lt;&lt;圣经&gt;&gt;故事的）奇迹剧</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Harlem</h2><div class="git"><span class="ipa">['hɑ:lәm]</span></div><hr/></div><div class="coca2">哈莱姆区(<font color="orangered">56%</font>)，黑人住宅区(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">黑人住宅区（纽约的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

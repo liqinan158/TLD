@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tor</h2><div class="git"><span class="ipa">[tɔ:(r)]</span></div><hr/></div><div class="coca2">突岩(<font color="orangered">84%</font>)，岩山(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[地理] 石山；[地理] 突岩</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Tor)人名；(德、捷、葡、土、芬、挪、以、瑞典)托尔；(阿拉伯)绍尔；(柬)多</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

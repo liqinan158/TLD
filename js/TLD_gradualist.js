@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gradualist</h2><div class="git"><span class="ipa">['ɡrædʒʊəlɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57158</span><div class="total">434</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 渐进主义者（的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Antipodes</h2><div class="git"><span class="ipa">[æn'tɪpədi:z]</span></div><span class="onm">原型:</span><span class="orm">antipodes 是 antipode 的复数</span><hr/></div><div class="coca2">地球上处于正相对应的两个地区(<font color="orangered">50%</font>)，正好相反的食物(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">地球上处于正相对应的两个地区，尤指（与欧洲形成对跖地的）澳大拉西亚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

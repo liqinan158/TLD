@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Redeemer</h2><div class="git"><span class="ipa">[ri'di:mә]</span></div><hr/></div><div class="coca2">救世主(<font color="orangered">49%</font>)，赎身者(<font color="orangered">23%</font>)，买回者(<font color="orangered">17%</font>)，赎当者(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">救世主；赎身者；偿还者；买回者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

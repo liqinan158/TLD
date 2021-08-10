@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eggs Benedict</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 8</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 8</div><div class="gdc"><div class="dcb"><span class="dcn">班尼迪克蛋；浇有荷兰沙司的火腿蛋吐司, 火腿蛋松饼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

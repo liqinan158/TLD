@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slacktivism</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">懒人行动主义：只用某种社交媒体上的标签来声援某人或某事而不做其他的实际行动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

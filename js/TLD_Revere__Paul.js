@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Revere, Paul</h2><div class="git"><span class="ipa">[ri'viə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">里维尔(1735～1818，美国银匠，独立战争时的爱国老战士，1775年4月18日骑马由波士顿驰往列克星敦向殖民地居民发出英军逼近的警告)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

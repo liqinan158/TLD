@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>acupuncturist</h2><div class="git"><span class="ipa">[ˈækjupʌŋktʃərɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24631</span><div class="total">7809</div></div><div class="coca2">针灸医生(<font color="orangered">77%</font>)，针疗医生(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">针灸医生；针疗医生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

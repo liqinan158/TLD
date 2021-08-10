@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yessir</h2><hr/></div><div class="coca2">完全同意(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> （表示强调）的确，完全同意</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

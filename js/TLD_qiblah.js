@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>qiblah</h2><div class="git"><span class="ipa">['kɪblə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">天房方向（即麦加天房克尔白的方向，为穆斯林礼拜朝向）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">卡巴天房的方向；寺里做礼拜时的正向</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Durham</h2><div class="git"><span class="ipa">['dә:rәm]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">达拉谟（英格兰一郡及其首府名）；一种产自该地的有短角肉牛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>amoebic</h2><div class="git"><span class="ipa">[əˈmi:bɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">51836</span><div class="total">742</div></div><div class="coca2">阿米巴的(<font color="orangered">67%</font>)，阿米巴性的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">变形虫的，变形虫状的；变形虫引起的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

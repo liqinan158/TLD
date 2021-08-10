@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rockabilly</h2><div class="git"><span class="ipa">[ˈrɒkəbɪli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">37000</span><div class="total">2520</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）山区乡村摇滚乐（起源于美国东南部）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

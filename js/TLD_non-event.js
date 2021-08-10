@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-event</h2><div class="git"><span class="ipa">[nɔniˈvent]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42087</span><div class="total">1673</div></div><div class="coca2">大肆宣传而结果并未举办的事(<font color="orangered">50%</font>)，无效的事件(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大肆宣传而结果并未举办的事；无效的事件；虚张之事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NSU</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">网络服务单元（Network Service Unit）；供氮设备（Nitrogen Supply Unit）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

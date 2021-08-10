@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>seen</h2><div class="git"><span class="ipa">[si:n]</span></div><span class="onm">原型:</span><span class="orm">seen 是 see 的过去分词</span><hr/></div><div class="coca2">看得见的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">看见；理解（see的过去分词）</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">看得见的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

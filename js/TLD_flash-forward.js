@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flash-forward</h2><div class="git"><span class="ipa">['flæʃ'fɔ:wəd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（小说、电影等中的）提前叙述未来事件</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MVP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（美）最优秀选手（Most Valuable Player）</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">最小化可行产品（Minimum Viable Product）</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">最简化可实行产品（Minimum Viable Product）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

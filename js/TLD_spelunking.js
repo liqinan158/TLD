@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spelunking</h2><div class="git"><span class="ipa">[spɪˈlʌŋkɪŋ]</span></div><span class="onm">原型:</span><span class="orm">spelunking 是 spelunk 的现在分词</span><hr/></div><div class="coca2">爱好探索洞穴的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">洞穴探险；对洞穴探险的爱好</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">探察洞穴（spelunk的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

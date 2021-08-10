@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>IBS</h2><span class="onm">原型:</span><span class="orm">ibs 是 ib 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">情报库系统（Intelligent Building System）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

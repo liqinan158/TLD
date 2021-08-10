@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>piscine</h2><div class="git"><span class="ipa">[ˈpɪsaɪn]</span></div><hr/></div><div class="coca2">鱼的(<font color="orangered">42%</font>)，似鱼的(<font color="orangered">35%</font>)，鱼族的(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">浴池；公共浴池</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">鱼的，鱼族的；似鱼的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

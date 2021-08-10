@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UMIST</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">曼彻斯特理工大学(University of Manchester Institute of Science and Technology)；英国曼彻斯特大学理工学院；曼彻斯特科技大学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

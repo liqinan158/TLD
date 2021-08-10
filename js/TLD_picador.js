@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>picador</h2><div class="git"><span class="ipa">['pɪkədɔ:]</span></div><hr/></div><div class="coca2">骑马斗牛士(<font color="orangered">60%</font>)，机敏的辩论(<font color="orangered">20%</font>)，老练机智的论客(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">骑马斗牛士（复数picadors）；斗牛士之助手</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

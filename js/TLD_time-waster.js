@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>time-waster</h2><div class="git"><span class="ipa">['taim,weistə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45682</span><div class="total">1260</div></div><div class="coca2">浪费时间的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">浪费时间者（歌名，Time Waster）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

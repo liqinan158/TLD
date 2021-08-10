@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>colony collapse disorder</h2><div class="git"><span class="ipa">[ˈkɔləni kəˈlæps disˈɔ:də]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">a still-unexplained phenomenon resulting in the widespread disappearance of honeybees from beehives;  first observed in late 2006; “蜂群衰竭失调”; 本词最早出现于2006的一个奇怪现象</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

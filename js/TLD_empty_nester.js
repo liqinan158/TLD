@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>empty nester</h2><div class="git"><span class="ipa">[ˈempti ˈnestə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">空巢老人（因子女长大后离家感到寂寞而改变住宅要求的父母）；空巢者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

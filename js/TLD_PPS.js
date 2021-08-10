@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PPS</h2><span class="onm">原型:</span><span class="orm">pps 是 pp 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">聚苯硫（polyphenylene sulfite）；每秒脉冲数（pulses per second）；（拉）再附言（post postscriptum）；一种网络在线电视软件（PPStream）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

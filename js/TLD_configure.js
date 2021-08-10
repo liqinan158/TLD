@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>configure</h2><div class="git"><span class="ipa">[kənˈfɪgə(r)]</span><span class="frm">configured, configuring, configures</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">2659</span><div class="total">481967</div></div><div class="coca2">配置(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">安装；使成形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

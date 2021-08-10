@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>RA</h2><div class="git"><span class="ipa">[rɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">皇家学院（Royal Academy）；随机存取（Random Access）；研究协会（Research Association）；赤经（Right Ascension）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ra)人名；(日)罗(姓)；(缅)拉；(朝)罗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

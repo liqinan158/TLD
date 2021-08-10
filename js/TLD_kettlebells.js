@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kettlebells</h2><span class="onm">原型:</span><span class="orm">kettlebells 是 kettlebell 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">壶铃</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

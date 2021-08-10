@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sawm</h2><div class="git"><span class="ipa">[səʊm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">斋戒（伊斯兰历九月里的日间禁饮食）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">斋功；排队；斋戒阿拉伯语为</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

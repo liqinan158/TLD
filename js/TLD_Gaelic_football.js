@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gaelic football</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">爱尔兰式橄榄球（Gaelic Football）</span></div><div class="dcb"><span class="dcn">爱尔兰式足球（Gaelic Football）</span></div><div class="dcb"><span class="dcn">盖尔式足球（Gaelic Football）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

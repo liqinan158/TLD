@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>admixture</h2><div class="git"><span class="ipa">[ədˈmɪkstʃə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25935</span><div class="total">6878</div></div><div class="coca2">混合(<font color="orangered">70%</font>)，混合物(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">混合；添加物；掺和剂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hip bath</h2><div class="git"><span class="ipa">[hip bɑ:θ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">坐式浴盆</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">坐浴；臀部浴盆；坐浴盆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>TriBeCa</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">翠贝卡；翠贝卡区；纽约翠贝卡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

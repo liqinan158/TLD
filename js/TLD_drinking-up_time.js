@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drinking-up time</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[英国英语](酒店停业后关门前的)法定延长饮酒时间，喝完杯里剩酒的时间</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

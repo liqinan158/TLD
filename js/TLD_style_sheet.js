@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>style sheet</h2><div class="git"><span class="ipa">[stail ʃi:t]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 196</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 98</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">格式页（用以创建文档）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">样式表；样式单；风格表</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

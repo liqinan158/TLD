@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>frighten into</h2><div class="git"><span class="ipa">[ˈfraitən ˈɪntuː]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 恐吓（某人）做（某事）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

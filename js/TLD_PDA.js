@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PDA</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20168</span><div class="total">12645</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">个人数字助理（等于Personal Digital Assistant）；秀恩爱（Public Display of Affection）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

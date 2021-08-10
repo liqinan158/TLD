@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stop-loss order</h2><div class="git"><span class="ipa">[stɔp lɔs ˈɔ:də]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （证券）停止损失委托，（证券）避损指示</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

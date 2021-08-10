@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stuccoed</h2><div class="git"><span class="ipa">[ˈstʌkəud]</span></div><span class="onm">原型:</span><span class="orm">stuccoed 是 stucco 的过去式</span><hr/></div><div class="coca2">灰泥(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">用灰泥粉饰过的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Smithfield</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [地名] [美国、南非共和国、英国] 史密斯菲尔德</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

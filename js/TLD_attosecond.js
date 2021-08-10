@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>attosecond</h2><div class="git"><span class="ipa">[æ'təʊsekənd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">61256</span><div class="total">254</div></div><div class="gdc"><div class="dcb"><span class="dcn"> [计]阿（托）秒，微微微秒，10-18秒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

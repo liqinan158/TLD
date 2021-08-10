@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mays, Willie</h2><div class="git"><span class="ipa">[meiz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Mays, Willie (Howard)</span></div><div class="dcb"><span class="dcn">[meiz]</span></div><div class="dcb"><span class="dcn">梅斯(1931～ ，美国职业棒球运动员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

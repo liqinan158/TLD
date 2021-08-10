@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>redirection</h2><div class="git"><span class="ipa">['ri:dɪ'rekʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17661</span><div class="total">17074</div></div><div class="coca2">重定向(<font color="orangered">93%</font>)，转移呼叫(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">重寄；改道；转移呼叫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

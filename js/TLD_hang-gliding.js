@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hang-gliding</h2><hr/></div><div class="coca2">悬挂式滑翔运动(<font color="orangered">50%</font>)，滑翔翼运动(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">悬挂式滑翔运动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

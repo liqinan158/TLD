@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Roberts, Oral</h2><div class="git"><span class="ipa">['rɔbəts]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">罗伯茨(1918～ ，美国福音传教士)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

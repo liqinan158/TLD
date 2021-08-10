@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>embeddedness</h2><div class="git"><span class="ipa">[ɪmbe'dɪdnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58582</span><div class="total">367</div></div><div class="coca2">嵌入性(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">嵌入；嵌入性；根植性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

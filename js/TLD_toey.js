@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>toey</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （人或动物）神经紧张的，焦急不安的，躁动的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

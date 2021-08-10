@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>adjudicator</h2><div class="git"><span class="ipa">[ə'dʒu:dɪkeɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22659</span><div class="total">9591</div></div><div class="coca2">裁判员(<font color="orangered">60%</font>)，审判员(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">评判员；裁定者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

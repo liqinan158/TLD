@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Montenegro</h2><div class="git"><span class="ipa">[.mɒnti'ni:grәu]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">黑山共和国（前南斯拉夫西南部），亚德里沿海岸边的地区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

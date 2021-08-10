@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Swiss steak</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">瑞士牛排（将牛排蘸上干面粉后煎黄加汤汁、番茄酱、洋葱等用文火焖煮）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

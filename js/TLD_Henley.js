@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Henley</h2><div class="git"><span class="ipa">[ˈhenli]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 亨里（姓氏； William Ernest, 1849-1903，英国诗人，批评家及剧作家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

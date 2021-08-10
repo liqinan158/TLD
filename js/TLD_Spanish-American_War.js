@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Spanish-American War</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">美西战争；美国与西班牙战争；西班牙与美国战争</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

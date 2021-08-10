@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spiritualist</h2><div class="git"><span class="ipa">[ˈspɪrɪtʃuəlɪst]</span></div><hr/></div><div class="coca2">巫师(<font color="orangered">67%</font>)，巫师的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">唯心论者；巫师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Amateur Athletic Association</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">美国业余体育协会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bisexuality</h2><div class="git"><span class="ipa">[ˌbaɪˌsekʃʊ'ælətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40274</span><div class="total">1940</div></div><div class="coca2">两性现象(<font color="orangered">50%</font>)，两性体(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">两性体，雌雄同体</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

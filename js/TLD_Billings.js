@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Billings</h2><div class="git"><span class="ipa">['bɪlɪŋz]</span></div><span class="onm">原型:</span><span class="orm">billings 是 billing 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 比林斯（美国蒙大纳州南部一城市，位于赫勒拿东南偏东的黄石河河畔。是贸易和制造业中心，也是该州最大的城市。人口81， 151）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

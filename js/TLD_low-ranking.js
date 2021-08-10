@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>low-ranking</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">53096</span><div class="total">660</div></div><div class="coca2">低级(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">低级别的</span></div><div class="dcb"><span class="dcn">排名靠后的</span></div><div class="dcb"><span class="dcn">低等的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

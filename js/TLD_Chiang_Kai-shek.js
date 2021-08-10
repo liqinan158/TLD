@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Chiang Kai-shek</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">蒋介石；蔣中正（中华民国主席）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

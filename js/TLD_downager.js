@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>downager</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">指上了年纪但生活态度却与Y世代年轻人同步的人们。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

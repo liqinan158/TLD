@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>WBC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">白血球, 白细胞</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

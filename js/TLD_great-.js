@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>great-</h2><div class="git"><span class="ipa">[ɡreit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">伟大的，重大的；极好的，好的；主要的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">大师；大人物；伟人们</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

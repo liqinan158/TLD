@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>marc</h2><div class="git"><span class="ipa">[mɑ:k]</span></div><hr/></div><div class="coca2">榨渣(<font color="orangered">67%</font>)，渣酿白兰地酒(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">机读目录；（水果，种子等经压榨后的）榨渣</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Marc)人名；(塞)马尔茨；(德、俄、法、荷、罗、瑞典、西、英)马克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>segmentation</h2><div class="git"><span class="ipa">[ˌsegmenˈteɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">12751</span><div class="total">33880</div></div><div class="coca2">分割(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">分割；割断；细胞分裂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

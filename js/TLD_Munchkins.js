@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Munchkins</h2><span class="onm">原型:</span><span class="orm">munchkins 是 munchkin 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(munchkin 的复数) n. 小巧玲珑的人, 忙个不停的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cabot, John</h2><div class="git"><span class="ipa">['kæbət]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡伯特(1450～1498，为英国效劳的意大利探险家，1497年发现北美海岸)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vitreous humour</h2><div class="git"><span class="ipa">[ˈvɪtri:əs ˈhju:mə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（眼睛的）玻璃体液</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">玻璃状液；玻璃液；玻璃状体</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

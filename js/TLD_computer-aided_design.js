@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>computer-aided design</h2><div class="git"><span class="ipa">[kəmˈpju:təˈeɪdɪd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">半电算化设计；计算机辅助设计</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">电脑辅助设计；计算器辅助设计；电脑辅助电路设计</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

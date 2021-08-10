@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Volga</h2><div class="git"><span class="ipa">['vɔl^ә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伏尔加河[苏联西部](欧洲第一大河)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>formalise</h2><div class="git"><span class="ipa">['fɔ:məlaɪz]</span><span class="frm">formalised, formalising, formalises</span></div><hr/></div><div class="coca2">使定形(<font color="orangered">60%</font>)，使形式化(<font color="orangered">20%</font>)，使正式(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">使成为正式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

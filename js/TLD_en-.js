@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>en-</h2><div class="git"><span class="ipa">[ɪn]</span></div><hr/></div><div class="coca2">表示“使、使成为”之义(<font color="orangered">50%</font>)，表示“使处于 ... 状态”之义(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">使处于…境地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

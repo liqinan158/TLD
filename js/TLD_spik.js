@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spik</h2><div class="git"><span class="ipa">[spɪk]</span></div><hr/></div><div class="coca2">在美国讲西班牙语的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">在美国讲西班牙语的人；美籍西班牙人（等于spic）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Spik)人名；(德)施皮克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>defrocked</h2><span class="onm">原型:</span><span class="orm">defrocked 是 defrock 的过去式和过去分词</span><hr/></div><div class="coca2">解除僧职(<font color="orangered">50%</font>)，剥去法衣(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">解除僧职；剥去法衣</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

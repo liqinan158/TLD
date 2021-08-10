@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jude</h2><div class="git"><span class="ipa">[dʒu:d]</span></div><hr/></div><div class="coca2">犹太书(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">犹大书（圣经新约的一书）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

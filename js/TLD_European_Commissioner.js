@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>European Commissioner</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">欧洲(共同体)委员会(1967年成立的欧洲经济共同体办事机构)[全称 Commission of the European Communities]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Acadia</h2><div class="git"><span class="ipa">[ә'keidjә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿卡迪亚（1604-1713年法国在北美东南沿海一带的殖民地）, 美国路易斯安娜州东南部的教区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

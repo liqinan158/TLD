@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>twenty-four seven</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 一天二十四小时，一星期七天（用以表示“全天候”）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

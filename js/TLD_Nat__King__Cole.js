@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nat 'King' Cole</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">纳京高；纳金高；纳特金科尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

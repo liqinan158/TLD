@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>heartstrings</h2><div class="git"><span class="ipa">[ˈhɑ:tstrɪŋz]</span></div><span class="onm">原型:</span><span class="orm">heartstrings 是 heartstring 的复数</span><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">心弦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

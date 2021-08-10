@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polecat</h2><div class="git"><span class="ipa">[ˈpəʊlkæt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52675</span><div class="total">688</div></div><div class="coca2">臭猫(<font color="orangered">85%</font>)，臭鼬类动物(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">北美产之臭鼬类；臭猫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

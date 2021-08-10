@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>floor leader</h2><div class="git"><span class="ipa">[flɔ: ˈli:də]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(议会的)政党头目</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">议会中的政党领袖；党派头目；议会中的党领袖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

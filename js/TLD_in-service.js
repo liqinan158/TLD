@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>in-service</h2><div class="git"><span class="ipa">[ˈinˈsə:vis]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">21379</span><div class="total">11014</div></div><div class="coca2">在职期间进行的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">在职的；在职期间进行的；不脱产的；全职的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

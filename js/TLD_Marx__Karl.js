@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Marx, Karl</h2><div class="git"><span class="ipa">[mɑ:ks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Marx, Karl (Heinrich)</span></div><div class="dcb"><span class="dcn">[mɑ:ks]</span></div><div class="dcb"><span class="dcn">马克思(1818～1883，马克思主义的创始人，国际无产阶级的伟大导师和领袖，科学共产主义的奠基人，生于德国特里尔)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

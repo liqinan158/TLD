@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ruritania</h2><div class="git"><span class="ipa">[,rjәri'teiniә, -njә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鲁里坦尼亚王国,浪漫国</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

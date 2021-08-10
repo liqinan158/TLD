@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>melodica</h2><div class="git"><span class="ipa">[məˈlɒdɪkə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56815</span><div class="total">451</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">口风琴（一种小型管乐器，类似口琴，但有钢琴一样的键盘）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>guilt-trip</h2><hr/></div><div class="coca2">使感到负疚(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">罪恶感（非正式）</span></div><div class="dcb"><span class="dcn">内疚感（非正式）</span></div><div class="dcb"><span class="dcn">负疚之旅</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>misspeak</h2><div class="git"><span class="ipa">[ˌmɪs'spi:k]</span></div><hr/></div><div class="coca2">讲错(<font color="orangered">68%</font>)，发错 ... 的音(<font color="orangered">16%</font>)，使讲得词不达意(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">讲错；发错…的音</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">讲错；发错音</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Indian Premier League</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">印度板球超级联赛；印度超级板球联赛；印度板球联盟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

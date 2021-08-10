@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Majorca</h2><div class="git"><span class="ipa">[mә'dʒɔ:kә, -'jɔ:-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马略卡岛（位于西班牙东部）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

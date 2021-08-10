@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mindset</h2><div class="git"><span class="ipa">[ˈmaɪndset]</span></div><hr/></div><div class="coca2">心态(<font color="orangered">92%</font>)，精神状态(<font color="orangered">6%</font>)，意向(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">心态；倾向；习惯；精神状态</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>curvilinear</h2><div class="git"><span class="ipa">[ˌkɜ:vɪˈlɪniə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36760</span><div class="total">2576</div></div><div class="coca2">曲线的(<font color="orangered">63%</font>)，由曲线而成的(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">曲线的；由曲线组成的（等于curvilineal）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>truck farming</h2><div class="git"><span class="ipa">[trʌk ˈfɑ:miŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 庭院经济, 商品蔬菜栽培</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

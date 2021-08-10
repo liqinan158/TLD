@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>copperhead</h2><div class="git"><span class="ipa">[ˈkɒpəhed]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38911</span><div class="total">2157</div></div><div class="coca2">铜斑蛇(<font color="orangered">56%</font>)，南北战争时同情南方的北方人(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">南北战争时同情南方的北方人；铜头蛇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

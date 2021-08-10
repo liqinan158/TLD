@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scholasticism</h2><div class="git"><span class="ipa">[skəˈlæstɪsɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46490</span><div class="total">1184</div></div><div class="coca2">尊重传统学风的思想(<font color="orangered">58%</font>)，烦琐哲学(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">经院哲学；墨守成规；尊重传统学风的思想</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

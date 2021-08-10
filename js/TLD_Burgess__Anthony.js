@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Burgess, Anthony</h2><div class="git"><span class="ipa">['bə:dʒis]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伯吉斯(1917～1993，英国当代小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

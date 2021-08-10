@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shithouse</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56169</span><div class="total">483</div></div><div class="coca2">厕所(<font color="orangered">50%</font>)，卫生间(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[美国俚语]；茅房，厕所</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>long-life</h2><div class="git"><span class="ipa">[lɔŋ laif]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36156</span><div class="total">2711</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">经过延长保质期处理的（牛奶等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

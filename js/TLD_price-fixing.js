@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>price-fixing</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52052</span><div class="total">728</div></div><div class="coca2">协议售价(<font color="orangered">50%</font>)，价格规定(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">价格规定</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pence</h2><div class="git"><span class="ipa">[pens]</span></div><hr/></div><div class="coca2">便士(<font color="orangered">99%</font>)，名词penny的复数形式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">便士（penny的复数）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Pence)人名；(英)彭斯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

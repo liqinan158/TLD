@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wrongheaded</h2><div class="git"><span class="ipa">['rɒŋhedɪd]</span></div><span class="onm">原型:</span><span class="orm">wrongheaded 是 wronghead 的过去式</span><hr/></div><div class="coca2">固执的(<font color="orangered">47%</font>)，顽固的(<font color="orangered">40%</font>)，乖僻的(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">固执的；坚持错误的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

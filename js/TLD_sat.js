@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sat</h2><div class="git"><span class="ipa">[sæt]</span></div><span class="onm">原型:</span><span class="orm">sat 是 sit 的过去式和过去分词</span><hr/></div><div class="coca2">动词(<font color="orangered">77%</font>)，名词(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（美国）学业能力倾向测验（Scholastic Aptitude Test，是高中生升入大学必须通过的测验）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Little Britain</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/ld5_little_britai.mp3" href="sound://media/spx/GB_ld5_little_britai.spx" title="Play British pronunciation of Little Britain"> </a><a class="amefile" href="sound://ameProns/ld5_little_britai.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="dcn">小不列颠</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

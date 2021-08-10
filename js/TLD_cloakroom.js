@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cloakroom</h2><div class="git"><span class="ipa">[ˈkləʊkru:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25151</span><div class="total">7386</div></div><div class="coca2">衣帽间(<font color="orangered">95%</font>)，休息室(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">衣帽间；寄物处；（英）盥洗室</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

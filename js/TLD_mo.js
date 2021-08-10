@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mo</h2><div class="git"><span class="ipa">[məʊ]</span></div><hr/></div><div class="coca2">卫生官员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">卫生干事，卫生管员（Medical Officer）；邮购（Mail Order）；方式（Modus Operandi）；邮政汇票（Money Order）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

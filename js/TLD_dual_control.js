@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dual control</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">双重管辖；【航】复式驾驶装置</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">双重控制；双控制；复式控制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

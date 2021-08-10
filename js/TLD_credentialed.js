@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>credentialed</h2><span class="onm">原型:</span><span class="orm">credentialed 是 credential 的过去式</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">31404</span><div class="total">4130</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">授以证书的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

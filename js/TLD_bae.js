@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bae</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">Beacon antenna equipment 信标天线设备</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

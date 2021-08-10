@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>meetup</h2><div class="git"><span class="ipa">[mi:t ʌp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20616</span><div class="total">12021</div></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">偶尔遇见</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">用户之间的聚会；没继续面；小聚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

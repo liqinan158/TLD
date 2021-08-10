@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>long-winded</h2><div class="git"><span class="ipa">[ˈlɔŋˈwindid]</span></div><span class="onm">原型:</span><span class="orm">long-winded 是 long-wind 的过去式</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27314</span><div class="total">5997</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">冗长的；罗嗦的；气长的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

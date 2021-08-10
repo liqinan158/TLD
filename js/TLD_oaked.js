@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oaked</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （因存放于橡木容器而）带烟熏味的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

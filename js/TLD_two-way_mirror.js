@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>two-way mirror</h2><div class="git"><span class="ipa">[ˈtu:ˈweɪ ˈmirə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">双向镜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

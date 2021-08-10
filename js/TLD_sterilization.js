@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sterilization</h2><div class="git"><span class="ipa">[ˌsterəlaɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16651</span><div class="total">19449</div></div><div class="coca2">灭菌(<font color="orangered">53%</font>)，消毒(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">[医][食品] 杀菌；使不孕；无用状态</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

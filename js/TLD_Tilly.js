@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tilly</h2><div class="git"><span class="ipa">['tili]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蒂莉(Mathilda 的昵称,亦作 Tillie)(f.)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

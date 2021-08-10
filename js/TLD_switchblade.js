@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>switchblade</h2><div class="git"><span class="ipa">[ˈswɪtʃbleɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38120</span><div class="total">2295</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">弹簧小折刀（按钮式弹簧开启的，等于switchblade knife）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

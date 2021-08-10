@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sirloin</h2><div class="git"><span class="ipa">[ˈsɜ:lɔɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25368</span><div class="total">7235</div></div><div class="coca2">牛里脊肉(<font color="orangered">82%</font>)，牛的上腰部分的肉(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">牛的上部腰肉；牛里脊肉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

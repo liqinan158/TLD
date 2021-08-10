@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inter-</h2><div class="git"><span class="ipa">[ˈɪntə(r)]</span></div><hr/></div><div class="coca2">表示“在一起(<font color="orangered">75%</font>)，交互”之意(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">表示“在一起， 交互”之义；表示“在…中间、在…之间”之义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

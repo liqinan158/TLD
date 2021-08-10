@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Potter, Beatrix</h2><div class="git"><span class="ipa">['pɔtə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">波特(1866～1943，英国儿童文学女作家，动物故事插图画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

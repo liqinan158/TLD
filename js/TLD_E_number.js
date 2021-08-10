@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>E number</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【食品工业】；(容器上标明欧共体认可的添加剂的)E数，E密码数，E代码数</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

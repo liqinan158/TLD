@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>noughties</h2><div class="git"><span class="ipa">['nɔtiz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">21 世纪头十年（即从 2000 年到 2009 年的十年）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

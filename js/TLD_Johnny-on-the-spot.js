@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Johnny-on-the-spot</h2><div class="git"><span class="ipa">['dʒɔniɔnðə'spɔt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[口语]；召之即来的人, 可随时找来帮忙的人, 紧急时有用的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

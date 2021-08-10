@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hitchhiking</h2><div class="git"><span class="ipa">['hɪtʃhaɪkɪŋ]</span></div><span class="onm">原型:</span><span class="orm">hitchhiking 是 hitchhike 的现在分词</span><hr/></div><div class="coca2">搭便车(<font color="orangered">70%</font>)，搭乘(<font color="orangered">24%</font>)，动词hitchhike的现在分词.(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">搭乘；搭顺风车旅行</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

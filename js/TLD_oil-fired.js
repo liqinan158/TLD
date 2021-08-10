@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oil-fired</h2><div class="git"><span class="ipa">['ɔil,faiəd]</span></div><hr/></div><div class="coca2">以石油为燃料的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">燃油的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

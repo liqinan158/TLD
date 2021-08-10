@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>enlistment</h2><div class="git"><span class="ipa">[ɪn'lɪstmənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23565</span><div class="total">8698</div></div><div class="coca2">征兵(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">征募，应征入伍；服兵役期限</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

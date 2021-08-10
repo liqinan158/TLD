@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Johnny Reb</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 11</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 11</div><div class="gdc"><div class="dcb"><span class="dcn">[口语]；【美国历史】(美国南北战争时期)南部联盟军士兵</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

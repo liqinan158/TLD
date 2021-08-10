@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>halitosis</h2><div class="git"><span class="ipa">[ˌhælɪˈtəʊsɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38224</span><div class="total">2280</div></div><div class="coca2">口臭(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[口腔][中医] 口臭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

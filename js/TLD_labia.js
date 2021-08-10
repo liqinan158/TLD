@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>labia</h2><div class="git"><span class="ipa">[ˈleɪbiə]</span></div><hr/></div><div class="coca2">名词labium的复数形式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阴唇；唇</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Labia)人名；(意)拉比亚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

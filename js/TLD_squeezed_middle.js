@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>squeezed middle</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">受挤压的中产阶级；被压榨的中产阶级；受挤压的中等收入阶层</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

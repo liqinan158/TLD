@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cash-starved</h2><hr/></div><div class="coca2">缺钱的(<font color="orangered">50%</font>)，没有财政支持的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">周转资金不足的；资金短缺的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Midsummer Day</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">施洗约翰节（每年6月24日）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Holmes, Sherlock</h2><div class="git"><span class="ipa">[həulmz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">福尔摩斯(英国作家柯南道尔系列侦探小说中的著名私人侦探)</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">著名侦探</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

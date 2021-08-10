@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Trenton</h2><div class="git"><span class="ipa">['trentәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">特伦顿（美国新泽西州首府）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

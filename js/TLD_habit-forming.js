@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>habit-forming</h2><div class="git"><span class="ipa">[ˈhæbɪtˌfɔ:mɪŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">43390</span><div class="total">1506</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（尤指药物毒品等）易上瘾的；易成习惯的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>top-up card</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 手机充值卡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

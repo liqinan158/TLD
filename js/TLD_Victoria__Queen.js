@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Victoria, Queen</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">维多利亚女王；女王号；维多利亚皇后</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

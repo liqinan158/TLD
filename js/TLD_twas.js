@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>twas</h2><div class="git"><span class="ipa">[twʌz]</span></div><span class="onm">原型:</span><span class="orm">twas 是 twa 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">(The) Third World Academy of Sciences 第三世界科学院</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blogger</h2><div class="git"><span class="ipa">['blɒɡə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">4462</span><div class="total">223036</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">写博客的人；博客使用者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

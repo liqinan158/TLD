@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Collins, Michael</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">科林斯(1930～， 美国宇航员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

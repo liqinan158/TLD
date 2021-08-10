@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>set-to</h2><div class="git"><span class="ipa">[ˈsetˌtu:]</span></div><hr/></div><div class="coca2">吵架(<font color="orangered">38%</font>)，殴斗(<font color="orangered">37%</font>)，缠打(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">缠打；殴斗；拳击比赛；短暂而激烈的争论</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

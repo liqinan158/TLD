@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>volunteerism</h2><div class="git"><span class="ipa">[ˌvɒlən'tɪərɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22072</span><div class="total">10221</div></div><div class="coca2">志愿劳动力的使用(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">志愿精神；志愿服务</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DD</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">即期汇票（Demand Draft）；数据要求（Data Demand）；截止日期（Deadline Data）；国防部（Department of Defense）；数字显示（Digital Display）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

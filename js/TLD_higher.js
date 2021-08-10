@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>higher</h2><div class="git"><span class="ipa">[ˈhaɪə(r)]</span></div><span class="onm">原型:</span><span class="orm">higher 是 high 的比较级</span><hr/></div><div class="coca2">更高的(<font color="orangered">87%</font>)，高等的(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">更高的，较高的（high的比较级）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

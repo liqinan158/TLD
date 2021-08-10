@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thang</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32919</span><div class="total">3584</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 东西，事物（用于说话或书写，表示美国南方对thing一词的发音）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

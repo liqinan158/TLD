@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Attlee, Clement</h2><div class="git"><span class="ipa">['ætli:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Attlee, Clement (Richard)</span></div><div class="dcb"><span class="dcn">['ætli:]</span></div><div class="dcb"><span class="dcn">艾德礼(1883～1967)，英国首相(1945～1951)，工党领袖(1935～1955)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

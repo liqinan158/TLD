@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>schtick</h2><div class="git"><span class="ipa">[ʃtik]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35256</span><div class="total">2926</div></div><div class="coca2">滑稽场面(<font color="orangered">50%</font>)，特色(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[俚语]；滑稽动作，小噱头，拿手好戏[亦作shtick，shtik]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

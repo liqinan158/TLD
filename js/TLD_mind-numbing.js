@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mind-numbing</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">34012</span><div class="total">3251</div></div><div class="coca2">令人厌烦的(<font color="orangered">50%</font>)，非常乏味的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">令人心烦意乱的；令人厌恶的；无法想象的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

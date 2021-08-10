@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thermal decomposition</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">热解；加热分解；热变形</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">热分解法；热分解反应法；热分解温度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

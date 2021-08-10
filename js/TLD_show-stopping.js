@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>show-stopping</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">29270</span><div class="total">5030</div></div><div class="coca2">被长时间热烈掌声打断的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">用掌声打断特别精彩的表演</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

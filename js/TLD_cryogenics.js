@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cryogenics</h2><div class="git"><span class="ipa">[ˌkraɪəˈdʒenɪks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49269</span><div class="total">951</div></div><div class="coca2">低温学(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[低温] 低温学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

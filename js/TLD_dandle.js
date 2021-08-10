@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dandle</h2><div class="git"><span class="ipa">[ˈdændl]</span><span class="frm">dandled, dandling, dandles</span></div><hr/></div><div class="coca2">娇养(<font color="orangered">63%</font>)，宠(<font color="orangered">25%</font>)，抱著逗弄(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">抱着逗弄；娇养</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

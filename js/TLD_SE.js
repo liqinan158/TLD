@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SE</h2><hr/></div><div class="coca2">东南(<font color="orangered">82%</font>)，二次发射(<font color="orangered">6%</font>)，标准英语（= southeast(<font color="orangered">6%</font>)，音响效果(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">东南方（southeast）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

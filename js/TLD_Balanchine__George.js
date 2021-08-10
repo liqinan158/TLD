@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Balanchine, George</h2><div class="git"><span class="ipa">['bæləntʃi:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(小名Georgi Melitono-vitch Balanchivadze)巴兰钦(1904～1983,美国芭蕾舞剧编导,生于俄国)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

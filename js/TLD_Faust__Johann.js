@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Faust, Johann</h2><div class="git"><span class="ipa">[faust]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">浮士德(欧洲中世纪传说中的人物，后为文学作品、戏剧中的主人公，他为换取知识和权力，向魔鬼出卖自己的灵魂)[亦作 Faustus ／'faustus／]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

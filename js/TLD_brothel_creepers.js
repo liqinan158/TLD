@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brothel creepers</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （流行于20世纪50年代的）绒面革厚软底鞋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

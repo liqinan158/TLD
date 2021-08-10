@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>CD-R</h2><div class="git"><span class="ipa">[ˌsi: di: ˈɑ:(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">可记录光盘驱动器</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">允许使用者将资料记录于一片空白的高密度碟片上（Compact Disk - Recordable）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

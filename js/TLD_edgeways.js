@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>edgeways</h2><div class="git"><span class="ipa">[ˈedʒweɪz]</span></div><span class="onm">原型:</span><span class="orm">edgeways 是 edgeway 的复数</span><hr/></div><div class="coca2">边缘向外或向前地(<font color="orangered">50%</font>)，侧着(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">以刃向外；沿边</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

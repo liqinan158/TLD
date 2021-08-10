@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>put-upon</h2><div class="git"><span class="ipa">[put əˈpɔn]</span></div><hr/></div><div class="coca2">被利用的(<font color="orangered">75%</font>)，被占了便宜的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">被占去便宜的；受人利用的；受虐待的；受愚弄的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

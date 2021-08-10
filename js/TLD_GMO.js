@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>GMO</h2><div class="git"><span class="ipa">[ˌdʒi:em'əʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">基因改造生物（genetically modified organism）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

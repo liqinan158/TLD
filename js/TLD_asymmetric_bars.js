@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>asymmetric bars</h2><div class="git"><span class="ipa">[ˌæsɪˈmetrɪk bɑ:z]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">高低杠</span></div><div class="dcb"><span class="dcn">体操比赛中的高低杠项目</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

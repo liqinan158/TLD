@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>back number</h2><div class="git"><span class="ipa">[bæk ˈnʌmbə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;美&gt;过期刊物，&lt;口&gt;过时（或老式）的人（或物），老古董</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

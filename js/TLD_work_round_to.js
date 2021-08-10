@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>work round to</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">逐步移到:；逐渐地、迂回曲折地对付或处理:</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">一步一步处理</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>physician's assistant</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">医师助理</span></div><div class="dcb"><span class="dcn">医生助手</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

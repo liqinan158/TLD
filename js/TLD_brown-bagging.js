@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brown-bagging</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">自带牛皮纸袋(装饭食)</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">棕色食品袋</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">褐色袋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

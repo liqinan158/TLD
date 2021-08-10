@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>puppy love</h2><div class="git"><span class="ipa">[ˈpʌpi lʌv]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 28</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 8</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 16</div><div class="gdc"><div class="dcb"><span class="dcn">早年初恋；少男少女间短暂的爱情（等于calf love）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Antony, Mark</h2><div class="git"><span class="ipa">['æntəni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">安东尼(公元前82～前30，古罗马统帅、政治领袖、恺撒部将)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

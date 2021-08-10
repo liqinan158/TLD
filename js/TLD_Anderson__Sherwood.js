@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Anderson, Sherwood</h2><div class="git"><span class="ipa">['ʃə:wud]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">安德森(1876～1941，美国小说家、短篇小说作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

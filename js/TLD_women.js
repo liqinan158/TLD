@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>women</h2><div class="git"><span class="ipa">[ˈwɪmɪn]</span></div><span class="onm">原型:</span><span class="orm">women 是 woman 的复数</span><hr/></div><div class="coca2">妇女(<font color="orangered">94%</font>)，女人们(<font color="orangered">5%</font>)，名词woman的复数形式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女人（woman的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>airsick</h2><div class="git"><span class="ipa">[ˈeəsɪk]</span></div><hr/></div><div class="coca2">患航空病的(<font color="orangered">50%</font>)，晕机的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">晕机的；患航空病的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

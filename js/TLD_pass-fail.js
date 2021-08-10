@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pass-fail</h2><div class="git"><span class="ipa">['pæs'fel]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">57440</span><div class="total">421</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">及格—不及格证分制（评定学生成绩的方法之一，只划分合格或不合格而不设其他等级）</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">及格—不及格证分制的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

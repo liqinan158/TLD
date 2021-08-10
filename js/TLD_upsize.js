@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>upsize</h2><div class="git"><span class="ipa">['ʌps'aɪz]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">41597</span><div class="total">1744</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">&lt;婉&gt;扩大…的规模</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

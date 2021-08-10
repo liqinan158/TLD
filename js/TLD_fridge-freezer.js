@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fridge-freezer</h2><div class="git"><span class="ipa">[fridʒ ˈfri:zə]</span></div><hr/></div><div class="coca2">双门冰箱(<font color="orangered">67%</font>)，冷冻冷藏箱(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">双门冰箱；带冷冻室的大冰箱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

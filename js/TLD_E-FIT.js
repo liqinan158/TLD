@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>E-FIT</h2><div class="git"><span class="ipa">['iː .fɪt]</span></div><hr/></div><div class="coca2">模拟画像(<font color="orangered">50%</font>)，指嫌疑犯人的计算机模拟画像(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">Electronic Facial Identification Technique电子面部特征(拼具)技术,电子面部鉴定技术</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

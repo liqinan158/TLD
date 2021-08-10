@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>allomorph</h2><div class="git"><span class="ipa">[ˈæləmɔ:f]</span></div><hr/></div><div class="coca2">同质异晶(<font color="orangered">67%</font>)，语素变体(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">同质异晶；同质异形体</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

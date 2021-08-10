@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>red-light district</h2><div class="git"><span class="ipa">[ˈredˌlaɪt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">红灯区</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">花街柳巷；风化区；红灯区见闻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

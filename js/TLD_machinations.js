@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>machinations</h2><div class="git"><span class="ipa">['mækə'neɪʃənz]</span></div><span class="onm">原型:</span><span class="orm">machinations 是 machination 的复数</span><hr/></div><div class="coca2">阴谋(<font color="orangered">70%</font>)，诡计(<font color="orangered">25%</font>)，名词machination的复数形式.(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阴谋诡计；奸计</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

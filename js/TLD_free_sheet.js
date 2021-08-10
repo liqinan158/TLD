@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>free sheet</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">无纤维纸(完全用化学品制成,没有纸浆的纸)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

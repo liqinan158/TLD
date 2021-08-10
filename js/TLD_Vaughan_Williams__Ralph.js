@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vaughan Williams, Ralph</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">沃恩威廉斯(1872～1958，英国作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

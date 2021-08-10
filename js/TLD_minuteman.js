@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>minuteman</h2><div class="git"><span class="ipa">['minitmæn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27630</span><div class="total">5812</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">独立战争时立即应召的民兵；民兵</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

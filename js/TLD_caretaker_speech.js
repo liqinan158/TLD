@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>caretaker speech</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 儿语化语言（指与儿童或语言初学习者交谈时用的浅显易懂的语言）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

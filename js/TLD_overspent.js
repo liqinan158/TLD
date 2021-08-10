@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overspent</h2><div class="git"><span class="ipa">[ˌəʊvə'spent]</span></div><span class="onm">原型:</span><span class="orm">overspent 是 overspend 的过去式</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">超支( overspend的过去式和过去分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

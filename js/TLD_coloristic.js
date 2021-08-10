@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coloristic</h2><hr/></div><div class="coca2">五彩画家(<font color="orangered">47%</font>)，善用色彩者(<font color="orangered">30%</font>)，染发师(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">用色的</span></div><div class="dcb"><span class="dcn">色彩的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

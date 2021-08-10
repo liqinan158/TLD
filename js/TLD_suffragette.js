@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>suffragette</h2><div class="git"><span class="ipa">[ˌsʌfrəˈdʒet]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33795</span><div class="total">3314</div></div><div class="coca2">妇女参政权论者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">妇女参政权论者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>GMS</h2><span class="onm">原型:</span><span class="orm">gm</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">综合零售店（General Merchandise Store）；国家财政公立（Grant Maintained Status）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

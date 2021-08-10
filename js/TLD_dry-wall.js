@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dry-wall</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">清水墙；干砌墙（等于drywall）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

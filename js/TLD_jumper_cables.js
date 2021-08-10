@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jumper cables</h2><span class="onm">原型:</span><span class="orm">jumper cables 是 jumper cable 的复数</span><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 22</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 22</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">跨接电缆；升压电缆；电池接线</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

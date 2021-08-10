@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Waltzing Matilda</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">玛蒂尔达华尔兹；跳华尔兹的马蒂尔达；玛蒂达的华尔兹</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

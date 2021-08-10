@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>geriatrics</h2><div class="git"><span class="ipa">[ˌdʒerɪ'ætrɪks]</span></div><span class="onm">原型:</span><span class="orm">geriatrics 是 geriatric 的复数</span><hr/></div><div class="coca2">老年病学(<font color="orangered">87%</font>)，老人保健学(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">老年病学；老年病人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Middlesbrough</h2><div class="git"><span class="ipa">['midlzbrә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">米德尔斯布勒[英国英格兰东北部港市]( 克利夫兰郡首府)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

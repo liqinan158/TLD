@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Museum of Mankind</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">人类博物馆；人类学博物馆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

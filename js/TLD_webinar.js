@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>webinar</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">6990</span><div class="total">104950</div></div><div class="coca2">=Web-based seminar.(<font color="orangered">50%</font>)，网上讨论会(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">网络研讨会；在线会议</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spreader</h2><div class="git"><span class="ipa">[ˈspredə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19835</span><div class="total">13128</div></div><div class="coca2">散布者(<font color="orangered">67%</font>)，涂黄油的刀(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[建] 撒布机；散布者；推广者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

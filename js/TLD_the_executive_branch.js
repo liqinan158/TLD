@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the executive branch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美国总统掌管的）政府行政部门</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">行政分支；行政机构；行政机关</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

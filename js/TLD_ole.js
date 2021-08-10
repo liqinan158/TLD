@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ole</h2><hr/></div><div class="coca2">油(<font color="orangered">50%</font>)，=oleo-(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">对象链接和嵌入（Object Linkingand Embedding）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ole)人名；(英、肯、坦桑)奥利；(丹、挪、瑞典、德、塞、芬)奥勒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

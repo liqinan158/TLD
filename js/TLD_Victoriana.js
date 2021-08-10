@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Victoriana</h2><div class="git"><span class="ipa">[vik,tɔ:ri'einə]</span></div><hr/></div><div class="coca2">维多利亚女王时代的家具、用具、服饰等(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">维多利亚时代的事物；维多利亚时代的文物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

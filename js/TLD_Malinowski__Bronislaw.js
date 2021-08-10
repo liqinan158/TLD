@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Malinowski, Bronislaw</h2><div class="git"><span class="ipa">[,mɑ:li'nɔ:fski]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">马利诺夫斯基(1884～1942，定居美国的波兰裔人类学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

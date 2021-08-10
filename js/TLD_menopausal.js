@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>menopausal</h2><div class="git"><span class="ipa">[ˌmenə'pɔ:zl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">21374</span><div class="total">11018</div></div><div class="coca2">更年期的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">绝经期的，更年期的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

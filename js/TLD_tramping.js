@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tramping</h2><div class="git"><span class="ipa">['træmpɪŋ]</span></div><span class="onm">原型:</span><span class="orm">tramping 是 tramp 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">不定期运输，不定航线运输</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

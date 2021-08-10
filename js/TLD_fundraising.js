@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fundraising</h2><div class="git"><span class="ipa">['fʌndˌreɪzɪŋ]</span></div><hr/></div><div class="coca2">筹集的(<font color="orangered">50%</font>)，募捐的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">筹款；资金募集</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">募款的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

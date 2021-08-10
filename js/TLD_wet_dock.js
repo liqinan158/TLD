@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wet dock</h2><div class="git"><span class="ipa">[wet dɔk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 湿船坞, 系船渠; 泊船坞; 湿坞</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

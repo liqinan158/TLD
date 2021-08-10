@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>angioplasty</h2><div class="git"><span class="ipa">[ˈændʒiəʊplæsti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26813</span><div class="total">6311</div></div><div class="coca2">血管成形术(<font color="orangered">96%</font>)，血管修复术(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">血管成形术</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

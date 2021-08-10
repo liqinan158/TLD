@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fungoid</h2><div class="git"><span class="ipa">[ˈfʌŋgɔɪd]</span></div><hr/></div><div class="coca2">真菌状的(<font color="orangered">56%</font>)，真菌(<font color="orangered">33%</font>)，蘑菇状的(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">真菌</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">真菌状的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DHSC</h2><div class="git"><span class="ipa">[4]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(=Doctor of Health Science) 卫生学博士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>babymoon</h2><div class="git"><span class="ipa">['beɪbɪmuːn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52291</span><div class="total">712</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 产前蜜月; 孕期蜜月; 宝贝蜜月; babymoon最初的意思是指父母与新出生的婴儿在一起培养感情的一段时光，即“宝贝蜜月”。后来，这个词又用来指代即将为人父母的夫妻在孩子出生之前享受的最后一次二人之旅，即“产前蜜月”或“孕期蜜月”。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

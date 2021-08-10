@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beanfeast</h2><div class="git"><span class="ipa">[ˈbi:nfi:st]</span></div><hr/></div><div class="coca2">大拜拜(<font color="orangered">50%</font>)，雇主款待佣人的宴席(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英）雇主一年一度款待雇工的宴会；狂欢</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

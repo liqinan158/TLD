@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>didst</h2><div class="git"><span class="ipa">[dɪdst]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">&lt;古&gt;（与thou一起使用），do的第二人称单数过去式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

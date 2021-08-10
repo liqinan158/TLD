@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aung San Suu Kyi</h2><div class="git"><span class="ipa">[ˈɔ:ŋˈ sɑ:nˈ su:ˈ tʃi:]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">翁山苏姬(缅甸政治领袖, 因其促进缅甸民主政治的努力获1991年诺贝尔和平奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unfairness</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25536</span><div class="total">7132</div></div><div class="coca2">不公平(<font color="orangered">95%</font>)，不正当(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">不公平，不公正；不正当</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

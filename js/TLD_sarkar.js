@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sarkar</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [人名] 萨卡尔; [电影]印度教父</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

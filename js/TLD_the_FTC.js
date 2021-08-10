@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the FTC</h2><div class="git"><span class="ipa">[ˌef ti: 'si:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">联邦贸易委员会（美国负责确保公平商业竞争的政府机构）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">公平交易委员会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

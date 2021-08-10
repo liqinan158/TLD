@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>barney</h2><div class="git"><span class="ipa">[ˈbɑ:ni]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大吵大闹；拉曳器</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Barney)人名；(法)巴内；(英、西)巴尼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

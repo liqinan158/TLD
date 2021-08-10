@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>standee</h2><div class="git"><span class="ipa">[stænˈdi:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50512</span><div class="total">844</div></div><div class="coca2">站著看的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（戏院中或交通工具中的）站立看客；站票观众</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

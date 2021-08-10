@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chinless</h2><div class="git"><span class="ipa">[ˈtʃɪnləs]</span></div><hr/></div><div class="coca2">胆小的(<font color="orangered">35%</font>)，优柔寡断的(<font color="orangered">33%</font>)，没下颚的(<font color="orangered">16%</font>)，畏缩的(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无下颚的；优柔寡断的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

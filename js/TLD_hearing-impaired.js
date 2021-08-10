@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hearing-impaired</h2><div class="git"><span class="ipa">['hɪərɪŋɪmp'eəd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">43341</span><div class="total">1511</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">听力受损的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

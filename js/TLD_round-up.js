@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>round-up</h2><div class="git"><span class="ipa">[raʊnd ʌp]</span></div><hr/></div><div class="coca2">聚集(<font color="orangered">50%</font>)，综合消息(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">聚拢，聚集；(尤指新闻)概要，综合报道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

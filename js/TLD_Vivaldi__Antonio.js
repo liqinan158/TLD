@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vivaldi, Antonio</h2><div class="git"><span class="ipa">[vi:'vɑ:ldi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">维瓦尔第(1678～1741，意大利小提琴家、作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

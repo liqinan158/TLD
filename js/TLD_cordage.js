@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cordage</h2><div class="git"><span class="ipa">['kɔ:dɪdʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38008</span><div class="total">2314</div></div><div class="coca2">缆索(绳索(<font color="orangered">50%</font>)，木材总数)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">绳索；纤维绳；薪炭材的堆积数</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

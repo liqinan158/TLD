@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>churchwoman</h2><div class="git"><span class="ipa">[ˈtʃɜ:tʃmən]</span></div><hr/></div><div class="coca2">热心的女教会会员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">热心的女教会会员；女信徒（尤指信奉英国国家者）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

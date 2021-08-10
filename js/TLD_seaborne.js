@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>seaborne</h2><div class="git"><span class="ipa">[ˈsi:bɔ:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">41275</span><div class="total">1790</div></div><div class="coca2">海上运输的(<font color="orangered">78%</font>)，浮在海上的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">海上运输的；漂流的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

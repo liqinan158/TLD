@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Brady Bunch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">布雷迪家庭；脱线家族；布雷迪一家子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

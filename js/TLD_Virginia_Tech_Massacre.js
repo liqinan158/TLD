@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Virginia Tech Massacre</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">弗吉尼亚理工大学大屠杀；弗吉尼亚理工大学校园枪击案；体会到</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

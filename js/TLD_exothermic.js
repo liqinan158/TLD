@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exothermic</h2><div class="git"><span class="ipa">[ˌeksəʊˈθɜ:mɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">32399</span><div class="total">3760</div></div><div class="coca2">放出热量的(<font color="orangered">53%</font>)，发热的(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">发热的；放出热量的；[热] 放热的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

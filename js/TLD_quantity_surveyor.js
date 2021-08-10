@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quantity surveyor</h2><div class="git"><span class="ipa">[ˈkwɔntiti səˈveɪə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[经] (建筑)估料师, 数量鉴定人, 预算师，（建）建筑成本估算师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

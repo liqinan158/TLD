@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>frenemy</h2><div class="git"><span class="ipa">[f'renəmɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47376</span><div class="total">1106</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">友敌（有时也拼做frienemy）; 是friend（朋友）和enemy（敌人）两个词组合而成的; 指伪装成朋友的敌人或者互相竞争的同伴; 常用来指代个人及群体组织之间的人际关系、地缘政治关系以及商业关系。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

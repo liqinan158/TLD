@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>necklacing</h2><span class="onm">原型:</span><span class="orm">necklacing 是 necklace 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(necklace 的现在分词) n. 项链</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

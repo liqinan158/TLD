@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quality controller</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 质量控制员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

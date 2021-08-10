@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>smokescreen</h2><div class="git"><span class="ipa">[ˈsməʊkskri:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35400</span><div class="total">2890</div></div><div class="coca2">烟幕(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（掩护阵地和活动的）烟幕；障眼法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

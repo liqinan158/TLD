@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disintermediation</h2><div class="git"><span class="ipa">[dɪsˌɪntəmi:dɪ'eɪʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50260</span><div class="total">863</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">非居间化；从银行提款进行证券投资</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

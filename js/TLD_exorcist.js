@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exorcist</h2><div class="git"><span class="ipa">[ˈeksɔ:sɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24036</span><div class="total">8297</div></div><div class="coca2">驱魔的人(<font color="orangered">54%</font>)，召魂者(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">驱魔的人；召魂者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>barber's pole</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（红白螺旋条纹相间的）理发店招牌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>culturally</h2><div class="git"><span class="ipa">['kʌltʃərəlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">9354</span><div class="total">61951</div></div><div class="coca2">文化地(<font color="orangered">50%</font>)，人文地(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">从文化角度，文化意义上；在人文学方面</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

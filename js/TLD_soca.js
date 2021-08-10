@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soca</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49097</span><div class="total">965</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 索卡乐, 灵卡乐（源自加勒比海的流行音乐, 融合了灵乐和卡利普索民歌）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

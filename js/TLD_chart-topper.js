@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chart-topper</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42336</span><div class="total">1639</div></div><div class="coca2">居排行榜榜首的唱片或歌手(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">居排行榜榜首的唱片或歌手</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

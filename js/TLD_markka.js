@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>markka</h2><div class="git"><span class="ipa">['mɑ:kɑ:]</span></div><hr/></div><div class="coca2">芬兰的货币单位(<font color="orangered">75%</font>)，其货币(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">芬兰的货币单位</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>genera</h2><div class="git"><span class="ipa">[ˈdʒenərə]</span></div><span class="onm">原型:</span><span class="orm">genera 是 genus 的复数</span><hr/></div><div class="coca2">属(<font color="orangered">92%</font>)，种类(<font color="orangered">7%</font>)，名词genus的复数形式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生物] 属（genus的复数形式）；种；类</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

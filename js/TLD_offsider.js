@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>offsider</h2><div class="git"><span class="ipa">[ɒfˈsaɪdə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伙伴，助手，帮手; 支持者，拥护者，追随者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

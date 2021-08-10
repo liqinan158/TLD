@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>conscientize</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 使意识到（重大社会或政治问题）；使觉悟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

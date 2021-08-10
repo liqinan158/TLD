@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phishing</h2><div class="git"><span class="ipa">[ˈfɪʃɪŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">20786</span><div class="total">11803</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">网络钓鱼；网络欺诈（以虚假的身份和形象随机骗取个人帐号和密码等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

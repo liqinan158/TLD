@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>AARP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国退休者协会（American Association of Retired Persons）；[计]Apple Talk地址转换协议（AppleTalk Address Resolution Protocol）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

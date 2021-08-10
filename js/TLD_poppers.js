@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>poppers</h2><div class="git"><span class="ipa">[ˈpɒpəz]</span></div><span class="onm">原型:</span><span class="orm">poppers 是 popper 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">发出砰的响声的人（或物），服药成瘾者( popper的名词复数 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

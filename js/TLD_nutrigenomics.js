@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nutrigenomics</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">营养基因组学；营养基因体学；营养基因学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

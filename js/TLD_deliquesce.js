@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deliquesce</h2><div class="git"><span class="ipa">[ˌdelɪˈkwes]</span><span class="frm">deliquesced, deliquescing, deliquesces</span></div><hr/></div><div class="coca2">潮解(<font color="orangered">82%</font>)，融解(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">液化；溶解；潮解</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

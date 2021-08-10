@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>two-tone</h2><div class="git"><span class="ipa">[ˈtu:tju:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">23787</span><div class="total">8519</div></div><div class="coca2">同色而浓淡不同的(<font color="orangered">58%</font>)，两颜色的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">两颜色的；同色而浓淡不同的；两种色调的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

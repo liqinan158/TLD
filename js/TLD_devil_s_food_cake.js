@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>devil's food cake</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[主美国英语]巧克力蛋糕</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

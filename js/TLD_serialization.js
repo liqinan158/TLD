@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>serialization</h2><div class="git"><span class="ipa">[ˌsɪərɪəlaɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23456</span><div class="total">8811</div></div><div class="coca2">序列化(<font color="orangered">99%</font>)，长篇连载(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">序列化；串行化；连载长篇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

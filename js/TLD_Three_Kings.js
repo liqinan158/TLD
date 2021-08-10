@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Three Kings</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">夺金三王；三个国王；夺宝大作战</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

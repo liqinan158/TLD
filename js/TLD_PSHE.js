@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PSHE</h2><div class="git"><span class="ipa">[ˌpi: es eɪtʃ 'i:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">个人、社会及健康教育（全写为 personal, social and health education，英国学校课程）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">Personal Social and Health Education; 板壳式换热器; 个人社会及健康教育</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

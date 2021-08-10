@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>three-ring circus</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 有各种娱乐活动的场所；大型热闹的演出</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

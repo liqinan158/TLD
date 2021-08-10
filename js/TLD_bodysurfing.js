@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bodysurfing</h2><div class="git"><span class="ipa">[ˈbɒdisɜ:fɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">人体冲浪（指不用冲浪板而以胸腹冲浪）( bodysurf的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

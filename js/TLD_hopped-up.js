@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hopped-up</h2><div class="git"><span class="ipa">['hɔpt'ʌp]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">60075</span><div class="total">292</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[美国俚语]；毒品引起的，(吸毒后)兴奋的，狂喜的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>abbess</h2><div class="git"><span class="ipa">[ˈæbes]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36818</span><div class="total">2563</div></div><div class="coca2">女修道院院长(<font color="orangered">88%</font>)，尼姑庵住持(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女修道院院长；女庵主持</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

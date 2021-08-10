@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>persecutor</h2><div class="git"><span class="ipa">[ˈpɜ:sɪkju:tə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30557</span><div class="total">4466</div></div><div class="coca2">迫害者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">虐待者；迫害者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>harambee</h2><div class="git"><span class="ipa">[həˈræmbi:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56291</span><div class="total">476</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;斯瓦希里&gt;哈兰比（齐心协力的意思）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

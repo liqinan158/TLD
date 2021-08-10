@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cliffhanger</h2><div class="git"><span class="ipa">[ˈklɪfhæŋə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22024</span><div class="total">10275</div></div><div class="coca2">扣人心弦的比赛(<font color="orangered">67%</font>)，紧张悬念的情节(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">扣人心弦的比赛；峭壁吊钩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

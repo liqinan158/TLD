@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SSI</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">小规模集成（电路）（Small Scale Integration）；扇形扫描显示器（Sector Scan Indicator）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

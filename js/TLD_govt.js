@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>govt</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18971</span><div class="total">14570</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">政府（government）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

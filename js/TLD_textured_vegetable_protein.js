@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>textured vegetable protein</h2><div class="git"><span class="ipa">[ˈtekstʃərd ˈvedʒitəbl ˈprəuti:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 组织化植物蛋白质</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

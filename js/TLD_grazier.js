@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grazier</h2><div class="git"><span class="ipa">[ˈgreɪziə(r)]</span></div><span class="onm">原型:</span><span class="orm">grazier 是 grazy 的比较级</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56084</span><div class="total">487</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">放牧人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Brahms, Johannes</h2><div class="git"><span class="ipa">[brɑ:mz; jəu'hɑ:nəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">勃拉姆斯(1833～1897，德国作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

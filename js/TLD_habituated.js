@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>habituated</h2><div class="git"><span class="ipa">[həˈbɪtʃueɪtɪd]</span></div><span class="onm">原型:</span><span class="orm">habituated 是 habituate 的过去式和过去分词</span><hr/></div><div class="coca2">使习惯于(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">习惯的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">使习惯于；上瘾（habituate的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

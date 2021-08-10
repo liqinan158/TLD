@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>US Geological Survey</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 7</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">美国地质调查所；美国地质调查局；美国地质勘探局</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

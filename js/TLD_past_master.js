@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>past master</h2><div class="git"><span class="ipa">[pɑ:st ˈmɑ:stə]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">老手；内行；专家</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">高手；技艺精湛的人；能手</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

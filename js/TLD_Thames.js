@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Thames</h2><div class="git"><span class="ipa">[temz]</span></div><span class="onm">原型:</span><span class="orm">Thames 是 thame 的复数</span><hr/></div><div class="coca2">伦敦的泰晤士河(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（伦敦的）泰晤士河</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

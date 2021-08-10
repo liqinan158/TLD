@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mullah Omar</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">奥马尔；塔利班领导人奥马尔；欧玛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

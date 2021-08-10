@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thorium</h2><div class="git"><span class="ipa">[ˈθɔ:riəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29051</span><div class="total">5121</div></div><div class="coca2">原子序90）(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 钍（放射性金属元素，元素符号Th，原子序数为90）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

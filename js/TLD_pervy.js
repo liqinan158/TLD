@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pervy</h2><span class="onm">级别:</span><span class="qrm">pervier, perviest</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">46919</span><div class="total">1145</div></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">这对下流</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>auto-</h2><div class="git"><span class="ipa">[ˈɔ:təʊ]</span></div><hr/></div><div class="coca2">自动(<font color="orangered">63%</font>)，自己(<font color="orangered">20%</font>)，自体(<font color="orangered">12%</font>)，自发.(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">自动；自己；汽车</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

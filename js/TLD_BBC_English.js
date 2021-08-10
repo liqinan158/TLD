@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BBC English</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国广播公司英语教学部；英国广播公司英语广播；外语教学与研究出版社</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

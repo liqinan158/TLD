@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>day pupil</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （寄宿学校的）走读生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>city father</h2><div class="git"><span class="ipa">[ˈsiti ˈfɑ:ðə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">城市元老（有城市管理经验者）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">政府要员；市议员；市政府的主要官员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

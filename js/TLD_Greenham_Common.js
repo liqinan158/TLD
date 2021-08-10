@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Greenham Common</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">格林汉科门；格林厄姆公地；格林汉康蒙</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

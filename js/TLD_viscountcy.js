@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>viscountcy</h2><div class="git"><span class="ipa">[ˈvaɪkaʊntsi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">子爵的身份，地位，头衔等</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>molybdenum</h2><div class="git"><span class="ipa">[məˈlɪbdənəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22359</span><div class="total">9898</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 钼（金属元素，符号Mo，原子序号42）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

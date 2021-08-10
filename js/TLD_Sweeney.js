@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sweeney</h2><div class="git"><span class="ipa">['swi:ni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [人名] [爱尔兰姓氏] 斯威尼盖尔语姓氏的英语姓氏，来源于别名，含义是“令人愉快的”(pleasant)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

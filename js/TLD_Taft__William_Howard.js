@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Taft, William Howard</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">塔夫脱 (1857～1930)，美国第二十七任总统 (1909～1913)，美国最高法院首席法官 (1921～1930)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

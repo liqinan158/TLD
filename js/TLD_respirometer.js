@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>respirometer</h2><div class="git"><span class="ipa">[ˌrespɪˈrɒmɪtə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">呼吸（运动）计</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

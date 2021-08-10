@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>complementarity</h2><div class="git"><span class="ipa">[ˌkɒmplɪmen'tærɪtɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36245</span><div class="total">2692</div></div><div class="coca2">互补性(<font color="orangered">71%</font>)，补充(<font color="orangered">29%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">互补性；补充；补足</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

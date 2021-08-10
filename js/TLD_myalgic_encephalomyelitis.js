@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>myalgic encephalomyelitis</h2><div class="git"><span class="ipa">[maɪˌældʒɪk enˌsefələʊmaɪəˈlaɪtɪs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">myalgic encephalomyelitis</span></div><div class="dcb"><span class="dcn">[mai,ældʒik; en,sefələmaiə'laitis]</span></div><div class="dcb"><span class="dcn">【病理学】肌痛性脑脊髓炎，雅皮士流感[略作ME]</span></div><div class="dcb"><span class="dcn">以上来源于：《21世纪大英汉词典》</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>TfL</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电子竞技国际性的联赛; 叫做冰峰联赛; 简称TFL.赛制运行的基础是和WC3L一样的; 常规赛季由12个队伍组成</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

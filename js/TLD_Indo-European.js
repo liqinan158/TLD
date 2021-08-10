@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Indo-European</h2><div class="git"><span class="ipa">['indәu,juәrә'pi(:)әn]</span></div><hr/></div><div class="coca2">印欧语系的(<font color="orangered">51%</font>)，印欧语系(<font color="orangered">37%</font>)，说印欧语的人(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">印欧语系</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">印欧语系的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

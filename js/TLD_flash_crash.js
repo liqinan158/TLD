@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flash crash</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">闪电崩盘；闪电暴跌；闪崩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

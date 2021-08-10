@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Transport and General Workers' Union</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">运输和普通工人联合会；运输与普通工人工会；运输总工会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

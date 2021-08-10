@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>courtesy title</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 74</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 37</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（无法律实效的）尊称</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">礼貌的称呼；礼节上的尊称；礼貌上的尊称</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

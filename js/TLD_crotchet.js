@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crotchet</h2><div class="git"><span class="ipa">[ˈkrɒtʃɪt]</span></div><hr/></div><div class="coca2">怪想(<font color="orangered">40%</font>)，奇想(<font color="orangered">40%</font>)，反覆无常(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">小钩；奇想；怪想；反复无常</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

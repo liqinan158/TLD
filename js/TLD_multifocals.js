@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>multifocals</h2><div class="git"><span class="ipa">['mʌlti'fəukəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">multifocal</span></div><div class="dcb"><span class="dcn">['mʌlti'fəukəl]</span></div><div class="dcb"><span class="pos">adj.</span></div><div class="dcb"><span class="dcn">【光学】多焦度的</span></div><div class="dcb"><span class="dcn">【医学】多病灶的；多疫源地的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

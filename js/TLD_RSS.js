@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>RSS</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">和的平方根（root-sum square）；英国皇家学会会员（Regiae Societatis Socius，等于fellow of the royal society）</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">简易信息聚合（Really Simple Syndication）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

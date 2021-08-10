@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>raita</h2><div class="git"><span class="ipa">[ˈraɪtə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50199</span><div class="total">869</div></div><div class="coca2">赖塔(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">赖达（地名，位于孟加拉国）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

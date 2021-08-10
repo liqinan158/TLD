@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>asset stripping</h2><div class="git"><span class="ipa">[ˈæset ˈstripiŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">资产倒卖</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">拆卖资产；资产剥离；资产拆卖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

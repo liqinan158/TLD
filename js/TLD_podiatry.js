@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>podiatry</h2><div class="git"><span class="ipa">[pəˈdaɪətri]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34556</span><div class="total">3108</div></div><div class="coca2">足病学(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">足部医疗；[外科] 脚病学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

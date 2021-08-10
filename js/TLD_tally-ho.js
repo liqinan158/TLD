@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tally-ho</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">呔嗬（狩猎时的吆喝声示意猎狗发现了狐狸）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

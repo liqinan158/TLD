@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>credit agency</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">借贷所</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">信贷机构；信用调查机构；征信所</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

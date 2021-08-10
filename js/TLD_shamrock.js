@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shamrock</h2><div class="git"><span class="ipa">[ˈʃæmrɒk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15361</span><div class="total">23035</div></div><div class="coca2">酢浆草(<font color="orangered">60%</font>)，荷兰翘摇(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">三叶草（爱尔兰国花）；白花酢浆草；天蓝苜蓿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

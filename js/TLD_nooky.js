@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nooky</h2><div class="git"><span class="ipa">[ˈnʊki]</span></div><hr/></div><div class="coca2">性交时的女性(<font color="orangered">67%</font>)，=nookie(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">交配；性交时的女性</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">多角隅的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ohm</h2><div class="git"><span class="ipa">[әum]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">CET6</span></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">欧姆（电阻单位）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ohm)人名；(朝)严；(德、英、西、匈、瑞典)奥姆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

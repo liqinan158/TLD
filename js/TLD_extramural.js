@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>extramural</h2><div class="git"><span class="ipa">[ˌekstrəˈmjʊərəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">42138</span><div class="total">1667</div></div><div class="coca2">单位以外的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">市外的；校际比赛的；单位以外的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

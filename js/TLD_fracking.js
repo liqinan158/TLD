@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fracking</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">32044</span><div class="total">3896</div><span class="pos">NOUN</span><span class="rank">34760</span><div class="total">3047</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 液压破碎法（利用高压将水、化学物质和沙打到地下以获取天然气的方法，这样做会污染了地下水，从而导致雨水也受影响）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

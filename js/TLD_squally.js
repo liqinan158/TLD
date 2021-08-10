@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>squally</h2><div class="git"><span class="ipa">[ˈskwɔ:li]</span></div><hr/></div><div class="coca2">多狂风的(<font color="orangered">44%</font>)，多风波的(<font color="orangered">42%</font>)，不安宁的(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">多风波的；多狂风的；天气愈变愈坏的；可怕的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

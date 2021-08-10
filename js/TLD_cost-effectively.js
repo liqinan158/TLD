@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cost-effectively</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">26985</span><div class="total">6205</div></div><div class="coca2">划算的(<font color="orangered">67%</font>)，有成本效益的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">成本效益高地</span></div><div class="dcb"><span class="dcn">划算地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

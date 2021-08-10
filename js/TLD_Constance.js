@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Constance</h2><div class="git"><span class="ipa">['kɒnstəns]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">康士坦茨湖（位于瑞士、德国和奥地利交界处）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

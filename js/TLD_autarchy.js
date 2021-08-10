@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>autarchy</h2><div class="git"><span class="ipa">[ˈɔ:tɑ:ki]</span></div><hr/></div><div class="coca2">独裁(<font color="orangered">43%</font>)，专制(<font color="orangered">41%</font>)，独裁国家(<font color="orangered">11%</font>)，=autarky.(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">专制，独裁；专制国家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

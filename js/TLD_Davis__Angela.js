@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Davis, Angela</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Davis, Angela (Yvonne)</span></div><div class="dcb"><span class="dcn">戴维斯(1944～</span></div><div class="dcb"><span class="dcn">，美国黑人女哲学教授、美国共产党中央委员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

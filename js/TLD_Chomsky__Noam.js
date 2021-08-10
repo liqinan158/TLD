@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Chomsky, Noam</h2><div class="git"><span class="ipa">['tʃɔmski:; nəum]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Chomsky, (Avram) Noam</span></div><div class="dcb"><span class="dcn">['tʃɔmski:; nəum]</span></div><div class="dcb"><span class="dcn">乔姆斯基(1928～</span></div><div class="dcb"><span class="dcn">，美国语言学家，创生成语言学理论，政治活动家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

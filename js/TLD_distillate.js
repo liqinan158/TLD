@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>distillate</h2><div class="git"><span class="ipa">[ˈdɪstɪleɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30565</span><div class="total">4464</div></div><div class="coca2">精华(<font color="orangered">63%</font>)，蒸馏物(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">馏出物，馏出液，蒸馏液； 馏分油</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

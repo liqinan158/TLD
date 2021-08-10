@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fumigation</h2><div class="git"><span class="ipa">[ˌfju:mɪ'ɡeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35084</span><div class="total">2964</div></div><div class="coca2">烟熏(<font color="orangered">72%</font>)，熏蒸消毒法(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">烟熏法；熏烟消毒法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

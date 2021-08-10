@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hannibal</h2><div class="git"><span class="ipa">['hænibәl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">汉尼巴尔（男子名）；汉尼拔（公元前247～前183, 迦太基名将、统帅）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

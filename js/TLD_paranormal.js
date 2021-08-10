@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paranormal</h2><div class="git"><span class="ipa">[ˌpærəˈnɔ:ml]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">13525</span><div class="total">30083</div></div><div class="coca2">超自然的(<font color="orangered">82%</font>)，超过正常的(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">超常的；超过正常范围的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>salwar</h2><div class="git"><span class="ipa">[sʌlˈwɑ:(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50731</span><div class="total">826</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（南亚国家中尤指女子穿的）宽松裤，纱丽</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

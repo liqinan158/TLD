@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ll</h2><span class="onm">原型:</span><span class="orm">will</span><hr/></div><div class="coca2">陆上通信线(专线(<font color="orangered">34%</font>)，暗室口的避光装置)(<font color="orangered">33%</font>)，轻荷载(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">陆上通信线（Land Lines）；下限（Lower Limit）；低电平（Low Level）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>OS</h2><div class="git"><span class="ipa">[ɔs]</span></div><span class="onm">原型:</span><span class="orm">o</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">操作系统（Operating System）；西洋旧历（Old Style）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>smoothie</h2><div class="git"><span class="ipa">[ˈsmu:ði]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">9476</span><div class="total">60566</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">举止优雅的人；善于讨好女人的男子；一种果汁与牛奶的混合饮料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

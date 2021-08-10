@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>working paper</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（委员会等的）研究报告；（美国 16 岁以下或侨居者的）工作证</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">工作底稿；工作文件；工作论文</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

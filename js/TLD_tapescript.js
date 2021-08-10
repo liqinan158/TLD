@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tapescript</h2><div class="git"><span class="ipa">['teɪpskrɪpt]</span></div><hr/></div><div class="coca2">磁带录音稿(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">磁带录音稿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

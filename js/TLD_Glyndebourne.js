@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Glyndebourne</h2><div class="git"><span class="ipa">['ɡlaɪnd.bɔː(r)n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">格林德伯恩歌剧节；格林德波恩歌剧音乐节；格林德本</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

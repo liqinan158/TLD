@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>megadeath</h2><div class="git"><span class="ipa">[ˈmegədeθ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一百万人的死亡（核武器杀伤力的计算单位）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sin bin</h2><div class="git"><span class="ipa">[sin bin]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（冰球）受罚席，被罚下场的队员席</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

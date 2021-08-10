@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pit pony</h2><div class="git"><span class="ipa">[pit ˈpəuni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[英国英语](从前在煤矿中运煤的)小马；矿井运输用的小马</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

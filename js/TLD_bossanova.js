@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bossanova</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">〔音〕波萨诺伐舞曲</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">波萨诺瓦；巴萨诺瓦；巴沙诺瓦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-packed</h2><span class="onm">原型:</span><span class="orm">pre-packed 是 pre-pack 的过去分词</span><hr/></div><div class="coca2">预先装好的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">事先包装好的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">事先包装（prepack的过去式和过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

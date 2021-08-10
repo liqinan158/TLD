@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mussolini, Benito</h2><div class="git"><span class="ipa">[,musə'li:ni; ,mu:ssɔ:'li:ni; be'ni:tɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">墨索里尼(1883～1945)，意大利法西斯党党魁，独裁者首相(1922～1943)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

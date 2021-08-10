@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>undershorts</h2><div class="git"><span class="ipa">[ˈʌndəʃɔ:ts]</span></div><span class="onm">原型:</span><span class="orm">undershorts 是 undershort 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（男式）短衬裤; 裤衩; 松身短衬裤</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

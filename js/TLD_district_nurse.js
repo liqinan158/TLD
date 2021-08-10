@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>district nurse</h2><div class="git"><span class="ipa">[ˈdistrikt nə:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">地段护士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

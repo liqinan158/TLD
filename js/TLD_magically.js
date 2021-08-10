@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>magically</h2><div class="git"><span class="ipa">['mædʒɪklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">11404</span><div class="total">42431</div></div><div class="coca2">如魔法般地(<font color="orangered">60%</font>)，用魔法地(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">用魔法地；如魔法般地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

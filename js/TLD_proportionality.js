@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>proportionality</h2><div class="git"><span class="ipa">[prəˌpɔ:ʃəˈnæləti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26006</span><div class="total">6829</div></div><div class="coca2">相称(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">相称；均衡；比例性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

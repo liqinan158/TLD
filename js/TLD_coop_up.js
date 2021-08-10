@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coop up</h2><div class="git"><span class="ipa">[ku:p ʌp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 禁闭, 困住, 把…关起来</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>demarcation</h2><div class="git"><span class="ipa">[ˌdi:mɑ:ˈkeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25431</span><div class="total">7196</div></div><div class="coca2">划界(<font color="orangered">81%</font>)，限界(<font color="orangered">19%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">划分；划界；限界</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

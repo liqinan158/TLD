@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tangentially</h2><div class="git"><span class="ipa">[tæn'dʒenʃlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">37836</span><div class="total">2344</div></div><div class="coca2">成切线(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">无关地；切线地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

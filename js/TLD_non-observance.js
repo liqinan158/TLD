@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-observance</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[经] (对规则等的)不遵守, 违反</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stasi</h2><div class="git"><span class="ipa">['stæsi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">斯塔西（前民主德国国家安全局）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

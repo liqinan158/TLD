@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>growbag</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 栽培袋, 植物生长袋（盛满泥土的大塑料袋）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>downmarket</h2><div class="git"><span class="ipa">[ˌdaʊnˈmɑ:kɪt]</span></div><hr/></div><div class="coca2">面向低收入阶层(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">面向低收入人消费者的；价廉质次的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">面向低收入阶层</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

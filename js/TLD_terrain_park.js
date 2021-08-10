@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>terrain park</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">地形公园（为滑雪板等户外冬季运动特别设计的场地）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">雪道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

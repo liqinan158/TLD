@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gielgud, Sir John</h2><div class="git"><span class="ipa">['ɡilɡud]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Gielgud, Sir (Arthur) John</span></div><div class="dcb"><span class="dcn">['ɡilɡud]</span></div><div class="dcb"><span class="dcn">吉尔吉德 (1904～ ，英国演员和导演)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

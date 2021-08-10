@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-teen</h2><hr/></div><div class="coca2">九岁至十三岁的儿童(<font color="orangered">50%</font>)，指年龄在九岁至十三岁的儿童(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">青春期前的孩子；不满13岁的儿童</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">13岁以下的；青春期前的；接近青春期的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

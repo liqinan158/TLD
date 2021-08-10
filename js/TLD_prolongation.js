@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prolongation</h2><div class="git"><span class="ipa">[ˌprəʊlɒŋˈgeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30502</span><div class="total">4491</div></div><div class="coca2">延长(<font color="orangered">90%</font>)，延长部分(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">延伸；延长部分；[经] 延期</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

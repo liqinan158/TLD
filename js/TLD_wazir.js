@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wazir</h2><div class="git"><span class="ipa">[wəˈzɪə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（伊斯兰教国家元老，高官）维齐尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

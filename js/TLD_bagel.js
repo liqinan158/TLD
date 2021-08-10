@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bagel</h2><div class="git"><span class="ipa">[ˈbeɪgl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14884</span><div class="total">24618</div></div><div class="coca2">百吉饼(<font color="orangered">84%</font>)，硬面包圈(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">百吉饼（先蒸后烤的发面圈）；（体育比赛中）零蛋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

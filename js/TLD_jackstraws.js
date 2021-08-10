@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jackstraws</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">稻草人；(抽杆游戏用的)细木杆[塑料杆等]</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">草人儿；司法大臣杰克一斯特劳；史卓</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

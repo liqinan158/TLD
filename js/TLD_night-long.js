@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>night-long</h2><div class="git"><span class="ipa">[ˈnaɪtˌlɔ:ŋ, -ˌlɔŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">&amp; adv. 通宵的（地）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

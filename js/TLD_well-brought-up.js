@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>well-brought-up</h2><div class="git"><span class="ipa">['welbr'ɔ:t'ʌp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（尤指儿童）有礼貌的，有涵养的，有教养的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

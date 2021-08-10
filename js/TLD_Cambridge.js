@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cambridge</h2><div class="git"><span class="ipa">['keimbridʒ]</span></div><hr/></div><div class="coca2">剑桥大学(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">剑桥（英国城市）；坎布里奇（美国马萨诸塞州城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

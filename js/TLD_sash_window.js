@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sash window</h2><div class="git"><span class="ipa">[sæʃ ˈwindəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">垂直推拉窗</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">上下开关窗；框格窗；上下滑窗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wassup</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [俚语]怎么了，发生什么事啦？近来如何？</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

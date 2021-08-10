@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reductio ad absurdum</h2><div class="git"><span class="ipa">[rɪˌdʌktiəʊ æd æbˈsɜ:dəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;拉&gt;归谬法，间接证明法，反证法（说明某一命题的反面为不可能或荒谬，以证明该命题为正确）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

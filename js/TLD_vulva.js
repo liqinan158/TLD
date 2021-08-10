@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vulva</h2><div class="git"><span class="ipa">[ˈvʌlvə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24222</span><div class="total">8133</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阴户；[解剖] 女阴；孔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

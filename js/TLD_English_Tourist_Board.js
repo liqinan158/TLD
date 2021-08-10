@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>English Tourist Board</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国旅游委员会；英格兰旅游委员会；英国旅游者公报</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

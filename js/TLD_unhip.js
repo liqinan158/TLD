@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unhip</h2><div class="git"><span class="ipa">[ʌn'hɪp]</span></div><hr/></div><div class="coca2">不谙时髦的(<font color="orangered">44%</font>)，非赶时髦派的(<font color="orangered">28%</font>)，不符合集团其他成员所遵循的习俗的(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不谙时髦的；非赶时髦派的；不符合集团其他成员所遵循的习俗的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

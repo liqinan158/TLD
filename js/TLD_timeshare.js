@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>timeshare</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14939</span><div class="total">24464</div></div><div class="coca2">分时(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">分时享用度假别墅的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">分时享用度假别墅所有权</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

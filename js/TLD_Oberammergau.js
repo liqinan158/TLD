@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oberammergau</h2><div class="git"><span class="ipa">[əubə'æməɡau]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奥伯阿默高（德国慕尼黑一村镇）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NVQ</h2><div class="git"><span class="ipa">[ˌen vi: ˈkju:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">国家职业资格证书, 国家职业资格认证（全写为 National Vocational Qualification, 英国证明从业者职业水平的证书）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

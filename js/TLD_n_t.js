@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>n't</h2><div class="git"><span class="ipa">[nt]</span></div><span class="onm">原型:</span><span class="orm">not</span><hr/></div><div class="coca iweb"><span class="pos">NEG</span><span class="rank">36</span><div class="total">36119580</div></div><div class="coca2">副词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">不（等于not）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aurangzeb</h2><div class="git"><span class="ipa">['ɔ:rəŋzeb]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奥朗则布（印度莫卧儿王朝皇帝, 1658～1707）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Champlain, Lake</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [地名] [美国·加拿大] 尚普兰湖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

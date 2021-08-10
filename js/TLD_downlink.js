@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>downlink</h2><div class="git"><span class="ipa">[ˈdaʊnlɪŋk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37339</span><div class="total">2446</div><span class="pos">VERB</span><span class="rank">54008</span><div class="total">604</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">下行线；向下链路；向地传输（数据信号等从人造卫星或航天器向地面传输）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

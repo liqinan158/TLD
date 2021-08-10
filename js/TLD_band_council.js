@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>band council</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 社议会（加拿大土著的地方政府, 由一名酋长和数名社议员组成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

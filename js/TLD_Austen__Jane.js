@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Austen, Jane</h2><div class="git"><span class="ipa">['ɔstin]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">奥斯丁(1775～1817，英国女小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

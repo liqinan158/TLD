@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>louvred</h2><div class="git"><span class="ipa">[ˈlu:vəd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">&lt;主英&gt;装有百叶窗板的，像百叶窗板一般安排的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

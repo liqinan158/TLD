@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tearjerker</h2><div class="git"><span class="ipa">[dʒɜ:kɚ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">使人流泪的电影、歌曲、故事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

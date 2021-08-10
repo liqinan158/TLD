@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ciliary muscle</h2><div class="git"><span class="ipa">[ˈsɪliəri mʌsl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[解剖] 睫状肌；鲍曼氏肌；睫允</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

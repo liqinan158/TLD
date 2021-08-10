@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>iTunes</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">苹果公司最热门音乐软件（苹果公司开发的与iPod搭配的在电脑上使用的音乐播放器和音乐管理器）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

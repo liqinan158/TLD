@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>moccasin</h2><div class="git"><span class="ipa">[ˈmɒkəsɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24717</span><div class="total">7738</div></div><div class="coca2">鹿皮鞋(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">软帮鞋；[服装] 鹿皮鞋；一种生长在北美的大毒蛇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

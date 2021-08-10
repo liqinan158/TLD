@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>atomic spectrum</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">原子光谱；原子能谱</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">原子光谱g；原子光谱p分页标题e</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

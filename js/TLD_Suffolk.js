@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Suffolk</h2><div class="git"><span class="ipa">['sʌfәk]</span></div><hr/></div><div class="coca2">萨克福马(<font color="orangered">50%</font>)，萨福克羊(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">萨福克（英国东部一郡）；萨福克羊；萨克福马</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

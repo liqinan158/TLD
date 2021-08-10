@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pin money</h2><div class="git"><span class="ipa">[pin ˈmʌni]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 10</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">小额闲钱</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">零花钱；零用钱；妇女的零用钱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

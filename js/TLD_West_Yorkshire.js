@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>West Yorkshire</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">西约克郡（位于英国英格兰北部）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

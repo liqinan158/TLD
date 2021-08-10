@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NC-17</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">音节分段：NC-17; AHD音标：μn”s?-sμv”…n-t?n“; 国际音标：7ensi87sev*n6ti8n; 美国音标：7Wnsi7sWv*n6tin; A movie rating that allows admission to no one under the age of 17.; Often used to modify another noun:; 语源; N(o) c(hildren under) 17 (admitted)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

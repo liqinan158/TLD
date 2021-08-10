@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exhibitionism</h2><div class="git"><span class="ipa">[ˌeksɪˈbɪʃənɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43320</span><div class="total">1513</div></div><div class="coca2">暴露癖(<font color="orangered">60%</font>)，风头主义(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">裸露癖；自我宣传癖；喜出风头癖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

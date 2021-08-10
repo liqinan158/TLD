@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>matchmaker</h2><div class="git"><span class="ipa">[ˈmætʃmeɪkə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26552</span><div class="total">6466</div></div><div class="coca2">媒人(<font color="orangered">85%</font>)，安排比赛的人(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">媒人；安排比赛的人；火柴制造者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

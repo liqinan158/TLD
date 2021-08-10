@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Burroughs, Edgar Rice</h2><div class="git"><span class="ipa">['bə:rəuz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">巴勒斯(1875～1950，美国小说家，以写《人猿泰山》小说著称)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

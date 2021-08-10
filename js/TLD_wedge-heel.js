@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wedge-heel</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">楔形后跟</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">楔形跟；坡跟；坡跟鞋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

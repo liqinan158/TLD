@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-harm</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24554</span><div class="total">7862</div></div><div class="coca2">自残(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> （故意）自我伤害（常由情感、精神问题所致）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Polonius</h2><div class="git"><span class="ipa">[pә'lәjniәs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">波洛尼厄斯(莎士比亚悲剧《哈姆雷特》中的人物)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>AFL-CIO</h2><div class="git"><span class="ipa">[,ei ef el si: ai 'əu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国劳工总会与产业劳工组织（American Federation of Labor and Congress of Industrial Organizations）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

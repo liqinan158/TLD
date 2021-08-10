@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>metalinguistics</h2><div class="git"><span class="ipa">['metəlɪŋɡwɪstɪks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">研究语言与其他文化活动之关系的语言学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

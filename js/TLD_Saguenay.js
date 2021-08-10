@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Saguenay</h2><div class="git"><span class="ipa">[,sæ^ә'nei]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">沙格奈河(加拿大魁北克南部一河流)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

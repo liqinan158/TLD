@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rosicrucians</h2><span class="onm">原型:</span><span class="orm">Rosicrucians 是 rosicrucian 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(Rosicrucian 的复数) n.蔷薇十字会员, 炼金(占星)术士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

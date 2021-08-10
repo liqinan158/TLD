@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lang, Fritz</h2><div class="git"><span class="ipa">[læŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">朗格(1890～1976，奥地利电影导演，后迁居美国)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

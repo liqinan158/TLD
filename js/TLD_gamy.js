@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gamy</h2><div class="git"><span class="ipa">[ˈɡeimi]</span></div><hr/></div><div class="coca2">有臭味的(<font color="orangered">50%</font>)，=gamey.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Gamy)人名；(法、刚(布))加米</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">勇敢的；味道强的；猎物多的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

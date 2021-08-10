@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Communist Manifesto, The</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">共产党宣言(1848)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

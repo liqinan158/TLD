@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lowlander</h2><div class="git"><span class="ipa">[ˈləʊləndə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">低地的人，苏格兰低地地方的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

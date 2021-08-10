@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>b.</h2><hr/></div><div class="coca2">=born(<font color="orangered">50%</font>)，abbr.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（浓度单位）波美（Baume scale）；硕士（Bachelor）；英国的（British）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

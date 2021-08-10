@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Temple, Shirley</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">秀兰邓波儿 (1928～ ，美国电影女演员、外交家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

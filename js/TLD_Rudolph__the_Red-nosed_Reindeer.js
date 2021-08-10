@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rudolph, the Red-nosed Reindeer</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">红鼻驯鹿-鲁道夫；红鼻子驯鹿鲁道夫；红鼻子鲁道夫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

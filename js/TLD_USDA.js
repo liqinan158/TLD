@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>USDA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[经] 美国农业部</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

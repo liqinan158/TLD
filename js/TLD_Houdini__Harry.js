@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Houdini, Harry</h2><div class="git"><span class="ipa">[hu:'di:ni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">霍迪尼(1874～1926，匈牙利裔美籍魔术师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

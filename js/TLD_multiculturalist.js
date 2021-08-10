@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>multiculturalist</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52726</span><div class="total">685</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 多元文化主义者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

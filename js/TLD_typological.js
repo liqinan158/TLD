@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>typological</h2><div class="git"><span class="ipa">[ˌtaɪpə'lɒdʒɪkəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">45523</span><div class="total">1275</div></div><div class="coca2">类型的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">类型的；类型学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

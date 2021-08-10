@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>melodramatically</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">60405</span><div class="total">277</div></div><div class="coca2">戏剧似的(<font color="orangered">51%</font>)，通俗剧风格的(<font color="orangered">33%</font>)，感情夸张的(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">感情夸张地</span></div><div class="dcb"><span class="dcn">戏剧性地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

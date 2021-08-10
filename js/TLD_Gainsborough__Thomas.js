@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gainsborough, Thomas</h2><div class="git"><span class="ipa">['ɡeinzbərə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">康斯博罗(1727～1788，英国画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rapid-response</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">快速反应的（指训练有素、配有必要装备、能够快速应对紧急情况）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

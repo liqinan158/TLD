@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phwoah</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （对某事物或某人的性感魅力等表示赞叹）哇噻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

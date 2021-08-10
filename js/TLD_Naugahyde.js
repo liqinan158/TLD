@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Naugahyde</h2><div class="git"><span class="ipa">[ˈnɔ:ɡəhaid]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">瑙加海德革（一种家具装潢用的织物，表面涂有一层橡胶或乙烯基树脂）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

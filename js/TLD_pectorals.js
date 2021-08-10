@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pectorals</h2><div class="git"><span class="ipa">['pektərəlz]</span></div><span class="onm">原型:</span><span class="orm">pectorals 是 pectoral 的复数</span><hr/></div><div class="coca2">胸大肌(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">胸的；肺病的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">胸饰；治疗胸肺药物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

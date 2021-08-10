@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Palmcorder</h2><div class="git"><span class="ipa">['pɑ:mkɔ:də(r)]</span></div><hr/></div><div class="coca2">手持摄像机(<font color="orangered">34%</font>)，掌中录像机(<font color="orangered">33%</font>)，便携式摄像机(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">掌上摄像机；手持摄像机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

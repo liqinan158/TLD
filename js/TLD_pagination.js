@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pagination</h2><div class="git"><span class="ipa">[ˌpædʒɪˈneɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24377</span><div class="total">8013</div></div><div class="coca2">分页(<font color="orangered">98%</font>)，标注页码(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">标记页数；页码</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

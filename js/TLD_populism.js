@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>populism</h2><div class="git"><span class="ipa">[ˈpɒpjəlɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22390</span><div class="total">9866</div></div><div class="coca2">平民主义(<font color="orangered">87%</font>)，平民论(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">民粹主义，平民主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

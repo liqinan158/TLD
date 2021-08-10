@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>multi-</h2><div class="git"><span class="ipa">[ˈmʌlti]</span></div><hr/></div><div class="coca2">多种(<font color="orangered">60%</font>)，表示“多(<font color="orangered">20%</font>)，多个”之义(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">comb.</span><span class="dcn">多；多数</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

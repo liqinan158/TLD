@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Morris, William</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Morris1, William</span></div><div class="dcb"><span class="dcn">莫里斯(1834～1896，英国诗人、画家、工艺美术家)</span></div><div class="dcb"><span class="dcn">Morris2, William</span></div><div class="dcb"><span class="dcn">莫里斯(1873～1932，美国剧院代理人和经理)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

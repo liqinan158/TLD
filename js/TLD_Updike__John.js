@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Updike, John</h2><div class="git"><span class="ipa">['ʌpdaik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">厄普代克 (1932～ ，美国小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

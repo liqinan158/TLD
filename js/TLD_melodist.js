@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>melodist</h2><div class="git"><span class="ipa">[ˈmelədɪst]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">声调悠扬的声乐家，旋律美妙的作曲家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

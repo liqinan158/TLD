@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dragoon into</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(用严酷手段)迫使(或恐吓)(某人做某事)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

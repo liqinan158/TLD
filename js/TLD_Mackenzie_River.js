@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mackenzie River</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 20</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 10</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">马更些河；麦肯齐河；麦肯色尔河</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

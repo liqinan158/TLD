@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Boys' Brigade</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[英国英语](创建于1883年的英国男孩)少年大队</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

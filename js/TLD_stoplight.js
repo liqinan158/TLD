@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stoplight</h2><div class="git"><span class="ipa">['stɒpˌlɑɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25961</span><div class="total">6860</div></div><div class="coca2">红色尾灯(<font color="orangered">78%</font>)，停止行进标志(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">红色尾灯；停止行进号志</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

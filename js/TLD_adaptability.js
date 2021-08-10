@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>adaptability</h2><div class="git"><span class="ipa">[əˌdæptə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16833</span><div class="total">18973</div></div><div class="coca2">适应性(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">适应性；可变性；适合性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

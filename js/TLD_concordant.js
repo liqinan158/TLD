@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>concordant</h2><div class="git"><span class="ipa">[kən'kɔ:dənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">42469</span><div class="total">1622</div></div><div class="coca2">和谐的(<font color="orangered">56%</font>)，一致的(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">和谐的；协调的；一致的；和声的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

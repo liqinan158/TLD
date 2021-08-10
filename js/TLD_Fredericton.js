@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fredericton</h2><div class="git"><span class="ipa">['fredәriktәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">弗雷德里克顿[加拿大东南部城市](新不伦瑞克省省会)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

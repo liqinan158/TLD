@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Paris-Dakar Rally</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">巴黎-达喀尔拉力赛；巴黎达卡拉力赛；越野赛车-巴黎站</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

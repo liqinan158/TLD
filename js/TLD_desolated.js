@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>desolated</h2><div class="git"><span class="ipa">[ˈdesəlitid]</span></div><span class="onm">原型:</span><span class="orm">desolated 是 desolate 的过去式和过去分词</span><hr/></div><div class="word-frequency"><span class="label label-primary">CET6</span><span class="label label-success">TEM4</span></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">毁坏( desolate的过去式和过去分词 ); 极大地破坏; 使沮丧; 使痛苦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

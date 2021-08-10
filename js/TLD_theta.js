@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>theta</h2><div class="git"><span class="ipa">[ˈθi:tə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14169</span><div class="total">27358</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">希腊字母的第八字；时间递耗值</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

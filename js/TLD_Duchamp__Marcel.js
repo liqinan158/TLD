@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Duchamp, Marcel</h2><div class="git"><span class="ipa">[dju:'ʃɔŋ; mɑ:r'sel]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">杜尚(1887～1968，法国画家，1915年后移居美国)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

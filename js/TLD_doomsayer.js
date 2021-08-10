@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>doomsayer</h2><div class="git"><span class="ipa">[ˈdu:mseɪə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45255</span><div class="total">1305</div></div><div class="coca2">预言灾难者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">灾难预言者；凶事预示者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

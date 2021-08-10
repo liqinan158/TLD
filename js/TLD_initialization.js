@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>initialization</h2><div class="git"><span class="ipa">[ɪˌnɪʃəlaɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15814</span><div class="total">21658</div></div><div class="coca2">初始化(<font color="orangered">99%</font>)，赋初值(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[计] 初始化；赋初值</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

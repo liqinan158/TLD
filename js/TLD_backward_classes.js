@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>backward classes</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 落后阶级, 落后种姓（印度各省当局建议在教育和就业方面给予优惠）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

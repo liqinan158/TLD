@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>WAP</h2><div class="git"><span class="ipa">[wæp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">无线应用协议（Wireless Application Protocol）；工作分配计划（Work Assignment Plan）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

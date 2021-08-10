@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>a-</h2><div class="git"><span class="ipa">[eɪ]</span></div><hr/></div><div class="coca2">离(<font color="orangered">30%</font>)，在…之上(<font color="orangered">20%</font>)，处于...状态或过程中(<font color="orangered">20%</font>)，朝着(<font color="orangered">20%</font>)，缺少(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">处于...状态或过程中；在…之上；朝着；用于加强语气</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

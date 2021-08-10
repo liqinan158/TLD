@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prequel</h2><div class="git"><span class="ipa">[ˈpri:kwəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16773</span><div class="total">19134</div></div><div class="coca2">前篇(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">据已问世文艺作品的情节凭想象上溯创作的前篇，先行篇，前传</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

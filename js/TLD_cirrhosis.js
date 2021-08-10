@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cirrhosis</h2><div class="git"><span class="ipa">[səˈrəʊsɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17540</span><div class="total">17333</div></div><div class="coca2">肝硬化(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">硬化；[内科] 肝硬化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

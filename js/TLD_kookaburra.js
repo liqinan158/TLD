@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kookaburra</h2><div class="git"><span class="ipa">[ˈkʊkəbʌrə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50639</span><div class="total">833</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">笑翠鸟（澳洲土著语）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

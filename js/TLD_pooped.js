@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pooped</h2><div class="git"><span class="ipa">[pu:pt]</span></div><span class="onm">原型:</span><span class="orm">pooped 是 poop 的过去式和过去分词</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">57595</span><div class="total">415</div></div><div class="coca2">形容词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">精疲力竭的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

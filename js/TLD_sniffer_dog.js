@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sniffer dog</h2><div class="git"><span class="ipa">[s'nɪfər dɔɡ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">〈非正式〉【动】嗅探犬</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">警犬；缉毒犬；搜救犬</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

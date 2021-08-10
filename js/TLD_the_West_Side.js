@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the West Side</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">曼哈顿西区（在美国纽约市，包括百老汇和中央公园）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">西坡；西侧；桥西侧</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

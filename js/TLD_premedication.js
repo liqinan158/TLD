@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>premedication</h2><div class="git"><span class="ipa">[ˌpri:ˌmedɪˈkeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52855</span><div class="total">676</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">术前用药法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

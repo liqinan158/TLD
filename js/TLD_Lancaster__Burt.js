@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lancaster, Burt</h2><div class="git"><span class="ipa">['læŋkəstə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">兰开斯特(1913～1995，美国硬汉电影演员，后从事制片)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

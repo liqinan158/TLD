@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Julian</h2><div class="git"><span class="ipa">['dʒu:ljәn]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">凯撒的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">朱利安（男子名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chihuahua</h2><div class="git"><span class="ipa">[tʃi'wɑ:wә; (?@) tʃi'wɑ:wɑ:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26370</span><div class="total">6592</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">吉娃娃（一种产于墨西哥的狗）；奇瓦瓦（墨西哥北部的州及其首府名称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

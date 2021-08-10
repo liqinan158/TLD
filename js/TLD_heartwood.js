@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>heartwood</h2><div class="git"><span class="ipa">[ˈhɑ:twʊd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33902</span><div class="total">3282</div></div><div class="coca2">心材(<font color="orangered">88%</font>)，赤木质(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（树木的）心材</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

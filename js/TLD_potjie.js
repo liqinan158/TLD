@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>potjie</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 波基火锅，鼎锅（通常有三足的铸铁圆罐焖烧锅）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

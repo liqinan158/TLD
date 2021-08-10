@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>discussion board</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 66</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 33</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">讨论区；讨论板；讨论区布告栏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Veterans Affairs</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">退伍军人事务部；老兵事务部；老兵事务所</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

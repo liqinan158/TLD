@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mills and Boon</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">米尔斯和布恩出版公司（出版通俗爱情小说）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

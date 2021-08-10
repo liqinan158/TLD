@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-owned</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">18480</span><div class="total">15381</div></div><div class="coca2">旧的(<font color="orangered">50%</font>)，二手的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">二手的</span></div><div class="dcb"><span class="dcn">旧的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

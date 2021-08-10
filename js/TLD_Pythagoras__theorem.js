@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pythagoras' theorem</h2><div class="git"><span class="ipa">[paɪ'θægərəsɪz θɪərəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">勾股定理；毕达哥拉斯定理</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>apocrypha</h2><div class="git"><span class="ipa">[ə'pɒkrɪfə]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">伪经(<font color="orangered">70%</font>)，可疑著作(<font color="orangered">15%</font>)，伪书(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">作者（或真实性、权威性）可疑的著作；旁经</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>field trial</h2><div class="git"><span class="ipa">[fi:ld ˈtraiəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">猎狗的现场追猎试验；“field test”的变体</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">现场试验；田间试验；实地试验</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

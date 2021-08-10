@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>feeder school</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 直属学校（学生毕业后大多进入本地区特定中学或高校）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

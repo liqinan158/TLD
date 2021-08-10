@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>metalanguage</h2><div class="git"><span class="ipa">[ˈmetəlæŋgwɪdʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56667</span><div class="total">458</div></div><div class="coca2">元语言(<font color="orangered">93%</font>)，语言学术语(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[计] 元语言；纯理语言</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Conrad, Joseph</h2><div class="git"><span class="ipa">['kɔnræd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">康拉德(1857～1924，英国小说家，航海家，出生于俄国的波兰人家庭)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

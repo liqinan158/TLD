@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eisenhower, Dwight David</h2><div class="git"><span class="ipa">['aizən,hauə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">艾森豪威尔(1890～1969)，美国第三十四任总统(1953～1961)，欧洲盟军最高司令(1943～1945)，北约最高统帅(1950～1952)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

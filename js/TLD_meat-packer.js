@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>meat-packer</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">屠宰业者；肉品包装机, 肉[类]产业，肉[类]产业者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

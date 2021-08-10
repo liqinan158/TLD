@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ferrite</h2><div class="git"><span class="ipa">[ˈferaɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28929</span><div class="total">5176</div></div><div class="coca2">铁酸盐(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[无化] 铁酸盐，[材] 铁素体</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

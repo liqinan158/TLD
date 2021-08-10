@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>creationism</h2><div class="git"><span class="ipa">[kriˈeɪʃnɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24743</span><div class="total">7718</div></div><div class="coca2">特别创造说(<font color="orangered">55%</font>)，创造宇宙说(<font color="orangered">45%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">特别创造说；创造宇宙说</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

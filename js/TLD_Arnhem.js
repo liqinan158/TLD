@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Arnhem</h2><div class="git"><span class="ipa">['ɑ:nәm,'ɑ:nhem]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿纳姆[荷兰东部城市](或译安亨)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BMI</h2><div class="git"><span class="ipa">[.biː em 'aɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16068</span><div class="total">20946</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">身体质量指数（Body Mass Index）；广播音乐联合会（Broadcast Music Incorporated）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

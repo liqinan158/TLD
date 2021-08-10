@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Taser</h2><div class="git"><span class="ipa">['teɪzə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19409</span><div class="total">13849</div></div><div class="coca2">泰瑟枪(<font color="orangered">78%</font>)，高压眩晕枪(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">泰瑟枪（一种武器）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

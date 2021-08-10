@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cassis</h2><div class="git"><span class="ipa">[kæˈsi:s]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35158</span><div class="total">2949</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">通讯和社会科学情报所（Communication and Social Science Information Service）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

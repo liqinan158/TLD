@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>noises off</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">音响效果（为演出需要在后台发出的各种声响）；背景噪音</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">大人别出声；远处的噪音；糊涂戏班</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

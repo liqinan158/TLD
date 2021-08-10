@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paperchase</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 撒纸追逐游戏（领头者沿途撒下纸屑, 供追赶者寻踪追逐）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

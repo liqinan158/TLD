@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Singhalese</h2><div class="git"><span class="ipa">[,siŋhә'li:z,-'li:s,,siŋ^ә-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">僧伽罗人语</span></div><div class="dcb"><span class="pos">a.</span><span class="dcn">僧伽罗的, 僧伽罗族的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

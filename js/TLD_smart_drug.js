@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>smart drug</h2><div class="git"><span class="ipa">[smɑ:t drʌɡ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">健脑药物，聪明药（某些人认为其能够增强记忆力、提高智力）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

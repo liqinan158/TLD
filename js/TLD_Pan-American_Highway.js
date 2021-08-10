@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pan-American Highway</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[地名] 泛美公路 ( 美洲 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>programmatically</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">21799</span><div class="total">10503</div></div><div class="coca2">标题音乐的(<font color="orangered">40%</font>)，节目的(<font color="orangered">34%</font>)，计划性的(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">以编程方式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

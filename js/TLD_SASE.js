@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SASE</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">贴足邮资写明发信人姓名地址的回信信封（self-addressed stamped envelope）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

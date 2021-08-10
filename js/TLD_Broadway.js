@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Broadway</h2><div class="git"><span class="ipa">['brɒ:dwei]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">9823</span><div class="total">56496</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">百老汇（美国纽约市戏院集中的一条大街）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

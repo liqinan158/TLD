@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>egghead</h2><div class="git"><span class="ipa">[ˈeghed]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45811</span><div class="total">1249</div></div><div class="coca2">知识分子(<font color="orangered">57%</font>)，理论家(<font color="orangered">43%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">理论家；受过高等教育的人；书呆子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

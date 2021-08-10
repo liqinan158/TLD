@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prepuce</h2><div class="git"><span class="ipa">[ˈpri:pju:s]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40722</span><div class="total">1869</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[解剖] 包皮；阴茎包皮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

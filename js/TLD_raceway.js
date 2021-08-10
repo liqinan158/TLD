@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>raceway</h2><div class="git"><span class="ipa">[ˈreɪsweɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19090</span><div class="total">14392</div></div><div class="coca2">水沟(<font color="orangered">75%</font>)，屋内配管(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（赛车用的）跑道；（水车等的）水沟；电缆管道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

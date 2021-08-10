@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>psychoanalytical</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50390</span><div class="total">853</div></div><div class="coca2">心理分析(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">精神分析的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stoker, Bram</h2><div class="git"><span class="ipa">['stəukə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯托克(1847～1912，英国爱尔兰小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

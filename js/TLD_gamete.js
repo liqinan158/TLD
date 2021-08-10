@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gamete</h2><div class="git"><span class="ipa">[ˈgæmi:t]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27213</span><div class="total">6056</div></div><div class="coca2">配子(<font color="orangered">86%</font>)，接合体(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生物] 配子，配偶子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

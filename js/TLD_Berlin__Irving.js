@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Berlin, Irving</h2><div class="git"><span class="ipa">['bə:lin]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伯林(1888～1989，美国流行歌曲作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

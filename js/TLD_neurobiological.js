@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>neurobiological</h2><div class="git"><span class="ipa">[,njuərəu,baiə'lɔdʒikəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">39405</span><div class="total">2074</div></div><div class="coca2">神经生物学的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">神经生物学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

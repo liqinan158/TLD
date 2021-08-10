@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sunnies</h2><div class="git"><span class="ipa">[ˈsʌniz]</span></div><span class="onm">原型:</span><span class="orm">sunnies 是 sunny 的复数</span><hr/></div><div class="coca2">太阳镜(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">太阳镜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

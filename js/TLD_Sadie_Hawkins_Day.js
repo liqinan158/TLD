@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sadie Hawkins Day</h2><div class="git"><span class="ipa">[ˌseɪdi 'hɔ:kɪnz deɪ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">萨迪·霍金斯节（美国节日，女士可主动邀请男士参加，尤指萨迪·霍金斯节舞会）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

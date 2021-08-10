@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lastminute.com</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">最后一分钟网站；旅游网站永恒瞬间；最后一分钟预订网</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

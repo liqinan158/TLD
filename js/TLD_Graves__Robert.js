@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Graves, Robert</h2><div class="git"><span class="ipa">[ɡreivz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Graves, Robert (Ranke)</span></div><div class="dcb"><span class="dcn">[ɡreivz]</span></div><div class="dcb"><span class="dcn">格雷夫斯(1895～1985，英国诗人、小说家、评论家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

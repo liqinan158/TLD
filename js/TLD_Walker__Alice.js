@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Walker, Alice</h2><div class="git"><span class="ipa">['wɔ:kə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">沃克(1944～ ，美国小说家、短篇故事作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parrot-fashion</h2><div class="git"><span class="ipa">[ˈpærət ˈfæʃən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">鹦鹉学舌地，机械模仿地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>qt</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">夸脱（液量单位，quart）；鉴定试验（Qualification Test）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

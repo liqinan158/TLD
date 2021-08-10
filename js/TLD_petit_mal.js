@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>petit mal</h2><div class="git"><span class="ipa">[ˌpeti ˈmæl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">癫痫小发作</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">小发作型；失神癫痫发作；失神小发作癫痫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

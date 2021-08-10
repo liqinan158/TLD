@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wheaties</h2><span class="onm">原型:</span><span class="orm">Wheaties 是 wheaty 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">一种麦片的商标名</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">小麦干；麦片品牌；小麦片</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

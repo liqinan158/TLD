@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>British Home Stores</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/ld5_british_home_.mp3" href="sound://media/spx/GB_ld5_british_home_.spx" title="Play British pronunciation of British Home Stores"> </a><a class="amefile" href="sound://ameProns/ld5_british_home_.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="dcn">英国杂货联营店[略作B.H.S]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

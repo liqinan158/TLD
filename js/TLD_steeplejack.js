@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>steeplejack</h2><div class="git"><span class="ipa">[ˈsti:pldʒæk]</span></div><hr/></div><div class="coca2">爬到高处修护的工人(<font color="orangered">50%</font>)，爬上尖塔的修护匠(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">高空作业工人；尖塔修建工</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">修建尖顶；在高空做修建工作</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

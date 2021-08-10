@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Beiderbecke, Bix</h2><div class="git"><span class="ipa">['baidəbek; biks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(小名 Leon Bismarck Beiderbecke) 贝德贝克(1903～1931，美国爵士乐作曲家、钢琴家和短号演奏家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

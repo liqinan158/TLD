@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dad dancing</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 老爸舞姿（一种笨拙、过时或放纵的舞蹈形式，有流行音乐伴奏，通常是中老年男子跳的舞）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

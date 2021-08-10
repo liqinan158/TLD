@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>godlike</h2><div class="git"><span class="ipa">[ˈgɒdlaɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">22511</span><div class="total">9749</div></div><div class="coca2">神圣的(<font color="orangered">82%</font>)，神似的(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">上帝般的；似神的；庄严的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

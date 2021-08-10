@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Unionist</h2><div class="git"><span class="ipa">[ˈju:niənɪst]</span></div><hr/></div><div class="coca2">工会会员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">工会会员；联合主义者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

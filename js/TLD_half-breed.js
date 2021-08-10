@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>half-breed</h2><div class="git"><span class="ipa">[ˈhɑ:fbri:d]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45361</span><div class="total">1294</div></div><div class="coca2">混血的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）混血儿（尤指美洲印第安人与白人的混血儿）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

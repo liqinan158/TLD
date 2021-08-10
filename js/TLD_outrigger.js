@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>outrigger</h2><div class="git"><span class="ipa">[ˈaʊtrɪgə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30196</span><div class="total">4626</div></div><div class="coca2">伸臂梁(<font color="orangered">50%</font>)，外伸叉架(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">舷外支架；悬臂梁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

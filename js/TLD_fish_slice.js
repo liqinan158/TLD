@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fish slice</h2><div class="git"><span class="ipa">[fiʃ slais]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">煎鱼锅铲（铲面有细长孔）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">切鱼片；分鱼刀；煎鱼铲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

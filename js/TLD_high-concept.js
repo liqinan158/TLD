@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>high-concept</h2><div class="git"><span class="ipa">['hai'kɔnsept]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">43895</span><div class="total">1449</div></div><div class="coca2">高度刺激性的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">高级复杂的，尖端的；(快节奏、惊险且具悬念的)高度刺激性的；富有挑战性的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

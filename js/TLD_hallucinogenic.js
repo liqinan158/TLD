@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hallucinogenic</h2><div class="git"><span class="ipa">[həˌlu:sɪnə'dʒenɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">28607</span><div class="total">5324</div></div><div class="coca2">引起幻觉的(<font color="orangered">70%</font>)，迷幻药的(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">引起幻觉的；迷幻药的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

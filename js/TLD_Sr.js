@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sr</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">扫描辐射仪（Scanning Radiometer）；保安建议（Safety Recommendation）；饱和扼流圈（Saturable Reactor）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

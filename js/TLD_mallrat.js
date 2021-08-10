@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mallrat</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 爱（成群）逛大型商场的年轻人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

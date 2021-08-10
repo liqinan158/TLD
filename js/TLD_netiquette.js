@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>netiquette</h2><div class="git"><span class="ipa">[ˈnetɪket]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47144</span><div class="total">1124</div></div><div class="coca2">网络礼节(<font color="orangered">82%</font>)，=Network etiquette.(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">供电脑网路上使用的习惯规定，网络礼节</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

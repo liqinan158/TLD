@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stratford-upon-Avon</h2><div class="git"><span class="ipa">[ˈstrætfəd əˈpɑn ˈevɑn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [地名] [英国] 埃文河畔斯特拉特福</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

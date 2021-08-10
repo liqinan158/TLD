@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>etymon</h2><div class="git"><span class="ipa">[ˈetɪmɒn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">字的原形，词源，字根</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

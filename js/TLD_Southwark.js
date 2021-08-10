@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Southwark</h2><div class="git"><span class="ipa">['sʌðək]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">萨瑟克区（伦敦自治市）；南华克区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

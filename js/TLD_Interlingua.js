@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Interlingua</h2><div class="git"><span class="ipa">[ˌintəˈliŋɡwə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">国际语，中间语言，拉丁国际语</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

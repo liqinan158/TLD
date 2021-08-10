@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>knifing</h2><div class="git"><span class="ipa">['naɪfɪŋ]</span></div><span class="onm">原型:</span><span class="orm">knifing 是 knife 的现在分词</span><hr/></div><div class="coca2">在切深孔型中切深轧制(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">切深；刮膜；切割</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">（用刀）切（knife的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

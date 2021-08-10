@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-alignment</h2><hr/></div><div class="coca2">非列线(<font color="orangered">50%</font>)，不结盟(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">不结盟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

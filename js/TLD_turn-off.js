@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>turn-off</h2><div class="git"><span class="ipa">[ˈtɜ:nˌɔ:f, -ˌɔf]</span></div><hr/></div><div class="coca2">岔路(<font color="orangered">68%</font>)，扫兴的事物(<font color="orangered">16%</font>)，支路(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">岔路；[电] 断开</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

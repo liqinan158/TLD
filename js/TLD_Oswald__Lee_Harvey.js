@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oswald, Lee Harvey</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">奥斯瓦德(1939～1963，刺杀美国总统肯尼迪的刺客)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

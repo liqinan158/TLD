@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bottle-feeding</h2><div class="git"><span class="ipa">['bɒtlf'i:dɪŋ]</span></div><span class="onm">原型:</span><span class="orm">bottle-feed</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">用奶瓶喂育( bottle-feed的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

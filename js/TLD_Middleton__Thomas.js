@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Middleton, Thomas</h2><div class="git"><span class="ipa">['midltən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">米德尔顿(1570?～1627，英国剧作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

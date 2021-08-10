@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>determinism</h2><div class="git"><span class="ipa">[dɪˈtɜ:mɪnɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26253</span><div class="total">6667</div></div><div class="coca2">决定论(<font color="orangered">99%</font>)，命定性(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[力] 决定论</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

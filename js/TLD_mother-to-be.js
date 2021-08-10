@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mother-to-be</h2><div class="git"><span class="ipa">[ˈmʌðə tu: bi:]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">46657</span><div class="total">1168</div><span class="pos">NOUN</span><span class="rank">49107</span><div class="total">964</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">孕妇；将为人母者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

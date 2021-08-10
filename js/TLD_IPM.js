@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>IPM</h2><div class="git"><span class="ipa">['ɪpm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">impulses per minute 脉冲/分; inches per minute 英寸/分钟; inches per month 英寸/月; interruptions per minute 中断次数/分</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

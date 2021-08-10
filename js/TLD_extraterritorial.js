@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>extraterritorial</h2><div class="git"><span class="ipa">[ˌekstrəterəˈtɔ:riəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">41263</span><div class="total">1792</div></div><div class="coca2">治外法权(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">治外法权的；不受管辖的；在疆界以外的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

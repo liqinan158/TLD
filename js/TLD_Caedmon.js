@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Caedmon</h2><div class="git"><span class="ipa">[ˈkædmən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 凯德蒙（公元7世纪盎格鲁-撒克逊基督教诗人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

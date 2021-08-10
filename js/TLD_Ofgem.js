@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ofgem</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">电力市场办公室；气和电力市场办公室；英国能源监管机构</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

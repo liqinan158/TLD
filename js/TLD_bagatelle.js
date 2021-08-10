@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bagatelle</h2><div class="git"><span class="ipa">[ˌbægəˈtel]</span></div><hr/></div><div class="coca2">琐事(<font color="orangered">70%</font>)，弹子游戏(<font color="orangered">15%</font>)，小曲(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">琐事，小事；弹子球戏的一种；轻快小曲</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Bagatelle)人名；(法)巴加泰勒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

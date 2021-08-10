@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wholesomeness</h2><div class="git"><span class="ipa">['həulsəmnis]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47543</span><div class="total">1094</div></div><div class="coca2">有益健康的(<font color="orangered">78%</font>)，合乎卫生的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">有益于身心健康；增进健康</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

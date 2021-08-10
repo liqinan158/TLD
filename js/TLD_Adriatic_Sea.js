@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Adriatic Sea</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 22</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 12</div><div class="gdc"><div class="dcb"><span class="dcn">亚得里亚海（地中海的一部分, 位于意大利东海岸和巴尔干半岛之间）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

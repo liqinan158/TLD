@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>triumphalism</h2><div class="git"><span class="ipa">[traɪˈʌmfəlɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49322</span><div class="total">948</div></div><div class="coca2">凯旋论(<font color="orangered">75%</font>)，常胜主义(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">必胜信念；必胜心态</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

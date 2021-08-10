@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pitch and putt</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 小场地高尔夫球</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

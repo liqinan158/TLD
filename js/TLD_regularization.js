@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>regularization</h2><div class="git"><span class="ipa">[ˌregjʊlərɪ'zeɪʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46561</span><div class="total">1177</div></div><div class="coca2">正规化(<font color="orangered">58%</font>)，规则化(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">规则化；调整；合法化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

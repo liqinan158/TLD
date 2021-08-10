@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>childlessness</h2><div class="git"><span class="ipa">['tʃaildlisnis]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52914</span><div class="total">671</div></div><div class="coca2">小孩(<font color="orangered">87%</font>)，产物(<font color="orangered">7%</font>)，子女(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">无子女（childless的名词变形）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

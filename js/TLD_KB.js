@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>KB</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">千字节（kilobyte）；键盘（keyboard）；英国高等法院（King's Bench）；（国际象棋中与“王”同列配置的）象（King's Bishop）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>satanist</h2><div class="git"><span class="ipa">[ 'seɪtənɪst]</span></div><hr/></div><div class="coca2">恶魔崇拜(<font color="orangered">60%</font>)，恶魔主义(<font color="orangered">20%</font>)，撒旦主义(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">撒旦崇拜主义者</span></div><div class="dcb"><span class="dcn">穷凶极恶的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

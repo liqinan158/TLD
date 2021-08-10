@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hearst, William Randolph</h2><div class="git"><span class="ipa">[hə:st]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">赫斯特(1863～1951，美国报业巨头)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

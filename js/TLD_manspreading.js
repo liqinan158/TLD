@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>manspreading</h2><div class="git"><span class="ipa">[ˈmansprɛdɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大爷式占座，即一人占两个座位</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yachtswoman</h2><div class="git"><span class="ipa">[ˈjɒtsmən]</span></div><hr/></div><div class="coca2">女帆船运动员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">快艇（或游艇）的女主人</span></div><div class="dcb"><span class="dcn">驾驶快艇（或游艇）的女子</span></div><div class="dcb"><span class="dcn">女帆船运动员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

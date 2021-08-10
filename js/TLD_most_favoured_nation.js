@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>most favoured nation</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（贸易）最惠国</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">最惠国待遇；最惠国待遇原则</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

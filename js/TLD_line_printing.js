@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>line printing</h2><div class="git"><span class="ipa">[lain ˈprɪntɪŋ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">行式打印</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">行打印；宽行打印；列印</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

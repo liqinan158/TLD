@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Malawi</h2><div class="git"><span class="ipa">[mә'lɑ:wi]</span></div><hr/></div><div class="coca2">马拉威(非洲东南部国家(<font color="orangered">50%</font>)，旧称Nyasaland)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马拉维（非洲国家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

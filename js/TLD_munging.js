@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>munging</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">绿豆</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">【计】逐步对计算机系统或文件做小改动导致大的损害</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

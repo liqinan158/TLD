@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>B2B</h2><div class="git"><span class="ipa">[.biː tə 'biː]</span></div><hr/></div><div class="coca2">企业对企业的电子商务(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">企业对企业的电子商务模式（business to business）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

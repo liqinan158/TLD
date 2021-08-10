@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trope</h2><div class="git"><span class="ipa">[trəʊp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15267</span><div class="total">23289</div></div><div class="coca2">比喻(<font color="orangered">65%</font>)，转义(<font color="orangered">35%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">比喻；修辞；转义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>de-ice</h2><div class="git"><span class="ipa">[ˌdi: ˈaɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">50497</span><div class="total">845</div></div><div class="coca2">防止 ... 上结冰(<font color="orangered">34%</font>)，防冻(<font color="orangered">33%</font>)，除去 ... 的冰(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">除去…上的冰</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

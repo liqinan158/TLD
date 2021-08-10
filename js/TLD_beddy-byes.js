@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beddy-byes</h2><span class="onm">原型:</span><span class="orm">beddy-byes 是 beddy-bye 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(beddy-bye 的复数) n. 上床时间</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

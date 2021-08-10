@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gethsemane</h2><div class="git"><span class="ipa">[geθ'semәni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">客西马尼(耶稣蒙难地), 蒙难地, 蒙难时刻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

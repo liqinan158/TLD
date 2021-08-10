@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>donga</h2><div class="git"><span class="ipa">[ˈdɒŋgə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;南非&gt;峡谷，沟壑; 山峡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eschatological</h2><div class="git"><span class="ipa">[eˌskætə'lɒdʒɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">32508</span><div class="total">3715</div></div><div class="coca2">来世论(<font color="orangered">50%</font>)，末世学(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">末世学的，末世论的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

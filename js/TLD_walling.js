@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>walling</h2><div class="git"><span class="ipa">[ˈwɔ:lɪŋ]</span></div><span class="onm">原型:</span><span class="orm">walling 是 wall 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 墙体材料，墙体工程; 墙材</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

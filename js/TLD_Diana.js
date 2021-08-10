@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Diana</h2><div class="git"><span class="ipa">[dai'ænә]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">黛安娜（女子名，罗马神话中之处女性守护神）；月</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

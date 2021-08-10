@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>misalliance</h2><div class="git"><span class="ipa">['mɪsə'laɪəns]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">不适当的结合，不适当的婚姻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

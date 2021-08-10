@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kurta</h2><div class="git"><span class="ipa">[ˈkɜ:tə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58671</span><div class="total">363</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无领长袖衬衫（等于khurta）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Kurta)人名；(捷、匈、塞)库尔塔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

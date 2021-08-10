@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tempeh</h2><div class="git"><span class="ipa">['tempə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（用酒霉菌使之发酵后食用的）印尼豆豉; 霉大豆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

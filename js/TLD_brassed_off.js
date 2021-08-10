@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brassed off</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">恼怒的；厌烦的</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">奏出新希望；满腹怨气；奏出春天</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Brothers Grimm</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">格林兄弟；格林兄弟幻险记；冷酷兄弟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

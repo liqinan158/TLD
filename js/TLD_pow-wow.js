@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pow-wow</h2><div class="git"><span class="ipa">['paʊw'aʊ]</span></div><hr/></div><div class="coca2">开会(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">仪式；巫师；医师</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">商谈；举行祈祷仪式</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">用巫术医治</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ganymede</h2><div class="git"><span class="ipa">['ɡænimi:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">木星的最大卫星；伽倪墨得斯（为众神酌酒的美少年, 等于Ganymedes）；侍童</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Waterstones</h2><span class="onm">原型:</span><span class="orm">Waterstones 是 waterstone 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(Waterstone 的复数) 水磨石, [pl.][地质]水石层</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

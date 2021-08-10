@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>multitrack</h2><div class="git"><span class="ipa">[ˈmʌltitræk]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">52661</span><div class="total">689</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多声道，多磁迹，多轨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

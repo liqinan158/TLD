@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bede</h2><div class="git"><span class="ipa">[bi:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">比德(Saint, 673-735, 英国历史学家及神学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

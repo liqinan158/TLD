@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>foolscap</h2><div class="git"><span class="ipa">[ˈfu:lskæp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52475</span><div class="total">701</div></div><div class="coca2">大页纸(<font color="orangered">86%</font>)，滑稽圆锥帽(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大裁；大页纸；圆锥形的纸帽；滑稽帽（等于fool's cap）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

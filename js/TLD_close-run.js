@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>close-run</h2><div class="git"><span class="ipa">[ˌkləʊs ˈrʌn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（比赛等）势均力敌的，难分高下的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

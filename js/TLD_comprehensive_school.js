@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>comprehensive school</h2><div class="git"><span class="ipa">[ˌkɔmpriˈhensiv sku:l]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 13</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;英&gt;（招收学生装不分资质的）综合中学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

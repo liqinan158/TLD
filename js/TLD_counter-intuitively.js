@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>counter-intuitively</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">与我们的直觉相反的是</span></div><div class="dcb"><span class="dcn">万万没想到</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

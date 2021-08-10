@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>meta-</h2><div class="git"><span class="ipa">['metә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">表示“在其中, 在后”之义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

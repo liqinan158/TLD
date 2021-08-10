@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chucker out</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （在社交场合撵走无关人员或闹事者的）护卫, 护场员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

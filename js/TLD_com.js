@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>com</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">组件对象模型（Component Object Model）；计算机输出缩微胶片（Computer-Output Microfilm）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

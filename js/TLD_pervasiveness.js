@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pervasiveness</h2><div class="git"><span class="ipa">[pə'veɪsɪvnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36984</span><div class="total">2522</div></div><div class="coca2">普遍蔓延(<font color="orangered">60%</font>)，遍布(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无处不在；广泛性；普遍性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

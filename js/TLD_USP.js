@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>USP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国专利（United States Patent）；美国药典（United States Pharmacopoeia）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

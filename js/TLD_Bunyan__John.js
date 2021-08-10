@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bunyan, John</h2><div class="git"><span class="ipa">['bʌnjən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">班扬(1628～1688，英国散文作家、清教徒牧师和传道士)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

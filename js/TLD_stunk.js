@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stunk</h2><div class="git"><span class="ipa">[stʌŋk]</span></div><hr/></div><div class="coca2">发臭的(<font color="orangered">50%</font>)，动词stink的过去式和过去分词.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">恶臭，异味；丑闻；讨厌的人</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">发出恶臭；惹人讨厌；质量极差（stink的过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

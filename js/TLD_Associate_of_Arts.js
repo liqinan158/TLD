@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Associate of Arts</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(尤指二年制初级大学学生)修满两年大学课程的证书[略作 A.A.， 亦作 associate's degree]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

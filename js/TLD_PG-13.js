@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PG-13</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">parental guidance suggested for children under 13 13岁以下儿童宜在家长指导下才能观看的(电影)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

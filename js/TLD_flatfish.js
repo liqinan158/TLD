@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flatfish</h2><div class="git"><span class="ipa">[ˈflætfɪʃ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47818</span><div class="total">1071</div></div><div class="coca2">比目鱼(<font color="orangered">80%</font>)，碟鱼类(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[鱼] 比目鱼（鲽形目鱼的总称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

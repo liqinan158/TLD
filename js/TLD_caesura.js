@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>caesura</h2><div class="git"><span class="ipa">[siˈzjʊərə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58073</span><div class="total">392</div></div><div class="coca2">休止(<font color="orangered">58%</font>)，停顿(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">韵脚的休止；（诗中）节律的停顿；句读</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

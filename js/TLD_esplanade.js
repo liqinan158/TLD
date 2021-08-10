@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>esplanade</h2><div class="git"><span class="ipa">[ˌespləˈneɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23848</span><div class="total">8456</div></div><div class="coca2">平坦的空地(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">游憩场，散步路；平坦空地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

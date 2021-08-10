@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>afforest</h2><div class="git"><span class="ipa">[ə'fɒrɪst]</span><span class="frm">afforested, afforesting, afforests</span></div><hr/></div><div class="coca2">绿化(<font color="orangered">73%</font>)，造林于空地(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">绿化；造林于空地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

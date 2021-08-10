@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Enniskillen</h2><div class="git"><span class="ipa">[,eni'skilәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">恩尼斯基伦[英国北爱尔兰西南部城市](弗马纳郡首府)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

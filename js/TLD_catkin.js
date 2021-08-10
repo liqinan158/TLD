@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>catkin</h2><div class="git"><span class="ipa">[ˈkætkɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41090</span><div class="total">1817</div></div><div class="coca2">柔荑花(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[植] 柔荑花序（如柳絮等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

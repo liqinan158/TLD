@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gladstone, William Ewart</h2><div class="git"><span class="ipa">['ɡlædstəun]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">格莱斯顿(1809～1898)，英国政治家，曾四度任首相(1868～1874，1880～1885，1886，1892～1894)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

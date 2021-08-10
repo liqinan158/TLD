@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>carpetbagger</h2><div class="git"><span class="ipa">[ˈkɑ:pɪtbægə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51084</span><div class="total">800</div></div><div class="coca2">美国内战后利用南方不定局势谋利的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">美国南北战争后利用南方不稳定的局势投机谋利的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rotundity</h2><div class="git"><span class="ipa">[rəuˈtʌnditi]</span></div><hr/></div><div class="coca2">球状(<font color="orangered">67%</font>)，肥胖(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圆形物；圆胖；声音的洪亮；文体的浮夸（等于rotundness）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

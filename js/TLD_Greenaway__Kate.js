@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Greenaway, Kate</h2><div class="git"><span class="ipa">['ɡri:nə,wei]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">格里纳韦(1846～1901，英国女画家、作家，以画儿童插图著称)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

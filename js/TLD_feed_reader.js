@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>feed reader</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">阅读器；订阅器；料阅读器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

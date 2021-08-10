@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>window dresser</h2><div class="git"><span class="ipa">[ˈwindəu ˈdresə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 橱窗布置人；商品橱窗设计人; 弄虚作假的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>obv</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">obvious 明显的; obverse （铸币、奖章等的）正面; on-balance volume 平衡交易量; octane blending value 辛烷混合值</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

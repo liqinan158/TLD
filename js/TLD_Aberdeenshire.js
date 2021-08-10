@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aberdeenshire</h2><div class="git"><span class="ipa">[,æbә'di:nʃә(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿伯丁郡[英国苏格兰原郡名]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

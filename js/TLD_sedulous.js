@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sedulous</h2><div class="git"><span class="ipa">[ˈsedjʊləs]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">勤勉的(<font color="orangered">63%</font>)，勤苦工作的(<font color="orangered">25%</font>)，聚精凝神的(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">聚精会神的；勤勉的；勤苦工作的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

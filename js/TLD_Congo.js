@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Congo</h2><div class="git"><span class="ipa">[ˈkɔŋɡəu]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">刚果（位于非洲中部）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

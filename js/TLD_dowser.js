@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dowser</h2><div class="git"><span class="ipa">[daʊzə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53041</span><div class="total">663</div></div><div class="coca2">水脉或矿脉占卜者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">探矿者；水脉或矿脉的占卜者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

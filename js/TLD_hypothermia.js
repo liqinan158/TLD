@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hypothermia</h2><div class="git"><span class="ipa">[ˌhaɪpəˈθɜ:miə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20823</span><div class="total">11761</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">降低体温；低体温症</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

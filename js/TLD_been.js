@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>been</h2><div class="git"><span class="ipa">[bi:n]</span></div><span class="onm">原型:</span><span class="orm">been 是 be 的过去分词</span><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">是，有（be的过去分词）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Been)人名；(挪)贝恩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cola nut</h2><div class="git"><span class="ipa">[ˈkəʊlə nʌt]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">可乐果（可咀嚼或制作饮料）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">可乐仁；柯拉果；柯拉子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

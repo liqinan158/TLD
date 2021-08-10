@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Catseye</h2><div class="git"><span class="ipa">['kætsaɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">猫眼石；猫眼综合症</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">猫眼三姐妹；猫眼海湾；夜猫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

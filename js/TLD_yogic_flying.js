@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yogic flying</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 瑜伽飞行（以莲花坐姿冥想时用手撑起身体）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

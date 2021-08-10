@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dipole</h2><div class="git"><span class="ipa">[ˈdaɪpəʊl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19287</span><div class="total">14071</div></div><div class="coca2">偶极(<font color="orangered">96%</font>)，双极子(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[物化] 偶极；双极子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

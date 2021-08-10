@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gender-neutral</h2><div class="git"><span class="ipa">[d'ʒendərnj'u:trəl]</span></div><hr/></div><div class="coca2">不分性别的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">性别中立的；不分性别的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

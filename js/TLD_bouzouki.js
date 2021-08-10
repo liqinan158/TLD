@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bouzouki</h2><div class="git"><span class="ipa">[bʊˈzu:ki]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50699</span><div class="total">828</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">布祖基琴，希腊曼陀琳（琴）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

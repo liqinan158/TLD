@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>landholder</h2><div class="git"><span class="ipa">['lændhəʊldə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35258</span><div class="total">2925</div></div><div class="coca2">地主(<font color="orangered">78%</font>)，借地人(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">地主；土地拥有者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

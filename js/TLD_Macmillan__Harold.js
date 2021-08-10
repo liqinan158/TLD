@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Macmillan, Harold</h2><div class="git"><span class="ipa">[mək'milən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">麦克米伦(1894～1986)，英国政治家，首相(1957～1963)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

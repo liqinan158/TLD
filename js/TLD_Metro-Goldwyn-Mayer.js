@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Metro-Goldwyn-Mayer</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">米高梅（美国电影制片公司）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unbranded</h2><div class="git"><span class="ipa">['ʌn'brændɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">32798</span><div class="total">3624</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">未打上烙印的，无物主（姓名或标记）的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

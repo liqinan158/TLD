@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nymphomania</h2><div class="git"><span class="ipa">[ˌnimfəˈmeiniə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（女子的）色情狂，慕男狂，（牛等动物的）慕雄; 慕雄狂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

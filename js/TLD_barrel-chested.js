@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>barrel-chested</h2><div class="git"><span class="ipa">[ˈbærəlˌtʃestid]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">58432</span><div class="total">374</div></div><div class="coca2">胸部发达的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">胸部发达的；胸围宽大的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

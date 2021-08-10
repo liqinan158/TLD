@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brown-nosing</h2><div class="git"><span class="ipa">[b'raʊnn'əʊzɪŋ]</span></div><hr/></div><div class="coca2">谄媚的(<font color="orangered">50%</font>)，指为得到别人的支持而赞同的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">谄媚的</span></div><div class="dcb"><span class="dcn">指为得到别人的支持而赞同的（brown-nose的现在分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

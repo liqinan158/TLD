@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>political action committee</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 政治行动委员会（美国组织，为所支持的公职候选人筹集资金）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

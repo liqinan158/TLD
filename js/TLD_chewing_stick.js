@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chewing stick</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">咀嚼洁齿棒（用于非洲和亚洲的一些地区，取材于植物根茎）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

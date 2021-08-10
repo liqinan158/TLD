@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>equerry</h2><div class="git"><span class="ipa">[ɪˈkweri]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59699</span><div class="total">314</div></div><div class="coca2">侍从武官(<font color="orangered">53%</font>)，掌马官(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">掌马官；侍从武官；王室侍从</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

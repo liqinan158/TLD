@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>New Age traveller</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">新世纪旅行者（英国组织车队旅行、野营的人，以抵制现代社会）；新时代旅行者（指对社会、环境等问题进行调查或宣传等工作的青年人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

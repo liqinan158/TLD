@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lancs.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(=Lancashire)兰开夏(英国郡名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

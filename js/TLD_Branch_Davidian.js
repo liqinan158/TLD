@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Branch Davidian</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">大卫教派；大卫支派；戴维教派</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

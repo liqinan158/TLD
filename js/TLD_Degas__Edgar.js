@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Degas, Edgar</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">窦加；印象派画家窦加；德加</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

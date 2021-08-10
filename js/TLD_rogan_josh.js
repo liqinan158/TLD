@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rogan josh</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【食】罗根乔咖喱</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">美味佳肴有咖哩羊肉；咖喱羊肉；羊肉咖哩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

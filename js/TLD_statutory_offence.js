@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>statutory offence</h2><div class="git"><span class="ipa">[ˈstætjutəri əˈfens]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> &lt;美&gt;法定罪行</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

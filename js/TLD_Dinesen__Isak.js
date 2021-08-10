@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dinesen, Isak</h2><div class="git"><span class="ipa">['dinisən; 'aizək]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">迪内森(1885～1962，丹麦女作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

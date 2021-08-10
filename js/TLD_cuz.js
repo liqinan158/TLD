@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cuz</h2><div class="git"><span class="ipa">['kəz]</span></div><hr/></div><div class="coca2">因为(<font color="orangered">92%</font>)，=because.(<font color="orangered">8%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">因为（cause）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>con brio</h2><div class="git"><span class="ipa">[kɔn ˈbri:əu]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">精神勃勃地</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">活泼地；有活力地；生气勃勃地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

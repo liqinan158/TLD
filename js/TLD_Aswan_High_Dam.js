@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aswan High Dam</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 12</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="dcn">（埃及）阿斯旺水坝（建在埃及阿斯旺市附近的尼罗河河段上）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

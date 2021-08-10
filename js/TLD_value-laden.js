@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>value-laden</h2><div class="git"><span class="ipa">[ˈvælju ˈleɪdn]</span></div><hr/></div><div class="coca2">价值偏向的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">价值负载</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

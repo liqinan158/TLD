@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>breakwater</h2><div class="git"><span class="ipa">[ˈbreɪkwɔ:tə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33223</span><div class="total">3483</div></div><div class="coca2">防波堤(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">防浪堤，挡水板，挡浪板</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

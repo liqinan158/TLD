@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Meath</h2><div class="git"><span class="ipa">[mi:θ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">米斯郡[爱尔兰东部伦斯特省的郡]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

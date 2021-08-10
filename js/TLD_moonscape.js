@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>moonscape</h2><div class="git"><span class="ipa">[ˈmu:nskeɪp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50628</span><div class="total">833</div></div><div class="coca2">月的表面(<font color="orangered">67%</font>)，月景(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">月球表面；月面景色</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

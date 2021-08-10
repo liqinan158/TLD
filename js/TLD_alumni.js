@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>alumni</h2><div class="git"><span class="ipa">[əˈlʌmnaɪ]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TEM4</span></div><div class="coca2">校友(<font color="orangered">97%</font>)，男毕业生(<font color="orangered">2%</font>)，名词alumnus的复数形式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（统称）校友，毕业生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>meth</h2><div class="git"><span class="ipa">[meθ]</span></div><hr/></div><div class="coca2">=methamphetamine(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">甲安菲他明（一种兴奋剂）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Meth)人名；(柬)梅</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

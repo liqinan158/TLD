@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Verne, Jules</h2><div class="git"><span class="ipa">[vern]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">凡尔纳(1828～1905，法国小说家，现代科学幻想小说的奠基人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

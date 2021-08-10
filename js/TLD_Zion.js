@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Zion</h2><div class="git"><span class="ipa">['zaiәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">原意：耶路撒冷的一个迦南要塞; 后指锡安山、耶路撒冷、以色列的土地; 犹太人; 天国</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wycliffe, John</h2><div class="git"><span class="ipa">['wiklif]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">威克里夫(约1320～1384，英国神学家，宗教改革先驱，《圣经》译者)[亦作 Wyclif，Wickliffe，Wiclif]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pleonastic</h2><div class="git"><span class="ipa">[ˌpli:ə'næstɪk]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">冗言的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">重复的，冗言的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

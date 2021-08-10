@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gareth</h2><div class="git"><span class="ipa">[ˈɡæreθ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （亚瑟王传奇）加雷思（园桌骑士之一，亚瑟王的侄子）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

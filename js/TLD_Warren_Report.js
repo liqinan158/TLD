@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Warren Report</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">华伦报告；华伦申报；沃伦报告书</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

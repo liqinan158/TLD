@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mujahideen</h2><div class="git"><span class="ipa">[ˌmu:dʒəhə'di:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48814</span><div class="total">987</div></div><div class="coca2">圣战者组织(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圣战者，(尤指中东的)穆斯林游击队员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

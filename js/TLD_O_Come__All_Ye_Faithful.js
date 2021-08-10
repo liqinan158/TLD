@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>O Come, All Ye Faithful</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">齐来崇拜；齐来宗主信徒；真挚到来</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>LEP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">lepton 轻子; lepton (collective terra embracing anti-neutrino, electron, neutrino, photon, positron) 轻子（包括反微中子, 电子, 微中子, 光子, 正电子的集合名词）; lowest effective power 最低有效功率</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

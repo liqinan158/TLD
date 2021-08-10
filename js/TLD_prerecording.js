@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prerecording</h2><div class="git"><span class="ipa">[ˈpri:riˈkɔ:dɪŋ]</span></div><span class="onm">原型:</span><span class="orm">prerecording 是 prerecord 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">事先录音( prerecord的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

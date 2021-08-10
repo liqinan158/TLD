@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-negotiable</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">24725</span><div class="total">7733</div></div><div class="coca2">不可妥协的(<font color="orangered">50%</font>)，不可转让的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[金融] 不可转让，不能抵押；无商量余地的；不可谈判的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

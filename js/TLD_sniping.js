@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sniping</h2><div class="git"><span class="ipa">[snaɪpɪŋ]</span></div><span class="onm">原型:</span><span class="orm">sniping 是 snipe 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">狙击</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">伏击( snipe的现在分词 ); 狙击（未参战的敌人等）; 诽谤; 中伤</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

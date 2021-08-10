@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>planeload</h2><div class="git"><span class="ipa">[ˈpleɪnləʊd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58167</span><div class="total">387</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">飞机负载量；飞机的载客量</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

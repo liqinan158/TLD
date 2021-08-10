@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wintel</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">Windows &amp; Intel（意指微机的体系结构由MS-Windows操作系统和Intel的CPU组成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

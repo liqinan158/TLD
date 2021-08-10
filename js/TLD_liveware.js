@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>liveware</h2><div class="git"><span class="ipa">[ˈlaɪvweə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">人件（从事电脑工作的人员）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

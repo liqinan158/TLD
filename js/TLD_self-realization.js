@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-realization</h2><div class="git"><span class="ipa">[ˈselfˌriəlaiˈzeiʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39272</span><div class="total">2096</div></div><div class="coca2">自我实现(<font color="orangered">60%</font>)，自我完成(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">自我实现；自我完成</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

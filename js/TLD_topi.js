@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>topi</h2><div class="git"><span class="ipa">['təʊpɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">遮阳帽，（非洲的）转角牛羚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

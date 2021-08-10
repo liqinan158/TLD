@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quintillion</h2><div class="git"><span class="ipa">[kwɪnˈtɪljən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美、法）百万的三次方，（英、德）百万的五次方</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Valhalla</h2><div class="git"><span class="ipa">[væ'hælә]</span></div><hr/></div><div class="coca2">英烈祠(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">瓦尔哈拉殿堂（北欧神话中死亡之神奥丁款待阵亡将士英灵的殿堂）；英烈祠</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

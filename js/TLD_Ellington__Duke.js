@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ellington, Duke</h2><div class="git"><span class="ipa">['eliŋtən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">埃林顿(1899～1974，美国爵士乐作曲家、钢琴家、乐队指挥)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

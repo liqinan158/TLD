@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aeschylus</h2><div class="git"><span class="ipa">['i:skiləs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">埃斯库罗斯（希腊的诗人及悲剧作家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

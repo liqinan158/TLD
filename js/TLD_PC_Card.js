@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PC Card</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 10</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">印制电路卡；PC 卡</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">个人计算机卡；无线网卡；个人计算机插卡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

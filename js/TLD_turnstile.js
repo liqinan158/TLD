@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>turnstile</h2><div class="git"><span class="ipa">[ˈtɜ:nstaɪl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26641</span><div class="total">6411</div></div><div class="coca2">十字转门(<font color="orangered">64%</font>)，旋转式栅门(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">十字转门</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

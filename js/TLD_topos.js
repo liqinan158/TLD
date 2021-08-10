@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>topos</h2><div class="git"><span class="ipa">[ˈtɒpɒs]</span></div><span class="onm">原型:</span><span class="orm">topos 是 topo 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（修辞学上的）惯用语句；（文学创作的）传统的主题</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

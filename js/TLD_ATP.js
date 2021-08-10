@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ATP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">三磷酸腺苷（Adenosine Triphosphate）；农业贸易政策（Agricultural Trade Policy）；阵列变换处理机（Array Transform Processor）；宇宙航行测试程序（Astronautics Test Procedure）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

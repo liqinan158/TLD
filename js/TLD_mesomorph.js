@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mesomorph</h2><div class="git"><span class="ipa">[ˈmezəmɔ:f]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45595</span><div class="total">1267</div></div><div class="coca2">平均体格的人(<font color="orangered">50%</font>)，斗士型的人(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">运动型体格的人；体育型体质的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

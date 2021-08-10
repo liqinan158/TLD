@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Who Killed Cock Robin?</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">谁杀了知更鸟；我杀了知更鸟；谁杀死了知更鸟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>all-inclusive</h2><div class="git"><span class="ipa">[ˈɔ:linˈklu:siv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">12481</span><div class="total">35371</div></div><div class="coca2">包括一切的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">包括一切的；广泛的；详尽的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teamster</h2><div class="git"><span class="ipa">[ˈti:mstə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31481</span><div class="total">4106</div></div><div class="coca2">卡车驾驶员(<font color="orangered">75%</font>)，联畜运输车驾驭员(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡车驾驶员；驾驭一队牲畜者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

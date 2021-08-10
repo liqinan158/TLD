@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chartreuse</h2><div class="git"><span class="ipa">[ʃɑ:ˈtrɜ:z]</span></div><hr/></div><div class="coca2">黄绿色(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">黄绿色；查特酒（法国查特修道院所酿的酒）</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">淡黄绿色的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

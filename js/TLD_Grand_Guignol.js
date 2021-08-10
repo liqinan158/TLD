@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Grand Guignol</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">大基诺剧院(巴黎一剧院名,以演出情节刺激戏剧出名,今喻此类戏剧作品)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">大木偶；大木偶剧场；大吉尼奥尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

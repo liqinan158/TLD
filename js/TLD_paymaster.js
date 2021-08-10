@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paymaster</h2><div class="git"><span class="ipa">[ˈpeɪmɑ:stə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39006</span><div class="total">2141</div></div><div class="coca2">工薪出纳员(<font color="orangered">60%</font>)，发薪人员(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">工薪出纳员；发薪人员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>landing page</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 126</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 63</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（网站）登陆页</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">着陆页；页面；登陆页面</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Bahamas</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 144</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 39</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 65</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">巴哈马群岛；巴哈马国；巴哈马联邦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

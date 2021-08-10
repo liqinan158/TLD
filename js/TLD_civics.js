@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>civics</h2><div class="git"><span class="ipa">[ˈsɪvɪks]</span></div><span class="onm">原型:</span><span class="orm">civics 是 civic 的复数</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24359</span><div class="total">8026</div></div><div class="coca2">公民(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">公民；公民学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

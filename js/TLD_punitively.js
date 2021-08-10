@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>punitively</h2><div class="git"><span class="ipa">['pju:nətivli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">59999</span><div class="total">297</div></div><div class="coca2">惩罚的(<font color="orangered">56%</font>)，刑罚的(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">惩罚地；刑罚的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

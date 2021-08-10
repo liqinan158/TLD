@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Troy</h2><div class="git"><span class="ipa">[trɔɪ]</span></div><hr/></div><div class="coca2">金衡(<font color="orangered">74%</font>)，男子名）(<font color="orangered">13%</font>)，特洛伊（姓氏(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">特洛伊（小亚细亚西北部的古城）；特洛伊（美国纽约州一城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

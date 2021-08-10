@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>utopianism</h2><div class="git"><span class="ipa">[juˈtəupiənizəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48170</span><div class="total">1041</div></div><div class="coca2">乌托邦的理想(<font color="orangered">50%</font>)，空想的社会改革案(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">空想的社会改良方案；乌托邦思想</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

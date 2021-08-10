@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>urgently</h2><div class="git"><span class="ipa">['ɜ:dʒəntlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">13597</span><div class="total">29772</div></div><div class="coca2">迫切地(<font color="orangered">75%</font>)，紧急的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">迫切地；紧急地；急切地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coronet</h2><div class="git"><span class="ipa">[ˈkɒrənet]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27268</span><div class="total">6028</div></div><div class="coca2">花冠(<font color="orangered">50%</font>)，冠冕(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（王子、贵族等戴的）小冠冕；冠状头饰；（马的）蹄冠</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

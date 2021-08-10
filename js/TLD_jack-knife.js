@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jack-knife</h2><div class="git"><span class="ipa">[d'ʒækn'aɪf]</span></div><hr/></div><div class="coca2">-knifing 中间呈V形弯(<font color="orangered">50%</font>)，-knifed(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">中间呈V形弯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

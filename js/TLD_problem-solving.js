@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>problem-solving</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">11326</span><div class="total">43019</div></div><div class="coca2">问题解决的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">解决问题；找出问题的答案</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">问题解决的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bitmapped</h2><div class="git"><span class="ipa">[bɪt'mæpt]</span></div><span class="onm">原型:</span><span class="orm">bitmapped 是 bitmap 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [计][修]位映象，点阵图; [计]位映像</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

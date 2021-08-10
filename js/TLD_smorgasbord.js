@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>smorgasbord</h2><div class="git"><span class="ipa">[ˈsmɔ:gəsbɔ:d]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27856</span><div class="total">5687</div></div><div class="coca2">瑞式自助餐(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">瑞典式自助餐（餐前冷菜及冷菜宴会）；大杂烩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

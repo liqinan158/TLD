@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parasailing</h2><div class="git"><span class="ipa">[ˈpærəseɪlɪŋ]</span></div><hr/></div><div class="coca2">动词parasail的现在分词形式.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（驾降落伞由汽艇等牵引的）帆伞运动</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">参加帆伞运动；驾帆伞滑翔（parasail的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

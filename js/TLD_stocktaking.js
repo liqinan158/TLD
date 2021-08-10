@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stocktaking</h2><div class="git"><span class="ipa">[ˈstɒkteɪkɪŋ]</span></div><hr/></div><div class="coca2">盘货(<font color="orangered">40%</font>)，存货盘点(<font color="orangered">30%</font>)，估计(<font color="orangered">15%</font>)，反思(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">打量；盘货；存货盘点</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

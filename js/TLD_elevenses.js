@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>elevenses</h2><div class="git"><span class="ipa">[ɪˈlevnzɪz]</span></div><span class="onm">原型:</span><span class="orm">elevenses 是 elevense 的复数</span><hr/></div><div class="coca2">午前茶点(<font color="orangered">58%</font>)，午前茶(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">午前茶点；上午茶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

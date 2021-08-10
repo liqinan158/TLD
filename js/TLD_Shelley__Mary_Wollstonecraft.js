@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shelley, Mary Wollstonecraft</h2><div class="git"><span class="ipa">['wulstənkrɑ:ft; 'wulstn-,kæft]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Shelley, Mary Wollstonecraft (Godwin)</span></div><div class="dcb"><span class="dcn">['wulstənkrɑ:ft; 'wulstn-,kæft]</span></div><div class="dcb"><span class="dcn">雪莱(夫人)(1797～1851，英国作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

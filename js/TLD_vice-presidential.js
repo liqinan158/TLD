@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vice-presidential</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">41474</span><div class="total">1761</div></div><div class="gdc"><div class="dcb"><span class="dcn">副主席的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

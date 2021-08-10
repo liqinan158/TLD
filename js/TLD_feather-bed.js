@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>feather-bed</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （尤指提供金钱或良好条件）使安逸, 使轻松, 娇养, 溺爱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

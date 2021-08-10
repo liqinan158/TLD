@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>saturnalia</h2><div class="git"><span class="ipa">[,sætә:'neiljә]</span></div><hr/></div><div class="coca2">纵情狂欢(<font color="orangered">60%</font>)，农神节（古罗马节日(<font color="orangered">20%</font>)，从12月17日开始共7天）(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（古罗马）农神节（十二月中旬）；狂欢喧闹</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

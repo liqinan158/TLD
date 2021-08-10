@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>plimsoll</h2><div class="git"><span class="ipa">[ˈplɪmsəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56217</span><div class="total">480</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英）橡胶底帆布鞋</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Plimsoll)人名；(英)普利姆索尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

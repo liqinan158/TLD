@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Apennines</h2><div class="git"><span class="ipa">['æpinainz]</span></div><span class="onm">原型:</span><span class="orm">Apennines 是 apennine 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Mountains亚平宁山脉[意大利](纵贯全国,是阿尔卑斯山脉主干南伸部分)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

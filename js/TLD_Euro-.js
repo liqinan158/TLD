@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Euro-</h2><div class="git"><span class="ipa">[jʊərəʊ]</span></div><hr/></div><div class="coca2">欧洲共同市场(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">欧洲（European）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

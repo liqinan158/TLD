@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>no-smoking</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">52469</span><div class="total">701</div></div><div class="coca2">不抽烟的(<font color="orangered">50%</font>)，禁烟的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">禁止吸烟（标语）；请勿吸烟（标语）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

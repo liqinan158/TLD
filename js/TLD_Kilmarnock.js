@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kilmarnock</h2><div class="git"><span class="ipa">[kɪl'mɑ:nək]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [地名] [英国、英国] 基尔马诺克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>photo-</h2><div class="git"><span class="ipa">[ˈfəʊtəʊ]</span></div><hr/></div><div class="coca2">照相(<font color="orangered">51%</font>)，表示“光(<font color="orangered">33%</font>)，像片”之义(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">comb.</span><span class="dcn">光；像片；照相（等于phot-）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

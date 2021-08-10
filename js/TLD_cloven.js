@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cloven</h2><div class="git"><span class="ipa">['kləʊvən]</span></div><hr/></div><div class="coca2">劈开的(<font color="orangered">40%</font>)，偶蹄的(<font color="orangered">40%</font>)，动词cleave的过去分词.(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">劈开的，分裂的；偶蹄的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">劈开（cleave的过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exterminator</h2><div class="git"><span class="ipa">[eks'tɜ:mɪˌneɪtə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26715</span><div class="total">6366</div></div><div class="coca2">杀虫剂(<font color="orangered">56%</font>)，根除者(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">根除者；（美）灭鼠药；（美）职业的消灭害虫者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

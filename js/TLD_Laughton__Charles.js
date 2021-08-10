@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Laughton, Charles</h2><div class="git"><span class="ipa">['lɔ:tn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">劳顿 (1899～1962，美国演员，生于英格兰)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

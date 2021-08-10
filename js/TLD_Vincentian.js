@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vincentian</h2><div class="git"><span class="ipa">[vin'senʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">51944</span><div class="total">735</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">(法国天主教教士)味增爵的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">遣使会会员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paraplegia</h2><div class="git"><span class="ipa">[ˌpærəˈpli:dʒə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46339</span><div class="total">1198</div></div><div class="coca2">半身不遂(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[内科] 截瘫，半身不遂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

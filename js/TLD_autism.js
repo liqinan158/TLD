@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>autism</h2><div class="git"><span class="ipa">[ˈɔ:tɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">5570</span><div class="total">156230</div></div><div class="coca2">自闭症(<font color="orangered">62%</font>)，孤独症(<font color="orangered">38%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[心理][内科] 孤独症；自我中心主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

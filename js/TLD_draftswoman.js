@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>draftswoman</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（正式或法律文件的）起草人</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">女性起草者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

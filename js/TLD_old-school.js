@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>old-school</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">13927</span><div class="total">28408</div><span class="pos">NOUN</span><span class="rank">29648</span><div class="total">4867</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">老派的</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">旧式的；老式学校；旧派小店装</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

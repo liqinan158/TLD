@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sanitarium</h2><div class="git"><span class="ipa">[ˌsænə'teərɪəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38176</span><div class="total">2286</div></div><div class="coca2">疗养院(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">疗养院；疗养所</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

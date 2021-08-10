@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chappal</h2><div class="git"><span class="ipa">['tʃʌpəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（常用皮革制成的）印度凉鞋（或便鞋）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>school-leaving age</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （法定）中学生可离校年龄</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

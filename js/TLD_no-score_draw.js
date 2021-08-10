@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>no-score draw</h2><div class="git"><span class="ipa">[nəʊ skɔ: drɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（足球比赛中的）零比零平局</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

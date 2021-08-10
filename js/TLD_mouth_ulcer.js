@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mouth ulcer</h2><div class="git"><span class="ipa">[mauθ ˈʌlsə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">口腔溃疡</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">口溃疡；口疮；口腔会生了很多痱子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

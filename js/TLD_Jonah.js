@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jonah</h2><div class="git"><span class="ipa">['dʒәunә]</span></div><hr/></div><div class="coca2">约拿(<font color="orangered">58%</font>)，约拿书(<font color="orangered">34%</font>)，带来不幸的人(<font color="orangered">8%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">约拿（圣经人物）；约拿书；带来厄运的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Srebrenica</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [地名] [波斯尼亚和黑塞哥维那] 斯雷布雷尼察</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

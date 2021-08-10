@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gaga</h2><div class="git"><span class="ipa">[ˈgɑ:gɑ:]</span></div><hr/></div><div class="coca2">狂热的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">疯子；老糊涂</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Gaga)人名；(塞、罗)加嘉 (女名)，加加</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">天真地；老朽的；狂热的；疯疯癫癫的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

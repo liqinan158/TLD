@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>amusement arcade</h2><div class="git"><span class="ipa">[ˌəˈmju:zmənt ɑ:ˈkeɪd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">电子游乐场；娱乐场</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

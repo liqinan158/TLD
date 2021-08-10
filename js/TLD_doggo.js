@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>doggo</h2><div class="git"><span class="ipa">[ˈdɒgəʊ]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">隐藏着(<font color="orangered">50%</font>)，躲起来(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">隐秘地；躲藏地；一动也不动地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

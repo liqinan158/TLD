@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>timeout</h2><div class="git"><span class="ipa">[taɪmˈaʊt]</span></div><hr/></div><div class="coca2">超时(<font color="orangered">82%</font>)，暂停(<font color="orangered">13%</font>)，过期(<font color="orangered">4%</font>)，=time-out.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">超时；暂时休息；工间休息</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

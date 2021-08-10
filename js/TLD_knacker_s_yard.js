@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>knacker's yard</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn"> 购买并屠杀无用的马的人和收买并拆除旧建筑物等以售其材料的人做生意的场所</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

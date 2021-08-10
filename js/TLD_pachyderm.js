@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pachyderm</h2><div class="git"><span class="ipa">[ˈpækidɜ:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48515</span><div class="total">1011</div></div><div class="coca2">厚皮动物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">迟钝的人；厚脸皮的人；[脊椎] 厚皮类动物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

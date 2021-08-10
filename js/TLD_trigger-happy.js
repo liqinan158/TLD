@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trigger-happy</h2><div class="git"><span class="ipa">[ˈtrɪgəˌhæpi:]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">44888</span><div class="total">1341</div></div><div class="coca2">好战的(<font color="orangered">72%</font>)，乱开枪的(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">好战的；乱开枪的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>upskilling</h2><div class="git"><span class="ipa">[,ʌp'skiliŋ]</span></div><span class="onm">原型:</span><span class="orm">upskilling 是 upskil 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">通过培训等方式学习其它的工作技能</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

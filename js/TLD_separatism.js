@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>separatism</h2><div class="git"><span class="ipa">['seprətɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37572</span><div class="total">2400</div></div><div class="coca2">分离主义(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">分离主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

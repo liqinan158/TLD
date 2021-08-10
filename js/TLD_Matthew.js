@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Matthew</h2><div class="git"><span class="ipa">['mæθju:]</span></div><hr/></div><div class="coca2">马太福音.(<font color="orangered">34%</font>)，男子名)(<font color="orangered">33%</font>)，马修(姓氏(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马太（耶稣12门徒之一）；马修（姓氏，男子名）；马太福音（新约第一卷）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

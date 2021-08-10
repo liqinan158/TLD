@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>surefire</h2><div class="git"><span class="ipa">['ʃʊəˌfaɪə]</span></div><hr/></div><div class="coca2">一定会发生的(<font color="orangered">67%</font>)，定成功的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">准不会有错的，一定成功的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

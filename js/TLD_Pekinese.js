@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pekinese</h2><div class="git"><span class="ipa">[ˌpiːkɪ'niːz]</span></div><hr/></div><div class="coca2">哈巴狗(<font color="orangered">63%</font>)，小狮子狗(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">哈巴狗；小狮子狗</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">北京（人）的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

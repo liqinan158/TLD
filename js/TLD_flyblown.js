@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flyblown</h2><div class="git"><span class="ipa">[ˈflaɪbləʊn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">有苍蝇产卵的，弄脏的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">蝇产卵在内，玷污，沾染( flyblow的过去分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

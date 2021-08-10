@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blade runner</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 10</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 8</div><div class="gdc"><div class="dcb"><span class="dcn"> 银翼杀手，又名刀锋战士（电影名）; 刀锋战士（奥斯卡·皮斯托瑞斯，南非残疾人。残疾人100米、200米和400米短跑世界纪录的保持者。人们把这个人称之为现实版“阿甘”、“刀锋战士”、“世界上跑得最快的无腿人”）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

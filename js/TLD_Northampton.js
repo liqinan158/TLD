@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Northampton</h2><div class="git"><span class="ipa">[nɔ:'θæmptən; nɔ:θ'hæmptən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">北安普敦（英格兰中部郡名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

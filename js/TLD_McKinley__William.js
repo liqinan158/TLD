@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>McKinley, William</h2><div class="git"><span class="ipa">[mə'kinli]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">麦金利(1843～1901)，美国第二十五任总统(1897～1901)，遇刺身亡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gizzard</h2><div class="git"><span class="ipa">[ˈgɪzəd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35493</span><div class="total">2867</div></div><div class="coca2">胃(<font color="orangered">82%</font>)，眕(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（鸟的）[鸟] 砂囊；胃；喉咙</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

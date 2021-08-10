@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kentucky Fried Chicken</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 9</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">肯德基；肯德基家乡鸡；肯德基炸鸡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

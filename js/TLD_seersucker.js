@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>seersucker</h2><div class="git"><span class="ipa">[ˈsɪəsʌkə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40397</span><div class="total">1921</div></div><div class="coca2">泡泡纱(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[纺] 泡泡纱；绉条纹薄织物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

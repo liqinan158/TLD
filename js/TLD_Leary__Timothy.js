@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Leary, Timothy</h2><div class="git"><span class="ipa">['liəri]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">利里(1920～ ，哈佛大学心理学教授，因提倡服用迷幻剂而被判10年徒刑)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

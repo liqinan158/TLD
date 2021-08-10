@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>simple fracture</h2><div class="git"><span class="ipa">[ˈsimpl ˈfræktʃə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">单纯骨折；无创骨折</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">简单骨折；简单性骨折；断骨未刺穿皮肤的单纯骨折</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>preferred provider organization</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">首选供给组织；首选供应商组织；卫生服务提供者组织</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

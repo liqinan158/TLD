@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gamelan</h2><div class="git"><span class="ipa">[ˈgæməlæn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51449</span><div class="total">771</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">加麦兰（一组印尼的民族管弦乐器）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

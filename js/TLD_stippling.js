@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stippling</h2><div class="git"><span class="ipa">['stɪplɪŋ]</span></div><span class="onm">原型:</span><span class="orm">stippling 是 stipple 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">点刻法，点画</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">加点、绘斑，加粒( stipple的现在分词 ); （把油漆、水泥等的表面）弄粗糙</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

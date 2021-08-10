@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Maronite</h2><div class="git"><span class="ipa">['mærәnait]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">48069</span><div class="total">1049</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马龙派教徒（流行于黎巴嫩的天主教教派）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

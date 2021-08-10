@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Liberace</h2><div class="git"><span class="ipa">['li:bəreis]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">列勃拉斯（美国钢琴演奏家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

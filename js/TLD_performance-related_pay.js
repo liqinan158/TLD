@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>performance-related pay</h2><div class="git"><span class="ipa">[pɚˈfɔrməns rɪˈletɪd pe]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">与业绩挂钩的工资；绩效工资</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

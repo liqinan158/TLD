@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>plausibility</h2><div class="git"><span class="ipa">[ˌplɔ:zə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27407</span><div class="total">5945</div></div><div class="coca2">似有道理(<font color="orangered">72%</font>)，能言善辩(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">善辩；似乎有理；貌似可信</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

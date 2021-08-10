@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rhenium</h2><div class="git"><span class="ipa">[ˈri:niəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54803</span><div class="total">556</div></div><div class="coca2">铼(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 铼（75号元素，符号为Re）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

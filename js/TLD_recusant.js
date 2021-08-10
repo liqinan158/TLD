@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>recusant</h2><div class="git"><span class="ipa">[ˈrekjʊzənt]</span></div><hr/></div><div class="coca2">拒绝服从的人(<font color="orangered">51%</font>)，不服从规章的(<font color="orangered">33%</font>)，拒不参加英国国教的天主教徒(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拒绝服从的人</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">不服从权威的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

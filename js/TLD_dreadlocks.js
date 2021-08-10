@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dreadlocks</h2><div class="git"><span class="ipa">[ˈdredlɒks]</span></div><span class="onm">原型:</span><span class="orm">dreadlocks 是 dreadlock 的复数</span><hr/></div><div class="coca2">'骇人'长发绺(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">长发绺；细发辫；未梳理的乱发串</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Van Buren, Martin</h2><div class="git"><span class="ipa">[væn'bjuərən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">范布伦(1782～1862)，美国第八任总统(1837～1841)，民主党创建人之一</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

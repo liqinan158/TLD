@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Roget's Thesaurus</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">罗热同义词词典；罗热类语词典；罗格斯同类词词典</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

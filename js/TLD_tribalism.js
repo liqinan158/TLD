@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tribalism</h2><div class="git"><span class="ipa">[ˈtraɪbəlɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34545</span><div class="total">3110</div></div><div class="coca2">部落制度(<font color="orangered">52%</font>)，部落主义(<font color="orangered">48%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">部落文化；部落制；部落制度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

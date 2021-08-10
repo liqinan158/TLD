@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Goliath</h2><div class="git"><span class="ipa">[gәu'laiәθ]</span></div><hr/></div><div class="coca2">巨人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">哥利亚（圣经中被大卫杀死的巨人）；巨人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

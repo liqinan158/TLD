@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>value-added tax</h2><div class="git"><span class="ipa">[ˈvælju:ˈædɪd tæks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">〔商〕增值税</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">加值税；增殖税；加值型营业税</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cadmium</h2><div class="git"><span class="ipa">[ˈkædmiəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18769</span><div class="total">14927</div></div><div class="coca2">镉(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 镉（元素符号Cd）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

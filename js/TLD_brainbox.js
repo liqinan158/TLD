@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brainbox</h2><div class="git"><span class="ipa">[ˈbreɪnbɒks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 绝顶聪明的人; 脑袋; 电脑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

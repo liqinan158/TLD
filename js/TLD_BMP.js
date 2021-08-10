@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BMP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">位图文件的扩展名（Bitmap）；骨成型蛋白质（Bone Morphogenetic Protein）；平均制动压力（Brake Mean Pressure）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

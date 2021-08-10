@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crowdsource</h2><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">41919</span><div class="total">1699</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">众包。这一概念是由美国&lt;Wired&gt;杂志的记者Jeff Howe在2006年6月提出的; 他给出的定义为一个公司或机构把过去由员工执行的工作任务; 以自由自愿的形式外包给非特定的（而且通常是大型的）大众网络的做法。众包的任务通常由个人来承担; 但如果涉及到需要多人协作完成的任务</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

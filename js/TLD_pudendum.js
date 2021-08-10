@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pudendum</h2><div class="git"><span class="ipa">[pju:'dendəm]</span></div><hr/></div><div class="coca2">外阴(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（尤指女性的）外生殖器；外阴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bodge</h2><div class="git"><span class="ipa">[bɒdʒ]</span><span class="frm">bodged, bodging, bodges</span></div><hr/></div><div class="coca2">拙劣地修补(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">修补</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

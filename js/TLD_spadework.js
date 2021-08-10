@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spadework</h2><div class="git"><span class="ipa">[ˈspeɪdwɜ:k]</span></div><hr/></div><div class="coca2">挖掘的工作(<font color="orangered">34%</font>)，费力气的基础工作(<font color="orangered">33%</font>)，基本研究(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">基本研究；挖掘的工作；费力气的基础工作</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

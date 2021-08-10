@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>road sense</h2><div class="git"><span class="ipa">[roʊd sens]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">交通安全意识；道路安全意识</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">驾驶技术；路感；行车感觉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

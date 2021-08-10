@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vide</h2><div class="git"><span class="ipa">[ˈvi:deɪ]</span></div><hr/></div><div class="coca2">参阅(<font color="orangered">50%</font>)，请见(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">参见；参阅</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Vide)人名；(葡、塞)维德；(西)比德</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

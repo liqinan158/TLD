@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ex-officio</h2><div class="git"><span class="ipa">['eksəf'ɪʃi:əʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [法] 依职业的，当然的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>weekdays</h2><div class="git"><span class="ipa">[ˈwi:kdeiz]</span></div><span class="onm">原型:</span><span class="orm">weekdays 是 weekday 的复数</span><hr/></div><div class="coca2">在平时每天(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">平日，工作日（weekday的复数形式）</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">在每个周日</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grassed</h2><div class="git"><span class="ipa">[grɑ:st]</span></div><span class="onm">原型:</span><span class="orm">grassed 是 grass 的过去式和过去分词</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">39561</span><div class="total">2048</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">用草覆盖（grass的过去式与过去分词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

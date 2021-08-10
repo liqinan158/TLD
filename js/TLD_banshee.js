@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>banshee</h2><div class="git"><span class="ipa">[bænˈʃi:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23689</span><div class="total">8589</div></div><div class="coca2">=banshie.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（爱尔兰和苏格兰传说中）预告死亡的女妖精</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

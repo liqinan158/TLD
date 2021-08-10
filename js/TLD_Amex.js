@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Amex</h2><div class="git"><span class="ipa">['æmeks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国证券交易所（American Stock Exchange，等于AMEX）；第一次世界大战美国派赴欧洲之远征军（American Expeditionary Force））</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

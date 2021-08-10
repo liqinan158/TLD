@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Grim Reaper</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 24</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 24</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">狰狞的收割者（指骷髅状死神，身披斗篷，手持长柄大镰刀）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">冷酷开膛手；镰刀死神；残酷收割者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

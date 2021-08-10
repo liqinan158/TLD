@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>autohypnosis</h2><div class="git"><span class="ipa">[ˌɔ:təʊhɪp'nəʊsɪs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">自我催眠</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

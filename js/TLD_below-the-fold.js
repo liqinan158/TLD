@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>below-the-fold</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（报纸版面、网页等）居于下端的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

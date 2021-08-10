@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Walters, Barbara</h2><div class="git"><span class="ipa">['wɔ:ltəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">沃尔特斯(1931～ ，美国电视新闻广播评论员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

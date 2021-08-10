@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Plaid Cymru</h2><div class="git"><span class="ipa">[ˌplaɪd 'kʌmri:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">威尔士民族主义党（主张威尔士独立）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">威尔士民族党；威尔士党；威尔斯党</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

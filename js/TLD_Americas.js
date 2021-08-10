@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Americas</h2><div class="git"><span class="ipa">[ə'merikəz]</span></div><span class="onm">原型:</span><span class="orm">AMERICAS 是 america 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">美洲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

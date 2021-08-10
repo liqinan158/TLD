@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fathers 4 Justice</h2><hr/></div>Father's Day<a class="brefile" href="sound://breProns/ld41father_s_day.mp3"><img src="luk.png"/></a><a class="amefile" href="sound://ameProns/father_s_day.mp3"><img src="lus.png"/></a></div>`;
+window.parent.postMessage(custom_content,'*');

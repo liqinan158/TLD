@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>back-stabbing</h2><hr/></div><div class="coca2">小人的(<font color="orangered">34%</font>)，暗箭伤人的(<font color="orangered">33%</font>)，阴险的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">暗箭伤人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

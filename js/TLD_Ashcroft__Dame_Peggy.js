@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ashcroft, Dame Peggy</h2><div class="git"><span class="ipa">['æʃkrɔft]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Ashcroft, Dame peggy(Edith Margaret Emily Ashcroft)</span></div><div class="dcb"><span class="dcn">['æʃkrɔft]</span></div><div class="dcb"><span class="dcn">阿什克罗夫特(1907～1991，美国舞台剧女演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

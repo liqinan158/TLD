@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vampirism</h2><div class="git"><span class="ipa">[ˈvæmpaɪərɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38545</span><div class="total">2225</div></div><div class="coca2">吸人膏血(<font color="orangered">67%</font>)，榨取他人(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">相信吸血鬼存在的迷信；勒索钱财；勾引</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

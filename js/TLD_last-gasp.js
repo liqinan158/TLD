@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>last-gasp</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">41065</span><div class="total">1820</div></div><div class="coca2">在最后一刻完成的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">最终喘息；奄奄一息</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

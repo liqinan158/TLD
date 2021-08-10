@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>headbanger</h2><div class="git"><span class="ipa">[ˈhedbæŋə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53840</span><div class="total">613</div></div><div class="coca2">随着音乐猛烈摇头晃脑的人(<font color="orangered">50%</font>)，大声音乐迷(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">重金属乐爱好者；怪人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

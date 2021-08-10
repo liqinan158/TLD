@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>playa</h2><div class="git"><span class="ipa">['plaɪə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31362</span><div class="total">4144</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">沙漠之中的干盐湖；河岸</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Playa)人名；(西)普拉亚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

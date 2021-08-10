@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>IRC</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17536</span><div class="total">17339</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">国际红十字会（International Red Cross）；Internet交互式闲聊程序（Internet Relay Chat）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

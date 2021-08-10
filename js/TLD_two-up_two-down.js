@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>two-up two-down</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 两上两下的房屋（楼下两室, 楼上两卧室）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cross-pollination</h2><div class="git"><span class="ipa">[ˌkrɔ:sˌpɔləˈneɪʃən, ˌkrɔs-]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36578</span><div class="total">2619</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">异花受粉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crosier</h2><div class="git"><span class="ipa">['krəʊzɪə(r)]</span></div><hr/></div><div class="coca2">牧杖(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">牧杖；（主教或男修道院长的曲柄）权杖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

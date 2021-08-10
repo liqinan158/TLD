@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>biathlon</h2><div class="git"><span class="ipa">[baɪˈæθlən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41600</span><div class="total">1743</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">冬季两项（越野滑雪射击比赛，冬奥会项目之一）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

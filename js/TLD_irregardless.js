@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>irregardless</h2><div class="git"><span class="ipa">[ˌɪrɪ'gɑ:dlɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">42582</span><div class="total">1608</div></div><div class="coca2">=regardless(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[口语、非规范用语] = regardless 不管</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

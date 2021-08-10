@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polyamory</h2><div class="git"><span class="ipa">['pɒljəmərɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43462</span><div class="total">1499</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">the state or practice of having more than one open; 脚踏两只船; 多边恋; 多元之爱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

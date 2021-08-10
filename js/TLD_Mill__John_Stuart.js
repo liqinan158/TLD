@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mill, John Stuart</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">穆勒(1806～1873，英国哲学家、经济学家和逻辑学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dob</h2><div class="git"><span class="ipa">[dɒb]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">向…捐钱；将责任强加给</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">捐助，捐赠；强加于人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

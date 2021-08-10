@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Denali</h2><div class="git"><span class="ipa">[dә'nɑ:li]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">德纳里峰[美国阿拉斯加州中南部](即麦金利山)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

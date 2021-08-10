@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>smitten</h2><div class="git"><span class="ipa">[ˈsmɪtn]</span></div><span class="onm">原型:</span><span class="orm">smitten 是 smite 的过去分词</span><hr/></div><div class="coca2">名词(<font color="orangered">68%</font>)，动词(<font color="orangered">32%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">打击，摧毁（smite的过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

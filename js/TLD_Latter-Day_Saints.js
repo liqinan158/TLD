@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Latter-Day Saints</h2><span class="onm">原型:</span><span class="orm">Latter-day Saints 是 latter-day saint 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">后期圣徒；摩门教；后期圣徒会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

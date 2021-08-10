@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beatbox</h2><div class="git"><span class="ipa">[ˈbi:tbɒks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43310</span><div class="total">1515</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电子鼓，重音乐播放器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

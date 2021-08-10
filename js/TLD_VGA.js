@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>VGA</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13391</span><div class="total">30773</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">[计]视频图形阵列（Video Graphics Array）；可变增益放大器（Variable-Gain Amplifier）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

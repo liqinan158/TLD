@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Doc Martens</h2><div class="git"><span class="ipa">[dɔk'mɑ:tənz]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[复数] 【商标】马腾斯博士靴[亦作Doctor Martens]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

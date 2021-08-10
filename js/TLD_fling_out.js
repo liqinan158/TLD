@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fling out</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn">向外抛, 甩(某物); 扔掉, 处理掉(某物); 愤然离开; 逐出; 提出(建议等)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

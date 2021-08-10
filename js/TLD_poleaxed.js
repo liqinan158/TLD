@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>poleaxed</h2><div class="git"><span class="ipa">['pəʊlæks]</span></div><span class="onm">原型:</span><span class="orm">poleaxed 是 poleax 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">屠斧；战斧</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">以斧砍倒或攻打</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

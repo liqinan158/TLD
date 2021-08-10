@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>godparent</h2><div class="git"><span class="ipa">[ˈgɒdpeərənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34113</span><div class="total">3221</div></div><div class="coca2">教父或教母(<font color="orangered">60%</font>)，名义双亲(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">教父或教母</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

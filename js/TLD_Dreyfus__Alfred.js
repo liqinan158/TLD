@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dreyfus, Alfred</h2><div class="git"><span class="ipa">['dreifəs; dre'fju:s; 'ælfrid]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">德雷福斯(1859～1935，犹太血统法国陆军军官，1894年被判叛国罪，1899年被宣布无罪，1906年被平反昭雪)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

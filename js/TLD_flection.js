@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flection</h2><div class="git"><span class="ipa">[ˈflekʃən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">弯曲; 屈曲; 弯曲的部分; 曲折</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

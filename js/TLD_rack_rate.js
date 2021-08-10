@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rack rate</h2><div class="git"><span class="ipa">[ræk reit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（酒店）挂牌价; 门市价格; 酒店的门市价; 这个价格是没有打折的价钱。通常比较贵</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

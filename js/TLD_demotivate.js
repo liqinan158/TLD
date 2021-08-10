@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>demotivate</h2><div class="git"><span class="ipa">[ˌdi:ˈməʊtɪveɪt]</span><span class="frm">demotivated, demotivating, demotivates</span></div><hr/></div><div class="coca2">使消极(<font color="orangered">50%</font>)，使 ... 失去动力(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使失去动力；使变得消极</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>amperage</h2><div class="git"><span class="ipa">[ˈæmpərɪdʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22311</span><div class="total">9948</div></div><div class="coca2">安培数(<font color="orangered">60%</font>)，电流强度(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[电磁] 安培数</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

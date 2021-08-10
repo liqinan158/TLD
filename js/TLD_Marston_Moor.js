@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Marston Moor</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">马斯顿荒原(在英格兰北部约克郡境内)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

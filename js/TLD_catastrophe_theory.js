@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>catastrophe theory</h2><div class="git"><span class="ipa">[kəˈtæstrəfi ˈθiəri]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">突变理论</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">突变论；剧变理论；灾变理论</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

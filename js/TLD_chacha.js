@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chacha</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 叔叔；舅舅；伯父；姑父；姨父</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

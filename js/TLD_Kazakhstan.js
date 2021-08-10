@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kazakhstan</h2><div class="git"><span class="ipa">[ˌkæzək'stæn]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">哈萨克斯坦（原苏联加盟共和国之一， 已于1991年宣布独立）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

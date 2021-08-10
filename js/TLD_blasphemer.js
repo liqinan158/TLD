@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blasphemer</h2><div class="git"><span class="ipa">[blæs'fi:mə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40295</span><div class="total">1937</div></div><div class="coca2">亵渎者(<font color="orangered">72%</font>)，辱骂者(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">亵渎者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

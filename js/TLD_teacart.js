@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teacart</h2><div class="git"><span class="ipa">[ˈti:kɑ:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （用以放茶具，盘碟的）有轮茶台</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

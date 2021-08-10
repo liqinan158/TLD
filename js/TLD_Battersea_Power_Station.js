@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Battersea Power Station</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">巴特西发电站；巴特西发电厂；巴特西电站</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

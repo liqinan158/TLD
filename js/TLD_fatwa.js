@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fatwa</h2><div class="git"><span class="ipa">[ˈfætwɑ:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33718</span><div class="total">3336</div></div><div class="coca2">穆斯林宗教领袖的裁决(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">法学家的裁决</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

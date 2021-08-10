@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>resumption</h2><div class="git"><span class="ipa">[rɪˈzʌmpʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23087</span><div class="total">9147</div></div><div class="coca2">恢复(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">恢复；重新开始；取回；重获；恢复硬币支付</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

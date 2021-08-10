@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>doddery</h2><div class="git"><span class="ipa">['dɒdərɪ]</span></div><hr/></div><div class="coca2">衰老的(<font color="orangered">47%</font>)，蹒跚的(<font color="orangered">38%</font>)，=doddering.(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">蹒跚的；衰老的（等于doddered或doddering）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

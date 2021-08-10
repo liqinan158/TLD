@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fifty-fifty</h2><div class="git"><span class="ipa">[ˈfiftiˈfifti]</span></div><hr/></div><div class="coca2">平分为二的(<font color="orangered">50%</font>)，平分(<font color="orangered">25%</font>)，对半地(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">对半的；利弊各半的；平分为二的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">各半；平均地；利弊各半地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

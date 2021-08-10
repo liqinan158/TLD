@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lawn sign</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">户外告示牌（置于宅前，用于广告或表明户主支持某政治人物或政党）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

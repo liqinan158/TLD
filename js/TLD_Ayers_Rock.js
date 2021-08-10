@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ayers Rock</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【地,旅】艾尔斯巨石</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">艾尔斯岩；爱尔斯岩；艾尔斯岩石</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

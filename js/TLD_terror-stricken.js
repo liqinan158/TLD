@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>terror-stricken</h2><div class="git"><span class="ipa">[ˈterə ˈstrɪkən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">受了惊吓的；恐怖的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

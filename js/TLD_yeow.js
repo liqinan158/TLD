@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yeow</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （突然感到疼痛时发出的声音）哎哟, 啊唷</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

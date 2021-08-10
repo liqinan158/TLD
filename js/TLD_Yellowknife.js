@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Yellowknife</h2><div class="git"><span class="ipa">['jelәjnaif]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">耶洛奈夫[加拿大西北部城镇](西北地区首府)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

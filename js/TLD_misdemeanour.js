@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>misdemeanour</h2><div class="git"><span class="ipa">[ˌmɪsdɪˈmi:nə(r)]</span></div><hr/></div><div class="coca2">轻罪(<font color="orangered">86%</font>)，不检点的行为(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">行为不端；轻罪；不轨行为</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

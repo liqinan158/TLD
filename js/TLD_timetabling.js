@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>timetabling</h2><div class="git"><span class="ipa">['taɪm,teblɪŋ]</span></div><span class="onm">原型:</span><span class="orm">timetabling 是 timetable 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">（英）为…编时间表（timetable的ing形式）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">根据时间表安排；制定时间表</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

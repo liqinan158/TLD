@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gotcha</h2><div class="git"><span class="ipa">[ˈgɒtʃə]</span></div><hr/></div><div class="coca2">我明白了(<font color="orangered">50%</font>)，这下抓住你了(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">明白了（等于got you）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

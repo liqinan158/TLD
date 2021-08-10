@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hajj</h2><div class="git"><span class="ipa">[hædʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41983</span><div class="total">1690</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">麦加朝圣；哈吉</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Hajj)人名；(阿拉伯)哈吉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

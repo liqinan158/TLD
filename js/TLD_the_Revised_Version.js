@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Revised Version</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">《圣经》英译修订本</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

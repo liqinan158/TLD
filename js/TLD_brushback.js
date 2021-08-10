@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brushback</h2><div class="git"><span class="ipa">[ˈbrʌʃbæk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（投手为迫使击球员退离本垒投出的）头侧球</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

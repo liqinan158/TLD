@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>freegan</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">这一术语描述的是一种反消费者，他们远离主流的物质享受，只在万不得已的情况下才去购物。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

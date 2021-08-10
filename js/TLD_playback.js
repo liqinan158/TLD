@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>playback</h2><div class="git"><span class="ipa">[ˈpleɪbæk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">6798</span><div class="total">110231</div></div><div class="coca2">回放(<font color="orangered">99%</font>)，重放装置(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[电视][广播] 重放；录音重放装置</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

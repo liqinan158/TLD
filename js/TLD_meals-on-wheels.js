@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>meals-on-wheels</h2><div class="git"><span class="ipa">['mi:lz'ənw'i:lz]</span></div><span class="onm">原型:</span><span class="orm">meals-on-wheels 是 meals-on-wheel 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医]流动供膳车</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

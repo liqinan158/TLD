@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>biomarker</h2><div class="git"><span class="ipa">['baɪɒmɑ:kər]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15882</span><div class="total">21495</div></div><div class="coca2">生物标记(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">生物标志物；生物标记；生物指标</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>press gang</h2><div class="git"><span class="ipa">[pres ɡæŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">抓壮丁的部队，&lt;谑&gt;记者队，记者们</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Esq.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(用作礼仪称呼,常写在男子的全名后)...先生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

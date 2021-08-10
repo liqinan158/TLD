@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kepler, Johannes</h2><div class="git"><span class="ipa">[jɔ:'hɑ:nəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">开普勒(1571～1630，德国天文学家和物理学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

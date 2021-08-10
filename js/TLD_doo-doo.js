@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>doo-doo</h2><div class="git"><span class="ipa">['du:d'u:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[儿语]粪便; 大便，拉屎</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

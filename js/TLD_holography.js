@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>holography</h2><div class="git"><span class="ipa">[həʊ'lɒgrəfɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46669</span><div class="total">1167</div></div><div class="coca2">全息照相术(<font color="orangered">67%</font>)，雷射摄影术(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">全息术；全息摄影；[摄][激光] 全息照相术</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

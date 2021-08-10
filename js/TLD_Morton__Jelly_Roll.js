@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Morton, Jelly Roll</h2><div class="git"><span class="ipa">['dʒeli'rɔ:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">莫顿(1885～1941，美国爵士乐钢琴家和作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

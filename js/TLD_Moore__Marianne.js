@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Moore, Marianne</h2><div class="git"><span class="ipa">[kreiɡ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Moore, Marianne (Craig)</span></div><div class="dcb"><span class="dcn">[kreiɡ]</span></div><div class="dcb"><span class="dcn">穆尔(1887～1972，美国女诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

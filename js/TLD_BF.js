@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BF</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">金融学学士（Bachelor of Finance）；林业学士（Bachelor of Forestry）；男朋友（boyfriend）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

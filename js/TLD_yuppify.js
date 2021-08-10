@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yuppify</h2><hr/></div><div class="coca2">为迎合雅皮士而改变(<font color="orangered">50%</font>)，使 ... 雅皮士化(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> 使（市区等）更华贵时髦；使雅皮士化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

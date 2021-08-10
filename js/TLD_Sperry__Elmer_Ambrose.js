@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sperry, Elmer Ambrose</h2><div class="git"><span class="ipa">['speri]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯佩里(1860～1930，美国发明家、制造商)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

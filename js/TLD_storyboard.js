@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>storyboard</h2><div class="git"><span class="ipa">[ˈstɔ:ribɔ:d]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16765</span><div class="total">19154</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（电影、电视节目或商业广告等的）情节串连图板</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

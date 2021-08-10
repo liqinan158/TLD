@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shaggy dog story</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">冗长繁琐叙述后有一个意外结尾的故事</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">长毛狗的故事；冗长无聊的狗故事；冗长杂乱的故事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

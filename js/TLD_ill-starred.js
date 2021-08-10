@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ill-starred</h2><div class="git"><span class="ipa">[ˈilˈstɑ:d]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">57254</span><div class="total">429</div></div><div class="coca2">不幸的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">运气不佳的（等于ill-facted）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

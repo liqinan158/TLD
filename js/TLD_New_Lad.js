@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>New Lad</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">New Lad</span></div><div class="dcb"><span class="dcn">(以大男子主义者自居的)新派小子</span></div><div class="dcb"><span class="dcn">以上来源于：《21世纪大英汉词典》</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

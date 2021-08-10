@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Carver, George Washington</h2><div class="git"><span class="ipa">['kɑ:və]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡弗(1864?～1943，美国植物学家、化学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

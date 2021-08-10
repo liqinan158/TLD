@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PBS</h2><div class="git"><span class="ipa">[.piː biː 'es]</span></div><span class="onm">原型:</span><span class="orm">pb</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（美）公共广播公司（Public Broadcasting Service）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

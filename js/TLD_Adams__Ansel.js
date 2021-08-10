@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Adams, Ansel</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">亚当斯(1902～1983，美国摄影家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

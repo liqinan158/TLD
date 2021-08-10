@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>compulsiveness</h2><hr/></div><div class="coca2">强迫的(<font color="orangered">41%</font>)，难以抑制的(<font color="orangered">28%</font>)，上瘾的(<font color="orangered">20%</font>)，极有趣的(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">强迫</span></div><div class="dcb"><span class="dcn">有强制性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

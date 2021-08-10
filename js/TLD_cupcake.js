@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cupcake</h2><div class="git"><span class="ipa">[ˈkʌpkeɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">8401</span><div class="total">75136</div></div><div class="coca2">纸杯蛋糕(<font color="orangered">85%</font>)，对可爱女性的昵称(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">纸托蛋糕；杯形蛋糕</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

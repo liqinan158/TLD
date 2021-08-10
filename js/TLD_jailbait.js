@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jailbait</h2><div class="git"><span class="ipa">[ˈdʒeɪlbeɪt]</span></div><hr/></div><div class="coca2">未成年少女(<font color="orangered">50%</font>)，导致犯罪入狱的诱因(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">未成年少女；祸水妞（指如果与之性交即构成强奸罪的未成年女子）；导致犯罪入狱的诱因</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

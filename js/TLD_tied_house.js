@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tied house</h2><div class="git"><span class="ipa">[taid haus]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">酒厂酒吧（啤酒厂开设，主要卖自制啤酒）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">酒直销店；依附酒店；酿酒厂的连锁酒吧</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

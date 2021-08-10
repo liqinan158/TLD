@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>King's Counsel</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">英国王室法律顾问</span></div><div class="dcb"><span class="dcn">[法] 王室法律顾问, 王室律师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

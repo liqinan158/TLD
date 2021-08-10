@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wholewheat</h2><div class="git"><span class="ipa">[ˈhəʊlwi:t]</span></div><hr/></div><div class="coca2">全麦(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">全麦</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">用全麦做的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

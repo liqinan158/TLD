@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>two-dimensional</h2><div class="git"><span class="ipa">[ˈtu:dɪˈmenʃənəl, -daɪ-]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">17678</span><div class="total">17048</div></div><div class="coca2">两维的(<font color="orangered">50%</font>)，没有深度感觉的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">二维的；缺乏深度的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

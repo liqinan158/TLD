@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Curie, Marie</h2><div class="git"><span class="ipa">['kjuəri]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">玛丽居里(1867～1934，法国女化学家、物理学家，原籍波兰，与其丈夫比埃尔居里合作于1898年发现钋和镭两种天然放射性元素，曾获1903年诺贝尔物理学奖和1911年诺贝尔化学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

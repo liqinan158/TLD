@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Brahman</h2><div class="git"><span class="ipa">['brɑ:mәn]</span></div><hr/></div><div class="coca2">婆罗门牛(<font color="orangered">67%</font>)，波罗门(<font color="orangered">11%</font>)，=Brahmin.(<font color="orangered">11%</font>)，文人雅士(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">婆罗门；婆罗门牛（圣牛的一种，等于Brahmin）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

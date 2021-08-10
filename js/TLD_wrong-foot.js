@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wrong-foot</h2><div class="git"><span class="ipa">[rɔŋ fut]</span></div><hr/></div><div class="coca2">〈网球〉使 ... 脚步乱(<font color="orangered">50%</font>)，使 ... 手忙脚乱(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">使……脚步乱，使……手忙脚乱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

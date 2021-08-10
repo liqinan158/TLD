@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>charlady</h2><div class="git"><span class="ipa">[ˈtʃɑ:leɪdi]</span></div><hr/></div><div class="coca2">零佣的女性(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">零佣的女性，打杂女佣（等于charwoman）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

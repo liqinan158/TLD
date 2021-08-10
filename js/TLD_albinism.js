@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>albinism</h2><div class="git"><span class="ipa">[ˈælbɪnɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31614</span><div class="total">4051</div></div><div class="coca2">白化病(<font color="orangered">81%</font>)，皮肤变白症(<font color="orangered">19%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[皮肤] 白化病；皮肤变白症</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

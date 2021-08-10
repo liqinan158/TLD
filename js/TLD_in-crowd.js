@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>in-crowd</h2><div class="git"><span class="ipa">['inkraud]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">小团体；小集团；小圈子；一群圈内熟人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fetchingly</h2><hr/></div><div class="coca2">迷人的(<font color="orangered">47%</font>)，动人的(<font color="orangered">34%</font>)，引人的(<font color="orangered">14%</font>)，动词fetch的现在分词形式.(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">吸引人的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

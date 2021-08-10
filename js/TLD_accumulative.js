@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>accumulative</h2><div class="git"><span class="ipa">[əˈkju:mjələtɪv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">39656</span><div class="total">2034</div></div><div class="coca2">累计的(<font color="orangered">50%</font>)，积聚的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">累计的；累积的；积聚而成的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

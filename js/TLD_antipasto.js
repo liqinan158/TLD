@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>antipasto</h2><div class="git"><span class="ipa">[ˌæntiˈpæstəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38656</span><div class="total">2205</div></div><div class="coca2">开胃的食品(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">前菜；开胃菜；开胃食物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

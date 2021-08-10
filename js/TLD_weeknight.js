@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>weeknight</h2><div class="git"><span class="ipa">[ˈwi:knaɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19416</span><div class="total">13835</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">工作日夜晚（指周末休息日以外的每个夜晚）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

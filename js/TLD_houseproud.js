@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>houseproud</h2><div class="git"><span class="ipa">[haʊspradʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（期待他人夸赞而）热衷于收拾房子的，注重房屋装饰的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>charioteer</h2><div class="git"><span class="ipa">[ˌtʃæriəˈtɪə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40198</span><div class="total">1953</div></div><div class="coca2">御夫座(<font color="orangered">67%</font>)，战车的驾驭者(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">战车的御者；御夫座</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

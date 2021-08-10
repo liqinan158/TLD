@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bespatter</h2><div class="git"><span class="ipa">[bɪˈspætə(r)]</span><span class="frm">bespattered, bespattering, bespatters</span></div><hr/></div><div class="coca2">诋毁(<font color="orangered">47%</font>)，溅污(<font color="orangered">40%</font>)，溅(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">诋毁；溅污；点缀</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rashness</h2><div class="git"><span class="ipa">[ræʃnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44788</span><div class="total">1350</div></div><div class="coca2">鲁莽(<font color="orangered">55%</font>)，轻率(<font color="orangered">45%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">轻率；皮肤上短暂出现的疹子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

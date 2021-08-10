@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DOD</h2><div class="git"><span class="ipa">[dɔd]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Dod)人名；(英)多德(男子教名George的昵称)；(南非)多德</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国国防部（Department of Defense of the United States）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

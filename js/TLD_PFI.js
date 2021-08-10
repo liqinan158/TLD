@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PFI</h2><hr/></div><div class="coca2">美国制管研究所规格(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">喷嘴燃油喷射（Port Fuel Injection）；制管研究所（Pipe Fabrication Institute）；功率因数指示器（Power Forward Initiative）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

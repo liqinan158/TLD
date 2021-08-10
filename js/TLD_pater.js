@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pater</h2><div class="git"><span class="ipa">[ˈpeɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46075</span><div class="total">1225</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">父亲</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Pater)人名；(英)佩特；(法、德、罗、捷、波)帕特尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

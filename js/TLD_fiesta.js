@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fiesta</h2><div class="git"><span class="ipa">[fiˈestə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21320</span><div class="total">11104</div></div><div class="coca2">节日(<font color="orangered">67%</font>)，假日(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圣日，宗教节日；祭典；假日</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

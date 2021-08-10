@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>communication cord</h2><div class="git"><span class="ipa">[kəˌmju:niˈkeiʃən kɔ:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">（车厢内的）警报索</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

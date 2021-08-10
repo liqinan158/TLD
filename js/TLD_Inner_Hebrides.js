@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Inner Hebrides</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 10</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">内赫布里底群岛；内赫布立群岛；苏格兰内赫布里底群岛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

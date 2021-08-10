@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kampuchea</h2><div class="git"><span class="ipa">[kɑ:m'pu:tʃiә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(=Cambodia)柬埔寨(位于东南亚)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

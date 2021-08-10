@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paan</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 蒌叶，蒟酱叶包槟榔， 包叶槟榔 （通常折成粽子状用以食用）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

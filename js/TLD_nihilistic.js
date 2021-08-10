@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nihilistic</h2><div class="git"><span class="ipa">[ˌnaɪɪ'lɪstɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">33165</span><div class="total">3500</div></div><div class="coca2">虚无主义的(<font color="orangered">53%</font>)，无政府主义的(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">虚无主义的；无政府主义的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

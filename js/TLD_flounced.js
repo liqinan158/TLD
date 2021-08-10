@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flounced</h2><div class="git"><span class="ipa">[flaʊnst]</span></div><span class="onm">原型:</span><span class="orm">flounced 是 flounce 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">暴跳，怒气冲冲地走动( flounce的过去式和过去分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

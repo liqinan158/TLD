@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homozygous</h2><div class="git"><span class="ipa">[ˌhɒmə'zaɪɡəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27050</span><div class="total">6161</div></div><div class="coca2">纯合子的(<font color="orangered">54%</font>)，同型结合的(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">纯合子的；同型结合的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

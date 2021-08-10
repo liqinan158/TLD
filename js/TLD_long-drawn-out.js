@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>long-drawn-out</h2><div class="git"><span class="ipa">[lɔŋ drɔ:n aut]</span></div><hr/></div><div class="coca2">持续很久的(<font color="orangered">67%</font>)，拖长的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">拖长的；持续很久的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

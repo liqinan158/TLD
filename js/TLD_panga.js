@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>panga</h2><div class="git"><span class="ipa">[ˈpæŋgə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50209</span><div class="total">867</div></div><div class="coca2">短刀之一种(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">非洲的大砍刀；一种巴拿马独木舟；一种治神经痛的药</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

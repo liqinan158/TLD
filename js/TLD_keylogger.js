@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>keylogger</h2><div class="git"><span class="ipa">[ 'ki:lɒgə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39087</span><div class="total">2128</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">键盘记录器; 键盘侧录（程序名称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

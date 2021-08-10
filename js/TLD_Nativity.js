@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nativity</h2><div class="git"><span class="ipa">[nəˈtɪvəti]</span></div><hr/></div><div class="coca2">诞生(<font color="orangered">74%</font>)，出生(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">出生；出生地；（Nativity）耶稣的诞生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>H</h2><div class="git"><span class="ipa">[eitʃ]</span></div><hr/></div><div class="coca2">英语字母表的第八个字母(<font color="orangered">50%</font>)，氢的化学符号.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">英语字母中的第八个字母，小写为h</span></div><div class="dcb"><span class="pos">symb.</span><span class="dcn">氢（化学元素）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

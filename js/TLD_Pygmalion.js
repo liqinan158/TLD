@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pygmalion</h2><div class="git"><span class="ipa">[pig'meiljәn]</span></div><hr/></div><div class="coca2">热恋自己雕的少女像)(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卖花女（英国萧伯纳之作品人物）；塞浦路斯王皮格马利翁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

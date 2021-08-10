@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>keyboarder</h2><div class="git"><span class="ipa">[ˈki:bɔ:də(r)]</span></div><hr/></div><div class="coca2">键盘(<font color="orangered">98%</font>)，用键盘输入(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">使用键盘者；录入员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

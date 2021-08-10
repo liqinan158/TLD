@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sausage dog</h2><div class="git"><span class="ipa">[ˈsɔsidʒ dɔɡ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> &lt;英&gt;&lt;非正&gt;一种短腿长身的德国种猎犬</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

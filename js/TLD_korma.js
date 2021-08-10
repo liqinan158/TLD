@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>korma</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50712</span><div class="total">827</div></div><div class="coca2">拷玛(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> 奶油（或酸奶）浸肉（常加有杏仁的南亚咖哩菜肴或调味汁）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

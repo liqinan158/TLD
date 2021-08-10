@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unlikelihood</h2><div class="git"><span class="ipa">[ʌn'laɪklɪhʊd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52691</span><div class="total">687</div></div><div class="coca2">未必有(<font color="orangered">50%</font>)，不可信(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">不可信；未必有；不大可能的事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

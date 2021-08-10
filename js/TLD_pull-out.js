@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pull-out</h2><div class="git"><span class="ipa">[pul aut]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">书刊内可以取出的部分；杂志等之可拆下单独保存的部分</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

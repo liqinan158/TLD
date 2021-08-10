@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>off-peak</h2><div class="git"><span class="ipa">[ˈɔ:fˈpi:k, ˈɔf-]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">20549</span><div class="total">12130</div></div><div class="coca2">非高峰的(<font color="orangered">50%</font>)，非尖峰的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">非尖峰的；[电] 非峰值的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

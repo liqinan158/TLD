@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polyandrous</h2><div class="git"><span class="ipa">[ˌpɒlɪ'ændrəs]</span></div><hr/></div><div class="coca2">一妻多夫的(<font color="orangered">58%</font>)，多雄蕊的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">多雄蕊的；一妻多夫的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

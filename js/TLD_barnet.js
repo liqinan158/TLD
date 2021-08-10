@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>barnet</h2><div class="git"><span class="ipa">['bɑ:nɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58583</span><div class="total">367</div></div><div class="gdc"><div class="dcb"><span class="dcn"> [人名] [英格兰人姓氏] 巴尼特住所名称，来源于古英语，含义是“烧垦地”(place cleared by burning); [地名] [加拿大、美国、英国] 巴尼特</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

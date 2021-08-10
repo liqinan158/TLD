@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>goad on</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">煽动;引诱;强迫某人(做坏事或蠢事)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ankylosaur</h2><div class="git"><span class="ipa">[ˈæŋkɪləsɔ:(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（白垩纪的古生物）甲龙（因披甲而有“爬行坦克”之称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

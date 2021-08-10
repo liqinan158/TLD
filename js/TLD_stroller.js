@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stroller</h2><div class="git"><span class="ipa">[ˈstrəʊlə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">9845</span><div class="total">56329</div></div><div class="coca2">散步者(<font color="orangered">64%</font>)，流浪者(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">散步者；流浪者；（美）折叠式婴儿车；巡回演出的演员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

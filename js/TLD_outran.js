@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>outran</h2><div class="git"><span class="ipa">[ˌaʊtˈræn]</span></div><span class="onm">原型:</span><span class="orm">outran 是 outrun 的过去式</span><hr/></div><div class="coca2">超过范围(追过(<font color="orangered">50%</font>)，比 ... 跑得更快)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">超过；比…跑得快（outrun的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

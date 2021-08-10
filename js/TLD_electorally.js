@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>electorally</h2><div class="git"><span class="ipa">[i'lektərəli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">50703</span><div class="total">828</div></div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">从选举方面来讲（electoral的副词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

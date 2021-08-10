@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lanarkshire</h2><div class="git"><span class="ipa">['lænәkʃә(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">拉纳克郡[英国苏格兰原郡名]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

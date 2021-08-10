@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pension book</h2><div class="git"><span class="ipa">[ˈpenʃən buk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英国的）养老金单据簿（每周可凭此到邮局领取现金）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

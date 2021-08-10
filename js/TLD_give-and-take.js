@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>give-and-take</h2><div class="git"><span class="ipa">['gɪvən'teɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">40115</span><div class="total">1966</div></div><div class="coca2">互相让步(<font color="orangered">58%</font>)，互相迁就(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">妥协；互让；意见交换</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

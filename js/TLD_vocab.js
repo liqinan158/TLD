@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vocab</h2><div class="git"><span class="ipa">['vəʊkæb]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34086</span><div class="total">3228</div></div><div class="coca2">=vocabulary(<font color="orangered">50%</font>)，词汇量(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">词汇（vocabulary）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

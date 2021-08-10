@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hindlimb</h2><div class="git"><span class="ipa">[ˈhaɪndlɪm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60206</span><div class="total">284</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（动物或昆虫的）后肢，下肢</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

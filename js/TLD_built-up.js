@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>built-up</h2><div class="git"><span class="ipa">[ˈbiltʌp]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">25534</span><div class="total">7133</div></div><div class="coca2">组合的(<font color="orangered">56%</font>)，建筑物多的(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">组合的，拼合的；建筑物多的；以增添组件而加高</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

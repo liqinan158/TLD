@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mantle, Mickey</h2><div class="git"><span class="ipa">['mæntl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Mantle, Mickey (Charles)</span></div><div class="dcb"><span class="dcn">['mæntl]</span></div><div class="dcb"><span class="dcn">曼特尔 (1931～1995，美国著名职业棒球运动员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

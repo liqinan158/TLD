@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rubens, Peter Paul</h2><div class="git"><span class="ipa">['ru:bənz; 'rju:bəns]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">鲁本斯(1577～1640，佛兰德斯画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

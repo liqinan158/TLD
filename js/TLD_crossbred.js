@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crossbred</h2><div class="git"><span class="ipa">['krɔ:sbred]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">杂种的，杂交的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">杂种</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">杂交繁育(crossbreed的过去式和过去分词)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

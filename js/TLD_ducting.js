@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ducting</h2><div class="git"><span class="ipa">[ˈdʌktɪŋ]</span></div><span class="onm">原型:</span><span class="orm">ducting 是 duct 的现在分词</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37798</span><div class="total">2352</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">管道，导管；大气波导现象</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

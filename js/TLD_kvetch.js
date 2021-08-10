@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kvetch</h2><div class="git"><span class="ipa">[kvetʃ]</span><span class="frm">kvetched, kvetching, kvetches</span></div><hr/></div><div class="coca2">抱怨(<font color="orangered">78%</font>)，老找碴的人(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）吹毛求疵的人</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">（美）经常性地发牢骚；抱怨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

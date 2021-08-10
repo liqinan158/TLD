@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Passiontide</h2><div class="git"><span class="ipa">['pæʃәntaid]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[宗]耶稣受难节(指大斋节期中最后两个星期, 从受难主日到圣星期六)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

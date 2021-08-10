@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SPF</h2><div class="git"><span class="ipa">[.es piː 'ef]</span></div><hr/></div><div class="coca2">=Storage Protect Feature 存储保护特征(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">防晒系数（Sun Protect Factor）；存储保护特征（Storage Protect Feature）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

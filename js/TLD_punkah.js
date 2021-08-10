@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>punkah</h2><div class="git"><span class="ipa">[ˈpʌŋkə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（印度等地的）蒲葵扇，（悬于天花板上的）布屏风扇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>underpriced</h2><span class="onm">原型:</span><span class="orm">underpriced 是 underprice 的过去式和过去分词</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">41346</span><div class="total">1779</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 定价过低的；售价过低的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

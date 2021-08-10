@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kebab</h2><div class="git"><span class="ipa">[kɪˈbæb]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23375</span><div class="total">8890</div></div><div class="coca2">烤肉串(<font color="orangered">88%</font>)，=kabob.(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（印）烤肉串；烤腌羊肉串（等于kabob）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

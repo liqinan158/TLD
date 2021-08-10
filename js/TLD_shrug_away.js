@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shrug away</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn">满不在乎；不理睬；不屑一顾；摆脱；免除；扭动身子脱去(衣服)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

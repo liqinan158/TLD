@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>e-zine</h2><div class="git"><span class="ipa">[ˈi:ˌzi:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42599</span><div class="total">1604</div></div><div class="coca2">电子杂志(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">电子杂志（Electronic Magazine）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

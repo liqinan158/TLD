@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cable stitch</h2><div class="git"><span class="ipa">[ˈkeibl stitʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">缆索样编织法</span></div><div class="dcb"><span class="dcn">缆索样编织法的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>liner note</h2><div class="git"><span class="ipa">[ˈlainə nəut]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（唱片封套上的）内容简介，小段说明文字</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

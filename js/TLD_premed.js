@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>premed</h2><div class="git"><span class="ipa">[pri:'med]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">医科大学预科学生; 医科大学预科学习课程</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

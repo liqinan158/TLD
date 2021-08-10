@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bicoastal</h2><div class="git"><span class="ipa">[ˌbaɪˈkəʊstl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">48773</span><div class="total">990</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（活跃在）大西洋和太平洋东西海岸的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

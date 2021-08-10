@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>c-word</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">C 开头的词（用以替代不想说出口的以 C 开头的冒犯性脏话等，如 cunt、cancer）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英语常用同义词辨析；台词</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

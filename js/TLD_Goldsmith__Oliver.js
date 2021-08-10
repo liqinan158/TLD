@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Goldsmith, Oliver</h2><div class="git"><span class="ipa">['ɡəuldsmiθ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哥尔德斯密斯(1730?～1774，英国诗人、剧作家、小说家，生于爱尔兰)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

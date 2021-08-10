@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>godlessness</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54201</span><div class="total">592</div></div><div class="coca2">不信神的(<font color="orangered">49%</font>)，无神论者的(<font color="orangered">29%</font>)，不敬神的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">无神论</span></div><div class="dcb"><span class="dcn">不信上帝</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

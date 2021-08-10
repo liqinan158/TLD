@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lector</h2><div class="git"><span class="ipa">[ˈlektɔ:(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41105</span><div class="total">1815</div></div><div class="coca2">助理牧师(<font color="orangered">50%</font>)，讲师(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">讲师；助理牧师；（教堂礼拜时的）读经者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

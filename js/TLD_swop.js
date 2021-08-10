@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>swop</h2><div class="git"><span class="ipa">[swɔp]</span><span class="frm">swopped, swopping, swops</span></div><hr/></div><div class="coca2">交换(<font color="orangered">84%</font>)，=swap.(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">交换；以货易货</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">交换；替换</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

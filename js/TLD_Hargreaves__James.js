@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hargreaves, James</h2><div class="git"><span class="ipa">['hɑ:ɡri:vz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哈格里夫斯(? ～1778，英国发明家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

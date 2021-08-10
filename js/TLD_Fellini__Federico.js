@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fellini, Federico</h2><div class="git"><span class="ipa">['felini]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">费利尼(1920～1995，意大利著名电影导演)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

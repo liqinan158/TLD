@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>funda</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [地名] [安哥拉] 丰达</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

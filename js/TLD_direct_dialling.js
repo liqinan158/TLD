@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>direct dialling</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 直接拨号（无须经过接线员）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

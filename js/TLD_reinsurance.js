@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reinsurance</h2><div class="git"><span class="ipa">[ˌri:ɪnˈʃʊərəns]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19367</span><div class="total">13920</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">再保险；再保险金额</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

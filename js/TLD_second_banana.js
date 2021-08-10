@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>second banana</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">次要人物；〈美俚〉(戏剧,杂耍中的)配角</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">随从式人物；次要滑稽演员；喜剧演员的配角</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

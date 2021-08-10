@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>starkness</h2><div class="git"><span class="ipa">['sta:knis]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52623</span><div class="total">691</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">严厉；质朴无华；严酷；明显（stark的名词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

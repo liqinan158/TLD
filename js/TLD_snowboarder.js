@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>snowboarder</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23265</span><div class="total">8987</div></div><div class="coca2">滑雪板(<font color="orangered">93%</font>)，用滑雪板(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">雪山飞魂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

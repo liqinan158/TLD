@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grammarian</h2><div class="git"><span class="ipa">[grəˈmeəriən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38348</span><div class="total">2255</div></div><div class="coca2">语法学家(<font color="orangered">70%</font>)，文法家(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">文法学者，文法家；文法教师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

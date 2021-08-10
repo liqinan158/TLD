@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>studmuffin</h2><div class="git"><span class="ipa">[ˈstʌdmʌfɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 性感男子, 被视为性象征的男子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sinfonietta</h2><div class="git"><span class="ipa">[ˌsɪnfəʊnɪ'etə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;意&gt;小交响曲； （尤指只有弦乐器的）小交响乐队</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

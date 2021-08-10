@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>marmalade cat</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">marmalade cat</span></div><div class="dcb"><span class="dcn">【动物】 橙色斑猫，红色斑条猫</span></div><div class="dcb"><span class="dcn">以上来源于：《21世纪大英汉词典》</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

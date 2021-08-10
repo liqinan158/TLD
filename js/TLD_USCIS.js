@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>USCIS</h2><span class="onm">原型:</span><span class="orm">USCIS 是 usci 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国公民及移民服务局（US Citizenship and Immigration Services）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

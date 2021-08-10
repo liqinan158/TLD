@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lav</h2><div class="git"><span class="ipa">[læv]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35774</span><div class="total">2800</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">洗手间；厕所；盥洗室（等于lavatory）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Lav)人名；(乌克、塞)拉夫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

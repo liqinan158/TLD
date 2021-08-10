@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>partitive</h2><div class="git"><span class="ipa">[ˈpɑ:tətɪv]</span></div><hr/></div><div class="coca2">表示部分的词(<font color="orangered">51%</font>)，区分的(<font color="orangered">37%</font>)，表示部份的(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">表示部分的词</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">区分的；表示部分的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

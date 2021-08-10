@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Prophets</h2><div class="git"><span class="ipa">[ˈprɔfits]</span></div><span class="onm">原型:</span><span class="orm">prophets 是 prophet 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">预言家, 先知( prophet的复数形式 ); 倡导者; 穆罕默德（伊斯兰教的创始人）; (&lt;圣经&gt;旧约&gt;和&lt;希伯来圣经&gt;中的)先知书</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

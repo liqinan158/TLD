@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-order</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">10913</span><div class="total">46093</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">预购；预订</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

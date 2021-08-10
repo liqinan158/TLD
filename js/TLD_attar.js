@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>attar</h2><div class="git"><span class="ipa">[ˈætə(r)]</span></div><hr/></div><div class="coca2">玫瑰油(<font color="orangered">51%</font>)，花油(<font color="orangered">35%</font>)，=ottar.(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">玫瑰油；香精油；挥发油；花油</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Attar)人名；(阿拉伯、土、俄)阿塔尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

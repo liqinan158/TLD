@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>horse-trading</h2><div class="git"><span class="ipa">[ˈhɔ:sˌtreɪdɪŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58680</span><div class="total">362</div></div><div class="coca2">讨价还价(<font color="orangered">50%</font>)，精明的谈判(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">讨价还价；争论工作分配</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flashgun</h2><div class="git"><span class="ipa">[ˈflæʃgʌn]</span></div><hr/></div><div class="coca2">闪光枪(<font color="orangered">70%</font>)，闪光操纵器(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">闪光操纵器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

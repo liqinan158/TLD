@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>monotheist</h2><div class="git"><span class="ipa">['mɒnəʊθɪɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50739</span><div class="total">826</div></div><div class="coca2">一神论者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一神论者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

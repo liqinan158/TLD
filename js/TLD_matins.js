@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>matins</h2><div class="git"><span class="ipa">[mætnz]</span></div><hr/></div><div class="coca2">英国教堂之晨祷(<font color="orangered">50%</font>)，天主教之子夜或黎明之祈祷(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">晨祷</span></div><div class="dcb"><span class="dcn">现通常在黎明朗诵赞美歌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

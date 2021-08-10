@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mackenzie</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">麦肯齐河（又译“马更些河”, 加拿大西北部河流）；麦肯齐区（又译“马更些区”, 加拿大西北部的小区）；麦肯齐氏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

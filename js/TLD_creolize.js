@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>creolize</h2><div class="git"><span class="ipa">[ˈkri:əlaɪz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使克里奥尔化，使成混合语</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

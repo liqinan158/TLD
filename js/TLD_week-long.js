@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>week-long</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">16414</span><div class="total">20066</div></div><div class="coca2">为期一周的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">持续一星期的；为时一周的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">为时一周；在一个星期中</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

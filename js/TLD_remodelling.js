@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>remodelling</h2><div class="git"><span class="ipa">[ri:ˈmɔdlɪŋ]</span></div><span class="onm">原型:</span><span class="orm">remodelling 是 remodel 的现在分词</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35736</span><div class="total">2810</div></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">改变…的结构[形状]( remodel的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>extra-</h2><div class="git"><span class="ipa">[ˈekstrə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">在...之外；超出</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

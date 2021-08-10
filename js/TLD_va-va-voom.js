@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>va-va-voom</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 令人兴奋的特性；性感</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

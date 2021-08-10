@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cytomegalovirus</h2><div class="git"><span class="ipa">[ˌsaɪtəʊˈmegələʊvaɪrəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41109</span><div class="total">1814</div></div><div class="coca2">名词(<font color="orangered">60%</font>)，形容词(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[病毒] 巨细胞病毒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

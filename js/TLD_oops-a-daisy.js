@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oops-a-daisy</h2><div class="git"><span class="ipa">[ˈʊpsə deɪzi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">（帮助别人爬过或上到某物时所说的）上</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

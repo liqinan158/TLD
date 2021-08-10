@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reducible</h2><div class="git"><span class="ipa">[rɪˈdju:səbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">37390</span><div class="total">2435</div></div><div class="coca2">可缩小的(<font color="orangered">60%</font>)，可降低的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[数] 可约的，可化简的；可还原的；可缩小的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

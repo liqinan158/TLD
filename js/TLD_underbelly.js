@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>underbelly</h2><div class="git"><span class="ipa">[ˈʌndəbeli]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23202</span><div class="total">9051</div></div><div class="coca2">下腹部(<font color="orangered">78%</font>)，易受攻击的地带(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">下腹部；薄弱部分；易受攻击的部位、区域等</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

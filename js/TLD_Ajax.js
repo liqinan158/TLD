@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ajax</h2><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ajax)人名；(法)阿雅克斯；(瑞典)阿亚克斯；(英)埃贾克斯</span></div><div class="dcb"><span class="dcn">创建交互式 Web 应用程序而无需牺牲浏览器兼容性的流行方法（Asynchronous JavaScript and XML）；爵士白；铅青铜轴承合金</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

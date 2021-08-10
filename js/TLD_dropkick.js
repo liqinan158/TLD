@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dropkick</h2><div class="git"><span class="ipa">['drɒpkɪk]</span><span class="frm">dropkicked, dropkicking, dropkicks</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37394</span><div class="total">2434</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">踢反弹球（球着地，尚未弹起便被踢出去的动作）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

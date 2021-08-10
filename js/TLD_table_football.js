@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>table football</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">桌上足球；足球机</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">小酒吧里玩着桌上足球台；小酒吧里玩著桌上足球台；把足球列成表图片</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

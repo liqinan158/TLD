@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homologous</h2><div class="git"><span class="ipa">[həˈmɒləgəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26422</span><div class="total">6559</div></div><div class="coca2">相应的(<font color="orangered">84%</font>)，一致的(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">相应的；[生物] 同源的；类似的；一致的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

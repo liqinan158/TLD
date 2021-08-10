@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>harem</h2><div class="git"><span class="ipa">[ˈhɑ:ri:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20403</span><div class="total">12298</div></div><div class="coca2">一位男性的一群女性性伴侣(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">为一个雄性动物所控制的许多雌性动物；闺房里的妻妾群；闺房（伊斯兰教教徒的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

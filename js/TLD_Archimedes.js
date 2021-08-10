@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Archimedes</h2><div class="git"><span class="ipa">[.ɑ:ki'mi:di:z]</span></div><span class="onm">原型:</span><span class="orm">Archimedes 是 archimede 的第三人称单数</span><hr/></div><div class="coca2">阿基米德(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿基米德（古希腊数学家、物理学家、发明家、学者）；阿基米德月面圆谷</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

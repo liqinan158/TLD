@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Baudelaire, Charles</h2><div class="git"><span class="ipa">[bəud'lεə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Baudelaire, (Pierre) Charles</span></div><div class="dcb"><span class="dcn">[bəud'lεə]</span></div><div class="dcb"><span class="dcn">波德莱尔(1821～1867，法国诗人、文艺批评家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

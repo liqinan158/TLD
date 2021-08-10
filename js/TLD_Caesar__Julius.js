@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Caesar, Julius</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Caesar,(Gaius) Julius</span></div><div class="dcb"><span class="dcn">恺撒(公元前100～前44，古罗马的统帅、政治家；罗马帝国的执政官)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

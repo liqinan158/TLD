@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bartlett's Familiar Quotations</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">常用妙语词典；巴氏常用引用语</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

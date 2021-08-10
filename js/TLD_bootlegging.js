@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bootlegging</h2><div class="git"><span class="ipa">['bu:tleɡɪŋ]</span></div><span class="onm">原型:</span><span class="orm">bootlegging 是 bootleg 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">非法制造或贩卖( bootleg的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>falling-off</h2><hr/></div><div class="coca2">下降(<font color="orangered">75%</font>)，减退(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">下降；衰退；减少</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

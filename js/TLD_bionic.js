@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bionic</h2><div class="git"><span class="ipa">[baɪˈɒnɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">23194</span><div class="total">9054</div></div><div class="coca2">仿生学的(<font color="orangered">82%</font>)，仿生替代增强的(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">仿生学的；利用仿生学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

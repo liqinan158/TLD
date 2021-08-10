@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>name-dropper</h2><div class="git"><span class="ipa">['neɪmdr'ɒpə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">以仿佛很熟悉的口吻谈到著名人物的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phon-</h2><div class="git"><span class="ipa">['fɒn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医]〔构词成分〕意为声音、音或声</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

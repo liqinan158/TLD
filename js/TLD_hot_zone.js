@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hot zone</h2><div class="git"><span class="ipa">[hɔt zəun]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 30</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 30</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">热区；热带；高温带；断字区</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">热场；热点；危险区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

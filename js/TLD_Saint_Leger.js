@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Saint Leger</h2><div class="git"><span class="ipa">['ledʒə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Saint Leger, the</span></div><div class="dcb"><span class="dcn">['ledʒə]</span></div><div class="dcb"><span class="dcn">圣莱杰马赛(每年9月在英国唐卡斯特举行的三岁马马赛)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

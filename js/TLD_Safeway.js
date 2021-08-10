@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Safeway</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">西夫韦（连锁超市）；喜互惠（连锁超市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

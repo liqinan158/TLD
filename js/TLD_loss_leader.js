@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>loss leader</h2><div class="git"><span class="ipa">[lɔs ˈli:də]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">为招揽顾客而亏本出售的货物</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">损失领导物；亏本出售的商品；亏本出售商品</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

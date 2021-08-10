@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UNMOVIC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">视察委员会；监核视委；联合国监核会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

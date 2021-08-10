@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pantsuit</h2><div class="git"><span class="ipa">[ˈpæntsu:t]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38183</span><div class="total">2285</div></div><div class="coca2">长裤与衣相配成套的便服(<font color="orangered">67%</font>)，=pants suit.(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">长裤与衣相配成套的便服；裤套装</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

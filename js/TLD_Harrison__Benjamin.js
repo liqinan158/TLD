@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Harrison, Benjamin</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哈里逊·本杰明（美国独立战争领导人之一，美第二十三任总统）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

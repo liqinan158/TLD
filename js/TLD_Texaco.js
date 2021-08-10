@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Texaco</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">德士古（财富500强公司之一, 总部所在地美国, 主要经营炼油）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ardennes</h2><div class="git"><span class="ipa">[a:'denz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿登高地（法国北部, 比利时东南部及卢森堡北部, 默兹河的东西两方的高原）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

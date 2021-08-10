@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>glamper</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">People who go camping but have every single luxury necessity of the home in the woods.</span></div><div class="dcb"><span class="deq">&gt; Did you see those glampers? They have an air conditioner in their 12 person tent along with WiFi and a flat-screen.</span></div><div class="dcb"><span class="deq">&gt; [technocamper]</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>turf accountant</h2><div class="git"><span class="ipa">[tɜ:f əˈkauntənt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[英国英语](赛马等)赌注登记经纪人[亦作 bookmaker]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

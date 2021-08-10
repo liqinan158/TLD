@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>borlotti bean</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 粉色菜豆，粉红四季豆（煮后呈棕色）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

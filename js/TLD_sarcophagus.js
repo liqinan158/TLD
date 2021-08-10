@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sarcophagus</h2><div class="git"><span class="ipa">[sɑ:ˈkɒfəgəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25842</span><div class="total">6934</div></div><div class="coca2">石棺(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（雕刻精美的）石棺；（古希腊人用来制石棺的）大理石</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

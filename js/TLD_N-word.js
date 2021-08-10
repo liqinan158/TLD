@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>N-word</h2><div class="git"><span class="ipa">[en wə:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">nonce word (word coined for the occasion) 适合现在的话（为某场合而准备的话）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

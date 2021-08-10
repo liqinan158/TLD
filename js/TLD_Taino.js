@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Taino</h2><div class="git"><span class="ipa">['tainәu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(pl. Taino, Tainos)泰诺人(西印度群岛的一支已绝种的印第安人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

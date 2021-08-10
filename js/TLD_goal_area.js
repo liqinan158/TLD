@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>goal area</h2><div class="git"><span class="ipa">[ɡəul ˈɛəriə]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【足】球门区；小禁区</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">球门区域；细禁区；门内区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

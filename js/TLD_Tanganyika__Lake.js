@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tanganyika, Lake</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">坦噶尼喀湖(非洲中部湖泊)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

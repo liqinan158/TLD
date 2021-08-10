@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homeopathy</h2><div class="git"><span class="ipa">[ˌhəʊmiˈɒpəθi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19169</span><div class="total">14267</div></div><div class="coca2">顺势疗法(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[临床] 顺势疗法；同种疗法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

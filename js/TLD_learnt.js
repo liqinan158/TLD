@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>learnt</h2><div class="git"><span class="ipa">[lɜ:nt]</span></div><span class="onm">原型:</span><span class="orm">learnt 是 learn 的过去式和过去分词</span><hr/></div><div class="coca2">动词(<font color="orangered">96%</font>)，名词(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">学习（learn的过去式和过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

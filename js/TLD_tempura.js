@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tempura</h2><div class="git"><span class="ipa">[ˈtempʊrə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31949</span><div class="total">3928</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">天麸罗（日本菜肴，将鱼虾及蔬菜等蘸上鸡蛋牛奶面糊炸熟）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

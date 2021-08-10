@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mayfair</h2><div class="git"><span class="ipa">['meifєә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伦敦的上流住宅区, 伦敦的上流社会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

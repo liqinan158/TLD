@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spiralling</h2><div class="git"><span class="ipa">['spaɪərəlɪŋ]</span></div><span class="onm">原型:</span><span class="orm">spiralling 是 spiral 的现在分词</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">34939</span><div class="total">3004</div></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">螺旋形运动；原地打转；使...成螺旋形（spiral的现在分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

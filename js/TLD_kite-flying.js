@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kite-flying</h2><div class="git"><span class="ipa">['kaɪtfl'aɪɪŋ]</span></div><hr/></div><div class="coca2">发行通融票据(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">放风筝；发行通融票据；开空头支票</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

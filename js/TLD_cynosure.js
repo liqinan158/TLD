@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cynosure</h2><div class="git"><span class="ipa">[ˈsɪnəzjʊə(r)]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">北极星(<font color="orangered">58%</font>)，注意的焦点(<font color="orangered">28%</font>)，指引物(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">指针；众人瞩目的焦点</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

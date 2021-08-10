@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dopamine</h2><div class="git"><span class="ipa">[ˈdəʊpəmi:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">12920</span><div class="total">32971</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生化] 多巴胺（一种治脑神经病的药物）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

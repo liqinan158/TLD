@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>strode</h2><div class="git"><span class="ipa">[strəʊd]</span></div><span class="onm">原型:</span><span class="orm">strode 是 stride 的过去式和过去分词</span><hr/></div><div class="coca2">动词stride的过去式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">大步走（stride的过去式）；跨越</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

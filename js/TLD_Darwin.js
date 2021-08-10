@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Darwin</h2><div class="git"><span class="ipa">['dɑ:win]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">达尔文（①姓氏， 男子名 ②Charles Robert， 1809-1882， 英国博物学家， 进化论创始人 ③澳大利亚港市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

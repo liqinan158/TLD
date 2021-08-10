@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fido</h2><div class="git"><span class="ipa">['faɪdəʊ]</span></div><hr/></div><div class="coca2">有铸造缺陷的硬币(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">有铸造缺陷的硬币；燃油加热驱雾器</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Fido)人名；(英、意)菲多</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

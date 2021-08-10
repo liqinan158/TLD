@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>noughts and crosses</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">画圈打叉游戏（等于noughts-and-crosses）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

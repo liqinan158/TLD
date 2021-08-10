@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the green-eyed monster</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">〈幽默〉嫉妒</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">妒忌；绿眼睛的妖魔；忌妒的怪兽</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>colostrum</h2><div class="git"><span class="ipa">[kəˈlɒstrəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25074</span><div class="total">7449</div></div><div class="coca2">初乳(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生理] 初乳（生产前后数日所分泌的乳）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

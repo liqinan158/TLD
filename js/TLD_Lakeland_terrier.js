@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lakeland terrier</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">湖畔梗, 湖地狗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

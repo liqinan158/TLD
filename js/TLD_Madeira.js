@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Madeira</h2><div class="git"><span class="ipa">[mә'diәrә]</span></div><hr/></div><div class="coca2">该地产的白葡萄酒)(<font color="orangered">50%</font>)，马德拉(大西洋的群岛名(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马德拉群岛（大西洋的群岛名）；马得拉白葡萄酒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

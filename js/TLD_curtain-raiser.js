@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>curtain-raiser</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52176</span><div class="total">719</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">开场短剧，（事件的）引子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

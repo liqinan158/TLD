@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DLC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">digital loop carrier 数字用户线路倍增器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

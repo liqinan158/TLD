@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>B-road</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">宽的，辽阔的；显著的；大概的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">宽阔部分</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">宽阔地</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Broad)人名；(英、德)布罗德</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nymphet</h2><div class="git"><span class="ipa">[ˈnɪmfet]</span></div><hr/></div><div class="coca2">放荡的少妇(<font color="orangered">37%</font>)，仙女般的少女(<font color="orangered">36%</font>)，早熟女孩(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">早熟的少女；放荡的少妇；仙女般的少女</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

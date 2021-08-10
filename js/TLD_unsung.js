@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unsung</h2><div class="git"><span class="ipa">[ˌʌnˈsʌŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">19957</span><div class="total">12961</div></div><div class="coca2">未被赞颂的(<font color="orangered">50%</font>)，未被唱的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（歌）未唱的；未被诗歌赞颂的，埋没的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

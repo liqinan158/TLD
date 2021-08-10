@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scarify</h2><div class="git"><span class="ipa">[ˈskærɪfaɪ]</span><span class="frm">scarified, scarifying, scarifies</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">53492</span><div class="total">635</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">在…上划痕；乱划；严厉批评</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>appaloosa</h2><div class="git"><span class="ipa">[,æpә'lu:sә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[动]阿帕卢萨马(产于美国西部,臀及腰部有斑纹)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

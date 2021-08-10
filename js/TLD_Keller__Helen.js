@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Keller, Helen</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Keller, Helen(Adams)</span></div><div class="dcb"><span class="dcn">凯勒(1880～1968，美国女作家和教育家，从小盲聋哑，后学会说话、读书，精通数国外语)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

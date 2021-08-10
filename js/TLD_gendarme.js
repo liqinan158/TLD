@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gendarme</h2><div class="git"><span class="ipa">[ˈʒɒndɑ:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39783</span><div class="total">2014</div></div><div class="coca2">宪兵(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（法）宪兵；近卫骑兵；警官</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

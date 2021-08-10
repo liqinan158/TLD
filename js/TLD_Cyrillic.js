@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cyrillic</h2><div class="git"><span class="ipa">[si'rilik]</span></div><hr/></div><div class="coca2">西里尔字母的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">斯拉夫字母</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">古代斯拉夫语字母的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>numerological</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">51480</span><div class="total">768</div></div><div class="coca2">命理学(<font color="orangered">58%</font>)，数字命理学(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">命理学；数字命理学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

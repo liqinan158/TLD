@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skua</h2><div class="git"><span class="ipa">[ˈskju:ə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52683</span><div class="total">688</div></div><div class="coca2">贼鸥(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">贼鸥（一种鸟类，产于挪威）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Solomon</h2><div class="git"><span class="ipa">['sɒlәmәn]</span></div><hr/></div><div class="coca2">以智慧著称)(<font color="orangered">34%</font>)，古以色列国王大卫之子(<font color="orangered">33%</font>)，所罗门 (男子名(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">所罗门（男子名）；所罗门（古以色列国王大卫之子，以智慧著称）；大智者，聪明人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

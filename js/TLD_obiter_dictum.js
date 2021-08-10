@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>obiter dictum</h2><div class="git"><span class="ipa">[ˈɔbitə ˈdɪktəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(pl. obiter dicta)【法】(法官非决定性的或无约束力的)附带意见</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">法官裁判时发表之附带意见；附言；判决附带意见</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SSN</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">子系统号（Subsystem Number）；（美）社会保险号（Social Security Number）；智力严重逊常（Severely Subnormal）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tupi-Guarani</h2><div class="git"><span class="ipa">['tu:pi,ɡwa:rə'ni:; tu'pi:-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">图皮—瓜拉尼人(南美印第安人)；[亦作 Tupi-Guaranian] 图皮—瓜拉尼语组</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

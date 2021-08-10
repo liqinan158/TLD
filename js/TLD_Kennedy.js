@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kennedy</h2><div class="git"><span class="ipa">['kenidi]</span></div><hr/></div><div class="coca2">肯尼迪（姓氏(<font color="orangered">50%</font>)，美国第35任总统）(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">肯尼迪（姓氏，美国第35任总统）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

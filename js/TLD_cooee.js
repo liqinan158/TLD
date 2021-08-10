@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cooee</h2><div class="git"><span class="ipa">[ˈku:i:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">喂（澳洲土人的招呼声）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">作喂和尖锐的呼喊声</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

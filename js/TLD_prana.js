@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prana</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30704</span><div class="total">4411</div></div><div class="gdc"><div class="dcb"><span class="dcn"> （印度教哲学中的）息，生命气息</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

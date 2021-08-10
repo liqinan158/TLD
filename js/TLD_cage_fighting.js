@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cage fighting</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">笼斗；铁笼格斗赛；笼里格斗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

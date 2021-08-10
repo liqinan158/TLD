@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>digital immigrant</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">数位移民；数字移民；数位移民群</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

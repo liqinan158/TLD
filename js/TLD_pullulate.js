@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pullulate</h2><div class="git"><span class="ipa">[ˈpʌljʊleɪt]</span><span class="frm">pullulated, pullulating, pullulates</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">繁殖(<font color="orangered">75%</font>)，剧增(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">成长；发芽；产生；充满；繁殖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

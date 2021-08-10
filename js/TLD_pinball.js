@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pinball</h2><div class="git"><span class="ipa">[ˈpɪnbɔ:l]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18680</span><div class="total">15070</div></div><div class="coca2">弹球游戏(<font color="orangered">89%</font>)，快速移动(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">弹球戏；钉球戏（一种赌博游戏机）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

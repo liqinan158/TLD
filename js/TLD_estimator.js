@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>estimator</h2><div class="git"><span class="ipa">['estɪmeɪtə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19032</span><div class="total">14476</div></div><div class="coca2">估计量(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[统计] 估计量；评价者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

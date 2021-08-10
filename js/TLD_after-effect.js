@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>after-effect</h2><div class="git"><span class="ipa">[ˈɑ:ftə iˈfekt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42117</span><div class="total">1669</div></div><div class="coca2">形容词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">后果；后作用</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

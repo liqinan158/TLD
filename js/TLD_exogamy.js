@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exogamy</h2><div class="git"><span class="ipa">[ekˈsɒgəmi]</span></div><hr/></div><div class="coca2">异族通婚(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">异族结婚；[遗] 异系交配</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

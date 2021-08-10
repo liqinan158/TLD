@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>taxonomic</h2><div class="git"><span class="ipa">[ˌtæksə'nɒmɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26204</span><div class="total">6698</div></div><div class="coca2">分类学的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[生物] 分类的；[生物] 分类学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

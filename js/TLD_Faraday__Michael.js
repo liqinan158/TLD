@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Faraday, Michael</h2><div class="git"><span class="ipa">['færədi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">法拉第(1791～1867，英国物理学家，化学家，电磁感应现象的发现者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

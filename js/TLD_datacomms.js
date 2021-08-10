@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>datacomms</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （计算机之间的）数据通信，数据传输</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

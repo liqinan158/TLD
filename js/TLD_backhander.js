@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>backhander</h2><div class="git"><span class="ipa">[ˈbækhændə(r)]</span></div><hr/></div><div class="coca2">反手一击(<font color="orangered">38%</font>)，回扣(<font color="orangered">25%</font>)，贿赂(<font color="orangered">25%</font>)，逆打(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">逆打；反手一击；追加的一杯酒；（英）回扣</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

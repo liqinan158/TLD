@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>posthumously</h2><div class="git"><span class="ipa">['pɒstjʊməslɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">22920</span><div class="total">9304</div></div><div class="coca2">在死后(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">于死后，于身后；于著作者死后出版地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

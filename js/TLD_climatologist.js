@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>climatologist</h2><div class="git"><span class="ipa">[ˌklaɪməˈtɔlədʒɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36095</span><div class="total">2725</div></div><div class="coca2">气候学(<font color="orangered">79%</font>)，风土学(<font color="orangered">21%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">气候学家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

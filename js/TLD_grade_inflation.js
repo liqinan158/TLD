@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grade inflation</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">分数贬值；分数通胀(指因评分过高, 导致得高分者激增而使教学质量下降)；(为提高质量的)标准改变</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

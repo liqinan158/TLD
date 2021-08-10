@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>involuntarily</h2><div class="git"><span class="ipa">[ɪn'vɒləntrəlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">22158</span><div class="total">10111</div></div><div class="coca2">无意识地(<font color="orangered">50%</font>)，不知不觉地(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">无心地；不自觉地；偶然地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

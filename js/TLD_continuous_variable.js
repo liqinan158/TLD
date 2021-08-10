@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>continuous variable</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">连续变量；连续变数</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">连续变项；连续型变量；连续性变量</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

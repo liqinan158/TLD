@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>back-burner</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 把…搁置一时</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

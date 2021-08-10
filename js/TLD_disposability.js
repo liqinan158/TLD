@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disposability</h2><div class="git"><span class="ipa">[dis,pəuzəɡ'biləti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56262</span><div class="total">478</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">disposable（用后便扔的物品，一次性物品，不回收的物品；一次性使用的，用完便扔的）的变形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

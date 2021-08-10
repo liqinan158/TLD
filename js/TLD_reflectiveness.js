@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reflectiveness</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59097</span><div class="total">342</div></div><div class="coca2">反射的(<font color="orangered">49%</font>)，沉思的(<font color="orangered">33%</font>)，反映的(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">反省；沉思</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

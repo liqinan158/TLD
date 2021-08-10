@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coypu</h2><div class="git"><span class="ipa">[ˈkɔɪpu:]</span></div><hr/></div><div class="coca2">河狸鼠(<font color="orangered">56%</font>)，南美洲产的一种水栖动物(<font color="orangered">22%</font>)，此动物的皮(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">河狸鼠（南美洲产的一种水栖动物）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

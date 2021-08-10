@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gene doping</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">基因兴奋剂；基因禁药；关于基因兴奋剂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

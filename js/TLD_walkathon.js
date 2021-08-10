@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>walkathon</h2><div class="git"><span class="ipa">['wɔ:kəθɒn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;美&gt;&lt;加&gt;（尤指为特定事业筹款而进行的）步行马拉松</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

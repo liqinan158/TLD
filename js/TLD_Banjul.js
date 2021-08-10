@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Banjul</h2><div class="git"><span class="ipa">['bændʒu:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">班珠尔[冈比亚首都](旧称巴瑟斯特)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

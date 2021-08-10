@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Caerphilly</h2><div class="git"><span class="ipa">[keә'fili]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡尔菲利干酪(一种威尔士全脂白干酪)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

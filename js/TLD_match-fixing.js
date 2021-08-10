@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>match-fixing</h2><hr/></div><div class="coca2">球赛造假(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">打假球</span></div><div class="dcb"><span class="dcn">球赛造假</span></div><div class="dcb"><span class="dcn">操纵比赛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

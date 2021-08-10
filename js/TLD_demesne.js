@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>demesne</h2><div class="git"><span class="ipa">[dəˈmeɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41951</span><div class="total">1694</div></div><div class="coca2">领地(<font color="orangered">74%</font>)，土地所有(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">私有地；领地；土地之所有</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>star-struck</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50441</span><div class="total">849</div></div><div class="coca2">崇拜明星的(<font color="orangered">50%</font>)，追星族的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">爱上大明星（电影名）</span></div><div class="dcb"><span class="dcn">想当明星的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

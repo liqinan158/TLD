@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sensationalize</h2><div class="git"><span class="ipa">[senˈseɪʃənəlaɪz]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">40013</span><div class="total">1983</div></div><div class="coca2">以耸人听闻的手法处理(<font color="orangered">67%</font>)，使引起轰动(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">以耸人听闻的手法处理；使引起轰动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Coltrane, John</h2><div class="git"><span class="ipa">['kəultrein]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Coltrane, John (William)</span></div><div class="dcb"><span class="dcn">['kəultrein]</span></div><div class="dcb"><span class="dcn">科尔特兰(1926～1967，美国爵士乐萨克管演奏家、作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

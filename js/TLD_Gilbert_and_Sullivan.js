@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gilbert and Sullivan</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 9</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">吉伯特与苏利文；吉尔伯特和沙利文；吉尔伯特与沙利文</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

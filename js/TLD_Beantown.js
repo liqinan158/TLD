@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Beantown</h2><div class="git"><span class="ipa">['biːn.taʊn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">〈美〉波斯顿市的别名</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">豆城；波士顿；美国波士顿市</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

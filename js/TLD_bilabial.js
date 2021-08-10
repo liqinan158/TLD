@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bilabial</h2><div class="git"><span class="ipa">[ˌbaɪˈleɪbiəl]</span></div><hr/></div><div class="coca2">双唇音(<font color="orangered">60%</font>)，双唇音的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">双唇音</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">双唇音的；有两唇的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

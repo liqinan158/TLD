@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rebirthing</h2><div class="git"><span class="ipa">[ˌri:ˈbɜ:θɪŋ]</span></div><span class="onm">原型:</span><span class="orm">rebirthing 是 rebirth 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医]再生疗法（心身疾病的一种疗法）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

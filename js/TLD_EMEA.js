@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>EMEA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">欧洲药品管理局；中东和非洲；欧洲中东非洲(Europe Middle East Africa)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

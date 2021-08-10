@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rugby Union</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 15</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 7</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">联合会橄榄球（每队 15 人）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">联合式橄榄球；大量橄榄球联盟；英式橄榄球联合会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

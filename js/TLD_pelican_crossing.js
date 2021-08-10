@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pelican crossing</h2><div class="git"><span class="ipa">[ˈpelɪkən ˈkrɔsiŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （行人穿过马路时可自行按交通灯使车停下的）自控人行横道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

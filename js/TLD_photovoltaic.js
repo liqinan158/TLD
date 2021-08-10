@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>photovoltaic</h2><div class="git"><span class="ipa">[fəʊtəʊvɒl'teɪɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">17865</span><div class="total">16659</div></div><div class="coca2">光生伏打的)(<font color="orangered">50%</font>)，光电池的(光致电压的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[电子] 光电伏打的，光电的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

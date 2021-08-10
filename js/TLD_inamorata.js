@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inamorata</h2><div class="git"><span class="ipa">[ɪnˌæməˈrɑ:tə]</span></div><hr/></div><div class="coca2">情妇(<font color="orangered">59%</font>)，恋人(<font color="orangered">41%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">情妇，情人；姘妇；恋人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>EDI</h2><hr/></div><div class="coca2">电子数据交换(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">电子数据交换（Electronic Data Interchange）；电子资料接口（Electronic Data Interface）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Edi)人名；(德、印尼)埃迪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

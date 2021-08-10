@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>second-degree</h2><div class="git"><span class="ipa">[ˈsekənd diˈɡri:]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">17141</span><div class="total">18246</div></div><div class="coca2">二等的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">二等的；烧伤程度的第二度的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Q.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">questionnaire 问卷; quenching 淬火; quire 对折的一叠纸; quarter 夸特（一夸特等于8蒲式耳）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

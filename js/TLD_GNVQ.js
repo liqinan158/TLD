@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>GNVQ</h2><div class="git"><span class="ipa">[ˌdʒi: en vi: ˈkju:]</span></div><hr/></div><div class="coca2">全国普通职业资格证书(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">全国普通职业资格证书（General National Vocational Qualification）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

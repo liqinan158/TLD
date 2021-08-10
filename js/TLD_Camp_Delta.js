@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Camp Delta</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">三角洲营地；德尔塔营地；营区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

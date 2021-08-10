@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>counterintelligence</h2><div class="git"><span class="ipa">['kaʊntərɪnˌtelɪdʒəns]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29037</span><div class="total">5131</div></div><div class="coca2">反情报(<font color="orangered">59%</font>)，反间谍活动(<font color="orangered">41%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">反情报；反间谍活动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

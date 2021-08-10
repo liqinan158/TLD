@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Waldheim, Kurt</h2><div class="git"><span class="ipa">['vɑ:lthaim; ku:rt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">瓦尔德海姆(1918～ )，联合国秘书长(1972～1982)，奥地利总统(1986～1992)，后被揭发曾任纳粹军官</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

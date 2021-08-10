@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Saratoga</h2><div class="git"><span class="ipa">[ˌsærəˈtəuɡə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 萨拉托加（美国纽约州东部一村落，附近有温泉疗养地）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

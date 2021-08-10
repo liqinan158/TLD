@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tollway</h2><div class="git"><span class="ipa">['təʊlweɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40540</span><div class="total">1897</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）收费公路</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

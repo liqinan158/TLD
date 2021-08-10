@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eau de toilette</h2><div class="git"><span class="ipa">[ˌəʊ də twɑ:ˈlet]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">淡香水</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">淡香氛；香露；淡喷鼻水</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

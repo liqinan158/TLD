@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>getup</h2><div class="git"><span class="ipa">['ɡetʌp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;口&gt;（尤指不寻常的）装束，穿戴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

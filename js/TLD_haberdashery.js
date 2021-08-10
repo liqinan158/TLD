@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>haberdashery</h2><div class="git"><span class="ipa">[ˌhæbəˈdæʃəri]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44740</span><div class="total">1355</div></div><div class="coca2">杂货商店(<font color="orangered">80%</font>)，男子服饰经售店(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）男子服饰用品店；（英）杂货商店</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

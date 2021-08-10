@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drop-down menu</h2><div class="git"><span class="ipa">[drɔp daun ˈmenju:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">下拉式菜单</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

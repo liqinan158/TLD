@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>megaflop</h2><div class="git"><span class="ipa">[ˈmegəflɒp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">每秒百万次浮点运算</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

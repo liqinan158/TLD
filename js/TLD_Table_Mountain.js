@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Table Mountain</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">桌状山, 平顶山</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

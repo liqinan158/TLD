@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NSFW</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Not Safe For Work. Used to describe Internet content generally inappropriate for the typical workplace, i.e., would not be acceptable in the presence of your boss and colleagues (as opposed to SFW, Safe For Work).</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

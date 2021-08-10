@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anaphor</h2><div class="git"><span class="ipa">[ə'næfə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 照应语（返指上文的词或词组）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

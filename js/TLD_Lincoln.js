@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lincoln</h2><div class="git"><span class="ipa">['liŋkәn]</span></div><hr/></div><div class="coca2">林肯(姓氏(<font color="orangered">50%</font>)，男子名)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">林肯（美国第16任总统）；林肯（福特汽车厂出产的名牌豪华汽车）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>short-sightedly</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">近视地</span></div><div class="dcb"><span class="dcn">目光短浅地（short-sighted的副词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Social and Liberal Democrats</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(1988年组成的英国)社会自由民主党</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

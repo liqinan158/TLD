@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>petabyte</h2><div class="git"><span class="ipa">[pe'teɪbi:t]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47688</span><div class="total">1081</div></div><div class="coca2">拍字节(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拍字节或千万亿字节或千T字节（较高级的储存单位）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

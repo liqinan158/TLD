@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>minicomputer</h2><div class="git"><span class="ipa">[ˈmɪnikəmpju:tə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45930</span><div class="total">1238</div></div><div class="coca2">微型计算机(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[计] 小型计算机；微型电脑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

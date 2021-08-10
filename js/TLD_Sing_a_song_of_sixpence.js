@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sing a song of sixpence</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">六便士之歌；唱一首六便士之歌；唱一首六便士的歌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

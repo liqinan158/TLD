@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hardy, Oliver</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哈代(1892～1967，美国滑稽电影演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

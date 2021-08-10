@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impactful</h2><div class="git"><span class="ipa">['ɪmpæktfʊl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">13383</span><div class="total">30816</div></div><div class="coca2">有效的(<font color="orangered">50%</font>)，有冲击力的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">有效的；有力的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

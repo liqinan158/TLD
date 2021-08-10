@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SWP</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">safe working pressure 安全工作压力; sweep 清扫; sweeping 扫除; steam working pressure 蒸汽工作压力</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

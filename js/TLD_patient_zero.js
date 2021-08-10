@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>patient zero</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">首例病例</span></div><div class="dcb"><span class="dcn">第一感染源</span></div><div class="dcb"><span class="dcn">零号患者</span></div><div class="dcb"><span class="dcn">零号病患</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

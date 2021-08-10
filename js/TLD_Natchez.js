@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Natchez</h2><div class="git"><span class="ipa">[ˈnætʃiz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> (sing.，pl.)纳齐兹部族人（印地安人部落，原居美国密西西比州西南部的印第安人的一个部落，现已灭绝）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

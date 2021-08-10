@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cleopatra</h2><div class="git"><span class="ipa">[kliә'pɑ:trә]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克利欧佩特拉（女子名）；《埃及艳后》（电影名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>minimoto</h2><div class="git"><span class="ipa">['mɪniməʊtəʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">迷你摩托车 （用于游戏和比赛，但不上路）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">小米米；贝亲；贝亲其它</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

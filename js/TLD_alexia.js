@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>alexia</h2><div class="git"><span class="ipa">[əˈleksiə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">失读症; 词盲; 读字不能</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

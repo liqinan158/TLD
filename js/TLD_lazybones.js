@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lazybones</h2><div class="git"><span class="ipa">[ˈleɪzibəʊnz]</span></div><span class="onm">原型:</span><span class="orm">lazybones 是 lazybone 的复数</span><hr/></div><div class="coca2">懒人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">懒骨头；懒汉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

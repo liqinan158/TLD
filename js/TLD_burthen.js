@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>burthen</h2><div class="git"><span class="ipa">[bɜ:rðən]</span><span class="frm">burthened, burthening, burthens</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">负荷，重荷，负担</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">使负重担，累</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

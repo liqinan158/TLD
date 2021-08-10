@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Von Braun, Wernher</h2><div class="git"><span class="ipa">[vɔn'braun]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">冯布劳恩(1912～1977，德国火箭设计家，研制出 V-2火箭，第二次世界大战后移居美国，1958年1月主持发射了美国第一颗人造卫星探险者1号)(= Braun，Wernher von)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

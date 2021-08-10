@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bury My Heart at Wounded Knee</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">魂归伤膝谷；将我的心埋在受伤的膝盖；魂断伤膝涧</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

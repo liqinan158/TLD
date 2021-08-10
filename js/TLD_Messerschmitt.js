@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Messerschmitt</h2><div class="git"><span class="ipa">['mesәʃmit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(第二次世界大战期间德国空军使用的) 梅塞施米特式战斗机(尤指 ME109 型)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

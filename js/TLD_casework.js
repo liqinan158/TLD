@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>casework</h2><div class="git"><span class="ipa">[ˈkeɪswɜ:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31671</span><div class="total">4027</div></div><div class="coca2">社会福利工作(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">社会福利机构的调查；生活环境调查</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

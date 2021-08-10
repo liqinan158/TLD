@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>agribusiness</h2><div class="git"><span class="ipa">[ˈægrɪbɪznəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22023</span><div class="total">10276</div></div><div class="coca2">农业综合企业(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">农业综合企业（包括农业设备、用品的制造、农产品的产销、制造加工等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

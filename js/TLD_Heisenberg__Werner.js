@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Heisenberg, Werner</h2><div class="git"><span class="ipa">['haizənbə:ɡ; 'venə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Heisenberg, Werner(Karl)</span></div><div class="dcb"><span class="dcn">['haizənbə:ɡ; 'venə]</span></div><div class="dcb"><span class="dcn">海森伯(1901～1976，德国物理学家，获1932年诺贝尔物理学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

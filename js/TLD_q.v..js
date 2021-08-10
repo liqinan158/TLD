@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>q.v.</h2><div class="git"><span class="ipa">[ˌkju: ˈvi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">quod vide &lt;拉&gt;参看（该条、该项等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

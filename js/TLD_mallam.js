@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mallam</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 穆斯林宗教老师；毛拉（有时用作尊称，指智者或学者，如大学教师）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Goering, Hermann Wilhelm</h2><div class="git"><span class="ipa">['ɡə:riŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Goering, Hermann (Wilhelm)</span></div><div class="dcb"><span class="dcn">['ɡə:riŋ]</span></div><div class="dcb"><span class="dcn">戈林 (1893～1946，盖世太保头子，1946年被纽伦堡国际军事法庭判处绞刑，执行前自杀) [亦作 Göring]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

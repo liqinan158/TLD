@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Salford</h2><div class="git"><span class="ipa">['sɔ:lfәd,'sɔl-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">索尔福德[英国英格兰西北部港市]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

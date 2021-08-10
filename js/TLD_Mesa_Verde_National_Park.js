@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mesa Verde National Park</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">弗德台地国家公园；梅萨维德国家公园；梅莎维德国家公园</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

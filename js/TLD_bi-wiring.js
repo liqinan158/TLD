@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bi-wiring</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 双线分音（用两条线连接扩音器和扬声器以提高音质）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>foxtrot</h2><div class="git"><span class="ipa">[ˈfɒkstrɒt]</span></div><hr/></div><div class="coca2">狐步(<font color="orangered">50%</font>)，狐步舞(<font color="orangered">45%</font>)，通讯中用以代表字母f的词(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">狐步舞</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">跳狐步舞</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

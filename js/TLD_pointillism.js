@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pointillism</h2><div class="git"><span class="ipa">[ˈpɔɪntɪlɪzəm]</span></div><hr/></div><div class="coca2">点描法(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">点描绘法；点描绘派</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

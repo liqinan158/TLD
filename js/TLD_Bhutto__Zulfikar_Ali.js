@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bhutto, Zulfikar Ali</h2><div class="git"><span class="ipa">['bu:təu; ,zulfi'kɑ:r]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">布托(1928～1979)，巴基斯坦人民党创建者、巴基斯坦总统(1971～1973)、总理(1973～1977)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

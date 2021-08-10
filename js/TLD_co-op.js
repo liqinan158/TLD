@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>co-op</h2><div class="git"><span class="ipa">[ˈkəuɔp,kəuˈɔp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">6317</span><div class="total">125966</div></div><div class="coca2">=cooperative(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">合作社（cooperative society）；消费合作社</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

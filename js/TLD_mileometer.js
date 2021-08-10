@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mileometer</h2><div class="git"><span class="ipa">[mailiˈɔmitə]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TEM8</span></div><div class="coca2">计程表(<font color="orangered">67%</font>)，=milometer.(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">计程表</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>identikit</h2><div class="git"><span class="ipa">[ai'dentikit]</span></div><hr/></div><div class="coca2">拼图辨认嫌疑犯(<font color="orangered">67%</font>)，〈法〉拼图认人(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（供证人辨认罪犯的）人象拼片；拼图辨认嫌疑犯</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">（用旧材料）拼凑成的；老一套的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

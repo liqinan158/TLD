@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pale ale</h2><div class="git"><span class="ipa">[peil eɪl]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">“pale”的变体</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">淡啤酒；淡色爱尔啤酒；淡色麦芽酒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

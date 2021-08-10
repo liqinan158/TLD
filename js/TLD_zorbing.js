@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>zorbing</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 滚人球运动（人在大型透明塑料球中沿地面或山坡翻滚）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

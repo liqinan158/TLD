@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>in-goal area</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 球门后得分区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

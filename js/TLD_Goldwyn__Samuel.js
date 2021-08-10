@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Goldwyn, Samuel</h2><div class="git"><span class="ipa">['ɡəuldwin]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">高德温(1882～1974，美国电影制片人，生于波兰)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

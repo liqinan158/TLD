@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Taylor, Elizabeth</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">泰勒 (1932～，美国女演员，两次获奥斯卡奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

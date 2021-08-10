@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Basel</h2><div class="git"><span class="ipa">['bɒzәl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">巴塞尔（瑞士西北部城市，在莱茵河畔）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bi</h2><div class="git"><span class="ipa">[bai]</span></div><hr/></div><div class="coca2">双”(<font color="orangered">50%</font>)，表示“二(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">symb.</span><span class="dcn">元素铋（bismuth）的符号</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

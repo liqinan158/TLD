@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>taarab</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 塔拉勃乐（受阿拉伯和印度音乐影响的东非流行乐, 尤盛行于沿海地区）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

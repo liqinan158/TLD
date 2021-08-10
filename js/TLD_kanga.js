@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kanga</h2><div class="git"><span class="ipa">[ˈkæŋɡə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">肯加衣裙（起源于非洲妇女的衣着，用一方布包缠身躯而成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

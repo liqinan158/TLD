@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>almshouse</h2><div class="git"><span class="ipa">[ˈɑ:mzhaʊs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43245</span><div class="total">1524</div></div><div class="coca2">救济院(<font color="orangered">70%</font>)，养老院(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">公立救济院；私立济贫院或养老院</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

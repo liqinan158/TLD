@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>transsexualism</h2><div class="git"><span class="ipa">[trænzsekʃʊə'lɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56653</span><div class="total">459</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 有易性癖，改变性别</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

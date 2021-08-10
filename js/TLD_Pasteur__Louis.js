@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pasteur, Louis</h2><div class="git"><span class="ipa">[pɑ:s'tə:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">巴斯德(1822～1895，法国微生物学家、化学家、近代生物学奠基人，创马氏消毒法)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

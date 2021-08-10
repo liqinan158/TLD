@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cottage hospital</h2><div class="git"><span class="ipa">[ˈkɔtidʒ ˈhɔspitəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乡村小医院；乡间诊疗所</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">医疗站；基医院</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

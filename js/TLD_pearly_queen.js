@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pearly queen</h2><div class="git"><span class="ipa">[ˈpɜ:li: kwi:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">珠母钮女王，伦敦街头身着缀有珠母钮服装的女小贩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

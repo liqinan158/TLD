@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wananchi</h2><div class="git"><span class="ipa">[wɑ:'næntʃi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[复]&lt;斯瓦希里&gt; n.[总称](肯尼亚及坦桑尼亚本土的)当地工人,劳动群众</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

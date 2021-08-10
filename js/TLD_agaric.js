@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>agaric</h2><div class="git"><span class="ipa">[ˈægərɪk]</span></div><hr/></div><div class="coca2">木耳(<font color="orangered">74%</font>)，平茸(<font color="orangered">13%</font>)，蘑姑(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蘑菇，木耳；伞菌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

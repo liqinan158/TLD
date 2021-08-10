@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>worded</h2><span class="onm">原型:</span><span class="orm">worded 是 word 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">措辞，用词（word的过去式与过去分词形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

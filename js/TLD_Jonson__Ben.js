@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jonson, Ben</h2><div class="git"><span class="ipa">['dʒɔnsən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">琼森(1573?～1637，英国文艺复兴时期剧作家、诗人、评论家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

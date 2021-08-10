@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polisher</h2><div class="git"><span class="ipa">[ˈpɒlɪʃə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26393</span><div class="total">6576</div></div><div class="coca2">磨光器(<font color="orangered">60%</font>)，磨亮的人(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">磨光器；磨亮的人；[机] 磨光机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

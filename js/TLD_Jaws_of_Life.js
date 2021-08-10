@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jaws of Life</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="dcn">Jaws of Life</span></div><div class="dcb"><span class="dcn">【商标】“救生颚”(常用于营救的剪刀状液压装置)</span></div><div class="dcb"><span class="dcn">以上来源于：《21世纪大英汉词典》</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>diggings</h2><div class="git"><span class="ipa">['dɪgɪŋz]</span></div><span class="onm">原型:</span><span class="orm">diggings 是 digging 的复数</span><hr/></div><div class="coca2">发掘物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">矿区；发掘物；寓所（原指金矿矿工宿营地）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

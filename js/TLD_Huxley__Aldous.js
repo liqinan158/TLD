@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Huxley, Aldous</h2><div class="git"><span class="ipa">['hʌksli; 'ɔ:ldəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Huxley, Aldous(Leonard)</span></div><div class="dcb"><span class="dcn">['hʌksli; 'ɔ:ldəs]</span></div><div class="dcb"><span class="dcn">赫胥黎(1894～1963，英国小说家、小品文作家和评论家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

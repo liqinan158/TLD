@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brewpub</h2><div class="git"><span class="ipa">[ˈbru:ˌpʌb]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32428</span><div class="total">3750</div></div><div class="coca2">出售自制啤酒的酒馆(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">出售自制啤酒的酒馆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

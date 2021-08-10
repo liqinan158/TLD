@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bergman, Ingmar</h2><div class="git"><span class="ipa">['bə:ɡmən; 'iŋmɑ:r]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伯格曼(1918～ ，瑞典电影导演)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

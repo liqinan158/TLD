@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>multimillionaire</h2><div class="git"><span class="ipa">[ˌmʌltimɪljəˈneə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26313</span><div class="total">6631</div></div><div class="coca2">千万富翁(<font color="orangered">75%</font>)，大富豪(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">千万富翁；大富豪；拥有数百万家财的富豪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Montessori, Maria</h2><div class="git"><span class="ipa">[,mɔ:ntes'sɔ:ri:; ,mɔnti'sɔ:ri; mɑ:'ri:ɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">蒙台梭利(1870～1952，意大利女教育家、医生)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sportscaster</h2><div class="git"><span class="ipa">[ˈspɔ:tskɑ:stə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36235</span><div class="total">2694</div></div><div class="coca2">担任比赛实况转播或说明的广播员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">担任比赛实况转播或说明的广播员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

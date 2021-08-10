@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>archduchess</h2><div class="git"><span class="ipa">[ˌɑ:tʃˈdʌtʃəs]</span></div><hr/></div><div class="coca2">女大公(<font color="orangered">50%</font>)，大公夫人(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女大公（奥匈帝国皇室公主的称号）；大公夫人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

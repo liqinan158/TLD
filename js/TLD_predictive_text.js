@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>predictive text</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">输入法；文本输入法；输入文字预测功能</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

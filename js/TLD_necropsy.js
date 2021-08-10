@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>necropsy</h2><div class="git"><span class="ipa">[ˈnekrɒpsi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40528</span><div class="total">1900</div></div><div class="coca2">验尸(<font color="orangered">80%</font>)，尸体剖解(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">验尸；尸体剖检</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

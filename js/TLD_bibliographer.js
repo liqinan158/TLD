@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bibliographer</h2><div class="git"><span class="ipa">[ˌbɪblɪ'ɒɡrəfə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58781</span><div class="total">358</div></div><div class="coca2">书志学家(<font color="orangered">75%</font>)，书目撮要编著人(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">书志学家；书目编制人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fly agaric</h2><div class="git"><span class="ipa">[flai ˈæɡərik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">捕蝇蕈</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">毒蝇伞；蛤蟆菌；飞伞菌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

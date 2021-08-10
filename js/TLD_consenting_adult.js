@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>consenting adult</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">到达法定性成熟年龄的已成年人；同意发生性行为的已成年人</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">搞同性恋的成人；同意的性行为中</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

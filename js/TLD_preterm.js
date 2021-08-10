@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>preterm</h2><div class="git"><span class="ipa">[ˌpri:'tɜ:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24031</span><div class="total">8302</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">早产，早产婴儿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

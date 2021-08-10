@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Scheherazade</h2><div class="git"><span class="ipa">[ʃi,hiərə'zɑ:də; ʃə,hεə-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">谢赫拉莎德（《天方夜谭》中的苏丹新娘）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aldermaston</h2><div class="git"><span class="ipa">['ɔ:ldәmɑ:stәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">奥尔德玛斯顿村(位于英国伯克郡的原子武器研究机构所在地)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

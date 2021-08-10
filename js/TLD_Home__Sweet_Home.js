@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Home, Sweet Home</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">甜蜜的家；怪物；家在台北</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phonemic</h2><div class="git"><span class="ipa">[fə'ni:mɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27474</span><div class="total">5905</div></div><div class="coca2">音素的(<font color="orangered">50%</font>)，音位的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">音位的；音素的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

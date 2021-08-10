@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>racial profiling</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 9</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 9</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">种族形象定性（指警察等因肤色或种族而不是证据怀疑人犯罪）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">种族貌相；种族侦防；种族定性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

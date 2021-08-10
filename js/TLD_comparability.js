@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>comparability</h2><div class="git"><span class="ipa">[ˌkɒmpərə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27953</span><div class="total">5646</div></div><div class="coca2">相似性(<font color="orangered">77%</font>)，可比较性(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">相似性；可比较性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

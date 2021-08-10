@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BIA</h2><div class="git"><span class="ipa">['bɪə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（美）移民申请局（Board of Immigration Appeals）；（美）印第安人事务局（Bureau of Indian Affairs）；美国布莱叶盲字学会（Braille Institute of America）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Bia)人名；(法、葡)比亚；(越)碑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

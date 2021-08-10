@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>syllabub</h2><div class="git"><span class="ipa">[ˈsɪləbʌb]</span></div><hr/></div><div class="coca2">奶油葡萄酒(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奶油葡萄酒；华而不实的事物（等于sillabub）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mock-</h2><div class="git"><span class="ipa">[mɒk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">嘲笑；（模仿）嘲弄；不尊重；蔑视</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">虚假的；不诚实的；模仿的；模拟的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">（英国）模拟考试</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

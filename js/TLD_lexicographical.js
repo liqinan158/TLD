@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lexicographical</h2><div class="git"><span class="ipa">[leksɪkə'græfɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">57897</span><div class="total">400</div></div><div class="coca2">辞典编纂的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">辞典编纂的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

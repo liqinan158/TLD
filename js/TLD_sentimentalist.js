@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sentimentalist</h2><div class="git"><span class="ipa">[ˌsentɪˈmentəlɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53695</span><div class="total">622</div></div><div class="coca2">感伤主义者(<font color="orangered">60%</font>)，多愁善感者(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">感伤主义者；多愁善感的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

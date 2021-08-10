@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Portaloo</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 波特庐移动厕所</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thrill ride</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 8</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（游乐园的）惊险刺激乘骑</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">动感电影；惊险乘坐之旅；刺激的航行</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>long-lost</h2><div class="git"><span class="ipa">[lɔŋ lɔ:st]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">25174</span><div class="total">7371</div></div><div class="coca2">遗失了很长时间的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">遗失了很长时间的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

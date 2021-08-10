@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>smoko</h2><div class="git"><span class="ipa">[ˈsməʊkəʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（允许抽烟、喝茶的）工休时间，允许吸烟的音乐会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

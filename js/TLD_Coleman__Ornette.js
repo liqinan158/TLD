@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Coleman, Ornette</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">科尔曼(1930～ ，美国爵士乐萨克斯管吹奏家、作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

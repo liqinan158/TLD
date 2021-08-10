@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tappa</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">塔帕〔太平洋某些岛上居民用来做衣服的构树皮〕(又叫 tappa cloth)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">塔波；精勤</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

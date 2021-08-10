@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NFL</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（美）全国橄榄球联盟（National Football League）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

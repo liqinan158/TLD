@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>esp.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [医][=especial]特别的，特殊的，尤其</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

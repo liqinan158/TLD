@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Iceland</h2><div class="git"><span class="ipa">['aislәnd]</span></div><hr/></div><div class="coca2">冰岛(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">冰岛（欧洲岛名，在大西洋北部，近北极圈）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

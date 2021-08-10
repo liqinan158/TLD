@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>leopard-crawl</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （常用于士兵）匍匐前进</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

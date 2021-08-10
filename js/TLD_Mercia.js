@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mercia</h2><div class="git"><span class="ipa">['mә:ʃә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">麦西亚（中世纪早期七国时代的七国之一, 位于今英格兰中部）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

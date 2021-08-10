@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pentium</h2><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">美国英特尔公司生产的微处理器，中文译名为“奔腾”</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

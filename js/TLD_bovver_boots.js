@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bovver boots</h2><div class="git"><span class="ipa">[ˈbɒvə bu:ts]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">[英国俚语](流氓穿的)街斗钉靴，打群架靴[亦作 cherry red]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>risibility</h2><div class="git"><span class="ipa">[ˌrɪzɪ'bɪlɪtɪ]</span></div><hr/></div><div class="coca2">爱笑的癖性(<font color="orangered">34%</font>)，爱笑的性质(<font color="orangered">33%</font>)，对笑的感受性(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">爱笑；幽默感</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

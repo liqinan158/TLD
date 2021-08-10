@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>push poll</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="dcn"> 推手民调（指以民调之名行影响民意之实的民意调查, 这种调查的真正目的不是收集人们的意见, 而是影响人们的看法）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

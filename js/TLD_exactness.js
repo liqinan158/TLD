@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exactness</h2><div class="git"><span class="ipa">[ɪɡ'zæktnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36664</span><div class="total">2597</div></div><div class="coca2">正确(<font color="orangered">75%</font>)，精确性(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">正确；精确</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

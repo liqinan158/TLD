@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>housemate</h2><div class="git"><span class="ipa">[ˈhaʊsmeɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22316</span><div class="total">9944</div></div><div class="coca2">同居者(<font color="orangered">75%</font>)，住在同一房屋的人(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">同居者；住在同一所房子里的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

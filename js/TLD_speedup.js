@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>speedup</h2><div class="git"><span class="ipa">['spi:dʌp]</span></div><hr/></div><div class="coca2">能率促进)(<font color="orangered">25%</font>)，追赶(<font color="orangered">25%</font>)，加速(增速(<font color="orangered">25%</font>)，高速化(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[物] 加速</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

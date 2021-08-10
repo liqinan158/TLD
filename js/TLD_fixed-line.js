@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fixed-line</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">固定系统</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">固网；固定线路；固定电话</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

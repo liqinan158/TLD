@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>collectivize</h2><div class="git"><span class="ipa">[kəˈlektɪvaɪz]</span><span class="frm">collectivized, collectivizing, collectivizes</span></div><hr/></div><div class="coca2">使集体化(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">集团化；使集体化；使之成为共同的（等于collectivise）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

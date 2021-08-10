@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bayreuth</h2><div class="git"><span class="ipa">['bairɔit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">拜罗伊特[德意志联邦共和国东南部城市]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

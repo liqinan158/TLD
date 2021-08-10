@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jerry Springer Show</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">斯普英哥秀；斯普林格节目；豪门恩怨真人骚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

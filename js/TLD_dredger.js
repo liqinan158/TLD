@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dredger</h2><div class="git"><span class="ipa">[ˈdredʒə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52253</span><div class="total">714</div></div><div class="coca2">挖泥船(<font color="orangered">94%</font>)，挖掘机(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">挖泥船；疏浚机；挖泥机；撒粉器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

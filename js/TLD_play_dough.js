@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>play dough</h2><div class="git"><span class="ipa">[plei dəu]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">橡皮泥；面团就像培乐多；自制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

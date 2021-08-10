@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>legionnaire</h2><div class="git"><span class="ipa">[ˌli:dʒəˈneə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29146</span><div class="total">5080</div></div><div class="coca2">退伍军人协会会员(<font color="orangered">50%</font>)，军队战士(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">美国退伍军人协会会员；军团的士兵</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

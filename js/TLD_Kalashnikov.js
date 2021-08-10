@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kalashnikov</h2><div class="git"><span class="ipa">[kə'læʃ(ə)nɪkɒf]</span></div><hr/></div><div class="coca2">卡拉什尼科夫冲锋枪(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡拉什尼科夫冲锋枪</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Kalashnikov)人名；(俄)卡拉什尼科夫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

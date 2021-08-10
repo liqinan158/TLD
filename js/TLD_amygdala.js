@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>amygdala</h2><div class="git"><span class="ipa">[ə'mɪɡdələ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23376</span><div class="total">8889</div></div><div class="coca2">桃子之类(<font color="orangered">50%</font>)，杏仁之类(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[解剖] 杏仁核；扁桃腺；苦巴旦杏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

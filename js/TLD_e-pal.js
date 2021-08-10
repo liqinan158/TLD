@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>e-pal</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 网友（通过电子邮件交流）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

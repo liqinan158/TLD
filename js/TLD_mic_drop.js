@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mic drop</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">指把话筒故意（或假装）脱手掉到地上以示演说或表演结束的 drama 动作</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

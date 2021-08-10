@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>libellous</h2><div class="git"><span class="ipa">[ˈlaɪbələs]</span></div><hr/></div><div class="coca2">诽谤的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">诽谤的；损害名誉的（等于libelous）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

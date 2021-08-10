@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>donnish</h2><div class="git"><span class="ipa">[ˈdɒnɪʃ]</span></div><hr/></div><div class="coca2">学究式的(<font color="orangered">51%</font>)，装模作样的(<font color="orangered">33%</font>)，像大学学监一样的(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">学究式的；装模作样的；象大学学监一样的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

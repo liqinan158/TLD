@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rort</h2><div class="git"><span class="ipa">[rɔ:t]</span></div><hr/></div><div class="coca2">诡计(<font color="orangered">50%</font>)，欺诈(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;澳&gt;&lt;口&gt;喧闹聚会（或欢庆会）； 欺骗，伎俩</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

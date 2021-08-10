@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>question master</h2><div class="git"><span class="ipa">[ˈkwestʃən ˈmɑ:stə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> &lt;英&gt;问答游戏的主持人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

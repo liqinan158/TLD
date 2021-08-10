@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hummus</h2><div class="git"><span class="ipa">[ˈhʊməs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15699</span><div class="total">21997</div></div><div class="coca2">鹰嘴豆泥(<font color="orangered">75%</font>)，鹰嘴豆沙(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鹰嘴豆泥；鹰嘴豆沙（等于hoummus）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

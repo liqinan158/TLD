@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>demerger</h2><div class="git"><span class="ipa">[ˌdi:ˈmɜ:dʒə(r)]</span></div><hr/></div><div class="coca2">中止合并关系(<font color="orangered">67%</font>)，合并企业解散(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">中止合并关系；大公司分成若干小公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

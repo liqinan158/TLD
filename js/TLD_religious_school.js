@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>religious school</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">教会学校；教会学校学校中的人；宗教学校</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

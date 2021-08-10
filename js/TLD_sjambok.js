@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sjambok</h2><div class="git"><span class="ipa">['ʃæmbɒk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（南非用犀牛皮制成的赶牲口用的）粗皮鞭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

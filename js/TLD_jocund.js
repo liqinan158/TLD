@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jocund</h2><div class="git"><span class="ipa">[ˈdʒɒkənd]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">高兴的(<font color="orangered">55%</font>)，快乐的(<font color="orangered">45%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">快活的；高兴的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

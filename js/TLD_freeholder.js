@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>freeholder</h2><div class="git"><span class="ipa">[ˈfri:həʊldə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28509</span><div class="total">5366</div></div><div class="coca2">世袭地的保有权者(<font color="orangered">50%</font>)，不动产的所有权者(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">世袭地产保有人；保有不动产权者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

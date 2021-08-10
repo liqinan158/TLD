@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dracula</h2><div class="git"><span class="ipa">['drækjulə]</span></div><hr/></div><div class="coca2">德拉库拉伯爵(<font color="orangered">50%</font>)，历史上最著名的吸血鬼的名字--德古拉(<font color="orangered">25%</font>)，n.(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">德拉库拉（人名）；吸血鬼，又叫惊情四百年（电影名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

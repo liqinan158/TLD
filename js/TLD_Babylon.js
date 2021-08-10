@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Babylon</h2><div class="git"><span class="ipa">['bæbilәn]</span></div><hr/></div><div class="coca2">巴比伦(<font color="orangered">61%</font>)，罪恶之都(<font color="orangered">26%</font>)，繁华的大都市(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">巴比伦（古代巴比伦王国Babylonia的首都）；繁华的都市，罪恶之都</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

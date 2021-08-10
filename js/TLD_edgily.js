@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>edgily</h2><div class="git"><span class="ipa">['edʒɪlɪ]</span></div><hr/></div><div class="coca2">刀口锐利(<font color="orangered">60%</font>)，轮廓过份鲜明(<font color="orangered">20%</font>)，尖利的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">锋利地；刀口锐利；轮廓过分鲜明</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

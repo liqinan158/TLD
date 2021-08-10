@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scree</h2><div class="git"><span class="ipa">[skri:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33699</span><div class="total">3341</div></div><div class="coca2">山坡上的碎石堆(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">小石子；岩屑堆；崩落；筛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

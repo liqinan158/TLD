@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overprint</h2><div class="git"><span class="ipa">[ˌəʊvəˈprɪnt]</span><span class="frm">overprinted, overprinting, overprints</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">套印，添印</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">套印，印戳</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

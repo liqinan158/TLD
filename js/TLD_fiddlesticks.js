@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fiddlesticks</h2><div class="git"><span class="ipa">[ˈfɪdlstɪks]</span></div><span class="onm">原型:</span><span class="orm">fiddlesticks 是 fiddlestick 的复数</span><hr/></div><div class="coca2">胡说(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">胡说</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

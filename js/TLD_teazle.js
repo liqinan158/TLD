@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teazle</h2><div class="git"><span class="ipa">['ti:zəl, 'ti:zl]</span></div><hr/></div><div class="coca2">起绒草的干果球(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英）起绒机起毛器；起绒草的干果球</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">为…拉绒；使织物起绒（等于teasel）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soapsuds</h2><div class="git"><span class="ipa">[ˈsəʊpsʌdz]</span></div><span class="onm">原型:</span><span class="orm">soapsuds 是 soapsud 的复数</span><hr/></div><div class="coca2">肥皂水上的泡沫(<font color="orangered">50%</font>)，起肥皂泡的肥皂水(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">肥皂泡沫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

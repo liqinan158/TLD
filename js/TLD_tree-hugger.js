@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tree-hugger</h2><div class="git"><span class="ipa">[ˈtriː ˌhʌɡə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57018</span><div class="total">441</div></div><div class="coca2">激进的环境主义者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">环境保护狂（非正式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

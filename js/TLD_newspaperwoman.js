@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>newspaperwoman</h2><div class="git"><span class="ipa">[ˈnju:sˌpeipəˌwumən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">报社的女从业人员（尤指女编辑/女记者等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

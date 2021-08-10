@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-will</h2><div class="git"><span class="ipa">['self'wɪl]</span></div><hr/></div><div class="coca2">任性(<font color="orangered">80%</font>)，固执(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">任性；固执己见</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

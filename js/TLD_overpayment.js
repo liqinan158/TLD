@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overpayment</h2><div class="git"><span class="ipa">[ˌəʊvə'peɪmənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18247</span><div class="total">15813</div></div><div class="coca2">多付的款项(<font color="orangered">70%</font>)，超额偿付(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多付的款项</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

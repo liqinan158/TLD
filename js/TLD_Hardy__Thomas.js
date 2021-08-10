@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hardy, Thomas</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哈代(1840～1928，英国诗人、小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

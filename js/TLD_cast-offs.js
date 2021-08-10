@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cast-offs</h2><span class="onm">原型:</span><span class="orm">cast-offs 是 cast-off 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(cast-off 的复数)  遭遗弃的; 版面计算</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

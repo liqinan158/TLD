@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gorgonzola</h2><div class="git"><span class="ipa">[.gɒ:gәn'zәulә]</span></div><hr/></div><div class="coca2">干酪的一种(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">戈尔根朱勒干酪（因产自意大利米兰附近的戈尔根朱勒村而得名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

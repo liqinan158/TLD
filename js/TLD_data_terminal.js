@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>data terminal</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 36</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 18</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">数据终端</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">数据终端机；终端数据处理器；资料终端设备</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>EMT</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18870</span><div class="total">14744</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">内科急救专家（emergency medical technician）；电子金属管（electrical-metallic tubing）；磁带结束（end of magnetic tape）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

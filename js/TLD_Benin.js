@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Benin</h2><div class="git"><span class="ipa">[be'nin]</span></div><hr/></div><div class="coca2">尼日利亚南部一城市)(<font color="orangered">50%</font>)，贝宁(西非一国家(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">贝宁（位于非洲西部）；贝宁湾（几内亚湾一部分）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

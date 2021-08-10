@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>re-cover</h2><div class="git"><span class="ipa">[ˌri: ˈkʌvə(r)]</span></div><hr/></div><div class="coca2">再覆盖(<font color="orangered">75%</font>)，装以新的封面或盖(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">给……装以新的封面或盖；再覆盖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

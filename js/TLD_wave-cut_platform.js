@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wave-cut platform</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 浪蚀台，磨蚀台（悬崖和海之间的地面，涨潮时被水覆盖）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

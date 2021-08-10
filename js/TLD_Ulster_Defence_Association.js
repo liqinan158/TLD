@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ulster Defence Association</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">阿尔斯特防卫协会；北爱尔兰防务协会；北爱尔兰防卫组织</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

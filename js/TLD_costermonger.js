@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>costermonger</h2><div class="git"><span class="ipa">[ˈkɒstəmʌŋgə(r)]</span></div><hr/></div><div class="coca2">水果(<font color="orangered">67%</font>)，鱼叫卖小贩(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英）叫卖小贩（等于coster）；水果</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">沿街叫卖水果、蔬菜、鱼类等</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

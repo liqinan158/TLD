@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>constellate</h2><div class="git"><span class="ipa">['kɒnstəleɪt]</span><span class="frm">constellated, constellating, constellates</span></div><hr/></div><div class="coca2">使群集(<font color="orangered">60%</font>)，以群星样的饰物装饰(<font color="orangered">20%</font>)，群集(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使形成星座；使群集</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

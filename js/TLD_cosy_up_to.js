@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cosy up to</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">〈美口〉挨近,靠近;讨好…,同…表示友善</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

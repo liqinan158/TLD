@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fam</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">familiarization (of flights) 熟悉; familiar 熟悉的; family 家庭; familiarly 亲近地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

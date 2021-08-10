@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Henry, Patrick</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">亨利 (1736～1799，美国政治家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ecotourism</h2><div class="git"><span class="ipa">[ˈi:kəʊtʊərɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26886</span><div class="total">6262</div></div><div class="coca2">生态旅游(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">生态旅游，生态旅行（前往生态资源未被破坏的地方旅行）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

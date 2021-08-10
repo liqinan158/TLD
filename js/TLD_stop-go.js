@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stop-go</h2><div class="git"><span class="ipa">[stɔp ɡəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">经济发展和紧缩交替的</span></div><div class="dcb"><span class="dcn">应变的（经济政策）</span></div><div class="dcb"><span class="dcn">通货膨胀与收缩交替的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

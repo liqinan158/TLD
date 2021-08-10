@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Buck Rogers</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [电影]巴克罗杰斯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

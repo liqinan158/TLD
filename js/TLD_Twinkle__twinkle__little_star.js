@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Twinkle, twinkle, little star</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">一闪一闪小星星；星际钝胎；一闪一闪亮晶晶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

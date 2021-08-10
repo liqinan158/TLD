@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Anschluss</h2><div class="git"><span class="ipa">['ɑ:nʃlus]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51149</span><div class="total">794</div></div><div class="gdc"><div class="dcb"><span class="dcn">[德](两国或两地的政治经济)联合, 结合(尤指1938年纳粹德国对奥地利的吞并)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

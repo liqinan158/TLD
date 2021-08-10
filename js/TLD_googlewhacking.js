@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>googlewhacking</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Two words, that google searches for and comes up with only one result.  No punctuation allowed. </span></div><div class="dcb"><span class="deq">&gt; "Squirelling Dirvishes"</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

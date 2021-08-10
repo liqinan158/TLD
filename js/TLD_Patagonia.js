@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Patagonia</h2><div class="git"><span class="ipa">[,pætә'^әjniә,-njә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">巴塔哥尼亚(南美一地区)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

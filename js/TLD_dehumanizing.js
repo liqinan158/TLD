@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dehumanizing</h2><div class="git"><span class="ipa">[di:ˈhju:məˌnaɪzɪŋ]</span></div><span class="onm">原型:</span><span class="orm">dehumanizing 是 dehumanize 的现在分词</span><hr/></div><div class="coca2">使失去人性(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使成兽性；使失掉人性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

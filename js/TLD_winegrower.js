@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>winegrower</h2><div class="git"><span class="ipa">[ˈwaɪngrəʊə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56756</span><div class="total">454</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">栽培葡萄兼葡萄酒酿造者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

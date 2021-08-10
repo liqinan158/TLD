@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Foyles</h2><span class="onm">原型:</span><span class="orm">Foyles 是 foyle 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">书店；福叶尔商店；伊尔斯书店</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

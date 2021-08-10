@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trimester</h2><div class="git"><span class="ipa">[traɪˈmestə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">12942</span><div class="total">32873</div></div><div class="coca2">学期(<font color="orangered">80%</font>)，〈医〉三个月(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">三个月；一学期</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

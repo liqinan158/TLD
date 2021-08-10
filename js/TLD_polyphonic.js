@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polyphonic</h2><div class="git"><span class="ipa">[ˌpɒlɪ'fɒnɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27604</span><div class="total">5828</div></div><div class="coca2">复调的(<font color="orangered">78%</font>)，=polyphonous.(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">多音的；有韵律变化的；对位法的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

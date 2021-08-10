@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drachma</h2><div class="git"><span class="ipa">[ˈdrækmə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42522</span><div class="total">1616</div></div><div class="coca2">古希腊银币名(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">古希腊的重量单位；古希腊的银币名</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

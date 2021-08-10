@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Argos</h2><div class="git"><span class="ipa">['ɑ:^әus]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿哥斯（希腊东南一古城）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

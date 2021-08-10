@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sagittarian</h2><div class="git"><span class="ipa">[,sædʒi'tεəriən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">属人马宫星座的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">人马座（星座名称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

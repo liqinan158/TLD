@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>extracorporeal</h2><div class="git"><span class="ipa">[ˌekstrəkɔ:ˈpɔ:riəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">42390</span><div class="total">1634</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">身体外的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

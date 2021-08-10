@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aquatics</h2><div class="git"><span class="ipa">[ə'kwætɪks]</span></div><span class="onm">原型:</span><span class="orm">aquatics 是 aquatic 的复数</span><hr/></div><div class="coca2">水上运动(<font color="orangered">90%</font>)，名词aquatic的复数形式.(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">水上运动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

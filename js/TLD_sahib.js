@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sahib</h2><div class="git"><span class="ipa">[sɑ:b]</span></div><hr/></div><div class="coca2">大人(<font color="orangered">37%</font>)，阁下(<font color="orangered">36%</font>)，先生(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阁下；先生；大人（等于saheb）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Sahib)人名；(印、孟、巴基)萨希卜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chimney stack</h2><div class="git"><span class="ipa">[ˈtʃimni stæk]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（屋顶上的）烟囱体；（尤指工厂的）高烟囱</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">总合烟囱；丛烟囱；组合烟囱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

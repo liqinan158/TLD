@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Canada goose</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 7</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">加拿大黑雁（繁殖于北美）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">加拿大鹅；加拿大雁；黑额黑雁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Townsville</h2><div class="git"><span class="ipa">['tajnzvil]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">汤斯维尔[澳大利亚东北部港市](或译敦斯维尔)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dodoma</h2><div class="git"><span class="ipa">['dəudəmɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多多马（坦桑尼亚中部城市, 新首都）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

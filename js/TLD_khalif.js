@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>khalif</h2><div class="git"><span class="ipa">['kælɪf]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">哈里发（伊斯兰教国家政教领袖的尊称）（等于caliph）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Khalif)人名；(阿拉伯、哈萨、乌兹、吉尔、塔吉)哈利夫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

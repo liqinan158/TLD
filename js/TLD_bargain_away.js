@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bargain away</h2><div class="git"><span class="ipa">[ˈbɑ:ɡin əˈwei]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn"> 不停地讨价还价; 将（某物）廉价出售; 交换出去; 轻易放弃</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

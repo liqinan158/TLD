@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hast</h2><div class="git"><span class="ipa">[hæst]</span></div><hr/></div><div class="coca2">动词(<font color="orangered">64%</font>)，名词(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Hast)人名；(瑞典)哈斯特；(德、芬)哈斯特</span></div><div class="dcb"><span class="dcn">have的第二人称单数现在式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

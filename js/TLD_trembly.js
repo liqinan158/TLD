@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trembly</h2><div class="git"><span class="ipa">[ˈtrembli]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">发抖的，战栗的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

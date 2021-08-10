@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>televisual</h2><div class="git"><span class="ipa">[ˌteliˈvɪʒuəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50635</span><div class="total">833</div></div><div class="coca2">电视的(适于拍摄电视的(<font color="orangered">50%</font>)，适于上电视镜头的)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">电视的；适于上电视镜头的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

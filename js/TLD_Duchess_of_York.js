@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Duchess of York</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">约克公爵夫人萨拉；约克的公爵夫人；从约克公爵夫人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

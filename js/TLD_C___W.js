@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>C &amp; W</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">音节分段：C &amp; W or C and W; Country and western.</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

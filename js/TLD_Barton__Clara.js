@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Barton, Clara</h2><div class="git"><span class="ipa">['bɑ:tən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(小名 Carissa Harlowe Barton)巴顿(1821～1912，美国女慈善家、人道主义者、美国红十字会的创建者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

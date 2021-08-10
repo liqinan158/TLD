@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>open-jaw</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 开口的，缺口的， 不同点进出的 （可选择回程出发地）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

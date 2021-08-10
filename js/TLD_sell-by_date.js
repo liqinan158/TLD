@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sell-by date</h2><div class="git"><span class="ipa">[sel bai deit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">最迟销售日期；保质期</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

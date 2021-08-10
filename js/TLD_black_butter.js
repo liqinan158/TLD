@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>black butter</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （煮过的）黑黄油, 黑奶油酱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

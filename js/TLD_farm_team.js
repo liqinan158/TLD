@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>farm team</h2><div class="git"><span class="ipa">[fɑ:m ti:m]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="dcn"> &lt;美&gt;（棒球联合总会属下培训球员的）棒球分会，分会的棒球队</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

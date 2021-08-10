@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>contractually</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">25734</span><div class="total">6996</div></div><div class="coca2">合同的(<font color="orangered">65%</font>)，契约的(<font color="orangered">35%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">合约地；合同性地；契约规定地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>alhaji</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 阿哈吉（朝觐过麦加的穆斯林男子，常用作称谓）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

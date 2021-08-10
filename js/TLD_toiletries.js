@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>toiletries</h2><div class="git"><span class="ipa">[ˈtɔɪlətriz]</span></div><span class="onm">原型:</span><span class="orm">toiletries 是 toiletry 的复数</span><hr/></div><div class="coca2">化妆品(<font color="orangered">94%</font>)，名词toiletry的复数形式.(<font color="orangered">3%</font>)，洗漱品(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">化妆品；化妆用具；旅行洗漱包</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

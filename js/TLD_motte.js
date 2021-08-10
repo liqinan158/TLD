@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>motte</h2><div class="git"><span class="ipa">[mɒt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41879</span><div class="total">1705</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;美方&gt;（大草原上的）树林（尤指灌木林）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

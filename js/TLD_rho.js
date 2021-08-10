@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rho</h2><div class="git"><span class="ipa">[rəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25022</span><div class="total">7479</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">希腊字母的第17字（相当于英语的r）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Rho)人名；(朝)卢；(意)罗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stockinette</h2><div class="git"><span class="ipa">[,stɒkə'net]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">弹力织物；布袋；松紧织物（等于stockinet）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

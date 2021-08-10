@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stepchild</h2><div class="git"><span class="ipa">[ˈsteptʃaɪld]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">妻与前夫所生的孩子；夫与前妻所生子女；受到冷落的人或物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

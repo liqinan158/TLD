@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>high-performance</h2><div class="git"><span class="ipa">[hai pəˈfɔ:məns]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">10450</span><div class="total">50167</div></div><div class="coca2">高性能的(<font color="orangered">50%</font>)，高效能的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">高性能的；高效能的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

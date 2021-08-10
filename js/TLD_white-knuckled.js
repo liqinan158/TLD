@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>white-knuckled</h2><span class="onm">原型:</span><span class="orm">white-knuckled 是 white-knuckle 的过去式</span><hr/></div><div class="coca2">害怕的(<font color="orangered">75%</font>)，紧张的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">神经紧张的；引起神经紧张的(＝white-knuckle)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

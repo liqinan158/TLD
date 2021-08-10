@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Banneker, Benjamin</h2><div class="git"><span class="ipa">['bænikə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">班纳克(1731～1806，美国数学家、天文学家、发明家和作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

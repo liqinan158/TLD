@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hagiographer</h2><div class="git"><span class="ipa">[ˌhægiˈɒgrəfə(r)]</span></div><hr/></div><div class="coca2">圣徒传作者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圣徒传作者；理想化传记的作者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

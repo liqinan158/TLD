@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tenniel, Sir John</h2><div class="git"><span class="ipa">['tenjəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">坦尼尔(1820～1914，英国讽刺画家、插图画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gunsight</h2><div class="git"><span class="ipa">[ˈgʌnsaɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49003</span><div class="total">972</div></div><div class="coca2">枪炮瞄准线(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[军] 瞄准器；标尺</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sectarianism</h2><div class="git"><span class="ipa">[sekˈteəriənɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32773</span><div class="total">3632</div></div><div class="coca2">宗派主义(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">宗派主义；教派意识</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

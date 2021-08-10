@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eeyore</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">屹耳（动画角色）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

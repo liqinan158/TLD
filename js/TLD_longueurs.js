@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>longueurs</h2><span class="onm">原型:</span><span class="orm">longueurs 是 longueur 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(longueur 的复数) n. （小说、剧本、乐曲等）冗长而又乏味的部分</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

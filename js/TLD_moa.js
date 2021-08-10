@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>moa</h2><div class="git"><span class="ipa">[ˈməʊə]</span></div><hr/></div><div class="coca2">恐鸟(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">恐鸟（一种产于新西兰的巨鸟，现已灭绝）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Moa)人名；(西、瑞典)莫瓦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

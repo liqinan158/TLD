@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nintendo</h2><div class="git"><span class="ipa">[nin'tendәj]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">任天堂（日本电子游戏公司及其开发的电脑游戏名称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dry out</h2><div class="git"><span class="ipa">[drai aut]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 74</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 23</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 32</div><div class="gdc"><div class="dcb"><span class="dcn"> （使）变干， （使）干涸; &lt;非正&gt;（使）戒（酒、毒等）; 晾干</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

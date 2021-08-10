@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>greenwash</h2><hr/></div><div class="coca2">绿色外衣(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">漂绿（公司为树立支持环保的虚假形象而作的公关活动、捐赠等）</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">把大笔非法来源现金存入银行；匿存非法收入</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

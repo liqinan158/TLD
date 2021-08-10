@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tike</h2><div class="git"><span class="ipa">[taɪk]</span></div><hr/></div><div class="coca2">乡村野夫(<font color="orangered">25%</font>)，杂种狗(<font color="orangered">25%</font>)，顽皮孩子(<font color="orangered">25%</font>)，=tyke.(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">杂狗（一种雄虎与雌狮交配所生的杂交兽）；粗野村夫（等于tyke）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

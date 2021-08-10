@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>waterlogging</h2><div class="git"><span class="ipa">['wɔ:təˌlɒgɪŋ]</span></div><span class="onm">原型:</span><span class="orm">waterlogging 是 waterlog 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">涝，水浸; 内涝; 水渍; 水涝</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kosovo</h2><div class="git"><span class="ipa">['kɔ:sәvәj]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">科索沃[南斯拉夫自治省名]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

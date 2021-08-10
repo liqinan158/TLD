@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>General Medical Council</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">全国医学总会</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国医学总会；综合医学委员会；英综合医学委员会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

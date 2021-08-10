@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cowpea</h2><div class="git"><span class="ipa">[ˈkaʊpi:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49147</span><div class="total">961</div></div><div class="coca2">豇豆(<font color="orangered">93%</font>)，牛豆(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">豇豆（Vigna sinensis）；豇豆荚（等于black-eyed pea）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

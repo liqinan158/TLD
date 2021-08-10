@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>voile</h2><div class="git"><span class="ipa">[vɔɪl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35049</span><div class="total">2972</div></div><div class="coca2">薄纱(<font color="orangered">50%</font>)，巴里纱(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">薄纱；巴里纱（一种轻而透明的薄纱）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

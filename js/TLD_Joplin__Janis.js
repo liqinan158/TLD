@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Joplin, Janis</h2><div class="git"><span class="ipa">['dʒɔplin]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">乔普林(1943～  ，美国摇滚乐歌手)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

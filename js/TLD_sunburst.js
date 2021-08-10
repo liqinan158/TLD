@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sunburst</h2><div class="git"><span class="ipa">[ˈsʌnbɜ:st]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23833</span><div class="total">8472</div></div><div class="coca2">从云隙射下的阳光(<font color="orangered">50%</font>)，镶有钻石的旭日形首饰(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阳光突现；从云隙射下的阳光；镶有钻石的旭日形首饰</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

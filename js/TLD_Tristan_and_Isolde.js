@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tristan and Isolde</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">王者之心；特里斯坦和伊索尔德；特里斯坦与伊索尔德</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

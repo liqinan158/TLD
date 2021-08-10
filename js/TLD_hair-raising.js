@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hair-raising</h2><div class="git"><span class="ipa">[ˈheəˌreɪzɪŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">32637</span><div class="total">3670</div></div><div class="coca2">惊险的(<font color="orangered">50%</font>)，使人毛发直竖的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">令人恐惧的；令人毛骨悚然的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

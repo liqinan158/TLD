@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>helicopter parents</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">直升机父母；直昇机父母；直升机家长</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

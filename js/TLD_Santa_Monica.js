@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Santa Monica</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 108</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 4</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 100</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">圣塔莫尼卡；圣莫尼卡；圣塔摩尼卡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

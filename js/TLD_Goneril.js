@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Goneril</h2><div class="git"><span class="ipa">['^ɔnәril]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">贡纳莉(莎士比亚的《李尔王》中李尔的长女名, 是冷酷、不孝的典型)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

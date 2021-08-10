@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>uprush</h2><div class="git"><span class="ipa">[ˈʌprʌʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（液体或气体的）上冲; 猛增; 冲动; 涌起</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

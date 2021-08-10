@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vigoro</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 澳大利亚板棒球（通常为女性参加）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kitemark</h2><div class="git"><span class="ipa">['kaitmɑ:k]</span></div><hr/></div><div class="coca2">风筝标志(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">风筝标记（用于英国标准协会规格的商品）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

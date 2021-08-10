@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rimless</h2><div class="git"><span class="ipa">[ˈrɪmləs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36216</span><div class="total">2698</div></div><div class="coca2">无框的(<font color="orangered">75%</font>)，无边缘的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无边的；无框的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

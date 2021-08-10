@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pump-action</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">52427</span><div class="total">703</div></div><div class="coca2">拉推枪栓式装置的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">压动式枪机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

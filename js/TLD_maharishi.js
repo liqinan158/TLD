@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>maharishi</h2><div class="git"><span class="ipa">[ˌmɑ:hɑ:ˈri:ʃi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51477</span><div class="total">769</div></div><div class="coca2">精神领袖(<font color="orangered">50%</font>)，宗教教师(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">精神领袖；宗教教师；（印度教）导师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

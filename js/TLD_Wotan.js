@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wotan</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">wavelength-agile optical transport and access network 波长捷变光传送与接入网</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

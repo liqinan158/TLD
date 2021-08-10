@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Whitsuntide</h2><div class="git"><span class="ipa">['(h)witsʌntaid]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圣神降临周(复活节后的第七周,尤指前三天)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

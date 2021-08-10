@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cranmer, Thomas</h2><div class="git"><span class="ipa">['krænmə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">克兰麦(1489～1556，第一任英国圣公会坎特伯雷大主教，英国新教徒宗教改革运动的领导人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

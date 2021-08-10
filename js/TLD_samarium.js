@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>samarium</h2><div class="git"><span class="ipa">[səˈmeəriəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54270</span><div class="total">588</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">钐（一种稀有金属元素，符号Sm,原子序为62）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

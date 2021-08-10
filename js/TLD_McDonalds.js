@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>McDonalds</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">麦当劳（快餐品牌名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

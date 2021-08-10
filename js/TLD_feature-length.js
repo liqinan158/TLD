@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>feature-length</h2><div class="git"><span class="ipa">[ˈfi:tʃəˈleŋθ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27245</span><div class="total">6040</div></div><div class="coca2">长篇的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">长篇的；电影达到正片应有的长度的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

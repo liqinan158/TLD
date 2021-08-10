@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>action painting</h2><div class="git"><span class="ipa">[ˈækʃən ˈpeintiŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 泼洒画（一种抽象派绘画）; 行动派绘画</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

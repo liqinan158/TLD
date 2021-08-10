@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NSPCC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">英国全国防止虐待儿童学会（National Society for the Prevention of Cruelty to Children）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pavlova, Anna</h2><div class="git"><span class="ipa">[pɑ:v'ləuvə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">巴甫洛娃(1881～1931，俄国著名女芭蕾舞蹈家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

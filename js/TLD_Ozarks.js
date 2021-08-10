@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ozarks</h2><div class="git"><span class="ipa">['əuzɑ:k]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">欧扎克(美国亚拉巴马州东南部城市)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

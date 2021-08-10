@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>old-age pension</h2><div class="git"><span class="ipa">[əuld eidʒ ˈpenʃən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 退休金, 养老金</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

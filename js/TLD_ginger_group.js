@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ginger group</h2><div class="git"><span class="ipa">[ˈdʒindʒə ɡru:p]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn">[主英国英语](政党、组织内部中)活跃分子集团，积极派，强硬派；[英国英语]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

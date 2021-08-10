@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>garri</h2><div class="git"><span class="ipa">['gɑ:ri:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">加里（非洲尼日利亚人的主食，用木薯粉制成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

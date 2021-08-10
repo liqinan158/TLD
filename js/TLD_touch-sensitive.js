@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>touch-sensitive</h2><div class="git"><span class="ipa">['tʌtʃsensitiv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">34993</span><div class="total">2990</div></div><div class="coca2">快速反应的(<font color="orangered">50%</font>)，相当敏感的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">触敏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

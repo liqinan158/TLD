@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>warning triangle</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （汽车抛锚时司机置于公路上的）三角形警戒标志</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

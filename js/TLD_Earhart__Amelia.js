@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Earhart, Amelia</h2><div class="git"><span class="ipa">['εəhɑ:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Earhart, Amelia (Mary)</span></div><div class="dcb"><span class="dcn">['εəhɑ:t]</span></div><div class="dcb"><span class="dcn">埃尔哈特(1897～1937，美国女飞行员，飞机在太平洋上空神秘失踪)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

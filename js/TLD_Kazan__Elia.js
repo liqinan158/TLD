@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kazan, Elia</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡赞(1909～ ，土耳其出生的美国作家、电影导演)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>make-work</h2><div class="git"><span class="ipa">[meik wə:k]</span></div><hr/></div><div class="coca2">为提供就业机会而安排的工作(<font color="orangered">50%</font>)，不必要的工作(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">为提供就业机会而安排的工作；为了不让员工空闲而安排的不必要的工作</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

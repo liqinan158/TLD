@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>perv</h2><div class="git"><span class="ipa">[pɜ:v]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42911</span><div class="total">1565</div></div><div class="coca2">性欲倒错者(<font color="orangered">50%</font>)，性欲反常者(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">逆转录病毒（porcine endogenous retrovirus）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

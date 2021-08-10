@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parcel bomb</h2><div class="git"><span class="ipa">[ˈpɑ:səl bɔm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">邮件炸弹，包裹炸弹(伪装成邮寄包裹的炸弹装置)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

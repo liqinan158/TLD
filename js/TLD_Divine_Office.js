@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Divine Office</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[有时作D-O-]【天主教等】(由牧师主持的)每日(7次的)祈祷；日课经时间(如早祷、晚祷等)；日课的内容(主管牧师每日必须背诵的祷告词、圣经的段落和圣诗)(=office)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

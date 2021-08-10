@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sociopath</h2><div class="git"><span class="ipa">[ˈsəʊsiəʊpæθ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19043</span><div class="total">14466</div></div><div class="coca2">反社会的人(<font color="orangered">54%</font>)，不爱社交的人(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">反社会的人；不爱社交的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

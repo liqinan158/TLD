@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paycheque</h2><div class="git"><span class="ipa">[peɪt'ʃek]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">付薪金用的支票，工资，薪金</span></div><div class="dcb"><span class="dcn"> [法] 薪金支票</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

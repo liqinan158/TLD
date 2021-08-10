@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>haar</h2><div class="git"><span class="ipa">[hɑ:(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">哈雾（苏格兰东部、英格兰东北部一种湿冷海雾）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

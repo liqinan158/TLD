@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Algol</h2><div class="git"><span class="ipa">['æl^ɔl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[计] 面向算法的语言, ALGOL语言</span></div><div class="dcb"><span class="dcn">[经] 算法语言</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

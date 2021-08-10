@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>undocumented</h2><div class="git"><span class="ipa">[ˌʌn'dɒkjʊmentɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">12314</span><div class="total">36323</div></div><div class="coca2">无正式文件的(<font color="orangered">60%</font>)，无事实证明的(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无事实证明的；无正式文件的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

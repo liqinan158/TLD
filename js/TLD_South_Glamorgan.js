@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>South Glamorgan</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">南格拉摩根郡(英国威尔士东南部郡)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

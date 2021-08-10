@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fair-haired boy</h2><div class="git"><span class="ipa">[fɛə heəd bɔi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[口语]特别受宠的人，宠儿，幸运儿；心腹，亲信；被上级看中即将被提拔重用的人 [亦作 white-haired boy]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

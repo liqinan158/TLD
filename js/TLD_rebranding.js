@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rebranding</h2><div class="git"><span class="ipa">[ˌri:'brændɪŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31385</span><div class="total">4134</div></div><div class="coca2">指品牌再造的过程(<font color="orangered">50%</font>)，品牌再造(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">品牌再造</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

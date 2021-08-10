@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PSNCR</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">公共部门收支短差；公共部门收支短差报告；政府收支短差</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

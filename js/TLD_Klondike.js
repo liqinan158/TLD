@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Klondike</h2><div class="git"><span class="ipa">[ˈklɔndaik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克朗代克河（在加拿大西北部，育空河的支流）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mugwump</h2><div class="git"><span class="ipa">[ˈmʌgwʌmp]</span></div><hr/></div><div class="coca2">1884年大选时脱离共和党的人(<font color="orangered">50%</font>)，中立人物(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）（政治上的）超然派；骑墙派；中立者；共和党独立派（1884年美国大选中拒绝支持本党候选人者）；大人物；印第安酋长</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

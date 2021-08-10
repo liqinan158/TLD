@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>boyo</h2><div class="git"><span class="ipa">[ˈbɔɪəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58924</span><div class="total">350</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">男子，少年</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Boyo)人名；(西、刚(金))博约</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

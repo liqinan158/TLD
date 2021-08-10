@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>madrasa</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49473</span><div class="total">934</div></div><div class="coca2">伊斯兰学校(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> 马德拉沙（穆斯林高等教育机构）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

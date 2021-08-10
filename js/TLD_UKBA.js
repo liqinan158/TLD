@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UKBA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国边境署(UK Border Agency)；英国边境管理局；英国边境总署</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

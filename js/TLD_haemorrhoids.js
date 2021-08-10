@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>haemorrhoids</h2><div class="git"><span class="ipa">[ 'hemə.rɔɪdz]</span></div><span class="onm">原型:</span><span class="orm">haemorrhoids 是 haemorrhoid 的复数</span><hr/></div><div class="coca2">痔疾(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">痔核；痔疾</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Teen Pop</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">青少年流行；少儿流行；青少年流行乐</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

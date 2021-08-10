@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>distinctness</h2><div class="git"><span class="ipa">[dɪ'stɪŋktnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44705</span><div class="total">1359</div></div><div class="coca2">不同(<font color="orangered">60%</font>)，明显(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">不同；明显；有特殊性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

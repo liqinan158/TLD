@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ill-timed</h2><div class="git"><span class="ipa">[ˈɪlˈtaɪmd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">45121</span><div class="total">1318</div></div><div class="coca2">不合时宜的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不合时的；失去机会的；不合时宜的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PSBR</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/ld5_psbr.mp3" href="sound://media/spx/GB_ld5_psbr.spx" title="Play British pronunciation of PSBR"> </a><a class="amefile" href="sound://ameProns/psbr_n.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">public sector borrowing requirement 公共部门借贷需要</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

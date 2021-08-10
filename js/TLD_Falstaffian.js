@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Falstaffian</h2><div class="git"><span class="ipa">[fɔ:l'stɑ:fiәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">Falstaff, Sir John的变形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

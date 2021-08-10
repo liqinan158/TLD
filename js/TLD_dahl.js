@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dahl</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">达尔（人名）</span></div><div class="dcb"><span class="dcn">达尔（地名, 在德国）</span></div><div class="dcb"><span class="dcn">代赫勒（地名, 在沙特阿拉伯、也门）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

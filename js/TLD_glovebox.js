@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>glovebox</h2><div class="git"><span class="ipa">[ɡ'lʌvbɒks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32648</span><div class="total">3667</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">手套箱。（汽车前座，乘客座位对面，通常会有一个储物箱）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

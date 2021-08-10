@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bronc</h2><div class="git"><span class="ipa">[b'rɒŋk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45661</span><div class="total">1262</div></div><div class="coca2">北美野马(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">北美西部产的野马（等于bronco）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

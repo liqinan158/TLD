@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sweetbread</h2><div class="git"><span class="ipa">[ˈswi:tbred]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">小牛或小羊的胸腺（等于neck sweetbread或throat sweetbread）；小牛或小羊的胰脏（等于stomach sweetbread）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

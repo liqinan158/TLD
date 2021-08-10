@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>invalidation</h2><div class="git"><span class="ipa">[ɪnˌvælɪ'deɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36444</span><div class="total">2648</div></div><div class="coca2">失效(<font color="orangered">66%</font>)，无效(<font color="orangered">34%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">失效；无效</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

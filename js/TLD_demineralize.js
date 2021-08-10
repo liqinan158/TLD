@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>demineralize</h2><div class="git"><span class="ipa">[ˌdi:ˈmɪnərəlaɪz]</span><span class="frm">demineralized, demineralizing, demineralizes</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">去除矿物质</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

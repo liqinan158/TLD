@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>colonizer</h2><div class="git"><span class="ipa">['kɒlənaɪzə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34291</span><div class="total">3176</div></div><div class="coca2">殖民者(<font color="orangered">65%</font>)，殖民地开拓者(<font color="orangered">35%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">殖民者；殖民地开拓者；移入选民；移民</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Luton</h2><div class="git"><span class="ipa">['lu:tәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卢顿[英国英格兰中南部城市]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

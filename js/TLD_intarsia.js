@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>intarsia</h2><div class="git"><span class="ipa">[ɪnˈtɑ:siə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50658</span><div class="total">831</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（尤指15世纪意大利的）细木镶嵌工艺; （在石料、金属、玻璃上的）镶嵌工艺; （编织）嵌花工艺; 拼花镶嵌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

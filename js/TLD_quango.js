@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quango</h2><div class="git"><span class="ipa">[ˈkwæŋgəʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">半官方机构；半独立国家的政府组织</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

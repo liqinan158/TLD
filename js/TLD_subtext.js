@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>subtext</h2><div class="git"><span class="ipa">[ˈsʌbtekst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24376</span><div class="total">8013</div></div><div class="coca2">潜台词(<font color="orangered">87%</font>)，潜在的意思(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">潜台词；潜在的意思；潜在的性格</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

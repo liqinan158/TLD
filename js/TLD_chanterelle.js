@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chanterelle</h2><div class="git"><span class="ipa">[ˈʃɑ:ntərel]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39717</span><div class="total">2021</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鸡油菌（一种食用的蘑菇）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

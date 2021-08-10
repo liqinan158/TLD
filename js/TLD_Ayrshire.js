@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ayrshire</h2><div class="git"><span class="ipa">['єәʃә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">埃尔郡(苏格兰郡名), 艾尔夏牛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

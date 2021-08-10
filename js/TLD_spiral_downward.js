@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spiral downward</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">螺旋式下降；剧降；持续不断的下降</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

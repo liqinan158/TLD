@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clubbable</h2><div class="git"><span class="ipa">['klʌbəbl]</span></div><hr/></div><div class="coca2">善交际的(<font color="orangered">80%</font>)，俱乐部会员资格的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">善交际的；适合俱乐部会员资格的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

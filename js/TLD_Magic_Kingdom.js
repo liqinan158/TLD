@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Magic Kingdom</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">神奇王国；魔幻王国；魔法王国</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

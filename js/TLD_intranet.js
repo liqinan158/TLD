@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>intranet</h2><div class="git"><span class="ipa">[ˈɪntrənet]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">11711</span><div class="total">40374</div></div><div class="coca2">内部网络(<font color="orangered">75%</font>)，专用网(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">内联网；企业内部网</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

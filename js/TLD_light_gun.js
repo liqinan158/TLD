@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>light gun</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">光笔；灯光枪；光电子枪</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">光束；灯光信号枪；轻型火炮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

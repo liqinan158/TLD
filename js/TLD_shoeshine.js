@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shoeshine</h2><div class="git"><span class="ipa">[ˈʃu:ʃaɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54674</span><div class="total">563</div></div><div class="coca2">鞋油(<font color="orangered">54%</font>)，擦皮鞋(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鞋油；擦皮鞋；擦亮的皮鞋面</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

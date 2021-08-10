@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>plebe</h2><div class="git"><span class="ipa">[pli:b]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50059</span><div class="total">882</div></div><div class="coca2">军官学校的一年级新生(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">军官学校的最下级生；陆海军官校的一年级生；平民</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

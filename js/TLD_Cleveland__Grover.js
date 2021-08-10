@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cleveland, Grover</h2><div class="git"><span class="ipa">['kli:vlənd; 'ɡrəuvə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Cleveland, (Stephen) Grover</span></div><div class="dcb"><span class="dcn">['kli:vlənd; 'ɡrəuvə]</span></div><div class="dcb"><span class="dcn">克利夫兰(1837～1908)，美国第22届与24届总统 (1885～1889，1893～1897)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

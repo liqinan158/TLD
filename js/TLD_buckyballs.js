@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>buckyballs</h2><span class="onm">原型:</span><span class="orm">buckyballs 是 buckyball 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> = buckminsterfullerene</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

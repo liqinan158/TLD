@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clearway</h2><div class="git"><span class="ipa">[ˈklɪəweɪ]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TEM4</span></div><div class="coca2">超高速公路(<font color="orangered">58%</font>)，畅行道(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">畅行道，超速道路</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

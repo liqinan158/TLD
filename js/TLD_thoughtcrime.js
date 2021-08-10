@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thoughtcrime</h2><div class="git"><span class="ipa">[ˈθɔ:tkraɪm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">思想罪[指即使无行为事实因未能绝对忠于统治政权所构成的犯罪]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BAE Systems</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">英国宇航系统公司；英国航空公司；英国BAE系统公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

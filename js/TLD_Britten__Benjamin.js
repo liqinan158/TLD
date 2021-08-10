@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Britten, Benjamin</h2><div class="git"><span class="ipa">['britən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">布里顿(1913～1976，英国作曲家、指挥家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

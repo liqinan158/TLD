@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lumumba, Patrice</h2><div class="git"><span class="ipa">[lu'mumbə; pə'tri:s; ,emer'ʒi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Lumumba, Patrice (Emergy )</span></div><div class="dcb"><span class="dcn">[lu'mumbə; pə'tri:s; ,emer'ʒi:]</span></div><div class="dcb"><span class="dcn">卢蒙巴(1925～1961)，刚果民族解放运动领导人，刚果民主共和国总理(1960～1961)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

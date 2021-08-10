@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fiji</h2><div class="git"><span class="ipa">[fi:'dʒi:, 'fi:dʒi:]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">斐济（太平洋西南部的岛国，在新西兰之北，首都苏瓦）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

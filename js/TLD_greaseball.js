@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>greaseball</h2><div class="git"><span class="ipa">[ˈgri:sbɔ:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 意、西、葡等国血统的美国人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

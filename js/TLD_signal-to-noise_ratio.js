@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>signal-to-noise ratio</h2><div class="git"><span class="ipa">[ˈsɪɡnəl tu nɔɪz ˈreʃo]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">信噪比；信号噪声比；讯息对杂讯比；讯杂比</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">信号杂讯比；讯噪比；讯号杂讯比</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

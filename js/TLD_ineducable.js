@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ineducable</h2><div class="git"><span class="ipa">[ɪn'edʒʊkəbl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">难于教育的，无法感化的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

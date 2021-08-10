@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>seductress</h2><div class="git"><span class="ipa">[sɪˈdʌktrəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46225</span><div class="total">1209</div></div><div class="coca2">勾引男人的女子(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">勾引男人的女子；富有魅力的女子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

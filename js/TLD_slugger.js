@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slugger</h2><div class="git"><span class="ipa">['slʌɡə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26396</span><div class="total">6576</div></div><div class="coca2">强击手(<font color="orangered">75%</font>)，重击者(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">打击力强的选手；重击者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

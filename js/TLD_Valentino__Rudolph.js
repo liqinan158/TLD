@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Valentino, Rudolph</h2><div class="git"><span class="ipa">[,vælən'ti:nəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">瓦伦蒂诺(1895～1926，美国电影演员，生于意大利)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

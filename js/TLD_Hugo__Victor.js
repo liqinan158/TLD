@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hugo, Victor</h2><div class="git"><span class="ipa">[ju:'ɡəu; vi:k'tɔ:（mɑ:'r:i）]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Hugo3, Victor(Marie)</span></div><div class="dcb"><span class="dcn">[ju:'ɡəu; vi:k'tɔ:（mɑ:'r:i）]</span></div><div class="dcb"><span class="dcn">雨果(1802～1885，法国作家、剧作家和诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

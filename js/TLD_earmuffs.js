@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>earmuffs</h2><div class="git"><span class="ipa">[ˈɪəmʌfs]</span></div><span class="onm">原型:</span><span class="orm">earmuffs 是 earmuff 的复数</span><hr/></div><div class="coca2">护耳(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">耳套；护耳</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

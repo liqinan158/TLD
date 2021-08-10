@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>typecasting</h2><div class="git"><span class="ipa">['taɪpkɑ:stɪŋ]</span></div><span class="onm">原型:</span><span class="orm">typecasting 是 typecast 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">铸字；类型选角</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">扮演定性角色；使模式化（typecast的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

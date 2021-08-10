@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>USMC</h2><hr/></div><div class="coca2">美国海军陆战队(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国海军陆战队（United States Marine Corps）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

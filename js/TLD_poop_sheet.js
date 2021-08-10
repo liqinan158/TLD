@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>poop sheet</h2><div class="git"><span class="ipa">[pu:p ʃi:t]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">[美国俚语]；(关于某一问题的)情况简编，新闻发布稿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

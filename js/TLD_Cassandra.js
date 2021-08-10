@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cassandra</h2><div class="git"><span class="ipa">[kә'sændrә]</span></div><hr/></div><div class="coca2">不为人所信的预言家(<font color="orangered">50%</font>)，凶事预言家(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡珊德拉（希腊神话人物）；凶事预言家；不为人所信的预言家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>smart quotes</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 智能引号（用同一键输入、根据在引文前后的位置而自动变化始末方向的引号）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

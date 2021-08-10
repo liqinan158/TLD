@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>second screen</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">第二萤幕；第二屏；第二屏幕</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

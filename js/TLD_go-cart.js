@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>go-cart</h2><div class="git"><span class="ipa">['ɡəukɑ:t]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49373</span><div class="total">943</div></div><div class="coca2">轻便手推车(<font color="orangered">50%</font>)，童车(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">早期的轻便马车；学走器；手推车；竞赛用的微型单座汽车</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

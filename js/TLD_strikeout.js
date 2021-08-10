@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>strikeout</h2><div class="git"><span class="ipa">[ˈstraɪkaʊt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">10949</span><div class="total">45784</div></div><div class="coca2">加删除线(<font color="orangered">75%</font>)，棒球中三击未中出局(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">失败；加删除线；三击未中出局</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

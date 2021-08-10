@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>erythrocyte</h2><div class="git"><span class="ipa">[ɪˈrɪθrəsaɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28018</span><div class="total">5610</div></div><div class="coca2">红细胞(<font color="orangered">89%</font>)，红血球(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[细胞] 红细胞；[细胞] 红血球</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

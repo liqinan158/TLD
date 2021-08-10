@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>langlauf</h2><div class="git"><span class="ipa">[ˈlæŋlaʊf]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;德&gt;越野滑雪，速度滑雪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

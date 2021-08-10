@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>signwriting</h2><span class="onm">原型:</span><span class="orm">signwriting 是 signwrit 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">写招牌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>etymologist</h2><div class="git"><span class="ipa">[ˌetɪ'mɒlədʒɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56015</span><div class="total">491</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">语源学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

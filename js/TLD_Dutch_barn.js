@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dutch barn</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[建] 荷兰式仓棚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

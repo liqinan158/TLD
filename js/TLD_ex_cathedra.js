@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ex cathedra</h2><div class="git"><span class="ipa">[ˌeks kəˈθi:drə]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 16</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">用职权</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">最终权威；宗座权威；具权威的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

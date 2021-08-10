@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tracery</h2><div class="git"><span class="ipa">[ˈtreɪsəri]</span></div><hr/></div><div class="coca2">花饰窗格(<font color="orangered">55%</font>)，窗饰(<font color="orangered">35%</font>)，花饰图案(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">窗饰；花饰窗格</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

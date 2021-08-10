@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Somoza, Anastasio</h2><div class="git"><span class="ipa">[sɔ:'mɔ:sɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">索摩查(1896～1956)，尼加拉瓜总统(1937～1947，1951～1956)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

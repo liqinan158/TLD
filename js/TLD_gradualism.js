@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gradualism</h2><div class="git"><span class="ipa">[ˈgrædʒuəlɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49734</span><div class="total">910</div></div><div class="coca2">渐进主义(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">渐进主义；按步就班主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>biobreak</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 方便时间（离开电脑或会议去洗手间的时间）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

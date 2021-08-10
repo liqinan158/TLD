@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MMR</h2><div class="git"><span class="ipa">[,em em 'a:(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">麻疹、腮腺炎和风疹的混合疫苗（measles， mumps， and rubella）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>faith community</h2><div class="git"><span class="ipa">[feiθ kəˈmju:niti]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">宗教团体，宗教组织，</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

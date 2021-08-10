@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cityscape</h2><div class="git"><span class="ipa">[ˈsɪtiskeɪp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22971</span><div class="total">9253</div></div><div class="coca2">都市风景(<font color="orangered">53%</font>)，城市风光(<font color="orangered">47%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">都市风景；城市风光</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

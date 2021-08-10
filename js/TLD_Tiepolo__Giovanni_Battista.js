@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tiepolo, Giovanni Battista</h2><div class="git"><span class="ipa">['tjepɔ:lɔ:; dʒɔ:'vɑ:nni:bɑ:t'ti:stɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">提埃坡罗(1696～1770，意大利画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bloomingdale's</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">布卢明代尔公司(纽约市一家大百货公司)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">布鲁明戴尔百货店；布鲁明黛；布鲁明黛尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

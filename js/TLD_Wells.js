@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wells</h2><div class="git"><span class="ipa">[welz]</span></div><span class="onm">原型:</span><span class="orm">wells 是 well 的第三人称单数</span><hr/></div><div class="coca2">井(<font color="orangered">98%</font>)，水源(<font color="orangered">1%</font>)，名词well的复数形式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">威尔斯（姓氏）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

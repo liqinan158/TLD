@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>birdwatcher</h2><div class="git"><span class="ipa">[ˈbɜ:dwɒtʃə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（在大自然中）观察、研究野鸟的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>backtalk</h2><div class="git"><span class="ipa">['bæktɔ:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53470</span><div class="total">636</div></div><div class="coca2">回嘴(<font color="orangered">50%</font>)，辅助对话程序(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）顶嘴；[通信] 工作联络电话</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

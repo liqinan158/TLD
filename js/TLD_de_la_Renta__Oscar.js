@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>de la Renta, Oscar</h2><div class="git"><span class="ipa">[dələ'rentə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">德拉伦特(1932～ ，时装设计师，生于多米尼加共和国)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

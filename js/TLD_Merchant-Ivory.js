@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Merchant-Ivory</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">艾弗瑞电影公司；象牙商人电影公司；伊沃里</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

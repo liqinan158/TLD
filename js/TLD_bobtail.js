@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bobtail</h2><div class="git"><span class="ipa">[ˈbɒbteɪl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47352</span><div class="total">1108</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">短尾，截短的尾巴，截尾的动物; 晚礼服</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

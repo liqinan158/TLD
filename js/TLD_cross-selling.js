@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cross-selling</h2><div class="git"><span class="ipa">[krɔs ˈseliŋ]</span></div><hr/></div><div class="coca2">汽车商越区销售(<font color="orangered">50%</font>)，同型汽车的不守商业道德的行为(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">交叉销售；汽车商越区销售；同型汽车的不守商业道德的行为</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

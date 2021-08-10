@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>uptick</h2><div class="git"><span class="ipa">[ˈʌptɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18468</span><div class="total">15404</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">报升（股票成交价格比上一个交易的为高）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

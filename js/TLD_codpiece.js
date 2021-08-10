@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>codpiece</h2><div class="git"><span class="ipa">[ˈkɒdpi:s]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53700</span><div class="total">622</div></div><div class="coca2">男裤前面的褶检(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">男裤前面的褶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

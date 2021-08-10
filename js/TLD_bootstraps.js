@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bootstraps</h2><div class="git"><span class="ipa">['buːtstræps]</span></div><span class="onm">原型:</span><span class="orm">bootstraps 是 bootstrap 的复数</span><hr/></div><div class="coca2">拔靴带(<font color="orangered">44%</font>)，自力更生的(<font color="orangered">28%</font>)，自力更生(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[计] 引导程序，辅助程序；解靴带；[复]独自所做的努力</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

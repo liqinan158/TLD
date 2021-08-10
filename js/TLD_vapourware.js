@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vapourware</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【计算机】气化件(指已经做过介绍，但实际上还买不到的新研制的计算机软件或硬件)；未能商品化的软件或硬件设计 [亦作vaporware]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

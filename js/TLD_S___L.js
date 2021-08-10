@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>S &amp; L</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">音节分段：S &amp; L; Savings and loan association.</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

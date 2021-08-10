@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Virginia</h2><div class="git"><span class="ipa">[vә'dʒinjә]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">弗吉尼亚（女子名）；弗吉尼亚州</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">弗吉尼亚州的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ionizer</h2><div class="git"><span class="ipa">[ˈaɪənaɪzə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44091</span><div class="total">1427</div></div><div class="coca2">电离器(<font color="orangered">58%</font>)，电离剂(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化工] 电离剂；离子发生器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MRI</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">11791</span><div class="total">39860</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">核磁共振成像（Magnetic Resonance Imaging）；机读信息（Machine Readable Information）；中等度肾功能不全（Moderate Renal Insufficiency）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

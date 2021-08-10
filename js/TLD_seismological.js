@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>seismological</h2><div class="git"><span class="ipa">[ˌsaɪzmə'lɒdʒɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">53804</span><div class="total">616</div></div><div class="coca2">地震学上的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">地震学上的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

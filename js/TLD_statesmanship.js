@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>statesmanship</h2><div class="git"><span class="ipa">[ˈsteɪtsmənʃɪp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41824</span><div class="total">1712</div></div><div class="coca2">政治才能(<font color="orangered">82%</font>)，治国之才(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">政治才能；政治家的风度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

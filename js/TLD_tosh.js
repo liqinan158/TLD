@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tosh</h2><div class="git"><span class="ipa">[tɒʃ]</span></div><hr/></div><div class="coca2">胡说(<font color="orangered">51%</font>)，梦话(<font color="orangered">37%</font>)，缓球(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">胡说；梦话；废话</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Tosh)人名；(英、塞)托什</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

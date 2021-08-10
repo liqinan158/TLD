@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ordure</h2><div class="git"><span class="ipa">[ˈɔ:djʊə(r)]</span></div><hr/></div><div class="coca2">排泄物(<font color="orangered">86%</font>)，淫秽物(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">排泄物；污物；粪；淫秽的话</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

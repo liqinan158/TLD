@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>possessively</h2><hr/></div><div class="coca2">所有格(<font color="orangered">66%</font>)，占有欲强的(<font color="orangered">17%</font>)，所有格的(<font color="orangered">17%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">占有地</span></div><div class="dcb"><span class="dcn">所属关系地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

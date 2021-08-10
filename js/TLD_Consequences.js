@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Consequences</h2><div class="git"><span class="ipa">[ˈkɔnsikwənsiz]</span></div><span class="onm">原型:</span><span class="orm">consequences 是 consequence 的复数</span><hr/></div><div class="coca2">影响效果(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">后果，结果；影响（consequence的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

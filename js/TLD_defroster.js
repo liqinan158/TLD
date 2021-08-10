@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>defroster</h2><div class="git"><span class="ipa">[ˌdi:'frɒstə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38170</span><div class="total">2288</div></div><div class="coca2">除冰装置(<font color="orangered">60%</font>)，防结冰装置(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">防结冰（或霜）装置；除冰（或霜）装置</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

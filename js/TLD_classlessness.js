@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>classlessness</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">无阶级性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

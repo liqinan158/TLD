@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>curettage</h2><div class="git"><span class="ipa">[kjʊəˈretɪdʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43642</span><div class="total">1476</div></div><div class="coca2">刮除术(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[妇产] 刮除术，刮治术</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

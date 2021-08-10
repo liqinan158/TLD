@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>New Labour</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英国）新工党 （对现今工党的称呼，因其于 20 世纪 90 年代脱离左派传统以求获得更多人的支持）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">新劳动党；自新工党</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

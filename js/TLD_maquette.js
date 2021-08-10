@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>maquette</h2><div class="git"><span class="ipa">[mæ'ket]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42356</span><div class="total">1638</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">初步设计的模型；设计草图</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

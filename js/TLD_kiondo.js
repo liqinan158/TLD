@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kiondo</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （用剑麻绳等编的）长带挎包, 长带提包</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

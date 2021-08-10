@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beggar-my-neighbour</h2><div class="git"><span class="ipa">[ˈbeɡəmiˈneibə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">把对方全吃光为胜的一种游戏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

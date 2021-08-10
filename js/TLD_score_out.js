@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>score out</h2><div class="git"><span class="ipa">[skɔ: aut]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(用线)划掉；删去</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

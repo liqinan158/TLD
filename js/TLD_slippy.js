@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slippy</h2><div class="git"><span class="ipa">[ˈslɪpi]</span></div><span class="onm">级别:</span><span class="qrm">slippier, slippiest</span><hr/></div><div class="coca2">光滑的(<font color="orangered">58%</font>)，不可信赖的(<font color="orangered">28%</font>)，=slippery.(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">光滑的；敏捷的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

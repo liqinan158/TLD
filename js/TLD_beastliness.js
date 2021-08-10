@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beastliness</h2><div class="git"><span class="ipa">['bi:stlɪnəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">兽性，淫猥，令人恶心的食物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

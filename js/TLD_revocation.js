@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>revocation</h2><div class="git"><span class="ipa">[ˌrevəˈkeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14326</span><div class="total">26726</div></div><div class="coca2">取消(<font color="orangered">72%</font>)，废弃(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">取消；撤回；废除</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

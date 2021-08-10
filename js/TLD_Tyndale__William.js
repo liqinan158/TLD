@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tyndale, William</h2><div class="git"><span class="ipa">['tindəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">廷德尔(1492?～1536，英国宗教改革家、《圣经》的英译者)[亦作 Tindal， Tindale]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

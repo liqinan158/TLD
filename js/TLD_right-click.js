@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>right-click</h2><div class="git"><span class="ipa">[rait klik]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">16336</span><div class="total">20302</div></div><div class="coca2">点击右键(<font color="orangered">50%</font>)，指点击鼠标右键(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">右击</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

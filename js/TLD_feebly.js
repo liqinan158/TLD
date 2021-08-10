@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>feebly</h2><div class="git"><span class="ipa">['fi:blɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">39680</span><div class="total">2028</div></div><div class="coca2">虚弱地(<font color="orangered">50%</font>)，贫乏地(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">无力地；微弱地；柔弱地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

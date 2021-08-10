@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cyberterrorism</h2><div class="git"><span class="ipa">[saɪbə'terərɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57339</span><div class="total">426</div></div><div class="coca2">网络恐怖主义(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">网络恐怖主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

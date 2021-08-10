@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hot-desking</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">办公桌轮用制（按需要或依照轮流制度分配办公桌，而不是给每位员工桌子）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

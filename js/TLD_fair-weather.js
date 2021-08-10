@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fair-weather</h2><div class="git"><span class="ipa">[ˈfeəˌweðə]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">48742</span><div class="total">992</div></div><div class="coca2">只适用于好天气的(<font color="orangered">75%</font>)，不可共患难的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">限于好天气的；只能同安乐不可共患难的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

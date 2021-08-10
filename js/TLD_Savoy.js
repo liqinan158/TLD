@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Savoy</h2><div class="git"><span class="ipa">[sә'vɔi]</span></div><hr/></div><div class="coca2">皱叶甘蓝(<font color="orangered">68%</font>)，萨伏伊(法国东南部地名(<font color="orangered">16%</font>)，昔为一公国)(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">皱叶甘兰</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Savoy)人名；(英、西、瑞典)萨沃伊；(法)萨瓦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

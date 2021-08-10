@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>procaine</h2><div class="git"><span class="ipa">[ˈprəʊkeɪn]</span></div><hr/></div><div class="coca2">普鲁卡因(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[药] 普鲁卡因（一种局部麻醉药）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lichee</h2><div class="git"><span class="ipa">[ˌlaɪ'tʃi:]</span></div><hr/></div><div class="coca2">荔枝果(<font color="orangered">50%</font>)，=litchi(<font color="orangered">25%</font>)，lychee.(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（汉）荔枝；荔枝果（等于litchi）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

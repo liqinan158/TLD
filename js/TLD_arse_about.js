@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>arse about</h2><div class="git"><span class="ipa">[ɑ:s əˈbaut]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn"> [英国俚语、禁忌语]鬼混, 闲混, 游荡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

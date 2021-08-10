@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>obit</h2><div class="git"><span class="ipa">['ɒbɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40111</span><div class="total">1967</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">讣告（等于obituary）；忌辰；葬礼</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Obit)人名；(意)奥比特</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

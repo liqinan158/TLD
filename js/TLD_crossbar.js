@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crossbar</h2><div class="git"><span class="ipa">[ˈkrɒsbɑ:(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20411</span><div class="total">12290</div></div><div class="coca2">横杆(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">闩，横木；球门的横木</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

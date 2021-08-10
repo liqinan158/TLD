@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>midi system</h2><div class="git"><span class="ipa">[ˈmidi ˈsistəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">迷笛系统；数码音响系统</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

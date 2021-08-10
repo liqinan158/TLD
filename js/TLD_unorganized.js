@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unorganized</h2><div class="git"><span class="ipa">[ʌnˈɔ:gənaɪzd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26783</span><div class="total">6330</div></div><div class="coca2">无组织的(<font color="orangered">80%</font>)，杂乱的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无组织的，无条理的；未加入工会的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

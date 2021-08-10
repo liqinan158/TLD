@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hellhole</h2><div class="git"><span class="ipa">[ˈhelhəʊl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37730</span><div class="total">2367</div></div><div class="coca2">极度肮脏不堪的地方(<font color="orangered">50%</font>)，极端凄惨的地方(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">非常令人不舒服的场所；藏污纳垢之处</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

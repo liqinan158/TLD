@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gale-force</h2><div class="git"><span class="ipa">['ɡeɪlf'ɔ:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">（大风）七级以上的</span></div><div class="dcb"><span class="dcn">强风的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

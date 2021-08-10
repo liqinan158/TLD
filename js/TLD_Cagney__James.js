@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cagney, James</h2><div class="git"><span class="ipa">['kæɡni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡格尼(1899～1986，美国电影演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

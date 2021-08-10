@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Magellan, Ferdinand</h2><div class="git"><span class="ipa">[mə'dʒelən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">麦哲伦(1480～1521，葡萄牙航海家，麦哲伦海峡和菲律宾群岛的发现者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

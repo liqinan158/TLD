@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dominatrix</h2><div class="git"><span class="ipa">[ˌdɒmɪˈneɪtrɪks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40862</span><div class="total">1850</div></div><div class="coca2">女性施虐狂(<font color="orangered">67%</font>)，母夜叉(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女性施虐狂；专横的女人；假装规矩而实际上提供性服务的女人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

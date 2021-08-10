@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polycotton</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 涤棉混纺面料；涤棉布；混纺棉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

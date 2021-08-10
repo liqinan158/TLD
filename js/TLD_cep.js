@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cep</h2><div class="git"><span class="ipa">[sep]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">circle of equal probability 圆概率; circle of error probability 圆误差概率</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tom Brown's Schooldays</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">汤姆求学记；布朗的求学时代；汤姆的学校生活</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

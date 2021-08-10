@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>RI</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（美国）罗得岛州 （Rhode Island）；剩余收入（residual income）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Ri)人名；(日)理(名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

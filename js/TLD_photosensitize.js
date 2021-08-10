@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>photosensitize</h2><div class="git"><span class="ipa">[ˌfəʊtəʊ'sensɪtaɪz]</span><span class="frm">photosensitized, photosensitizing, photosensitizes</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">光敏剂</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">使具有感光性，使光敏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

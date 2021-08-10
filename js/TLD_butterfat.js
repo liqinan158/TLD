@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>butterfat</h2><div class="git"><span class="ipa">[ˈbʌtəfæt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43620</span><div class="total">1479</div></div><div class="coca2">牛奶中的天然脂肪(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乳脂；牛奶中的脂肪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

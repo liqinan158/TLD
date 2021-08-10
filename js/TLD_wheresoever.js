@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wheresoever</h2><div class="git"><span class="ipa">[ˌweəsəʊ'evə]</span></div><hr/></div><div class="coca2">在其上(<font color="orangered">44%</font>)，何处(<font color="orangered">28%</font>)，无论何处(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">conj.</span><span class="dcn">何处；无论何处</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">在其上</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

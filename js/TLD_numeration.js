@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>numeration</h2><div class="git"><span class="ipa">[ˌnju:mə'reɪʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51485</span><div class="total">768</div></div><div class="coca2">计算(<font color="orangered">87%</font>)，记数(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">计算；数字的读法；[数] 命数法；编号</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

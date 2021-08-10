@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Arendt, Hannah</h2><div class="git"><span class="ipa">['ɑ:rənt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿伦特(1906～1975，犹太裔美国政治学家、哲学家、作家和教师，出生于德国)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

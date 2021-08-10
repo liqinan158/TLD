@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>belvedere</h2><div class="git"><span class="ipa">[ˈbelvədɪə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60448</span><div class="total">276</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（通常顶层的）望楼，观景楼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

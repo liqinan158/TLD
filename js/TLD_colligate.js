@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>colligate</h2><div class="git"><span class="ipa">[ˈkɒlɪgeɪt]</span><span class="frm">colligated, colligating, colligates</span></div><hr/></div><div class="coca2">扎绑(<font color="orangered">50%</font>)，概括(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">综合；绑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

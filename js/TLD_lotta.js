@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lotta</h2><div class="git"><span class="ipa">[ˈlɒtə]</span></div><hr/></div><div class="coca2">=a lot of(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">许多，大量（等于lot of）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Lotta)人名；(英、意、芬、瑞典)洛塔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

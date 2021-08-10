@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>myxomatosis</h2><div class="git"><span class="ipa">[ˌmɪksəməˈtəʊsɪs]</span></div><hr/></div><div class="coca2">多发性粘液瘤(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多发粘液瘤病；[肿瘤] 粘液瘤变性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

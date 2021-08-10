@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tebibit</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">tebibit (plural tebibits)</span></div><div class="dcb"><span class="dcn">(computing) 240 (1,099,511,627,776) bits, as opposed to a terabit. Symbol Tib.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

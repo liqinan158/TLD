@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clave</h2><div class="git"><span class="ipa">[kleɪv]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49786</span><div class="total">907</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Clave)人名；(英、法)克拉夫</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">劈开（cleave的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

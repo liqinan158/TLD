@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Inns of Court</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">律师会馆（英国伦敦培养律师的四个学院：lnner Temple、Middle Temple、Lincoln's lnn和Gray's lnn)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

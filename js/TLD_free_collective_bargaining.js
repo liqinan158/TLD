@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>free collective bargaining</h2><div class="git"><span class="ipa">[fri: kəˈlektiv ˈbɑ:ɡiniŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> &lt;英&gt;雇主与工会之间有关提高工资、改善工作条件等不受法律限制的集体谈判</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

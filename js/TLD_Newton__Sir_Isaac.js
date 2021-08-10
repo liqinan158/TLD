@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Newton, Sir Isaac</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">牛顿爵士(1642～1727，英国哲学家、数学家、物理学家及天文学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

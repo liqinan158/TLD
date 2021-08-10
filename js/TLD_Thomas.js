@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Thomas</h2><div class="git"><span class="ipa">['tɒmәs]</span></div><span class="onm">原型:</span><span class="orm">Thomas 是 thoma 的复数</span><hr/></div><div class="coca2">托马斯(姓氏(<font color="orangered">50%</font>)，男子名)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">托马斯（男子名）；多马（耶稣十二门徒之一）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

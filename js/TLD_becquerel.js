@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>becquerel</h2><div class="git"><span class="ipa">[,bekә'rel]</span></div><hr/></div><div class="coca2">贝可(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">贝可（放射性活度单位）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Becquerel)人名；(法、西)贝克雷尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

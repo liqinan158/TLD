@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>centerfold</h2><div class="git"><span class="ipa">['sentəˌfəʊld]</span></div><hr/></div><div class="coca2">插页图片(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（杂志的）裸体照片插页，中间插页</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

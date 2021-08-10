@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nunavut</h2><div class="git"><span class="ipa">[nu:'nə'vu:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">努勒维特（位于加拿大）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

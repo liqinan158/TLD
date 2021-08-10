@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>transmigration</h2><div class="git"><span class="ipa">[ˌtrænzmaɪˈgreɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42992</span><div class="total">1554</div></div><div class="coca2">轮回(<font color="orangered">77%</font>)，转世(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">轮回；移居</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>focalize</h2><div class="git"><span class="ipa">[ˈfəʊkəlaɪz]</span><span class="frm">focalized, focalizing, focalizes</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">调节…的焦距; 使集中在焦点上; 聚焦; 调焦距</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

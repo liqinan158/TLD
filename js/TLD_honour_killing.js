@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>honour killing</h2><div class="git"><span class="ipa">[ˈɔnə ˈkɪlɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">荣誉谋杀是指凶手谋杀家庭成员以达到挽回家族荣誉的目的; 受害者几乎都是女性; 被杀害的原因主要是“失贞”和“不检点”; 常见的情况有被强奸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

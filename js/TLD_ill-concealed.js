@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ill-concealed</h2><hr/></div><div class="coca2">掩盖得不好的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">不加掩饰的</span></div><div class="dcb"><span class="dcn">外露的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

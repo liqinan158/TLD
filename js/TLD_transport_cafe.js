@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>transport cafe</h2><div class="git"><span class="ipa">[trænsˈpɔ:t ˈkæfei]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">公路路边小餐馆，公路边廉价餐厅</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

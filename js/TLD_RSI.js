@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>RSI</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">合理化，标准化及相互适应性（Rationlization，Standardization，Interoperability）；雷达显示器判定（Radar Scope Interpretation）；适当规模集成电路（Right Scale Integration）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

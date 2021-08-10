@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gaucheness</h2><div class="git"><span class="ipa">['gəuʃnis]</span></div><hr/></div><div class="coca2">笨拙的(<font color="orangered">49%</font>)，粗鲁的(<font color="orangered">29%</font>)，不善交际的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">不圆滑；缺乏社交经验</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>begad</h2><div class="git"><span class="ipa">[bɪˈgæd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">天哪（一种发誓或强调的虚词，多用于幽默谈话中）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

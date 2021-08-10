@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Queens</h2><div class="git"><span class="ipa">[kwiːn]</span></div><span class="onm">原型:</span><span class="orm">queens 是 queen 的第三人称单数</span><hr/></div><div class="coca2">女王(<font color="orangered">66%</font>)，王后(<font color="orangered">34%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">皇后区；女王（queen的复数形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

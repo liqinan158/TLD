@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clapperboard</h2><div class="git"><span class="ipa">[ˈklæpəbɔ:d]</span></div><hr/></div><div class="coca2">场记板(<font color="orangered">60%</font>)，拍板(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拍板；场记板（拍电影时用的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

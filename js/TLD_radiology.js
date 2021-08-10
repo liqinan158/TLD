@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>radiology</h2><div class="git"><span class="ipa">[ˌreɪdiˈɒlədʒi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14078</span><div class="total">27709</div></div><div class="coca2">放射学(<font color="orangered">85%</font>)，放射线科(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">放射学；放射线科；X光线学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

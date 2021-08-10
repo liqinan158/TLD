@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Meredith, George</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">梅瑞狄斯(1828～1909，英国小说家、诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

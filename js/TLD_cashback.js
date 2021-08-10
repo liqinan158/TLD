@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cashback</h2><hr/></div><div class="coca2">现金返还(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">超市夜未眠（电影名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

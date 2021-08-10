@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>negawatt</h2><div class="git"><span class="ipa">[neɡə'wæt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">节省一兆瓦（电）; 因为能效的提高，则电厂可以“少发一度电”</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

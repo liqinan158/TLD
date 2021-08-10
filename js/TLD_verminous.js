@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>verminous</h2><div class="git"><span class="ipa">[ˈvɜ:mɪnəs]</span></div><hr/></div><div class="coca2">害虫的(<font color="orangered">40%</font>)，生虫的(<font color="orangered">40%</font>)，由虫引起的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">由害虫引起的；害虫的；卑鄙的；肮脏的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

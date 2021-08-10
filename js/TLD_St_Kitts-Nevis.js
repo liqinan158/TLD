@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>St Kitts-Nevis</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">圣基茨和尼维斯联邦(中美洲国家, 首都巴斯特尔)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

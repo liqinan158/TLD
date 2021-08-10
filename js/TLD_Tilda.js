@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tilda</h2><div class="git"><span class="ipa">[ˈtildə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蒂尔达(Mathilda 的昵称)(f.)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

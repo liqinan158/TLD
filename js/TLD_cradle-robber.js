@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cradle-robber</h2><div class="git"><span class="ipa">[ ˈkreɪd(ə)lˌrʌbər]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 〈非正式〉和比自己年轻得多的人恋爱或结婚的人,吃嫩草的老牛,主要用于美式英语</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

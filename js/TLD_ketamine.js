@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ketamine</h2><div class="git"><span class="ipa">[ 'ketəmɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27084</span><div class="total">6135</div></div><div class="coca2">克他命(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克他命，[药] 氯胺酮（一种麻醉剂）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

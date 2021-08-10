@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impossibility</h2><div class="git"><span class="ipa">[ɪmˌpɒsə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17330</span><div class="total">17791</div></div><div class="coca2">不可能(<font color="orangered">98%</font>)，不可能之事(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">不可能；不可能的事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

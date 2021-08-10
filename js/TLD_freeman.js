@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>freeman</h2><div class="git"><span class="ipa">[ˈfri:mən]</span></div><hr/></div><div class="coca2">自由民(<font color="orangered">55%</font>)，公民(<font color="orangered">15%</font>)，男子名）(<font color="orangered">10%</font>)，一种叫Freeman的荣誉公民(<font color="orangered">10%</font>)，弗里曼（姓氏(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">自由民；享有市民权的人；荣誉市民</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

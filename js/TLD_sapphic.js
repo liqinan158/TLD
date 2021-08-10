@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sapphic</h2><div class="git"><span class="ipa">['sæfik]</span></div><hr/></div><div class="coca2">沙弗风格的(<font color="orangered">40%</font>)，沙弗诗体的(<font color="orangered">40%</font>)，有沙弗风格之诗(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">有沙弗风格的诗</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">沙弗诗体的；沙弗风格的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>off-kilter</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">35837</span><div class="total">2786</div></div><div class="gdc"><div class="dcb"><span class="dcn">It means that something's just not right. Off balance. It's not all there. </span></div><div class="dcb"><span class="deq">&gt; She suddenly started laughing for no reason. She's a bit off kilter..</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

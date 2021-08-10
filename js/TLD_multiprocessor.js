@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>multiprocessor</h2><div class="git"><span class="ipa">[ˌmʌltiˈprəʊsesə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42923</span><div class="total">1564</div></div><div class="coca2">多处理器(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">多重处理器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

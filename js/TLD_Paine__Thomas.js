@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Paine, Thomas</h2><div class="git"><span class="ipa">[pein]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">潘恩(1737～1809，美国作家，政治理论家，生于英国)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

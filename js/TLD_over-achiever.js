@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>over-achiever</h2><div class="git"><span class="ipa">[,əʊvərə'tʃiːvə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">成绩超过预料的学生；成就比预期更大的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

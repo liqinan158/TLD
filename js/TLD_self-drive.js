@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-drive</h2><div class="git"><span class="ipa">[self draiv]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">40589</span><div class="total">1891</div></div><div class="coca2">租车自己驾驶的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">租车自己驾驶的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

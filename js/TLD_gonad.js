@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gonad</h2><div class="git"><span class="ipa">[ˈgəʊnæd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30978</span><div class="total">4287</div></div><div class="coca2">性腺(<font color="orangered">63%</font>)，生殖腺(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[解剖] 性腺；[解剖] 生殖腺</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

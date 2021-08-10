@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>annexe</h2><div class="git"><span class="ipa">[ˈæneks]</span></div><hr/></div><div class="coca2">附属建筑(<font color="orangered">54%</font>)，附加物(<font color="orangered">35%</font>)，别馆(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">附属建筑；附加物</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Annexe)人名；(法)阿内克斯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

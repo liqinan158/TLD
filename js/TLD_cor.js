@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cor</h2><div class="git"><span class="ipa">[kɔ:(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">心脏；英国管（等于English horn或tenor oboe）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Cor)人名；(法、荷)科尔</span></div><div class="dcb"><span class="pos">int.</span><span class="dcn">天哪（表惊叹或烦恼）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

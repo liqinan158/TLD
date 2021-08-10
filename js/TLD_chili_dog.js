@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chili dog</h2><div class="git"><span class="ipa">['tʃilidɔɡ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 9</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 9</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">辣味热狗（有辣味牛肉的法兰克福熏红肠面包）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

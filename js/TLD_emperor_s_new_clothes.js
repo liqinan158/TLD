@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>emperor's new clothes</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">emperor's new clothes pl (plural only)</span></div><div class="dcb"><span class="dcn">(idiomatic) Something obvious and embarrassing that is politely ignored or that goes unacknowledged.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

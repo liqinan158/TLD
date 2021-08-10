@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>returner</h2><div class="git"><span class="ipa">[rɪˈtɜ:nə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26118</span><div class="total">6760</div></div><div class="coca2">回归者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">离职生养小孩一段时间后复职的妇女；回击者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>posy</h2><div class="git"><span class="ipa">[ˈpəʊzi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39153</span><div class="total">2117</div></div><div class="coca2">小花束(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">花束；（刻在戒指里圈上的）诗句（等于posey）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

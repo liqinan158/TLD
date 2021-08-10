@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>enure</h2><div class="git"><span class="ipa">[ɪn'jʊə]</span><span class="frm">enured, enuring, enures</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">弄惯，使强固</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

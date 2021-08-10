@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>light water</h2><div class="git"><span class="ipa">[lait ˈwɔ:tə]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">轻水（即普通水，水中氘含量不超过正常值）；泡沫灭火剂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

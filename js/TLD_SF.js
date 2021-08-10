@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SF</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">小前锋（Small Forward）；旧金山（San Francisco）；比例系数（Scale Factor）；科学小说（Science Fiction）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

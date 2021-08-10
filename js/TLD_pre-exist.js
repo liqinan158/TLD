@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-exist</h2><div class="git"><span class="ipa">[pri:iɡˈzist]</span></div><hr/></div><div class="coca2">先于 ... 而存在(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">先于而存在</span></div><div class="dcb"><span class="dcn">先在</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>waitperson</h2><div class="git"><span class="ipa">[ˈweɪtpɜ:sn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（餐厅、旅馆的）服务员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

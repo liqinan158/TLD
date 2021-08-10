@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>VPN</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[计] 虚拟私人网络</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

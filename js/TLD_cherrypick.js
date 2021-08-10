@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cherrypick</h2><div class="git"><span class="ipa">['tʃeri.pɪk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">挑选</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">指选出自己喜欢的；采摘樱桃；最佳决定选择</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

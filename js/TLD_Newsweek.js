@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Newsweek</h2><div class="git"><span class="ipa">[nju:zwi:k]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">新闻周刊（美国一杂志）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

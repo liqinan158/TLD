@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>luxe</h2><div class="git"><span class="ipa">[lʊks]</span></div><hr/></div><div class="coca2">奢侈(<font color="orangered">58%</font>)，豪华的(<font color="orangered">14%</font>)，奢华物(<font color="orangered">14%</font>)，奢侈的(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（法）奢侈</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

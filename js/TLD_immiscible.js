@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>immiscible</h2><div class="git"><span class="ipa">[ɪˈmɪsəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">53702</span><div class="total">622</div></div><div class="coca2">不能混合的(<font color="orangered">80%</font>)，不融洽的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不融和的；不能混合的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

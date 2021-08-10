@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>synergistic</h2><div class="git"><span class="ipa">[ˌsɪnə'dʒɪstɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">19983</span><div class="total">12919</div></div><div class="coca2">协同的(<font color="orangered">58%</font>)，协作的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">协同的；协作的，协同作用的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

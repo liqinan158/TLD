@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oreo</h2><div class="git"><span class="ipa">['ɔ:riəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奥利奥（商标名）；讨好白人的黑人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

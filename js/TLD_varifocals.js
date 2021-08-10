@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>varifocals</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 变焦眼镜, 渐进眼镜 （镜片由上至下用于看远、近距离的东西）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

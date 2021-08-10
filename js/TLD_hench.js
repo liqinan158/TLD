@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hench</h2><div class="git"><span class="ipa">[hentʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 亨奇（姓氏； Philip Showalter, 1896-1965，美国医学家，曾获1950年诺贝尔生理学-医学奖）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

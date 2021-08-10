@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bluejay</h2><div class="git"><span class="ipa">[ˈblu:dʒeɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44168</span><div class="total">1420</div></div><div class="coca2">北美鸟(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">冠蓝鸦（北美产的一种蓝色鸟）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

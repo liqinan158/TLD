@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>adland</h2><div class="git"><span class="ipa">['ædlænd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">广告行业，广告界</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

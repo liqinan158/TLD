@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>on-demand</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">11770</span><div class="total">39974</div></div><div class="coca2">请求式(<font color="orangered">50%</font>)，立即响应式(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">请求式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

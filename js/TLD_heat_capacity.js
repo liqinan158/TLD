@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>heat capacity</h2><div class="git"><span class="ipa">[hi:t kəˈpæsiti]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【物】热容量</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">比热；制热量；热容积</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

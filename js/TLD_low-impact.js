@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>low-impact</h2><div class="git"><span class="ipa">[ləu ˈimpækt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">27713</span><div class="total">5766</div></div><div class="coca2">不造成损害的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">（锻炼）对身体冲击力小的，低强度的</span></div><div class="dcb"><span class="dcn">（项目、活动等）对环境影响小的，环保的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

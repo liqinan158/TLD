@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sabre-rattling</h2><div class="git"><span class="ipa">[ˈseɪbə ˈrætliŋ]</span></div><hr/></div><div class="coca2">武力恫吓(<font color="orangered">67%</font>)，战争叫嚣(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">武力恫吓；炫耀武力</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">炫耀武力（sabre-rattle的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

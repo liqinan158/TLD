@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>foxed</h2><div class="git"><span class="ipa">[fɒkst]</span></div><span class="onm">原型:</span><span class="orm">foxed 是 fox 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">变色的，有褐斑的，变酸的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>koala</h2><div class="git"><span class="ipa">[kəʊˈɑ:lə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20759</span><div class="total">11840</div></div><div class="coca2">考拉(<font color="orangered">67%</font>)，树袋熊(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">树袋熊，无尾熊（产于澳大利亚，又名考拉）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

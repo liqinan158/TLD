@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>theo-</h2><div class="git"><span class="ipa">[ˈθi:əʊ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">表示“神，上帝”之义（在元音前作the-）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ceylon</h2><div class="git"><span class="ipa">[si'lɒn]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">锡兰（印度以南一岛国，现以更名为斯里兰卡Srilanka）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

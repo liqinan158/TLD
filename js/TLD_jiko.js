@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jiko</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 绩高炉（用金属或黏土制作，烧煤炭或小木块）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

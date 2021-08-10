@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tip-in</h2><div class="git"><span class="ipa">[ˈtɪpˌɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 粘附插页; 拨球进篮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

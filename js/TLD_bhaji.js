@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bhaji</h2><div class="git"><span class="ipa">[ˈbɑ:dʒi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54937</span><div class="total">548</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">印度炒素菜；(蘸面糊炸的)蔬菜丸子，炸蔬菜饼[参较 pakora]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

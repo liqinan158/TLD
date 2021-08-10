@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nightingale, Florence</h2><div class="git"><span class="ipa">['naitiŋɡeil]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(the Lady with the Lamp)(掌灯女士)南丁格尔(1820～1910,英国护士)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Weill, Kurt</h2><div class="git"><span class="ipa">[vail]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">韦尔(1900～1950，德国作曲家，1935年后定居美国)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

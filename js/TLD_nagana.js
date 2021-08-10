@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nagana</h2><div class="git"><span class="ipa">[nəˈgɑ:nə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">那加那病（南非由采采蝇传播的一种家畜病）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

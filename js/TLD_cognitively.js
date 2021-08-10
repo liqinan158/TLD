@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cognitively</h2><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">27598</span><div class="total">5830</div></div><div class="coca2">认知的(<font color="orangered">55%</font>)，认识的(<font color="orangered">37%</font>)，有认识力的(<font color="orangered">8%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">认知地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

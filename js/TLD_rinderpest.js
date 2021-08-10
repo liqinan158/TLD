@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rinderpest</h2><div class="git"><span class="ipa">[ˈrɪndəpest]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58466</span><div class="total">373</div></div><div class="coca2">牛疫(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[兽医] 牛瘟；[兽医] 牛疫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

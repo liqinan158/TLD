@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aureate</h2><div class="git"><span class="ipa">[ˈɔ:riət]</span></div><hr/></div><div class="coca2">金色的(<font color="orangered">55%</font>)，镀金的(<font color="orangered">30%</font>)，华丽的(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">金色的；镀金的；灿烂的；文体华丽的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

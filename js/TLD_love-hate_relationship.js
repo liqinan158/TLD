@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>love-hate relationship</h2><div class="git"><span class="ipa">[lʌv het rɪˈleʃənˌʃɪp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">爱恨交加的关系</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

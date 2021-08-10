@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Peter's pence</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">每户每年呈交罗马教皇的税金；天主教徒自愿献给教皇的年金</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">一便士献金；彼得便士；圣座献金</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

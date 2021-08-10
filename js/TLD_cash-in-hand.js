@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cash-in-hand</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(=〔美国〕cash on hand)现有金额</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">手中现金；当场付清的；考试大</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

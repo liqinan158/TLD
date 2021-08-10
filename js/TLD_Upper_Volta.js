@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Upper Volta</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">上沃尔塔（布基纳法索旧称, 非洲国家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

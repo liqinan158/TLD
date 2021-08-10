@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stoma</h2><div class="git"><span class="ipa">[ˈstəʊmə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28151</span><div class="total">5539</div></div><div class="coca2">呼吸口(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[植] 气孔；叶孔；[昆] 呼吸孔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

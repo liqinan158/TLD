@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lobelia</h2><div class="git"><span class="ipa">[ləʊˈbi:liə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34352</span><div class="total">3159</div></div><div class="coca2">山梗莱属的植物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">半边莲；山梗莱属的植物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

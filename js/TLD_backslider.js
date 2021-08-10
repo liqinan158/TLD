@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>backslider</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60510</span><div class="total">275</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">指那些想要改掉坏习惯，但是往往在改了一段时间后又恢复老习惯的人。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

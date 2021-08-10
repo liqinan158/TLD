@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coordinator</h2><div class="git"><span class="ipa">[kəʊ'ɔ:dɪneɪtə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">3896</span><div class="total">273699</div></div><div class="coca2">协调者(<font color="orangered">90%</font>)，同等的人或物(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">协调者；[自] 协调器；同等的人或物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

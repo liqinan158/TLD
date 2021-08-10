@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>obo</h2><div class="git"><span class="ipa">['əʊbəʊ]</span></div><hr/></div><div class="coca2">最低价(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">老车事务所（Old Bike Office）；开放的生物医学本体（Open Biomedical Ontologies）；石油／散货／矿砂（oil/bulk/ore）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Obo)人名；(日)於保(姓)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

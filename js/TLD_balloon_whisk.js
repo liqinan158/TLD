@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>balloon whisk</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 气球形手动搅拌器, 打蛋器（用弧状细金属丝制成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

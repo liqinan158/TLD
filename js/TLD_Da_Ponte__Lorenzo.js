@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Da Ponte, Lorenzo</h2><div class="git"><span class="ipa">[dɑ:'pəuntei; ləu'rentsəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">达蓬特(1749～1838，意大利诗人、歌词作者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

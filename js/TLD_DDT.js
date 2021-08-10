@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DDT</h2><div class="git"><span class="ipa">[,di:,di:'ti:]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">数字资料发送机（Digital Data Transmitter）；开发与技术部（Department of Development and Technology）；二氯二苯三氯乙烷（Dichloro-Diphenyl-Tricgloroethane）；数字调试带（Digital Debugging Tape）；双二极-三极管（Double Diode-Triode）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

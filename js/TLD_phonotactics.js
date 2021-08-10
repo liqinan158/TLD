@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phonotactics</h2><div class="git"><span class="ipa">[ˌfəʊnə'tæktɪks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">音位结构学，音位配列学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

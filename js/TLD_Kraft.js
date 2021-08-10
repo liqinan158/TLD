@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kraft</h2><div class="git"><span class="ipa">[krɑ:ft]</span></div><hr/></div><div class="coca2">牛皮纸(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">牛皮纸</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Kraft)人名；(丹、芬、法、捷、匈、塞、俄、英、德、瑞典、爱沙)克拉夫特</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

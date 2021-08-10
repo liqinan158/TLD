@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bathysphere</h2><div class="git"><span class="ipa">[ˈbæθɪsfɪə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（可潜入深海中观察海底生物生活情况的）探海球，潜水球</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

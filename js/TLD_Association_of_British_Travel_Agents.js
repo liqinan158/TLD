@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Association of British Travel Agents</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国旅行社协会；英国旅行代理商协会；英国旅游代理</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

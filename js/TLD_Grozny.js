@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Grozny</h2><div class="git"><span class="ipa">['ɡrəuzni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">格罗兹尼（车臣共和国首府）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

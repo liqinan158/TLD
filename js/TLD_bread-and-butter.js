@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bread-and-butter</h2><div class="git"><span class="ipa">[ˈbrednˈbʌtə]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">41706</span><div class="total">1727</div></div><div class="coca2">实用的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">实用的，基本的；生计的；青年期的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

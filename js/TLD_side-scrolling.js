@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>side-scrolling</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （游戏用语）横向卷轴。即游戏画面的前景与背景从左向右移动的卷轴模式，常用于2D射击游戏中。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

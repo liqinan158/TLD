@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>'tis</h2><div class="git"><span class="ipa">[tɪz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">【植】铁树 (Cordyline terminalis)</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">(=titanium)【化】</span></div><div class="dcb"><span class="pos">short.</span><span class="dcn">it is</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

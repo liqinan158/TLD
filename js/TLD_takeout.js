@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>takeout</h2><div class="git"><span class="ipa">['teɪkaʊt]</span></div><hr/></div><div class="coca2">供顾客带出外吃的(<font color="orangered">58%</font>)，外卖的食物(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">外卖；（桥牌中）示意搭档改叫的叫牌</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">外卖的，供顾客带出外吃的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

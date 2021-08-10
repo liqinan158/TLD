@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coolabah</h2><div class="git"><span class="ipa">[ˈku:ləbɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">澳洲胶树（尤指小药室桉）[澳洲土著语]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

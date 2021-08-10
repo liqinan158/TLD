@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vanbrugh, Sir John</h2><div class="git"><span class="ipa">['vænbrə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">范布勒爵士(1664～1726，英国戏剧家、建筑师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Keaton, Buster</h2><div class="git"><span class="ipa">['ki:tən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">基顿(1895～1966，美国电影滑稽演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

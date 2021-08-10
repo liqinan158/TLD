@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>central casting</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn"> [电影](电影制片厂的)演员选派部，电影厂分派次要角色的部门; [比喻]公式化、定型的形象</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

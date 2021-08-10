@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mudslide</h2><div class="git"><span class="ipa">[ˈmʌdslaɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32505</span><div class="total">3715</div></div><div class="coca2">泥流(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">塌方；山崩；（沿缓坡而下的）徐缓黏滞泥流；泥流</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

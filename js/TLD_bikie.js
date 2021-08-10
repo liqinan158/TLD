@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bikie</h2><div class="git"><span class="ipa">[ˈbaɪki]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;主澳&gt;&lt;俚&gt;骑摩托车的人（尤指属某一团伙者）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

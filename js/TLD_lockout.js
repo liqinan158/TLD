@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lockout</h2><div class="git"><span class="ipa">[ˈlɒkaʊt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15804</span><div class="total">21685</div></div><div class="coca2">停工(<font color="orangered">89%</font>)，关闭工厂(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">停工；[计][自] 封锁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

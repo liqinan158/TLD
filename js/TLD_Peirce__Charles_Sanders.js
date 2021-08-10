@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Peirce, Charles Sanders</h2><div class="git"><span class="ipa">['pə:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">皮尔斯 (1839～1914， 美国哲学家，数学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

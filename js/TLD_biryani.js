@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>biryani</h2><div class="git"><span class="ipa">[ˌbɪrɪ'ɑ:nɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42655</span><div class="total">1597</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">印度比尔亚尼菜（如用藏花或薑黄调味的羊肉米饭或鸡肉米饭或菜饭）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

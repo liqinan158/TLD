@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>civvies</h2><div class="git"><span class="ipa">[ˈsɪviz]</span></div><span class="onm">原型:</span><span class="orm">civvies 是 civvy 的复数</span><hr/></div><div class="coca2">便服(<font color="orangered">64%</font>)，平民(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">平民服；平民</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

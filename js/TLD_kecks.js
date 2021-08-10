@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kecks</h2><span class="onm">原型:</span><span class="orm">kecks 是 keck 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 内裤；衬裤；裤子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

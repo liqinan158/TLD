@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>titch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （用于谈论或称呼）小不点儿，娃儿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

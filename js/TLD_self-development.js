@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-development</h2><div class="git"><span class="ipa">[.selfdi'velәpmәnt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （在性格、能力方面的）自我发展，自我提高</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

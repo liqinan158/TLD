@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aotearoa</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奥特亚罗瓦（新几内亚岛东南方的岛屿）；长白云之乡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

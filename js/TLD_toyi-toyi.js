@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>toyi-toyi</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 托弋托弋舞（或游行）（作为抗议示威，左右交替抬腿）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

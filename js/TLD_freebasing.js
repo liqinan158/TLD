@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>freebasing</h2><span class="onm">原型:</span><span class="orm">freebasing 是 freebase 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">加热精炼；加热吸用</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">加热精炼或吸用可卡因</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">毒品（俚语）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

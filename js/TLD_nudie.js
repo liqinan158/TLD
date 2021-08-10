@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nudie</h2><div class="git"><span class="ipa">[ˈnju:di]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49846</span><div class="total">902</div></div><div class="coca2">以裸体为号召的电影(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">裸体表演；裸体照片；裸体黄色影片</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

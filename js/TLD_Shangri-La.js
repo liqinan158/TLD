@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shangri-La</h2><hr/></div><div class="coca2">香格里拉(<font color="orangered">75%</font>)，世外桃源(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">香格里拉（想像中的人间乐园）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

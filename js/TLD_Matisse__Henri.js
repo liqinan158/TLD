@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Matisse, Henri</h2><div class="git"><span class="ipa">[mɑ:'tis]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">马蒂斯(1869～1954，法国画家、雕刻家和版画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

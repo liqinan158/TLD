@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>body-popping</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 机械舞（动作如机器人般僵硬的舞蹈风格）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

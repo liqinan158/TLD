@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Economic and Monetary Union</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">经济和货币同盟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skelm</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 地痞；流氓；无赖；不可信任的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

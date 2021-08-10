@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>follow-my-leader</h2><div class="git"><span class="ipa">[ˈfɔləu mai ˈli:də]</span></div><hr/></div><div class="coca2">做领头游戏(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">模枋，学样(儿童游戏，游戏者必须模仿领头人的一举一动)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>interdiction</h2><div class="git"><span class="ipa">[ˌɪntəˈdɪkʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30958</span><div class="total">4293</div></div><div class="coca2">禁止(<font color="orangered">55%</font>)，封锁(<font color="orangered">45%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">禁止，制止；封锁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>offcut</h2><div class="git"><span class="ipa">[ˈɒfkʌt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（木材等的）斜料，纸边; 边角料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

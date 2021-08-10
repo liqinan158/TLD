@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gandhi, Rajiv</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">拉吉夫甘地(1944～1991)，英甘地之子，印度政治领袖，总理(1984～1989)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

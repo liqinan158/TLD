@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nohow</h2><div class="git"><span class="ipa">['nəʊˌhaʊ]</span></div><hr/></div><div class="coca2">决不(<font color="orangered">45%</font>)，毫不(<font color="orangered">44%</font>)，无论如何不(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不舒服的；混乱的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">决不；一点也不；毫不</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

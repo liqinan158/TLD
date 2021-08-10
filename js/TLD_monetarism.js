@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>monetarism</h2><div class="git"><span class="ipa">[ˈmʌnɪtərɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53135</span><div class="total">658</div></div><div class="coca2">货币主义(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">货币主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

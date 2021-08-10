@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>zwieback</h2><div class="git"><span class="ipa">['zwi:bæk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">&lt;德&gt;n.烤干面包( 常用鸡蛋甜面包烤成的一种面包片)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

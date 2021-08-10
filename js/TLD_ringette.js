@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ringette</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49292</span><div class="total">950</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 冰圈运动，冰上争圈（加拿大的一种类似冰球的运动，用直杆和橡皮圈，主要为女性参加）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

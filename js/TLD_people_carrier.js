@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>people carrier</h2><div class="git"><span class="ipa">[ˈpi:pl ˈkæriə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">多人运输车（有三排乘客座位）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

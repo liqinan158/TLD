@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tuvalu</h2><div class="git"><span class="ipa">['tu:vәlu]</span></div><hr/></div><div class="coca2">旧称埃利斯群岛)(<font color="orangered">50%</font>)，图瓦卢(西太平洋岛国(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">图瓦卢（西太平洋岛国，旧称埃利斯群岛）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

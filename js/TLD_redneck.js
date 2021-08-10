@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>redneck</h2><div class="git"><span class="ipa">[ˈrednek]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23271</span><div class="total">8981</div></div><div class="coca2">农人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乡下人；红脖子（指美国南方保守的露天劳动者）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

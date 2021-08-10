@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>discreteness</h2><div class="git"><span class="ipa">[dɪ'skri:tnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59540</span><div class="total">321</div></div><div class="coca2">离散性(<font color="orangered">72%</font>)，不连续性(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">组件；不连续性（目标对于背景的显明度）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Douglass, Frederick</h2><div class="git"><span class="ipa">['dʌɡləs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">道格拉斯(1817～1895，美国废奴主义者和雄辩家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Pledge of Allegiance</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">宣誓效忠（美国人站在国旗前右手贴左胸宣誓）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">效忠誓词；忠诚宣誓；效忠誓言</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

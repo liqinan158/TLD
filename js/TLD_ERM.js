@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ERM</h2><div class="git"><span class="ipa">[ɜ:m]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">汇率机制（Exchange Rate Mechanism）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Erm)人名；(泰)余；(匈)埃尔姆；(俄)叶尔姆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

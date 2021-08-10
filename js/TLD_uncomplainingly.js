@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>uncomplainingly</h2><hr/></div><div class="coca2">顺从的(<font color="orangered">45%</font>)，没有怨言的(<font color="orangered">33%</font>)，忍受痛苦的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">任劳任怨</span></div><div class="dcb"><span class="dcn">毫无怨言</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

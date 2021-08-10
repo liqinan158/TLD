@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vermeer, Jan</h2><div class="git"><span class="ipa">[vər'meir; jɑ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">弗美尔(1632～1675,荷兰画家) [亦作Jan van der Meer van Delft]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

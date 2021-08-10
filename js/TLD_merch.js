@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>merch</h2><div class="git"><span class="ipa">['mɜ:tʃ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23588</span><div class="total">8678</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">merchandise （总称）商品; 货物; merchant 商人; merchantable 适销的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

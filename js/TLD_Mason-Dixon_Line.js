@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mason-Dixon Line</h2><div class="git"><span class="ipa">['meisən'diksən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">梅森—狄克森线(美国宾夕法尼亚州与马里兰州之间的分界线)[亦作Mason and Dixon's line]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

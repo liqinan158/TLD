@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thunderbox</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （简易）便桶，马桶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

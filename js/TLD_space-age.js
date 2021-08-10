@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>space-age</h2><div class="git"><span class="ipa">[speis eidʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">37666</span><div class="total">2378</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">太空时代</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">太空时代的；航天时代的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

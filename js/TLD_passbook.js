@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>passbook</h2><div class="git"><span class="ipa">[ˈpɑ:sbʊk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37001</span><div class="total">2519</div></div><div class="coca2">银行存折(<font color="orangered">86%</font>)，顾客赊欠账簿(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">银行存折；赊帐登录本</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

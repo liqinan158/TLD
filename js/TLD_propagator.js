@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>propagator</h2><div class="git"><span class="ipa">[ˈprɒpəgeɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37294</span><div class="total">2457</div></div><div class="coca2">传播者(<font color="orangered">64%</font>)，繁殖者(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">宣传者；增殖者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

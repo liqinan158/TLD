@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lactobacillus</h2><div class="git"><span class="ipa">[ˌlæktəʊbəˈsɪləs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43522</span><div class="total">1491</div></div><div class="coca2">乳酸杆菌(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乳酸菌；乳杆菌属</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

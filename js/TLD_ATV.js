@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ATV</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">全地形交通工具（All-Terrain Vehicle）；自动售票机（Automatic Ticket Vendor）；联合电视公司（英国）（Associated Television）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

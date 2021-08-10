@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the National Assembly for Wales</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">威尔士国民议会；威尔斯议会；威尔士议会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

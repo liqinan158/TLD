@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>funny farm</h2><div class="git"><span class="ipa">[ˈfʌni fɑ:m]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">精神病院</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">滑稽农场；指精神病院；指神经病院</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

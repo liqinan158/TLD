@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>electromagnetism</h2><div class="git"><span class="ipa">[ɪˌlektrəʊˈmægnətɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32977</span><div class="total">3565</div></div><div class="coca2">电磁(<font color="orangered">79%</font>)，电磁学(<font color="orangered">21%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电磁；电磁学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

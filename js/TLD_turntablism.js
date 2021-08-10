@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>turntablism</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56263</span><div class="total">478</div></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">唱盘主义；唱机主义；唱盘主义音乐</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

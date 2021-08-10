@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blow-hole</h2><div class="git"><span class="ipa">[b'ləʊh'əʊl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（隧道的）通风口； （海豹等用以呼吸的）冰窟窿； （鲸鱼的）鼻孔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

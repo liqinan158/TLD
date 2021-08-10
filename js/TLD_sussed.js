@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sussed</h2><div class="git"><span class="ipa">[sust]</span></div><span class="onm">原型:</span><span class="orm">sussed 是 suss 的过去式和过去分词</span><hr/></div><div class="coca2">发现…的真面目(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">熟悉的；了解的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">怀疑…有罪（sus的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>microblog</h2><div class="git"><span class="ipa">[ˈmaɪkroʊˌblɒɡ]</span></div><hr/></div><div class="coca2">微博(<font color="orangered">96%</font>)，发微博(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">微博</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

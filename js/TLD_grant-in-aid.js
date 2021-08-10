@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grant-in-aid</h2><div class="git"><span class="ipa">[,^rɑ:ntin'eid]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59897</span><div class="total">303</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">补助金, 赠予款</span></div><div class="dcb"><span class="dcn">[法] 补助金, 中央给地方的拨款</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>WWI</h2><hr/></div><div class="coca2">=Weight Watchers International 国际节食减肥者(<font color="orangered">50%</font>)，abbr.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">第一次世界大战（World War One）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

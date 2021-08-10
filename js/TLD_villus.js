@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>villus</h2><div class="git"><span class="ipa">[ˈvɪləs]</span></div><hr/></div><div class="coca2">小肠绒毛(<font color="orangered">50%</font>)，羊膜绒毛(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[脊椎] 绒毛；长茸毛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

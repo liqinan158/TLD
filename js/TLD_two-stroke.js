@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>two-stroke</h2><div class="git"><span class="ipa">[tu: strəuk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">35033</span><div class="total">2977</div><span class="pos">NOUN</span><span class="rank">43087</span><div class="total">1544</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">两冲程的（内燃机）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dawn chorus</h2><div class="git"><span class="ipa">[dɔ:n ˈkɔ:rəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">清晨时的鸟叫声</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

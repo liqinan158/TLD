@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>joined-up</h2><hr/></div><div class="coca2">指每个字的所有字母都用连笔写成的(<font color="orangered">34%</font>)，连笔的(<font color="orangered">33%</font>)，连笔笔迹(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">表现出成熟老练的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

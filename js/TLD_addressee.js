@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>addressee</h2><div class="git"><span class="ipa">[ˌædreˈsi:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28419</span><div class="total">5413</div></div><div class="coca2">收信人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">收件人，收信人；[计] 被访地址</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

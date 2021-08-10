@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>conniption</h2><div class="git"><span class="ipa">[kə'nɪpʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55659</span><div class="total">508</div></div><div class="coca2">发作性歇斯底里(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">歇斯底里；阵怒（等于conniption fit）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

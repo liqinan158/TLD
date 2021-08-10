@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>America</h2><div class="git"><span class="ipa">[ә'merikә]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">CET4</span><span class="label label-success">CET6</span></div><div class="coca2">美国(<font color="orangered">85%</font>)，美洲(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">美洲（包括北美和南美洲）；美国</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

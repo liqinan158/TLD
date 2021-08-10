@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>V-2</h2><div class="git"><span class="ipa">['vi:'tu:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">-2's V-2 导弹(第二次世界大战时德国使用的 V-1 改进型地对地导弹) [亦作 V-two]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unsubscribe</h2><div class="git"><span class="ipa">[ˌʌnsəbˈskraɪb]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">15261</span><div class="total">23306</div></div><div class="coca2">取消订阅(<font color="orangered">77%</font>)，退订(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">取消订阅；注销；注销账户</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

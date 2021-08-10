@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>button lift</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 上山牵引机（用吊杆拉滑雪者上山）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

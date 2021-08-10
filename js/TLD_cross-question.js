@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cross-question</h2><div class="git"><span class="ipa">[krɔsˈkwestʃ(ə)n]</span></div><hr/></div><div class="coca2">盘问(<font color="orangered">64%</font>)，审问(<font color="orangered">18%</font>)，反复询问(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">盘问，反复询问</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">审问；盘问</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

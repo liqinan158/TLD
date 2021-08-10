@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>transhumance</h2><div class="git"><span class="ipa">[trænsˈhju:məns]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">季节性牲畜移动（指迁移至合适的放牧地）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chi-square test</h2><div class="git"><span class="ipa">[ˌkaɪ ˈskweə test]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">X&amp;sup2 检验；卡方检验</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">卡方检定；卡方考验；卡方分析</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

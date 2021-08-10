@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Anti-Corn Law League</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">【英国历史】(英国1839年成立的)反谷物法同盟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

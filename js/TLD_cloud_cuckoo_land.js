@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cloud cuckoo land</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">幻想世界；脱离现实的幻境</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">世外桃源；阴云紧锁的孤岛；梦幻国度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

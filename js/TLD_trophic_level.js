@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trophic level</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（生态系统的）营养级</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">食性层次；营养水平；营养阶层</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

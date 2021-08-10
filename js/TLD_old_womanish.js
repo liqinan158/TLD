@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>old womanish</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">有老婆子性格的；适宜于老婆子的；婆婆妈妈的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

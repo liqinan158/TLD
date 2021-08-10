@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Guadeloupe</h2><div class="git"><span class="ipa">[,^wɑ:dә'lu:p]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">瓜德罗普岛[拉丁美洲](位于小安的列斯群岛中部,法属)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tobogganing</h2><div class="git"><span class="ipa">[tə'bɒɡənɪŋ]</span></div><span class="onm">原型:</span><span class="orm">tobogganing 是 toboggane 的现在分词</span><hr/></div><div class="coca2">乘橇作滑雪运动(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">平底雪橇滑雪；乘橇作滑雪运动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

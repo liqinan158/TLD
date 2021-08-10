@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-factive</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 非述实的, 非事实的（如believe和doubt）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

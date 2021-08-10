@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kennedy, Robert Francis</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">肯尼迪(1925～1968，J.P.Kennedy 的第三个儿子，曾任肯尼迪政府司法部长)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

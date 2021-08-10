@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Leicester</h2><div class="git"><span class="ipa">['lestә]</span></div><hr/></div><div class="coca2">莱斯特干酪(<font color="orangered">50%</font>)，莱斯特羊(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">莱斯特（英国中部城市）；莱斯特郡（英国英格兰中部的郡名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

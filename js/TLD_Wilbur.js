@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wilbur</h2><div class="git"><span class="ipa">[ˈwilbə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">威尔伯（男子名，等于Wilber）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

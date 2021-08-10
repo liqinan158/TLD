@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>happenstance</h2><div class="git"><span class="ipa">[ˈhæpənstæns]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32418</span><div class="total">3754</div></div><div class="coca2">偶然事件(<font color="orangered">67%</font>)，偶然的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">意外事件，偶然事件</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

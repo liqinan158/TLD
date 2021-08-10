@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mass-produced</h2><span class="onm">原型:</span><span class="orm">mass-produce</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">22744</span><div class="total">9505</div></div><div class="coca2">大批生产的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">大量生产的，大批生产的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

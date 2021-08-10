@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Strasberg, Lee</h2><div class="git"><span class="ipa">['strɑ:sbə:ɡ; 'stræs-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯特拉斯伯格(1901～1982，美国戏剧导演、演员，生于奥地利)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

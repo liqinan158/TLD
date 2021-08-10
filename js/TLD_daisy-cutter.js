@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>daisy-cutter</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">跑时举足极低的马；(贴近地面的)滚球；【军】榴霰弹</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">常规武器中威力最大的炸弹</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

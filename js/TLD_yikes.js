@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>yikes</h2><div class="git"><span class="ipa">[jaɪks]</span></div><span class="onm">原型:</span><span class="orm">yikes 是 yike 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">int.</span><span class="dcn">&lt;口&gt;（表示惊讶）呀！</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

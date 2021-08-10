@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>school council</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">学校理事会；校务委员会；校务会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

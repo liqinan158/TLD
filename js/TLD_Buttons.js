@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Buttons</h2><div class="git"><span class="ipa">[ˈbʌtənz]</span></div><span class="onm">原型:</span><span class="orm">buttons 是 button 的第三人称单数</span><hr/></div><div class="coca2">按钮(<font color="orangered">90%</font>)，纽扣(<font color="orangered">9%</font>)，名词button的复数形式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[电] 按钮（button的复数形式）；纽扣</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Harrison, William Henry</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哈里斯(1773～1841)，美国第九任总统(1841)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>OD</h2><div class="git"><span class="ipa">[ɔd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">过量毒品；过量麻醉剂</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">外直径（Outside Diameter）；外部尺寸（Outside Dimension）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

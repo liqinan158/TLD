@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>firetrap</h2><div class="git"><span class="ipa">['faɪətræp]</span></div><hr/></div><div class="coca2">无太平门的建筑物(<font color="orangered">59%</font>)，易失火的建筑物(<font color="orangered">41%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">易失火的建筑物；无太平门的建筑物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

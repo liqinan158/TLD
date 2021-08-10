@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Six Nations</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英格兰、法国、爱尔兰、意大利、苏格兰、威尔士之间的）橄榄球六方联赛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

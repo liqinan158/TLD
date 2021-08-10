@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hookey</h2><div class="git"><span class="ipa">[ˈhuki]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;俚&gt;逃学</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">多钩的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>showmanship</h2><div class="git"><span class="ipa">[ˈʃəʊmənʃɪp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28772</span><div class="total">5245</div></div><div class="coca2">表演技巧(<font color="orangered">72%</font>)，引起公众注意的技巧(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">表演技巧；吸引观众的窍门</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

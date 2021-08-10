@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chemo</h2><div class="git"><span class="ipa">[ˈki:məʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13725</span><div class="total">29146</div></div><div class="coca2">化疗(<font color="orangered">97%</font>)，表示“化学的”(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">化疗（等于chemotherapy）；化学疗法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

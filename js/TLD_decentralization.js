@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>decentralization</h2><div class="git"><span class="ipa">[ˌdi:ˌsentrəlaɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28735</span><div class="total">5266</div></div><div class="coca2">分散(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">分散；非集权化；（人口、工业等的）疏散</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

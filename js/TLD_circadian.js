@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>circadian</h2><div class="git"><span class="ipa">[sɜ:ˈkeɪdiən]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">19242</span><div class="total">14155</div></div><div class="coca2">生理节奏的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">生理节奏的（指与地球二十四小时运转联系的新陈代谢、内分泌作用及睡眠等节奏有关的）；以24小时为周期的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

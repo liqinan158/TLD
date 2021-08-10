@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shrink-wrapped</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">46139</span><div class="total">1217</div></div><div class="coca2">动词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">用收缩膜包装的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">用收缩膜包装（动词shrink-wrap的过去式和过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

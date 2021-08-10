@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cloverleaf</h2><div class="git"><span class="ipa">[ˈkləʊvəli:f]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44755</span><div class="total">1353</div></div><div class="coca2">四叶苜蓿形的立体道路交叉点(<font color="orangered">50%</font>)，形状似苜蓿叶的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">四叶苜蓿形的立体交叉公路</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

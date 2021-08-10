@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aviator sunglasses</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">金属镜架飞行员眼镜；飞行员太阳镜青铜黑；飞行员太阳眼镜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

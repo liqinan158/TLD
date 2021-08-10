@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clangour</h2><div class="git"><span class="ipa">[ˈklæŋgə(r)]</span><span class="frm">clangoured, clangouring, clangours</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（尤指连续的）铿锵声，叮当声</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

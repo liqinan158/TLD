@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>school tie</h2><div class="git"><span class="ipa">[sku:l tai]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn"> （学生上学时打的）学校领带； &lt;英&gt;&lt;非正&gt;英国私立学校校友间互相照顾、拉拢的做法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

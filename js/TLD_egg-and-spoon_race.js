@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>egg-and-spoon race</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(参赛者手持内放鸡蛋的汤匙的)匙蛋赛跑[亦作egg and spoon race]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

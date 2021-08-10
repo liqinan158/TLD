@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flyfishing</h2><span class="onm">原型:</span><span class="orm">flyfishing 是 flyfish 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">用假蝇钓鱼</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">飞蝇钓；飞钓；海水飞绳钓</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slunk</h2><div class="git"><span class="ipa">[slʌŋk]</span></div><span class="onm">原型:</span><span class="orm">slunk 是 slink 的过去分词</span><hr/></div><div class="coca2">动词slink的过去式及过去分词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">偷偷摸摸地走；动物早产；潜逃（slink的过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

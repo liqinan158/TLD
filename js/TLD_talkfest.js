@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>talkfest</h2><div class="git"><span class="ipa">['tɔ:kfest]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">长时间的讨论，议而不决的会议</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

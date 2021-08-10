@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cui bono?</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （用以询问谁是受益者, 即可能有罪责的人）何人得益？</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

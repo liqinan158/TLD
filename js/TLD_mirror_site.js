@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mirror site</h2><div class="git"><span class="ipa">[ˈmirə sait]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">镜像站点；复制网络站点</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">镜像网站；对映站；镜射网站</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>double rhyme</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 双重韵律, 双韵（有两处末尾发音相同的两个词, 如 reading 和 speeding）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

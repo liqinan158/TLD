@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Xenophon</h2><div class="git"><span class="ipa">['zenәfәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">色诺芬(约公元前434-前355, 希腊将军, 历史学家, 著有《长征记》一书)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

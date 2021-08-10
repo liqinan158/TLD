@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ringfence</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">围栅；束缚</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">保证(资金等)的安全</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">核心功能进行圈护；藩篱；隔离政策</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

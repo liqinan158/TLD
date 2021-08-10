@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mafioso</h2><div class="git"><span class="ipa">[ˌmɑ:fiˈəusəu]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49997</span><div class="total">888</div></div><div class="coca2">黑手党成员(<font color="orangered">75%</font>)，秘密政党成员(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">黑手党成员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

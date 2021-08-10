@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ka-ching</h2><hr/></div><div class="coca2">形容收银机开启时的声音）(<font color="orangered">50%</font>)，咔-亲（拟声词(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">哗啦（拟声词，源于收银机的声音，引申为赚大钱）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

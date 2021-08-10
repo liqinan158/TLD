@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>codependent</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">共存，一个成熟称得上真爱的恋情必须经历的四个阶段的第一个阶段; [医]依赖助成者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

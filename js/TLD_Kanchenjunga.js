@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kanchenjunga</h2><div class="git"><span class="ipa">[,kɑ:ntʃәn'dʒɑ:ŋ^ә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">干城章嘉峰(喜马拉雅山东部的山脉)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

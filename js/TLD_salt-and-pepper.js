@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>salt-and-pepper</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">53727</span><div class="total">621</div></div><div class="coca2">白人与黑人混合的(<font color="orangered">50%</font>)，白人与黑人住在同一地区的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">盐和胡椒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

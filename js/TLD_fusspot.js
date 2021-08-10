@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fusspot</h2><div class="git"><span class="ipa">[ˈfʌspɒt]</span></div><hr/></div><div class="coca2">小题大做者(<font color="orangered">50%</font>)，吹毛求疵的人(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">吹毛求疵的人；小题大做者</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">唠叨；寻衅找事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

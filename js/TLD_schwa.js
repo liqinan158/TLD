@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>schwa</h2><div class="git"><span class="ipa">[ʃwɑ:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52367</span><div class="total">707</div></div><div class="coca2">英语中非重读音节的元音(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">非中央元音；非重读音节的元音</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

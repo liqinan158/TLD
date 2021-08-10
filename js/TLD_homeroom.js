@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homeroom</h2><div class="git"><span class="ipa">[ˈhəʊmru:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31250</span><div class="total">4179</div></div><div class="coca2">年纪教室(<font color="orangered">67%</font>)，学生接受指导的教室(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）年纪教室（学生定期接受导师指导的教室）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>toneless</h2><div class="git"><span class="ipa">[ˈtəʊnləs]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">IELTS</span></div><div class="coca2">单调的(<font color="orangered">62%</font>)，沉闷的(<font color="orangered">38%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">沉闷的；单调的；缺乏声调的；无声的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

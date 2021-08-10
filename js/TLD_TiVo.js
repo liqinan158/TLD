@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>TiVo</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">美国电视录制技术公司；硬盘数字录像机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

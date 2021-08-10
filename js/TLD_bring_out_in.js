@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bring out in</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn">使(身体)出(皮疹、斑点)；使生气，使发脾气，使动怒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

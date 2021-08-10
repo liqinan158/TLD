@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>delayering</h2><div class="git"><span class="ipa">[ˌdi:'leɪərɪŋ]</span></div><hr/></div><div class="coca2">减少员工层次(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">机构扁平化；减少层级</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

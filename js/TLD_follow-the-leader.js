@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>follow-the-leader</h2><div class="git"><span class="ipa">[ˈfɔləu ðə ˈli:də]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 参加者须模仿领导人动作，模仿的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ujamaa</h2><div class="git"><span class="ipa">[ˌʊdʒæˈmɑ:]</span></div><hr/></div><div class="coca2">乌贾马(一种农村社会主义组织形式(<font color="orangered">50%</font>)，于20世纪60年代开始推行)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乌贾马，家族式社会主义(坦桑尼亚的一种社会主义形式)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

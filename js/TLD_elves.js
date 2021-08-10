@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>elves</h2><div class="git"><span class="ipa">[elvz]</span></div><span class="onm">原型:</span><span class="orm">elves 是 elf 的复数</span><hr/></div><div class="coca2">精灵(<font color="orangered">99%</font>)，名词elf的复数形式.(<font color="orangered">1%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">侏儒；爱恶作剧的孩子（elf的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Baltic States</h2><span class="onm">原型:</span><span class="orm">Baltic States 是 baltic state 的复数</span><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 8</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">波罗的海诸国；波罗的海国家；波罗的海三国</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Feynman, Richard Phillips</h2><div class="git"><span class="ipa">['fainmən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">费曼(1918～1988，美国物理学家，与他人共获1965年诺贝尔物理学奖金)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

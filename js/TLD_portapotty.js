@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>portapotty</h2><div class="git"><span class="ipa">['pɔ:tə pɒti]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">移动厕所；户外便携式坐便器</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">门便盆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

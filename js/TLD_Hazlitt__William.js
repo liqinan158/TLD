@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hazlitt, William</h2><div class="git"><span class="ipa">['hæzlit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">黑兹利特(1778～1830，英国随笔作家、评论家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

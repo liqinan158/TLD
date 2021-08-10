@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hypoallergenic</h2><div class="git"><span class="ipa">[ˌhaɪpəʊˌælə'dʒenɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">20719</span><div class="total">11908</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">低变应的药物</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">低变应原的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

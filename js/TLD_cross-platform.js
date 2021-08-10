@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cross-platform</h2><div class="git"><span class="ipa">[krɔs ˈplætfɔ:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">18127</span><div class="total">16061</div></div><div class="coca2">交叉平台(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">跨平台</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

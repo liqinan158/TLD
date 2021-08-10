@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gershwin, George</h2><div class="git"><span class="ipa">['ɡə:ʃwin]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">格什温(1898～1937，美国作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

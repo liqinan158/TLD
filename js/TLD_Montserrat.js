@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Montserrat</h2><div class="git"><span class="ipa">[,mɔntse'ræt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蒙特色拉特岛（位于美洲）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

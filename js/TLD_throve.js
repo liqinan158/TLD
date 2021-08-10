@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>throve</h2><div class="git"><span class="ipa">[θrəʊv]</span></div><span class="onm">原型:</span><span class="orm">thrive</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">繁荣（thrive的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Guernsey</h2><div class="git"><span class="ipa">['^ә:nzi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44499</span><div class="total">1379</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（原产英吉利海峡格恩西岛的）格恩西奶牛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

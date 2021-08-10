@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hypoxia</h2><div class="git"><span class="ipa">[haɪˈpɒksiə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23440</span><div class="total">8826</div></div><div class="coca2">低氧(<font color="orangered">91%</font>)，氧过少(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[医] 低氧；组织缺氧；氧不足</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>surrogacy</h2><div class="git"><span class="ipa">[ˈsʌrəgəsi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28276</span><div class="total">5481</div></div><div class="coca2">代孕(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">替身代孕；代孕行为</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

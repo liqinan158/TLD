@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>strong-willed</h2><div class="git"><span class="ipa">[ˈstrɔŋˈwild,ˈstrɔ:ŋ-]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">29739</span><div class="total">4829</div></div><div class="coca2">意志坚强的(<font color="orangered">84%</font>)，固执已见的(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">意志坚强的；固执的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

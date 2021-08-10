@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>summertime</h2><div class="git"><span class="ipa">[ˈsʌmətaɪm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">12399</span><div class="total">35812</div></div><div class="coca2">夏季(<font color="orangered">95%</font>)，全盛时期(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">夏季</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

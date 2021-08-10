@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Memphis</h2><div class="git"><span class="ipa">['memfis]</span></div><hr/></div><div class="coca2">孟菲斯(美国城市(<font color="orangered">50%</font>)，埃及一古老城市)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">孟斐斯（古埃及城市，废墟在今开罗之南）；孟菲斯市（美国田纳西州城市名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

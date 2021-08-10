@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>downpipe</h2><div class="git"><span class="ipa">[ˈdaʊnpaɪp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 落水[水落，下流]管，下悬（喷）管; 水落管</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

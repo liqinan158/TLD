@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>urologist</h2><div class="git"><span class="ipa">[jʊə'rɒlədʒɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22293</span><div class="total">9963</div></div><div class="coca2">泌尿科医师(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[泌尿] 泌尿科医师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

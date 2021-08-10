@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Steele, Sir Richard</h2><div class="git"><span class="ipa">[sti:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯梯尔爵士(1672～1729，英国散文家、记者和剧作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

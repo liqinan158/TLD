@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dissipation</h2><div class="git"><span class="ipa">[ˌdɪsɪˈpeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19221</span><div class="total">14176</div></div><div class="coca2">损耗(<font color="orangered">86%</font>)，挥霍(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">浪费；消散；[物] 损耗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

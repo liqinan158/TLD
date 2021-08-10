@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>librettist</h2><div class="git"><span class="ipa">[lɪˈbretɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44183</span><div class="total">1418</div></div><div class="coca2">剧本作者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">歌词作者；剧本作者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

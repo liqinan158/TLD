@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Zapata, Emiliano</h2><div class="git"><span class="ipa">[zə'pɑ:tə; sɑ:'pɑ:tɑ:; ,emi:'ljɑ:nɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">萨帕塔(1880～1919，墨西哥革命家、农民领袖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

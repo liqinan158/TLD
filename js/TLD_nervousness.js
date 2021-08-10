@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nervousness</h2><div class="git"><span class="ipa">['nɜ:vəsnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17589</span><div class="total">17224</div></div><div class="coca2">神经紧张(<font color="orangered">67%</font>)，情绪不安(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">神经质；[心理] 神经过敏；紧张不安</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

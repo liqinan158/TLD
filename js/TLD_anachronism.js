@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anachronism</h2><div class="git"><span class="ipa">[əˈnækrənɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29238</span><div class="total">5043</div></div><div class="coca2">时代上的错误(<font color="orangered">60%</font>)，被置错时代或年代的事物(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">时代错误；不合潮流的人或物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

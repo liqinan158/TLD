@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shrivelled</h2><div class="git"><span class="ipa">[ˈʃrɪvəld]</span></div><span class="onm">原型:</span><span class="orm">shrivelled 是 shrivel 的过去式和过去分词</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">56752</span><div class="total">454</div></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">（因热力，严寒、干燥、年老等而）枯萎，皱缩( shrivel的过去式和过去分词 ); 瘪; 干巴; 干瘪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

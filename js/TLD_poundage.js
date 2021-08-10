@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>poundage</h2><div class="git"><span class="ipa">[ˈpaʊndɪdʒ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39663</span><div class="total">2033</div></div><div class="coca2">重量(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">按每磅的收取的手续费或税金；磅重总数；监禁；畜栏；企业总收益中的工资比额</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

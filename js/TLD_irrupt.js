@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>irrupt</h2><div class="git"><span class="ipa">[ɪˈrʌpt]</span><span class="frm">irrupted, irrupting, irrupts</span></div><hr/></div><div class="coca2">突然冲入(<font color="orangered">75%</font>)，剧增(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">突然冲入，闯进</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

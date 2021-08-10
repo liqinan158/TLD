@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>philistinism</h2><div class="git"><span class="ipa">[ˈfilistinizəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">61020</span><div class="total">260</div></div><div class="coca2">庸俗(<font color="orangered">77%</font>)，腓力斯人的风习(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">庸俗；腓力斯人的风习</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sexualization</h2><div class="git"><span class="ipa">[,sɛʃʊəlaɪ'zeʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46158</span><div class="total">1216</div></div><div class="coca2">使产生对性的情感或关心(<font color="orangered">50%</font>)，使有性(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">性化</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

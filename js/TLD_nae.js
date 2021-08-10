@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nae</h2><div class="git"><span class="ipa">[neɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">国家工程院（National Academy of Engineering）；国家航空研究中心（National Aeronautical Establishment）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Nae)人名；(日)秧(姓)；(罗)纳埃</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

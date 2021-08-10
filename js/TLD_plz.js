@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>plz</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">伊丽莎白港（位于南非）；波兰兹罗提（波兰官方货币）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

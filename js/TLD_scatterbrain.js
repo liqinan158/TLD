@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scatterbrain</h2><div class="git"><span class="ipa">[ˈskætəbreɪn]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TEM8</span></div><div class="coca2">注意力不集中的人(<font color="orangered">78%</font>)，浮躁的人(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">注意力不集中的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Strangeways</h2><span class="onm">原型:</span><span class="orm">Strangeways 是 strangeway 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">斯特兰奇韦斯监狱；史川吉威监狱；监狱的日子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aether</h2><div class="git"><span class="ipa">['i:θə]</span></div><hr/></div><div class="coca2">醚(<font color="orangered">60%</font>)，以太(<font color="orangered">22%</font>)，太空(<font color="orangered">14%</font>)，ether的旧体(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">以太；乙醚；太空</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bushwhacking</h2><div class="git"><span class="ipa">['bʊʃwækɪŋ]</span></div><span class="onm">原型:</span><span class="orm">bushwhacking 是 bushwhack 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">砍伐丛林而前进，游击战</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">&lt;美&gt;在丛林中开路，在丛林中伏击( bushwhack的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vamoose</h2><div class="git"><span class="ipa">[vəˈmu:s]</span><span class="frm">vamoosed, vamoosing, vamooses</span></div><hr/></div><div class="coca2">匆匆离开(<font color="orangered">60%</font>)，跑掉(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">从…匆匆离开</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">匆匆离开；跑掉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

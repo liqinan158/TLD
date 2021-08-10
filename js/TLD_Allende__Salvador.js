@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Allende, Salvador</h2><div class="git"><span class="ipa">[ɑ:'leindei; 'sælvədɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿连德(1908～1973)，智利总统(1970～1973)，在军事政变中殉职</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

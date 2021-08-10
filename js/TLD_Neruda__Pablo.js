@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Neruda, Pablo</h2><div class="git"><span class="ipa">[ne'ru:ðɑ:; 'pɑ:vlɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">聂鲁达(1904～1973，智利诗人、外交家，获1971年诺贝尔文学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

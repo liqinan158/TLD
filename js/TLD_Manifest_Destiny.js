@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Manifest Destiny</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 8</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">19世纪中后期; 被美国人广泛持有的一种信条：扩张美国在北美洲的领土; 扩大美国政治; 经济</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

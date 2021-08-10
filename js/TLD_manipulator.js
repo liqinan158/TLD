@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>manipulator</h2><div class="git"><span class="ipa">[məˈnɪpjuleɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">20716</span><div class="total">11911</div></div><div class="coca2">操纵器(<font color="orangered">62%</font>)，操作者(<font color="orangered">38%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[机] 操纵器，调制器；操作者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

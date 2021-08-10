@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>superimposition</h2><div class="git"><span class="ipa">[ˌsju:pərˌɪmpə'zɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50009</span><div class="total">887</div></div><div class="coca2">叠印(<font color="orangered">63%</font>)，重叠(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">添上；[摄] 叠印；重迭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

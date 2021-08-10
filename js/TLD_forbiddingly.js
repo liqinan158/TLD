@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>forbiddingly</h2><div class="git"><span class="ipa">[fə'bidiŋli]</span></div><hr/></div><div class="coca2">令人生畏的(<font color="orangered">52%</font>)，可怕的(<font color="orangered">38%</font>)，令人反感的(<font color="orangered">5%</font>)，动词forbid的现在分词形式.(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">令人生畏地；严峻地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

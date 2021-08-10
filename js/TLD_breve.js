@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>breve</h2><div class="git"><span class="ipa">[bri:v]</span></div><hr/></div><div class="coca2">二全音符(<font color="orangered">60%</font>)，令状(<font color="orangered">20%</font>)，短音符号(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（罗马教皇的）谕令；二全音符，短弱音符</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Breve)人名；(意)布雷韦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

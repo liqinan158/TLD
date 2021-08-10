@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>filo</h2><div class="git"><span class="ipa">['fi:ləʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41803</span><div class="total">1716</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">制酥点用的擀成极薄层的生面</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Filo)人名；(法、捷、塞)菲洛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

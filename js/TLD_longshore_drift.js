@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>longshore drift</h2><div class="git"><span class="ipa">[ˌlɒŋʃɔ: ˈdrɪft]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">沿岸漂移，沿岸漂砂；[海洋] 沿岸物质流</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>geriatrician</h2><div class="git"><span class="ipa">[ˌdʒeriəˈtrɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44480</span><div class="total">1381</div></div><div class="coca2">老年医学专家(<font color="orangered">64%</font>)，老年病学专家(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">老年病学专家，老年医学专家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

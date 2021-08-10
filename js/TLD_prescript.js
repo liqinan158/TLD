@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prescript</h2><div class="git"><span class="ipa">['pri:skrɪpt]</span></div><hr/></div><div class="coca2">规定(<font color="orangered">55%</font>)，命令(<font color="orangered">30%</font>)，规定的(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">规定；命令</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">规定的；有时效的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>prescind</h2><div class="git"><span class="ipa">[prɪˈsɪnd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">割去; 分开; 脱离; 不加考虑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

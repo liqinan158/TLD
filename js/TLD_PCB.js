@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PCB</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">印刷电路板（Printed circuit board）；多氯化联（二）苯（Polychlorinated Biphenyl）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

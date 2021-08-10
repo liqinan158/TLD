@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>duopoly</h2><div class="git"><span class="ipa">[dju:ˈɒpəli]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39598</span><div class="total">2043</div></div><div class="coca2">双头垄断市场(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">两家卖主垄断市场（的局面）；双头垄断市场</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

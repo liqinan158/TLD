@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mucous</h2><div class="git"><span class="ipa">['mju:kəs]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">IELTS</span></div><div class="coca2">黏液的(<font color="orangered">60%</font>)，=mucus.(<font color="orangered">20%</font>)，似黏液的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">黏液的；分泌黏液的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

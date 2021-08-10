@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>K-12</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">从幼儿园到12年级的儿童教育</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

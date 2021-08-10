@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stage-struck</h2><div class="git"><span class="ipa">[steidʒ strʌk]</span></div><hr/></div><div class="coca2">一心想当演员的(<font color="orangered">50%</font>)，醉心于舞台生涯的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">一心想做演员的；迷恋戏剧的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

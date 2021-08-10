@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-regulation</h2><div class="git"><span class="ipa">[self ˌreɡjʊ'leɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24008</span><div class="total">8321</div></div><div class="coca2">自动调节(<font color="orangered">75%</font>)，自我控制(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">自动调节</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

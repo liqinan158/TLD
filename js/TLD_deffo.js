@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deffo</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(short for) definitely (esp. in web chat and texting)</span></div><div class="dcb"><span class="deq">&gt; I'll see you there, deffo</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

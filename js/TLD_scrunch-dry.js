@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scrunch-dry</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 用手挤干（头发）以使松散鬈曲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jaggedly</h2><hr/></div><div class="coca2">参差不齐的(<font color="orangered">92%</font>)，动词jag的过去式和过去分词.(<font color="orangered">8%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">锯齿状地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

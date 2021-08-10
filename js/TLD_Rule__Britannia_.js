@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rule, Britannia!</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">英国的爱国国歌</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">统治大不列颠；不列颠尼亚；不列颠必胜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

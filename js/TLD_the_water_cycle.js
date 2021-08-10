@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the water cycle</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">水的循环；水循环；水文循环</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>telecommunication</h2><div class="git"><span class="ipa">[ˌtelɪkəˌmju:nɪ'keɪʃn]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">IELTS</span></div><div class="coca2">电信(<font color="orangered">97%</font>)，远程通信(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电讯；[通信] 远程通信；无线电通讯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

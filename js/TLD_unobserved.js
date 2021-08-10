@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unobserved</h2><div class="git"><span class="ipa">[ˌʌnəbˈzɜ:vd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36975</span><div class="total">2524</div></div><div class="coca2">没有观察到(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">未被遵守的；未被注意的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

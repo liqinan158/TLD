@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>landau</h2><div class="git"><span class="ipa">[ˈlændɔ:]</span></div><hr/></div><div class="coca2">一种四轮敞篷马车(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一种四轮马车</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Landau)人名；(英、以)兰多；(法)朗多；(德、西、俄、葡、罗、匈、瑞典)兰道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

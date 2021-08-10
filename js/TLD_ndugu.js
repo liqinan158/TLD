@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ndugu</h2><div class="git"><span class="ipa">[әn'du:^j]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">&lt;斯瓦希里&gt; n.大哥(在非洲坦桑尼亚用作称呼)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

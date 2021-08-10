@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rhumba</h2><div class="git"><span class="ipa">[ˈrʌmbə]</span></div><hr/></div><div class="coca2">伦巴乐曲(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伦巴舞蹈；伦巴乐曲（等于rumba）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>avocet</h2><div class="git"><span class="ipa">[ˈævəset]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">反嘴鹊（一种涉禽，脚长，嘴细且向上弯曲）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

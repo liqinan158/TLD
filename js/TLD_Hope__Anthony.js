@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hope, Anthony</h2><div class="git"><span class="ipa">[həup]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">霍普(1863～1933，英国小说家霍金斯的笔名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

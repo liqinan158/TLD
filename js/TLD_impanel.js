@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impanel</h2><div class="git"><span class="ipa">[ɪm'pænl]</span><span class="frm">impanelled, impanelling, impanels</span></div><hr/></div><div class="coca2">列名在陪审名单(<font color="orangered">51%</font>)，从陪审名单中选定陪选员(<font color="orangered">33%</font>)，=empanel.(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">列名在陪审名单；从陪审员名单中选定</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

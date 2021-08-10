@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Billy the Kid</h2><div class="git"><span class="ipa">[ˈbɪli:]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 22</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 22</div><div class="gdc"><div class="dcb"><span class="dcn">威廉(德国王储, 威廉二世皇帝的儿子。曾在凡尔登战役中指挥作战(1916年), 第一次世界大战结束时放弃皇位)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

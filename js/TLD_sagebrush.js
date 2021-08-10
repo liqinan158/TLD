@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sagebrush</h2><div class="git"><span class="ipa">[ˈseɪdʒbrʌʃ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35785</span><div class="total">2798</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[植] 蒿属植物（产于美国西部）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

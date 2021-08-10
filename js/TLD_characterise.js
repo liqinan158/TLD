@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>characterise</h2><div class="git"><span class="ipa">['kærɪktəraɪz]</span><span class="frm">characterised, characterising, characterises</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">CET4</span><span class="label label-success">TEM4</span></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">是…的特征; 以…为特征; 描述（人或物）的特性; 描绘</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

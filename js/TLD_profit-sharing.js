@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>profit-sharing</h2><span class="onm">原型:</span><span class="orm">profit-sharing 是 profit-share 的现在分词</span><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">42080</span><div class="total">1675</div></div><div class="coca2">利益分配(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">分红制，利益分配</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

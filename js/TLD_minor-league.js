@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>minor-league</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">33889</span><div class="total">3288</div></div><div class="coca2">次要的(<font color="orangered">50%</font>)，平庸的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">小职业球队联盟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

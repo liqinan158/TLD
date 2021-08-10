@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ulster Volunteer Force</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">北爱自愿军；北爱尔兰志愿军；爱尔兰阿尔斯特志愿者武装</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

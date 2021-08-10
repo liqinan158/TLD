@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skin-diving</h2><div class="git"><span class="ipa">[skin ˈdaɪvɪŋ]</span></div><hr/></div><div class="coca2">裸潜(<font color="orangered">50%</font>)，赤身潜水(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">赤身潜水</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">裸潜（skin-dive的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

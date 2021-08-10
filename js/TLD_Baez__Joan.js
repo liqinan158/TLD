@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Baez, Joan</h2><div class="git"><span class="ipa">[bai'ez; dʒəun]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">贝兹(1941～ ，美国民歌歌唱家和政治活动家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

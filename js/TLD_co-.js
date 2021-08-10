@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>co-</h2><div class="git"><span class="ipa">[kəʊ]</span></div><hr/></div><div class="coca2">表示“联合(<font color="orangered">50%</font>)，伴同”之意(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">一起；共同；联合</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

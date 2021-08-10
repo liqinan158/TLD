@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PVC</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">8498</span><div class="total">73554</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">聚氯乙烯（polyvinyl chloride）；心室早期收缩（premature ventricular contraction）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

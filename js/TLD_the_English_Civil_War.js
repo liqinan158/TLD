@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the English Civil War</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">英国内战；英国革命及内战；英国革命及内战资料集锦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Peres, Shimon</h2><div class="git"><span class="ipa">['piərez]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">佩雷斯(1923～  )，以色列总理(1984～1986)，外交部长</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

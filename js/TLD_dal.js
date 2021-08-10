@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dal</h2><div class="git"><span class="ipa">[dɑ:l]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19095</span><div class="total">14384</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">木豆（等于dhal ）；木豆做的菜；一种带辣味的印度菜（用蚕豆，豌豆或小扁豆制成）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Dal)人名；(瑞典)达尔；(英、挪、法、土、西)达尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

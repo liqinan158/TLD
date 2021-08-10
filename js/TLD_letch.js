@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>letch</h2><div class="git"><span class="ipa">[letʃ]</span></div><hr/></div><div class="coca2">好色者(<font color="orangered">44%</font>)，色欲(<font color="orangered">42%</font>)，渴望(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">色欲；好色者</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Letch)人名；(英)莱奇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

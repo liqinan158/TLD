@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chuffing</h2><div class="git"><span class="ipa">[ˈtʃʌfɪŋ]</span></div><span class="onm">原型:</span><span class="orm">chuffing 是 chuff 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">火箭引擎燃料之间歇性燃烧; 嚓嘎声</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

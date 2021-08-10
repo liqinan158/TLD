@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wet-nurse</h2><div class="git"><span class="ipa">['wetnɜ:s]</span></div><hr/></div><div class="coca2">做 ... 的奶妈(<font color="orangered">34%</font>)，给 ... 过分照顾(<font color="orangered">33%</font>)，做奶妈授乳(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奶妈，乳母</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">做…的奶妈，做…的乳母；悉心照顾</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

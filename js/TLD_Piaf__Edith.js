@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Piaf, Edith</h2><div class="git"><span class="ipa">[pi'æf]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">比阿夫(1914～1963，法国夜总会歌手)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pushover</h2><div class="git"><span class="ipa">[ˈpʊʃəʊvə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32190</span><div class="total">3843</div></div><div class="coca2">容易做的事(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">易于征服或控制的人；容易打败的对手；容易做的事情</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

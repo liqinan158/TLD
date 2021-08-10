@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>proselytizer</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57721</span><div class="total">409</div></div><div class="coca2">使改宗(<font color="orangered">50%</font>)，劝诱改宗(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">劝导者；说客；改变宗教信仰者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

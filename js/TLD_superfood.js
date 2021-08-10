@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>superfood</h2><div class="git"><span class="ipa">['suːpə(r).fuːd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14572</span><div class="total">25778</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">超级食品（一些人认为有益健康且可防病的食品）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">超级食物；超级饮食大管家；超级食用品</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

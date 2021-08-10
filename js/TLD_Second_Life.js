@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Second Life</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 34</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 10</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">第二人生（玩家可交流、玩游戏和假装过另一种生活的互联网虚拟世界）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">第二生命；虚拟人生；游戏第二人生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

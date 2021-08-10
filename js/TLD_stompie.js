@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stompie</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （已经吸过的）半截烟；烟蒂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

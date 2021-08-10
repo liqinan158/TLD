@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>weaponization</h2><div class="git"><span class="ipa">[ˌwepənaɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51468</span><div class="total">769</div></div><div class="coca2">武器化(<font color="orangered">85%</font>)，武器研制.(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">武器化；武器研制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

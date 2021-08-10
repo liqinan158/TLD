@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>interpolation</h2><div class="git"><span class="ipa">[ɪnˌtɜ:pə'leɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17756</span><div class="total">16867</div></div><div class="coca2">插话(<font color="orangered">50%</font>)，添加内容(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">插入；篡改；填写；插值</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

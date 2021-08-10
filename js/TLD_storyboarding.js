@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>storyboarding</h2><span class="onm">原型:</span><span class="orm">storyboarding 是 storyboard 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(storyboard 的现在分词) n. （电影、电视节目或商业广告等的）情节串连图板</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

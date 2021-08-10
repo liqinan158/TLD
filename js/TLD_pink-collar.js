@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pink-collar</h2><div class="git"><span class="ipa">[ˈpɪnkˌkɔlə]</span></div><hr/></div><div class="coca2">粉领的(<font color="orangered">50%</font>)，职业妇女的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">粉领雇员</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">职业妇女的；粉领的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

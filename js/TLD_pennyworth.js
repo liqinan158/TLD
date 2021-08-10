@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pennyworth</h2><div class="git"><span class="ipa">[ˈpeniwɜ:θ]</span></div><hr/></div><div class="coca2">合算的交易(<font color="orangered">45%</font>)，少量(<font color="orangered">33%</font>)，价值一便士之物(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">少量；一便士的价钱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cotton Belt</h2><div class="git"><span class="ipa">[ˈkɔtən belt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">〈美〉(东南部)产棉地带[区域]</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">美产棉带；编织平带；棉州</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

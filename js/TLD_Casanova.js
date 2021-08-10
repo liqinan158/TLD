@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Casanova</h2><div class="git"><span class="ipa">[.kæzә'nәuvә]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51972</span><div class="total">733</div></div><div class="coca2">风流子(<font color="orangered">50%</font>)，卡萨诺瓦式的人(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡萨诺瓦式人物（意大利浪荡公子）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

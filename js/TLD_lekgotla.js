@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lekgotla</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （政界人士或政府官员的）重要会议</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

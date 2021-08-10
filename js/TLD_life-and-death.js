@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>life-and-death</h2><div class="git"><span class="ipa">[ˈlaifənˈdeθ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">40395</span><div class="total">1921</div></div><div class="coca2">生死攸关的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">生死攸关的；重大的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

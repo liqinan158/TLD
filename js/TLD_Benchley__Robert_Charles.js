@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Benchley, Robert Charles</h2><div class="git"><span class="ipa">['bentʃli]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Benchley, Robert (Charles)</span></div><div class="dcb"><span class="dcn">['bentʃli]</span></div><div class="dcb"><span class="dcn">本奇利(1889～1945，美国幽默作家、戏剧评论家、喜剧演员和电影导演)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>printworks</h2><div class="git"><span class="ipa">[ˈprɪntwɜ:ks]</span></div><span class="onm">原型:</span><span class="orm">printworks 是 printwork 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">印染工厂，印花工厂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

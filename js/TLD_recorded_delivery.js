@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>recorded delivery</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 9</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">挂号邮寄</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">挂号信；记录派递；挂号投递系统</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

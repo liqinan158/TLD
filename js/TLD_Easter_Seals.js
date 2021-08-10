@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Easter Seals</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">复活节封印协会；复活节邮封；复活节誓约</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

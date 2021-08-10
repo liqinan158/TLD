@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>living roof</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">屋顶；活屋顶；屋顶胶囊</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

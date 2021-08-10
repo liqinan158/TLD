@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tympanum</h2><div class="git"><span class="ipa">[ˈtɪmpənəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50913</span><div class="total">812</div></div><div class="coca2">鼓膜(<font color="orangered">59%</font>)，中耳(<font color="orangered">41%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[无脊椎] 鼓室；[解剖][无脊椎] 鼓膜，耳膜；振动膜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

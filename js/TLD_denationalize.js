@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>denationalize</h2><div class="git"><span class="ipa">[ˌdi:ˈnæʃnəlaɪz]</span><span class="frm">denationalized, denationalizing, denationalizes</span></div><hr/></div><div class="coca2">解除国有化(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使（工业等）非国有化；使变成私营；开除…的国籍</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

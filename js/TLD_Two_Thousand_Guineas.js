@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Two Thousand Guineas</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[复数]【体育】(英国传统的、赛程为1英里的)二千几尼马赛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

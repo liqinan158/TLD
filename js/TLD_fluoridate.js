@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fluoridate</h2><div class="git"><span class="ipa">['flʊərɪdeɪt]</span><span class="frm">fluoridated, fluoridating, fluoridates</span></div><hr/></div><div class="coca2">向 ... 中加入氟化物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">加氟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>horn-rimmed</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">55620</span><div class="total">510</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（指眼镜）角质架的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

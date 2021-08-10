@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sloe eyes</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （通常指细长的）迷人黑眼睛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Thoreau, Henry David</h2><div class="git"><span class="ipa">['θɔ:rəu; θɔ:'rəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">梭罗(1817～1862，美国博物学家、作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

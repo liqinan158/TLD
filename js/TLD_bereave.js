@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bereave</h2><div class="git"><span class="ipa">[bɪˈri:v]</span><span class="frm">bereaved, bereaving, bereaves</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">剥夺(<font color="orangered">60%</font>)，使丧失(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使……失去；使……孤寂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vote into</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">否决；当选</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">选出；选举；投票选出</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

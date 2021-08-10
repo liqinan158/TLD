@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Liam</h2><div class="git"><span class="ipa">[liæm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [男子名] 利亚姆 William的爱尔兰语变体</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

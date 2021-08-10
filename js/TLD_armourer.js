@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>armourer</h2><div class="git"><span class="ipa">[ˈɑ:mərə(r)]</span></div><hr/></div><div class="coca2">军械士(<font color="orangered">72%</font>)，武器制造者(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">武器制造者；军械士</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

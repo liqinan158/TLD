@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>JCL</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[计] 作业控制语言</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

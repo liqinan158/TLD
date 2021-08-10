@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Max Factor</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">马克斯法陀(一种化妆品的商标名)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">蜜丝佛陀；密丝佛陀；蜜斯佛陀</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

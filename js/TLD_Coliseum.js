@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Coliseum</h2><div class="git"><span class="ipa">[ˌkɒlɪ'sɪəm]</span></div><hr/></div><div class="coca2">大剧场(<font color="orangered">59%</font>)，大体育馆(<font color="orangered">23%</font>)，大公共娱乐场(<font color="orangered">9%</font>)，=colosseum.(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">竞技场；大剧场；大体育馆（等于colosseum）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

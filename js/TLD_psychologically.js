@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>psychologically</h2><div class="git"><span class="ipa">[ˌsaɪkə'lɒdʒɪklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">14145</span><div class="total">27446</div></div><div class="coca2">心理上地(<font color="orangered">75%</font>)，精神上地(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">心理上地；心理学地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

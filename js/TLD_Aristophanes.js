@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aristophanes</h2><div class="git"><span class="ipa">[,æri'stɔfəni:z]</span></div><span class="onm">原型:</span><span class="orm">Aristophanes 是 aristophane 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿里斯多芬尼斯（古希腊早期喜剧代表作家、诗人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

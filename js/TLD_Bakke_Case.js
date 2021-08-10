@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bakke Case</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">贝克案件(美国最高法院1978年裁决：虽然某医学院因采取赞助性行动政策而侵犯了白人男性入学的权利，但医学院在选择入学新生时可以考虑到种族因素)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

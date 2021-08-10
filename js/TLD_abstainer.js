@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>abstainer</h2><div class="git"><span class="ipa">[əbˈsteɪnə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50286</span><div class="total">861</div></div><div class="coca2">戒酒者(<font color="orangered">54%</font>)，节制者(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">节制者；戒酒者；弃权者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

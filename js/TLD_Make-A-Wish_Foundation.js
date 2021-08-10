@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Make-A-Wish Foundation</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">许愿基金会；美国许愿基金会；喜愿基金会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

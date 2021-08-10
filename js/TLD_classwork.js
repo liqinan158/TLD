@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>classwork</h2><div class="git"><span class="ipa">['klɑ:swɜ:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35426</span><div class="total">2885</div></div><div class="coca2">在教室做的功课(<font color="orangered">67%</font>)，老师与学生一起在教室做的功课(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">在教室做的功课，课业</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

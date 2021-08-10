@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>helpmate</h2><div class="git"><span class="ipa">[ˈhelpmeɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49556</span><div class="total">925</div></div><div class="coca2">助手(<font color="orangered">77%</font>)，帮手(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">助手；配偶；伙伴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

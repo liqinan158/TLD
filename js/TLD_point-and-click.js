@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>point-and-click</h2><div class="git"><span class="ipa">[pɔint ænd klik]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">31079</span><div class="total">4252</div></div><div class="coca2">点击(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">指向-点击</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

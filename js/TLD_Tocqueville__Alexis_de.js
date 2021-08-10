@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tocqueville, Alexis de</h2><div class="git"><span class="ipa">[tɔk'vi:l; ,ɑ:lek'si:('ʃɑ:rləɔŋ'ri:mɔ'ri:sklei'rei)də]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Tocqueville, Alexis (Charles Henri Maurice,Clérel) de</span></div><div class="dcb"><span class="dcn">[tɔk'vi:l; ,ɑ:lek'si:('ʃɑ:rləɔŋ'ri:mɔ'ri:sklei'rei)də]</span></div><div class="dcb"><span class="dcn">托克维尔(1805～1859，法国政治家、作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

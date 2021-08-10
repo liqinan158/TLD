@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>punster</h2><div class="git"><span class="ipa">[ˈpʌnstə(r)]</span></div><hr/></div><div class="coca2">喜欢说双关语的人(<font color="orangered">50%</font>)，爱说俏皮话的人(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">爱说俏皮话的人，喜欢说双关语的人；段子手</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

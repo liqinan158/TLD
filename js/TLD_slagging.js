@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slagging</h2><div class="git"><span class="ipa">['slægɪŋ]</span></div><span class="onm">原型:</span><span class="orm">slagging 是 slag 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">造渣; （使）成渣（状）( slag的现在分词 ); 诋毁; 贬损; 辱骂</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dishwater</h2><div class="git"><span class="ipa">[ˈdɪʃwɔ:tə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53610</span><div class="total">628</div></div><div class="coca2">洗碗水(<font color="orangered">60%</font>)，洗碟的水(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">洗碗水；洗碟的水；（美）味道蹩脚的汤</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

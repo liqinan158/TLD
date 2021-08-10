@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dundee</h2><div class="git"><span class="ipa">[dʌn'di:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">敦提[英国苏格兰东部港市](泰赛德区首府)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

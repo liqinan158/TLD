@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Collins, Wilkie</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Collins, (Williams) Wilkie</span></div><div class="dcb"><span class="dcn">科林斯(1824～1889，英国小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

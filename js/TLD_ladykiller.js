@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ladykiller</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 专门勾引女子的男人；使女子倾心的男人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Reuben</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鲁宾（男子名）；流便（圣经人物）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

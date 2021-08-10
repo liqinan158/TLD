@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bakersfield</h2><div class="git"><span class="ipa">['beɪkəzfi:ld]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 贝克斯菲尔德（加利福尼亚中南部一城市，位于洛杉矶西北偏北部富饶的圣华金流域的南端。1855年这个地区发现了黄金， 1899年发现石油。人口105， 611）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

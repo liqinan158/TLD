@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rabbinate</h2><div class="git"><span class="ipa">['ræbɪnɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48898</span><div class="total">980</div></div><div class="coca2">犹太法学博士们(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">犹太法学博士的身份；犹太法学博士们</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>relaid</h2><div class="git"><span class="ipa">['ri:'leɪd]</span></div><span class="onm">原型:</span><span class="orm">relaid 是 relay 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">转述( relay的过去式和过去分词 ); 转达</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

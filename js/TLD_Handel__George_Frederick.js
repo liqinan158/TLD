@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Handel, George Frederick</h2><div class="git"><span class="ipa">['hændəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">韩德尔(1685～1759，出生于德国的英籍作曲家)[亦作Händel]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

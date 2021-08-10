@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Anglepoise</h2><div class="git"><span class="ipa">['æŋɡl,pɔiz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[商标]安格泡(可任意调换位置的灯)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

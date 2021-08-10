@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shitfaced</h2><span class="onm">原型:</span><span class="orm">shitfaced 是 shitface 的过去式</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">喝得脸色煞白的；烂醉如泥的</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">喝醉酒的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SCR</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">可控硅整流器（Silicon Controlled Rectifier）；半导体控制整流器（Semiconductor Control Rectifier）；通讯兵团无线电与雷达装置设备（Signal Corps Radio and Radar）；侦察车侦察（Scout Car Reconnaissance）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

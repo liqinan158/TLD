@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mukluks</h2><div class="git"><span class="ipa">['mʌklʌks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">海豹皮靴（传统上以海豹皮制作）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">印第安翻毛靴；厚底靴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

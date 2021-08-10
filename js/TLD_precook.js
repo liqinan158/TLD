@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>precook</h2><div class="git"><span class="ipa">[pri:'kʊk]</span><span class="frm">precooked, precooking, precooks</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">49098</span><div class="total">965</div></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">预煮；预先烹调（食物）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

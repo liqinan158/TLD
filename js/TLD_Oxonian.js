@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oxonian</h2><div class="git"><span class="ipa">[ɒk'sәuniәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">牛津人；牛津大学学生</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">牛津的；牛津大学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

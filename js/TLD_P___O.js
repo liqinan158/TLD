@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>P &amp; O</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">Peninsular and Oriental (Steamship Company) (英国)半岛和东方轮船公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

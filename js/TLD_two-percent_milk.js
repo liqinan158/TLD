@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>two-percent milk</h2><div class="git"><span class="ipa">[tu: pəˈsent milk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（含约 2% 脂肪的）减脂牛奶，半脱脂牛奶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

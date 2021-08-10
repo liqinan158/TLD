@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Schoenberg, Arnold</h2><div class="git"><span class="ipa">['ʃə:nbek; 'ɑ:nɔlt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">舍恩伯格(1874～1951，奥地利裔美籍音乐理论家、作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

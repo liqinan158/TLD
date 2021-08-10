@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bpi</h2><div class="git"><span class="ipa">[ˌbi: pi: ˈaɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">bits per inch 位/英寸; bytes per inch 字节/每寸，每英寸字节数</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wolds</h2><span class="onm">原型:</span><span class="orm">wolds 是 wold 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(wold 的复数) n. 无树木的高原, 荒野</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

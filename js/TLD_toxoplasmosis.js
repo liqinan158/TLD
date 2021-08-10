@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>toxoplasmosis</h2><div class="git"><span class="ipa">[ˌtɒksəʊplæzˈməʊsɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33918</span><div class="total">3279</div></div><div class="coca2">弓形体病(<font color="orangered">64%</font>)，弓浆虫病(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[内科] 弓形体病，弓浆虫病</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

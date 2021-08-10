@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>off-grid</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26395</span><div class="total">6576</div></div><div class="coca2">=off-the-grid(<font color="orangered">34%</font>)，自给自足的(<font color="orangered">33%</font>)，不使用水电气等公共设施的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">离网的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

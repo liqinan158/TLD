@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>snoozefest</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">snoozefest (plural snoozefests)</span></div><div class="dcb"><span class="dcn">(informal) An extremely boring event.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

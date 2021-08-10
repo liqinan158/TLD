@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>teazel</h2><div class="git"><span class="ipa">['ti:zl]</span></div><hr/></div><div class="coca2">起毛机.(<font color="orangered">34%</font>)，起毛草(<font color="orangered">33%</font>)，锅菜.(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">, vt. -zeled 或-zelled,-zeling 或-zelling [主英国英语] = teasel</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

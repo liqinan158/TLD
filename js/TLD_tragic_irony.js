@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tragic irony</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 悲剧性讽示（故事中某个人物的行为或想法为读者或观众所知却不为故事中其他人物所知的表现手法）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

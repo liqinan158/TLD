@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ethyl</h2><div class="git"><span class="ipa">[ˈeθɪl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23343</span><div class="total">8926</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乙烷基；含四乙铅的汽车燃料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

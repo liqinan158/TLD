@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Alabama</h2><div class="git"><span class="ipa">[.ælә'bæmә]</span></div><hr/></div><div class="coca2">亚拉巴马州(<font color="orangered">50%</font>)，亚拉巴马人(<font color="orangered">25%</font>)，亚拉巴马语(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿拉巴马州（美国州名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

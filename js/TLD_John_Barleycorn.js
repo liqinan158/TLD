@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>John Barleycorn</h2><div class="git"><span class="ipa">['bɑ:likɔ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;谑&gt;大麦约翰(制酒的麦芽或啤酒等含酒精饮料的拟人化名称)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>uncheck</h2><div class="git"><span class="ipa">[ʌnt'ʃek]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">15827</span><div class="total">21628</div></div><div class="coca2">不选(<font color="orangered">63%</font>)，取消选中(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">不选</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

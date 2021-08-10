@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hail Mary pass</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">万福玛丽亚传球；万福玛丽传球；万福马利亚传球</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

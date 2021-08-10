@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Federal Republic of Yugoslavia</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">南斯拉夫联盟共和国</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

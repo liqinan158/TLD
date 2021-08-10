@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Wilberforce, William</h2><div class="git"><span class="ipa">['wilbəfɔ:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">威尔伯福斯(1759～1833，英国人道主义者、废奴主义者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Walesa, Lech</h2><div class="git"><span class="ipa">[və'wensə; lek]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">瓦文萨(1943～ ，1990年起任波兰总统，1980～1982年任波兰独立自治团结工会主席，获1983年诺贝尔和平奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

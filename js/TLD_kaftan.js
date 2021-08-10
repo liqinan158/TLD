@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kaftan</h2><div class="git"><span class="ipa">[ˈkæftæn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">土耳其长袍（等于caftan）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Kaftan)人名；(德、俄、捷)卡夫坦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

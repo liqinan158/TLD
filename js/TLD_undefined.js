@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>undefined</h2><div class="git"><span class="ipa">[ˌʌndɪˈfaɪnd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">13322</span><div class="total">31056</div></div><div class="coca2">未定义的(<font color="orangered">87%</font>)，不明确的(<font color="orangered">13%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不明确的；未下定义的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

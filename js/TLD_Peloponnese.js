@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Peloponnese</h2><div class="git"><span class="ipa">[,pelәpә'ni:s, -'ni:z]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伯罗奔尼撒半岛[希腊南部](即摩里亚半岛)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

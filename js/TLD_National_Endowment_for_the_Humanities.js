@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>National Endowment for the Humanities</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(美国)全国博爱基金会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

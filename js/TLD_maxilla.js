@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>maxilla</h2><div class="git"><span class="ipa">[mækˈsɪlə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36604</span><div class="total">2613</div></div><div class="coca2">上颌骨(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[解剖] 上颌骨，上颌；小颚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>COI</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（英国）中央新闻署（Central Office of Information）；通信操作说明书（Communications Operating Instructions）；公共的影响（Community of Interest）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

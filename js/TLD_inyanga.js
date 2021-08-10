@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inyanga</h2><div class="git"><span class="ipa">[ɪn'jɑ:ŋə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [地名] [津巴布韦] 尼扬加</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

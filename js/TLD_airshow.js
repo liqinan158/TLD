@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>airshow</h2><div class="git"><span class="ipa">['eəʃəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29989</span><div class="total">4717</div></div><div class="coca2">航空表演(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">飞行特技表演；飞机展览</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>snow gun</h2><div class="git"><span class="ipa">[snəu ɡʌn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [体]雪炮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

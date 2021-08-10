@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rai</h2><div class="git"><span class="ipa">[rɑ:i]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拉埃（一种源自阿尔及利亚的流行音乐）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

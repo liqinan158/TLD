@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Massacre of the Innocents</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">屠杀婴儿；〈英俚〉(议会趁会期快满而作出的)撤销某些议案的决定</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">无辜者的屠杀；屠杀无辜者；大屠杀</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>incl.</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （用于书面广告中）; （用于书面广告中）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>airfare</h2><div class="git"><span class="ipa">[ˈeəfeə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14091</span><div class="total">27631</div></div><div class="coca2">机票价格(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">飞机票价</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

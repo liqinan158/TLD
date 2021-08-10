@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hot-cross bun</h2><div class="git"><span class="ipa">[hɔt krɔs bʌn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （受难节时吃的）十字甜面包</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

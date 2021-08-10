@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>repeater</h2><div class="git"><span class="ipa">[rɪˈpi:tə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14895</span><div class="total">24596</div></div><div class="coca2">中继器(<font color="orangered">64%</font>)，转发器(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[通信] 中继器；[通信] 转发器；重复者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

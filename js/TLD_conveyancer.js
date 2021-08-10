@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>conveyancer</h2><div class="git"><span class="ipa">[kənˈveɪənsə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">运输者，传达者，办理不动产等让与事务者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

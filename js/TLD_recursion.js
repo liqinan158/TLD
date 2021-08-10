@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>recursion</h2><div class="git"><span class="ipa">[rɪˈkɜ:ʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22385</span><div class="total">9869</div></div><div class="coca2">循环(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[数] 递归，循环；递归式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

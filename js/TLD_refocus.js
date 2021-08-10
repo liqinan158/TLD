@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>refocus</h2><div class="git"><span class="ipa">[ˌri:'fəʊkəs]</span></div><hr/></div><div class="coca2">重调焦距(<font color="orangered">75%</font>)，改变关注点(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">重调…的焦距</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">重调焦距</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

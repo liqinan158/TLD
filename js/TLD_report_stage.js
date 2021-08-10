@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>report stage</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 报告阶段；（法案等的）审议阶段</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coordinate clause</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 并列分句，并列子句（常由and、or、but等连接）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

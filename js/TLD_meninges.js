@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>meninges</h2><div class="git"><span class="ipa">[məˈnɪndʒi:z]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41992</span><div class="total">1688</div></div><div class="coca2">髓膜(<font color="orangered">75%</font>)，名词meninx的复数形式.(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">脑膜；髓膜；脑脊膜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

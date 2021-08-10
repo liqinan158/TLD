@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wholesaling</h2><div class="git"><span class="ipa">[ˈhəʊlseɪlɪŋ]</span></div><span class="onm">原型:</span><span class="orm">wholesaling 是 wholesale 的现在分词</span><hr/></div><div class="coca2">批发(<font color="orangered">94%</font>)，动词wholesale的现在分词形式.(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">批发</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

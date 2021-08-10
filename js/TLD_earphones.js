@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>earphones</h2><div class="git"><span class="ipa">[ˈɪəfəʊnz]</span></div><span class="onm">原型:</span><span class="orm">earphones 是 earphone 的第三人称单数</span><hr/></div><div class="coca2">耳机(<font color="orangered">98%</font>)，名词earphone的复数形式.(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[电讯] 耳机（earphone的复数）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

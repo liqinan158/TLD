@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dallas-Fort Worth</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">达拉斯-沃斯堡；达拉斯沃思堡；达拉斯沃尔斯堡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

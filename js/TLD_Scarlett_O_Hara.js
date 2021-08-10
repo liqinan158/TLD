@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Scarlett O'Hara</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">郝思嘉；女主角郝思嘉；奥哈拉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

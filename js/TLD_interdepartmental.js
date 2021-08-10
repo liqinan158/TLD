@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>interdepartmental</h2><div class="git"><span class="ipa">[ˌɪntəˌdi:pɑ:tˈmentl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">35232</span><div class="total">2930</div></div><div class="coca2">各部门间的(<font color="orangered">72%</font>)，部际的(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不同部门间的；不同学科间的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lancaster</h2><div class="git"><span class="ipa">['læŋkәstә]</span></div><hr/></div><div class="coca2">美国俄亥俄州中南部城市(<font color="orangered">25%</font>)，兰开斯特（英格兰王朝名(<font color="orangered">25%</font>)，美国宾夕法尼亚州东南部城市）(<font color="orangered">25%</font>)，英格兰西北部城市(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">兰卡斯特</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

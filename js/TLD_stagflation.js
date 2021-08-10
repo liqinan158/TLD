@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stagflation</h2><div class="git"><span class="ipa">[stægˈfleɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44161</span><div class="total">1420</div></div><div class="coca2">滞涨(<font color="orangered">93%</font>)，停滞性膨胀(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[经] 滞胀，不景气状况下之物价上涨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

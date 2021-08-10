@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stepfamily</h2><div class="git"><span class="ipa">[ˈstepfæməli]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">有继父（或继母）的家庭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

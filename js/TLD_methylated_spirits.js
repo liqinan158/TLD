@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>methylated spirits</h2><div class="git"><span class="ipa">[ˈmeθəˌleɪtɪd]</span></div><span class="onm">原型:</span><span class="orm">methylated spirits 是 methylated spirit 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">变性酒精</span></div><div class="dcb"><span class="dcn">甲基化酒精</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

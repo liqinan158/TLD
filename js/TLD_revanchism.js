@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>revanchism</h2><div class="git"><span class="ipa">[rɪˈvæntʃɪzəm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">复仇主义，（第二次世界大战后）德国复仇主义分子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

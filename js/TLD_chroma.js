@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chroma</h2><div class="git"><span class="ipa">[ˈkrəʊmə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24154</span><div class="total">8188</div></div><div class="coca2">色度(<font color="orangered">93%</font>)，色品(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（色彩的）浓度，[光] 色度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

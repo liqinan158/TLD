@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>typewriting</h2><div class="git"><span class="ipa">[ˈtaɪpraɪtɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">打字; 打字术; 打字稿</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">打字，用打字机打( typewrite的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

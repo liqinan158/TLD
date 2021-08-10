@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>saguaro</h2><div class="git"><span class="ipa">[səˈgwɑ:rəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35784</span><div class="total">2798</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">树形仙人掌（仙人掌的一种，产于美国南部及墨西哥）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

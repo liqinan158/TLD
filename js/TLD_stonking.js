@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stonking</h2><span class="onm">原型:</span><span class="orm">stonking 是 stonk 的现在分词</span><hr/></div><div class="coca2">相当的(<font color="orangered">34%</font>)，令人兴奋的(<font color="orangered">33%</font>)，令人惊喜的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">猛烈炮击</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

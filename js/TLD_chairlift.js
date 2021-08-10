@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chairlift</h2><div class="git"><span class="ipa">[ˈtʃeəlɪft]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27440</span><div class="total">5928</div></div><div class="coca2">椅式提升机(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美）缆椅；升降椅</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

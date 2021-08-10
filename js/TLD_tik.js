@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tik</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Tik)人名；(土)蒂克；(捷)季克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

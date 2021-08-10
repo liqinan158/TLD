@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eos</h2><div class="git"><span class="ipa">['i:ɒs]</span></div><span class="onm">原型:</span><span class="orm">Eos 是 eo 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">厄俄斯，黎明的女</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">嵌入式操作系统（Embedded Operation System，EOS）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nitrify</h2><div class="git"><span class="ipa">[ˈnaɪtrɪfaɪ]</span><span class="frm">nitrified, nitrifying, nitrifies</span></div><hr/></div><div class="coca2">硝化(<font color="orangered">54%</font>)，使与氮化合(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">硝化；使与氮化合；用氮饱和</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

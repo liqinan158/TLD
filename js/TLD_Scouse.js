@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Scouse</h2><div class="git"><span class="ipa">[skaʊs]</span></div><hr/></div><div class="coca2">利物浦方言(<font color="orangered">54%</font>)，利物浦人(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">利物浦人；利物浦方言</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">利物浦的；利物浦人的；利物浦方言的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MOMA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">亚甲基双2-甲氧基苯胺（methylene bis 2-methoxyaniline）；纽约现代艺术博物馆（The Museum of Modern Art）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UK</h2><div class="git"><span class="ipa">[ju: 'kei]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">英国</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">联合王国（United Kingdom）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Uk)人名；(柬)屋</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

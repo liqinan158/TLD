@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tokenism</h2><div class="git"><span class="ipa">[ˈtəʊkənɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49810</span><div class="total">905</div></div><div class="coca2">装点门面(<font color="orangered">50%</font>)，表面文章(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">象征主义；装门面；表面文章</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

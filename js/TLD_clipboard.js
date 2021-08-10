@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clipboard</h2><div class="git"><span class="ipa">[ˈklɪpbɔ:d]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13095</span><div class="total">32114</div></div><div class="coca2">剪贴板(<font color="orangered">97%</font>)，付有纸夹的笔记板(<font color="orangered">3%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">剪贴板；附有纸夹的笔记板</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>leucocyte</h2><div class="git"><span class="ipa">[ˈlu:kəsaɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51464</span><div class="total">770</div></div><div class="coca2">白血球(<font color="orangered">78%</font>)，=leukocyte.(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[解剖][细胞] 白细胞；[细胞] 白血球</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

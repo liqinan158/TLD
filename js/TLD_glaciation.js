@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>glaciation</h2><div class="git"><span class="ipa">[ˌgleɪsiˈeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34870</span><div class="total">3022</div></div><div class="coca2">冻结成冰(<font color="orangered">58%</font>)，冰河作用(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[地质] 冰川作用；冻结成冰</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

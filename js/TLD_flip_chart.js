@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flip chart</h2><div class="git"><span class="ipa">[flip tʃɑ:t]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">活动挂图；配套挂图</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">活页挂图；浏览图表；活动挂图板</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>derring-do</h2><div class="git"><span class="ipa">[ˌderɪŋ ˈdu:]</span></div><hr/></div><div class="coca2">拼命的勇气(<font color="orangered">51%</font>)，大胆的行为(<font color="orangered">33%</font>)，蛮勇(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大胆的行为；拼命的勇气</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

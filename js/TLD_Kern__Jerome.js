@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kern, Jerome</h2><div class="git"><span class="ipa">[kə:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Kern, Jerome (David)</span></div><div class="dcb"><span class="dcn">[kə:n]</span></div><div class="dcb"><span class="dcn">克恩(1885～1945，美国作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Test and County Cricket Board</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">县郡板球检验委员会；测试及县板球板</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

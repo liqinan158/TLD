@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>burnous</h2><div class="git"><span class="ipa">[bɜ:ˈnu:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（阿拉伯等人穿的）带有包头巾的呢斗篷</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

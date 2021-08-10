@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">救世军（Salvation Army）；性感（Sex Apple）；需经批准，有待批准（Subject to Approval）；半自动的（Semi-Automatic）；减震（Shock Attenuation）；表面面积（Surface Area）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Sa)人名；(缅、柬)萨；(东南亚国家华语)三；(中)萨(普通话·威妥玛)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

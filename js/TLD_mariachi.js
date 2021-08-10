@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mariachi</h2><div class="git"><span class="ipa">[ˌmæriˈɑ:tʃi]</span></div><hr/></div><div class="coca2">墨西哥街头乐队(<font color="orangered">67%</font>)，街头音乐(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">墨西哥流浪乐队；墨西哥流浪乐队艺人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

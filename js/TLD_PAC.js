@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PAC</h2><div class="git"><span class="ipa">[pæk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">政治行动委员会（political action committee）；无人驾驶飞机（Pilotless Aircraft）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Pac)人名；(法)帕克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

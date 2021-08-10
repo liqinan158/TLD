@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>haut-relief</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 高浮雕；凸雕</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

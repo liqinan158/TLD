@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Clytemnestra</h2><div class="git"><span class="ipa">[,klaitəm'nestrə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克吕泰墨斯特拉（希腊神话中的人物, 等于Clytaemnesra）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

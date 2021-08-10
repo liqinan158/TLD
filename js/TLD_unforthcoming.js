@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unforthcoming</h2><div class="git"><span class="ipa">[ˌʌnfɔ:θˈkʌmɪŋ]</span></div><span class="onm">原型:</span><span class="orm">unforthcoming 是 unforthcome 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不愿响应的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

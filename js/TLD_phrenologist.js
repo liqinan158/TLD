@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phrenologist</h2><div class="git"><span class="ipa">[frə'nɒlədʒɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60109</span><div class="total">290</div></div><div class="coca2">骨相学者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">颅相学者；骨相学家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

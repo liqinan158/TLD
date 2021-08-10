@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rembrandt</h2><div class="git"><span class="ipa">['rembrænt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伦布兰特(van Rijn [Ryn], 1609-1669, 荷兰画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

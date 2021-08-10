@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bird's-eye view</h2><div class="git"><span class="ipa">[ˈbə:dzai vju:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 鸟瞰（图），（自高处俯视的）全景; 一览</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

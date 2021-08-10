@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>broiler</h2><div class="git"><span class="ipa">[ˈbrɔɪlə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18738</span><div class="total">14969</div></div><div class="coca2">适于烧烤的嫩鸡(<font color="orangered">50%</font>)，烤器(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">烤焙用具；酷热的日子；烤肉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

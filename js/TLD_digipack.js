@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>digipack</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">digipack (plural digipacks)</span></div><div class="dcb"><span class="dcn">Alternative form of digipak</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

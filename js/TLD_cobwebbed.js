@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cobwebbed</h2><div class="git"><span class="ipa">['kɒbwebd]</span></div><span class="onm">原型:</span><span class="orm">cobwebbed 是 cobweb 的过去式</span><hr/></div><div class="coca2">布满蛛网(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">布满蜘蛛网的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">使布满蛛网（cobweb的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

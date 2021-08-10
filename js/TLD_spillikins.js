@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spillikins</h2><span class="onm">原型:</span><span class="orm">spillikins 是 spillikin 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 挑棒游戏（挑出一堆小棒中的一根而不触动其他的小棒）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

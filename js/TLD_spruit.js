@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spruit</h2><div class="git"><span class="ipa">[spreɪt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（只在雨季有水的南非的）小河道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

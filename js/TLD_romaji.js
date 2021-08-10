@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>romaji</h2><div class="git"><span class="ipa">[ˈrəʊmədʒi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;日&gt;罗马字（指用以拼写日语的罗马字母）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

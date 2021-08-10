@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unbeliever</h2><div class="git"><span class="ipa">[ˌʌnbɪˈli:və(r)]</span></div><hr/></div><div class="coca2">异教徒(<font color="orangered">59%</font>)，不相信者(<font color="orangered">31%</font>)，不信仰者(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">异教徒；无信仰的人；不相信者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

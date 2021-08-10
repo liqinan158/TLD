@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>snow route</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">降雪路线；扫雪街道；私家车停泊在铲雪通道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

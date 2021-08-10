@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>RSV</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">修订标准版（Revised Standard Version）；折合比粘度（Reduced Specific Viscosity）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

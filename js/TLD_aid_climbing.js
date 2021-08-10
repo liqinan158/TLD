@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aid climbing</h2><div class="git"><span class="ipa">[eid ˈklaimiŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [体]器械攀登</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wallflower</h2><div class="git"><span class="ipa">[ˈwɔ:lflaʊə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30293</span><div class="total">4579</div></div><div class="coca2">桂香香水(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">壁花（舞会中没有舞伴而坐着看的人）；桂竹香</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

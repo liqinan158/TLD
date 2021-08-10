@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>condescension</h2><div class="git"><span class="ipa">[ˌkɒndɪ'senʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30770</span><div class="total">4381</div></div><div class="coca2">屈尊俯就(<font color="orangered">59%</font>)，自以为高人一等(<font color="orangered">41%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">谦虚；屈尊；傲慢态度；纡尊降贵[表不满]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

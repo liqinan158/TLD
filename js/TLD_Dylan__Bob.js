@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dylan, Bob</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(Robert Zimmerman)迪伦(1941～ ，美国民歌摇滚乐演唱者、吉他演奏者、作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

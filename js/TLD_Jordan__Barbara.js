@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jordan, Barbara</h2><div class="git"><span class="ipa">['dʒɔ:dən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">乔丹(1936～  ，美国黑人女政治家、国会众议员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

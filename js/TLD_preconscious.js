@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>preconscious</h2><div class="git"><span class="ipa">[ˌpri:ˈkɒnʃəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">59900</span><div class="total">303</div></div><div class="coca2">前意识的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">前意识的</span></div><div class="dcb"><span class="dcn">但可以被唤入意识的精神内容或活动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

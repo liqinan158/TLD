@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>calk</h2><div class="git"><span class="ipa">[kɔ:k]</span><span class="frm">calked, calking, calks</span></div><hr/></div><div class="coca2">填 ... 以防漏(<font color="orangered">50%</font>)，使 ... 不漏水(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鞋底防滑尖铁；马蹄防滑刺</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">使不漏水；装防滑尖铁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

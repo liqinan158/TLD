@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fancy-free</h2><div class="git"><span class="ipa">[ˈfænsi:ˈfri:]</span></div><hr/></div><div class="coca2">天真无邪的(<font color="orangered">50%</font>)，不受拘束地进行想象(<font color="orangered">25%</font>)，未知恋爱滋味的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无约束的；天真无邪的；自由想像的；无恋爱对象的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

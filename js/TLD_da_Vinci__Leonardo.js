@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>da Vinci, Leonardo</h2><div class="git"><span class="ipa">[də'vintʃi; ,li:ə'nɑ:dəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">达芬奇(=Vinci, Leonardo da)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

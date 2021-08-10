@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>warchalking</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 免费上网标记（在墙上标示附近可免费上网）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>seaworthiness</h2><div class="git"><span class="ipa">['si,wɝðɪnɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50481</span><div class="total">846</div></div><div class="coca2">经得起风浪的(<font color="orangered">50%</font>)，适于航海的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[水运] 适航性，船舶适航</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

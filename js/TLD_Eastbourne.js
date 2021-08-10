@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eastbourne</h2><div class="git"><span class="ipa">['i:stbɔ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伊斯特本(英国一港市)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

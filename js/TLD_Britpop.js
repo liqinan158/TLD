@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Britpop</h2><div class="git"><span class="ipa">['britpɔp]</span></div><hr/></div><div class="coca2">英国流行音乐(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">英伦摇滚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

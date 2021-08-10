@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>puckered</h2><div class="git"><span class="ipa">[ˈpʌkəd]</span></div><span class="onm">原型:</span><span class="orm">puckered 是 pucker 的过去式和过去分词</span><hr/></div><div class="coca2">使折叠(<font color="orangered">51%</font>)，起皱(<font color="orangered">31%</font>)，褶皱(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">揉皱的</span></div><div class="dcb"><span class="dcn">泡泡效应</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

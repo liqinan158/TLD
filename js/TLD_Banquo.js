@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Banquo</h2><div class="git"><span class="ipa">['bæŋkwәu, 'bæn-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">班柯(莎士比亚悲剧《麦克佩斯》中人物, 被麦克佩斯下令杀死,后以鬼魂显灵,使麦克佩斯暴露自己的罪行)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

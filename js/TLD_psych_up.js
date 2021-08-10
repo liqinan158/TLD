@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>psych up</h2><div class="git"><span class="ipa">[saik ʌp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 使兴奋起来，使（为比赛、表演等）作好精神准备</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

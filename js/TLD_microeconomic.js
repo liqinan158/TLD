@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>microeconomic</h2><div class="git"><span class="ipa">['maɪkrəʊˌɪkə'nɒmɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">40028</span><div class="total">1980</div></div><div class="coca2">微观经济的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">微观经济；个体经济</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

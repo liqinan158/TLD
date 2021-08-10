@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>goaltender</h2><div class="git"><span class="ipa">[ˈgəʊltendə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14940</span><div class="total">24460</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（足球等运动的）守门员（等于goalkeeper）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

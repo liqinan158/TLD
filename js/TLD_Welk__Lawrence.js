@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Welk, Lawrence</h2><div class="git"><span class="ipa">[welk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">韦尔克(1903～1992，美国乐队指挥)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

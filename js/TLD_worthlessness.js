@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>worthlessness</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35420</span><div class="total">2886</div></div><div class="coca2">无价值的(<font color="orangered">75%</font>)，无用的(<font color="orangered">23%</font>)，可鄙的(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">毫无价值</span></div><div class="dcb"><span class="dcn">没用</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ball-breaker</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （使男子甘拜下风的）女性魔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>factorize</h2><div class="git"><span class="ipa">[ˈfæktəraɪz]</span><span class="frm">factorized, factorizing, factorizes</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">因式分解；把复杂计算分解为基本运算</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stone-washed</h2><div class="git"><span class="ipa">[s'təʊnw'ɒʃt]</span></div><hr/></div><div class="coca2">非常柔软(<font color="orangered">34%</font>)，石洗的(<font color="orangered">33%</font>)，与小石块一同洗过的牛仔裤被称为石洗牛仔裤这种牛仔裤颜色发白(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">砂洗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

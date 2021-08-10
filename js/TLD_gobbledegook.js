@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gobbledegook</h2><div class="git"><span class="ipa">[ˈgɒbldigu:k]</span></div><hr/></div><div class="coca2">冗长的官样文章(<font color="orangered">64%</font>)，冗繁而难解的文字或语言(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">冗繁而难解的文字或语言；冗长的官样文章</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

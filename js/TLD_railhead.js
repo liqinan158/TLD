@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>railhead</h2><div class="git"><span class="ipa">[ˈreɪlhed]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50612</span><div class="total">836</div></div><div class="coca2">铁路端点(<font color="orangered">50%</font>)，铁路末站(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[铁路] 轨头；铁路末端</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

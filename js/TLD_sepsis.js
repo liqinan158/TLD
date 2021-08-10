@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sepsis</h2><div class="git"><span class="ipa">[ˈsepsɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17542</span><div class="total">17330</div></div><div class="coca2">败血症(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">败血症，[医] 脓毒病；腐败作用</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

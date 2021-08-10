@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dietetic</h2><div class="git"><span class="ipa">[ˌdaɪə'tetɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">25033</span><div class="total">7474</div></div><div class="coca2">饮食的(<font color="orangered">57%</font>)，营养的(<font color="orangered">43%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">饮食的；饮食学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>TEFL</h2><div class="git"><span class="ipa">['tef(ә)l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">作为外语的英语教学（Teaching English as a Foreign Language）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

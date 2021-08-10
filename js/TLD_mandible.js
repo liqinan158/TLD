@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mandible</h2><div class="git"><span class="ipa">[ˈmændɪbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22870</span><div class="total">9372</div></div><div class="coca2">下颌骨(<font color="orangered">82%</font>)，上颚(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">下颌骨；上颚，嘴的上部</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

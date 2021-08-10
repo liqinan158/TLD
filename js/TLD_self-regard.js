@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-regard</h2><div class="git"><span class="ipa">[ˈselfriˈɡɑ:d]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51353</span><div class="total">778</div></div><div class="coca2">关注自身利益(<font color="orangered">67%</font>)，关注自己(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">自爱；自尊感；关注自身利益</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gravitas</h2><div class="git"><span class="ipa">[ˈgrævɪtɑ:s]</span></div><span class="onm">原型:</span><span class="orm">gravitas 是 gravita 的复数</span><hr/></div><div class="coca2">庄严(<font color="orangered">73%</font>)，庄严的举止(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（拉）庄严；庄重；庄严的举止</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

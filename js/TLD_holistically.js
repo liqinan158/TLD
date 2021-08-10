@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>holistically</h2><div class="git"><span class="ipa">[ -kli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">25072</span><div class="total">7452</div></div><div class="coca2">整体的(<font color="orangered">74%</font>)，全盘的(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">整体论地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

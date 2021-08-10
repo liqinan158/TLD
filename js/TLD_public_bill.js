@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>public bill</h2><div class="git"><span class="ipa">[ˈpʌblik bil]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">公共关系法案</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">公共条例草案；公法案；有关公共利益的法案</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>desegregation</h2><div class="git"><span class="ipa">[ˌdi:ˌseɡrɪ'ɡeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29294</span><div class="total">5021</div></div><div class="coca2">废除种族隔离(<font color="orangered">64%</font>)，废止岐视(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">废止种族歧视</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

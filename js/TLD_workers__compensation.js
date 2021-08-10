@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>workers' compensation</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">劳工赔偿</span></div><div class="dcb"><span class="dcn">工人赔偿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

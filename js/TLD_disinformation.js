@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disinformation</h2><div class="git"><span class="ipa">[ˌdɪsˌɪnfəˈmeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24685</span><div class="total">7768</div></div><div class="coca2">虚假信息(<font color="orangered">50%</font>)，故意的假情报(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">故意的假情报；虚假信息</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

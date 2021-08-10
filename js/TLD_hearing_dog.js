@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hearing dog</h2><div class="git"><span class="ipa">[ˈhiəriŋ dɔɡ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（经过专门训练为聋人提供帮助的）助聋犬</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

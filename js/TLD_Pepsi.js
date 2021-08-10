@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pepsi</h2><div class="git"><span class="ipa">['pepsi]</span></div><hr/></div><div class="coca2">百事可乐(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[食品] 百事可乐（一种饮料的商标名称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

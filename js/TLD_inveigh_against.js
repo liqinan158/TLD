@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inveigh against</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 10</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="dcn">猛烈攻击；激烈反对；痛骂，痛斥</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

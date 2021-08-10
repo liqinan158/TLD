@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>appellative</h2><div class="git"><span class="ipa">[əˈpelətɪv]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（人或物的）名称的，通称的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">通称名词，普通名词，称呼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

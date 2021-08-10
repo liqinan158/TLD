@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Olympic</h2><div class="git"><span class="ipa">[әu'limpik]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">3928</span><div class="total">269895</div></div><div class="coca2">奥林匹克的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">奥林匹斯山的，奥林匹亚的；奥林匹克的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

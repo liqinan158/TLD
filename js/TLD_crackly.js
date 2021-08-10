@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>crackly</h2><div class="git"><span class="ipa">['kræklɪ]</span></div><span class="onm">级别:</span><span class="qrm">cracklier, crackliest</span><hr/></div><div class="coca2">容易破裂的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">容易破裂的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

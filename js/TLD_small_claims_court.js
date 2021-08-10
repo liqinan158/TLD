@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>small claims court</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">小额索赔（地方）法院</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">小额法庭；小额钱债法庭；小额索赔法庭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

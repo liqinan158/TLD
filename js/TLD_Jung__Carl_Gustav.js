@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jung, Carl Gustav</h2><div class="git"><span class="ipa">[juŋ; 'ɡustɑ:f]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">荣格(1875～1961，瑞士心理学家、精神病学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

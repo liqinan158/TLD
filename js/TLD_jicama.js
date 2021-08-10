@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jicama</h2><div class="git"><span class="ipa">['hi:kəmə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39440</span><div class="total">2068</div></div><div class="coca2">豆薯(<font color="orangered">64%</font>)，凉薯(<font color="orangered">36%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">豆薯（生长在热带的一种植物）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dumfries</h2><div class="git"><span class="ipa">[,dʌm'fri:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">敦夫里斯郡（英国苏格兰南部旧郡, 等于Dumfriesshire）；敦夫里斯（邓弗里斯郡之首府）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

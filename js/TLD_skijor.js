@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skijor</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">skijor (third-person singular simple present skijors, present participle skijoring, simple past and past participle skijored)</span></div><div class="dcb"><span class="dcn">(intransitive) To cross-country ski behind one or more dogs or horses, or a vehicle.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

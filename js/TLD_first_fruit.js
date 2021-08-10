@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>first fruit</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （工作、努力的）初步成果, 最初收获</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

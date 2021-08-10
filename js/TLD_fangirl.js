@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fangirl</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 脑残粉; 指的是那些极度痴迷于某事物或某明星的粉丝，甚至狂热到失去理智的地步</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

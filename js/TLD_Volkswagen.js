@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Volkswagen</h2><div class="git"><span class="ipa">['fɔ:lks,vɑ:^әn]</span></div><hr/></div><div class="coca2">主要经营汽车的公司)(<font color="orangered">50%</font>)，大众(总部在德国(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大众汽车（财富500强公司之一）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

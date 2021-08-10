@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>herogram</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Message of heartfelt appreciation or thanks.</span></div><div class="dcb"><span class="deq">&gt; The chairman sent him a herogram for completing the deal in time.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

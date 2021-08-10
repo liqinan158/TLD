@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>high-maintenance</h2><div class="git"><span class="ipa">[hai ˈmeintinəns]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">44473</span><div class="total">1382</div></div><div class="coca2">指需 大力气维护的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">高维护；难伺候</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

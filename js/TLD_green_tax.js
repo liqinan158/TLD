@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>green tax</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">绿色税；生态税；环保税</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">绿色税收；绿税；绿色租税</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

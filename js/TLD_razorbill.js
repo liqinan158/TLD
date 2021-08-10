@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>razorbill</h2><div class="git"><span class="ipa">[ˈreɪzəbɪl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">海雀（一种尖嘴鸟）; 刀嘴海雀</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

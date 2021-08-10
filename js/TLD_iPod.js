@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>iPod</h2><div class="git"><span class="ipa">[aɪ'pɒd]</span></div><hr/></div><div class="coca2">美国苹果公司的随身多媒体播放设备(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">苹果公司音乐播放器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

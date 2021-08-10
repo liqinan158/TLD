@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bucket shop</h2><div class="git"><span class="ipa">[ˈbʌkit ʃɔp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">廉价机票店</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">投机商号；非法经纪公司；家投机商号</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>careline</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （公司的）产品咨询热线，服务热线， 客服热线</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

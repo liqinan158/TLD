@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dagwood sandwich</h2><div class="git"><span class="ipa">['dæɡwud]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[美国英语]多层夹肉面包，多层三明治，特大三明治[亦作Dagwood]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

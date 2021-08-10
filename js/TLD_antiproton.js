@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>antiproton</h2><div class="git"><span class="ipa">[ˈæntiprəʊtɒn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53763</span><div class="total">618</div></div><div class="coca2">反质子(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[高能] 反质子（等于negative proton）；[高能] 负质子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

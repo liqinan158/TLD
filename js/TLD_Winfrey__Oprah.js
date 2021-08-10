@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Winfrey, Oprah</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">脱口秀主持人欧普拉；奥普拉；脱口秀主持人奥普拉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flabbiness</h2><div class="git"><span class="ipa">[f'læbɪnəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（肌肉等）不结实; 松弛; 软弱; 无气力</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

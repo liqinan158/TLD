@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>agflation</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">农业通胀；农业通膨；食品通胀</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

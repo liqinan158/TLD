@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>might-have-been</h2><div class="git"><span class="ipa">[ˈmaɪtəvˌbɪn]</span></div><hr/></div><div class="coca2">本可实现或发生的事(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">本可实现或发生的事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

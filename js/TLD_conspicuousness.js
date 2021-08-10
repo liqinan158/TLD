@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>conspicuousness</h2><div class="git"><span class="ipa">[kən'spɪkjʊəsnəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 显著，卓越，突出; 显著性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

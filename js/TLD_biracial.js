@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>biracial</h2><div class="git"><span class="ipa">[ˌbaɪ'reɪʃl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">33413</span><div class="total">3424</div></div><div class="coca2">二种人种的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">二种人种的（（尤指黑、白人种的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

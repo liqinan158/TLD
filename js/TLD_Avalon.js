@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Avalon</h2><div class="git"><span class="ipa">['ævәlɔn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿瓦隆(凯尔特族传说中的西方乐土岛,据说亚瑟王及其部下死后尸体被移往该岛)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

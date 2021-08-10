@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Child Tax Credit</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">如有未成年子女可享受的税收优惠政策</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">孩童抵税额；儿童税收抵免；儿童抵税额</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

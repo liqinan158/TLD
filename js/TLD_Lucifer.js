@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lucifer</h2><div class="git"><span class="ipa">['lu:sifә]</span></div><hr/></div><div class="coca2">撒旦(<font color="orangered">54%</font>)，金星(<font color="orangered">26%</font>)，魔鬼(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">撒旦；金星</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

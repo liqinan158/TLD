@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ufology</h2><div class="git"><span class="ipa">[ju:ˈfɒlədʒi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55832</span><div class="total">500</div></div><div class="coca2">飞碟学(<font color="orangered">82%</font>)，不明飞行物研究(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">飞碟学；不明飞行物学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ethelred II</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">艾思雷德二世(968?-1016,英王,在位期间978-1016)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">艾特尔雷德二世；埃塞尔雷德二世；爱塞烈德二世</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

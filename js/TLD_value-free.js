@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>value-free</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">56727</span><div class="total">455</div></div><div class="coca2">不涉及价值(<font color="orangered">50%</font>)，纯客观的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">价值中立</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

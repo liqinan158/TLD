@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>proconsul</h2><div class="git"><span class="ipa">[prəʊ'kɒnsl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45202</span><div class="total">1310</div></div><div class="coca2">地方总督(<font color="orangered">60%</font>)，殖民地总督(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（古罗马）地方总督；（英）殖民地总督</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

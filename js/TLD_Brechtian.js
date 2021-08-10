@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Brechtian</h2><div class="git"><span class="ipa">['breʃtiәn]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">57051</span><div class="total">439</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">布莱希特流派的人；布莱希特的欣赏者</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">布莱希特的；布莱希特风格的；布莱希特戏剧的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

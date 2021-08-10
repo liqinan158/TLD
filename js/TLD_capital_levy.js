@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>capital levy</h2><div class="git"><span class="ipa">[ˈkæpitl ˈli:vi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">资本课税</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">资本税；财产税；资本费</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

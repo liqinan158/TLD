@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Djibouti</h2><div class="git"><span class="ipa">[dʒi'bu:ti]</span></div><hr/></div><div class="coca2">吉布提市〔吉布提首都〕(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">吉布提（东非一共和国及其首都）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

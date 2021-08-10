@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>filmography</h2><div class="git"><span class="ipa">[ˌfɪlˈmɒgrəfi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37552</span><div class="total">2403</div></div><div class="coca2">电影剧本(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电影作品年表；影片集锦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

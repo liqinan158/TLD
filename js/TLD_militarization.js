@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>militarization</h2><div class="git"><span class="ipa">[ˌmɪlɪtəraɪ'zeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32392</span><div class="total">3761</div></div><div class="coca2">军事化(<font color="orangered">95%</font>)，黩武主义的提唱(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">军事化；军国主义化；黩武主义的提倡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

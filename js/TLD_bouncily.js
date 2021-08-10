@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bouncily</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">活跃地; 轻快地; 骄傲地(bouncy的副词形式)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

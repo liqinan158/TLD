@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lite</h2><div class="git"><span class="ipa">[laɪt]</span></div><hr/></div><div class="coca2">类似…的劣质品(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">清淡的；低盐的；简化的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">不重要的事物；简化物；软饮料</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Lite)人名；(法、西)利特</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

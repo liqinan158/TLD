@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Z</h2><div class="git"><span class="ipa">[ziː]</span></div><hr/></div><div class="coca2">Z状物(<font color="orangered">34%</font>)，Z粒子(<font color="orangered">33%</font>)，字母Z(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">英语字母表的第二十六个字母，小写为 z</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

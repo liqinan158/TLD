@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tarboosh</h2><div class="git"><span class="ipa">[tɑ:ˈbu:ʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">塔布什帽（穆斯林男子戴的红色无边圆塔帽）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

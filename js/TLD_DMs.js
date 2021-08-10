@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DMs</h2><span class="onm">原型:</span><span class="orm">DMS 是 dm 的复数</span><hr/></div><div class="coca2">=Database Management System 数据库管理系统(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">数据库管理系统（Database Management System）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

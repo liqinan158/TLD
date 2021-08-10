@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>zucchini</h2><div class="git"><span class="ipa">[zuˈki:ni]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">10963</span><div class="total">45697</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">夏季产南瓜之一种; (US) N [C/U] 绿皮密生西葫芦 [英=courgette]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

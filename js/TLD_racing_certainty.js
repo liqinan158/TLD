@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>racing certainty</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">必然发生的事；确定无疑的事</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">确定性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

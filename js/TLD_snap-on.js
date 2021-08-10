@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>snap-on</h2><div class="git"><span class="ipa">[s'næp'ən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 直接固定</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Daphnis and Chloe</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">达佛涅斯和克洛伊(古希腊田园传奇中被后人视为楷模的一对天真无邪的情侣)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

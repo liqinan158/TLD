@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cut-up</h2><div class="git"><span class="ipa">['kʌtˌʌp]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38527</span><div class="total">2228</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">意思是“跟人开玩笑或者是大声喧哗以吸引别人注意的那种人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

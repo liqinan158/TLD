@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fly leaf</h2><div class="git"><span class="ipa">[flai li:f]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">书皮底纸，（书籍中）漏印纸页</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

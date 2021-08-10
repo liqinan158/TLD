@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wada</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Wada)人名；(尼日利)瓦达</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">世界反兴奋剂机构（World Anti-Doping Agency）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

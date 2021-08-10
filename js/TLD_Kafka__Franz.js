@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kafka, Franz</h2><div class="git"><span class="ipa">['kɑ:fkə; frɑ:nts]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡夫卡(1883～1924，奥地利小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Londonderry</h2><div class="git"><span class="ipa">[,lʌndәn'deri]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伦敦德里(英国港市)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

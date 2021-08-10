@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cleopatra's Needle</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">古埃及方尖碑</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">埃及艳后方尖碑；克丽欧佩特拉方尖碑；克丽欧佩特拉的针</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

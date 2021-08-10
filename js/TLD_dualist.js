@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dualist</h2><div class="git"><span class="ipa">['djʊəlɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">46938</span><div class="total">1143</div></div><div class="coca2">二元论者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">二元论者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

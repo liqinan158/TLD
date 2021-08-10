@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overinflated</h2><div class="git"><span class="ipa">[ˌəʊvərɪnˈfleɪtɪd]</span></div><span class="onm">原型:</span><span class="orm">overinflated 是 overinflate 的过去式</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">过于膨胀的，特大的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mailer, Norman</h2><div class="git"><span class="ipa">['meilər]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">梅勒(1923～ ，美国作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>salt pan</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">盐田</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">盐池；远古时代内海的盐田；盐田探访</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

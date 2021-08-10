@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>loggerheads</h2><div class="git"><span class="ipa">[ˈlɒgəhedz]</span></div><span class="onm">原型:</span><span class="orm">loggerheads 是 loggerhead 的复数</span><hr/></div><div class="coca2">对立(<font color="orangered">60%</font>)，'at loggerheads'指分歧很大(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">笨蛋；铁球棒；红海龟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

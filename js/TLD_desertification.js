@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>desertification</h2><div class="git"><span class="ipa">[dɪˌzɜ:tɪfɪˈkeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32370</span><div class="total">3768</div></div><div class="coca2">沙漠化(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（土壤）荒漠化；沙漠化（等于desertization）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

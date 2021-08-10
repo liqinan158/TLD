@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bajillion</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44997</span><div class="total">1329</div></div><div class="gdc"><div class="dcb"><span class="dcn">bajillion (plural bajillions)</span></div><div class="dcb"><span class="dcn">(slang, hyperbolic) An unspecified large number (of).</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

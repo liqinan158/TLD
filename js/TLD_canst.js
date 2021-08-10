@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>canst</h2><div class="git"><span class="ipa">[kænst]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[古语]can的第二人称单数现在时陈述语气 (与thou连用)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>single transferable vote</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">单记移让式比例投票法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

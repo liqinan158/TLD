@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Yuletide</h2><div class="git"><span class="ipa">['ju:ltaid]</span></div><hr/></div><div class="coca2">圣诞季节(<font color="orangered">86%</font>)，=chiristmastide.(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圣诞季节</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">圣诞节期的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

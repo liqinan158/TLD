@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>naturist</h2><div class="git"><span class="ipa">[ˈneɪtʃərɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40737</span><div class="total">1867</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">裸体主义者（指认为裸体有益身心的人）；天体运动者（等于nudist）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

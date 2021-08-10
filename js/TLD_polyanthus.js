@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>polyanthus</h2><div class="git"><span class="ipa">[ˌpɒliˈænθəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">西洋樱草，多花，黄花九轮草</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

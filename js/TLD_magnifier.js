@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>magnifier</h2><div class="git"><span class="ipa">[ˈmægnɪfaɪə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23049</span><div class="total">9184</div></div><div class="coca2">放大镜(<font color="orangered">66%</font>)，放大器(<font color="orangered">34%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[光] 放大镜；[电子] 放大器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

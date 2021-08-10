@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>peeress</h2><div class="git"><span class="ipa">[ˈpɪəres]</span></div><hr/></div><div class="coca2">贵族夫人(<font color="orangered">63%</font>)，有爵位的妇女(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">有爵位的妇女；贵族夫人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

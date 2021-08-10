@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-binary</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">非二进制的</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">非二进位；非二元值；非偶分特征</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

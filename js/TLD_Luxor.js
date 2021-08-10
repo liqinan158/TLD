@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Luxor</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卢克索（埃及南部上埃及城镇, 位于尼罗河畔）；埃及祖玛（游戏名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

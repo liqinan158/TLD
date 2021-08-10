@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ragga</h2><div class="git"><span class="ipa">[ˈrægə]</span></div><hr/></div><div class="coca2">一种源于西印度群岛(<font color="orangered">50%</font>)，类似说唱音乐的流行音乐(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">雷格乐（一种快节奏舞曲）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

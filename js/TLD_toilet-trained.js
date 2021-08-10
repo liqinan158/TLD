@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>toilet-trained</h2><span class="onm">原型:</span><span class="orm">toilet-train</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">toilet-train的变形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

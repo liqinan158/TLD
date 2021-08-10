@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-invasive</h2><hr/></div><div class="coca2">非侵入的(<font color="orangered">58%</font>)，非损伤的(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">非侵入性的；非入侵的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ob-gyn</h2><div class="git"><span class="ipa">[ˈəʊ bi: ˌdʒi: waɪ ˈen]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">51163</span><div class="total">793</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">妇产科医师（obstetrician-gynaecologist）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

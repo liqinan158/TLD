@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mebibit</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[计]百万比特；百万位</span></div><div class="dcb"><span class="dcn">=megabit</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shyster</h2><div class="git"><span class="ipa">[ˈʃaɪstə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47573</span><div class="total">1091</div></div><div class="coca2">讼棍(<font color="orangered">50%</font>)，不择手段的律师(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">讼棍；奸诈之徒（尤指政客）；不择手段的律师</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

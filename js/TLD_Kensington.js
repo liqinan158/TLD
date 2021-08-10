@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kensington</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">肯辛通（美国著名电脑外设厂商）；肯辛顿（英格兰伦敦肯辛顿和切尔西区的一个地名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

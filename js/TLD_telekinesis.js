@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>telekinesis</h2><div class="git"><span class="ipa">[ˌtelɪkɪˈni:sɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34752</span><div class="total">3050</div></div><div class="coca2">隔地促动(<font color="orangered">50%</font>)，隔传动(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">心灵遥感；心灵促动；远距运动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

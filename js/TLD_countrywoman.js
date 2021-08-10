@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>countrywoman</h2><div class="git"><span class="ipa">[ˈkʌntriwʊmən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59903</span><div class="total">303</div></div><div class="coca2">农妇(<font color="orangered">60%</font>)，村姑(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">农妇；女同胞；村姑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

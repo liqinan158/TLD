@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>matrimonial</h2><div class="git"><span class="ipa">[ˌmætrɪˈməʊniəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26779</span><div class="total">6331</div></div><div class="coca2">婚姻的(<font color="orangered">85%</font>)，夫妇的(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">婚姻的；与婚姻有关的；根据结婚的惯例的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

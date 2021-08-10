@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>social distance</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">社会距离, 社阶距离</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Scottish Highlands</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">苏格兰高地</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">史诗般的苏格兰高地；风云变幻的苏格兰高地；苏格兰高地区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

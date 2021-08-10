@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Columbus, Christopher</h2><div class="git"><span class="ipa">[kə'lʌmbəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哥伦布(1451?～1506，意大利航海家，1485年移居西班牙，传统认为1492年发现美洲)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

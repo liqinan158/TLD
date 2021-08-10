@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Darrow, Clarence</h2><div class="git"><span class="ipa">['dærəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Darrow, Clarence(Seward)</span></div><div class="dcb"><span class="dcn">['dærəu]</span></div><div class="dcb"><span class="dcn">达罗(1857～1938，美国法学家、著名律师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

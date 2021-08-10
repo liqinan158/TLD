@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>consumer durables</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">耐用消费品（如汽车、电视机等）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">消费耐用品；消费耐久材；耐久消费财</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

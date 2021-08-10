@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Meir, Golda</h2><div class="git"><span class="ipa">[mei'iə; 'ɡəuldə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">梅厄(1898～1978)，以色列总理(1969～1974)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

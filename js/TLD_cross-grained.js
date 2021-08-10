@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cross-grained</h2><div class="git"><span class="ipa">['krɔ:sgreɪnd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">木材纹理不规则的，扭丝的; 暴戾恣睢</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

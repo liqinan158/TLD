@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>swansong</h2><div class="git"><span class="ipa">[ˈswɒnsɒŋ]</span></div><hr/></div><div class="coca2">天鹅临死前的叫声(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（诗人或艺术家的）最后的作品或演出；天鹅临死前的哀鸣</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

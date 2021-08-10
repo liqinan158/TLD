@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>meatball</h2><div class="git"><span class="ipa">[ˈmi:tbɔ:l]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">12449</span><div class="total">35510</div></div><div class="coca2">肉团(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">肉丸子；笨蛋；乏味的人；“肉丸旗”（指日本国旗）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

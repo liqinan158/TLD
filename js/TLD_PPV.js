@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PPV</h2><hr/></div><div class="coca2">按节目收费的电视(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">按次收费电视服务（Pay Per View）；聚对苯撑乙炔（Poly-Phenylene Vinylene）；猪细小病毒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

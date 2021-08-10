@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>midpoint</h2><div class="git"><span class="ipa">['mɪdpɔɪnt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15683</span><div class="total">22057</div></div><div class="coca2">中点(<font color="orangered">90%</font>)，正中央(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">中点；正中央</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

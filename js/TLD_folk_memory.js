@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>folk memory</h2><div class="git"><span class="ipa">[fəuk ˈmeməri]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(关于过去的事件)民族(或集团)的记忆，民间(或民众)的记忆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

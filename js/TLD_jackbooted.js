@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jackbooted</h2><div class="git"><span class="ipa">['dʒæk,bu:tid]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">58506</span><div class="total">371</div></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">穿长统靴(半统军靴)的；与长统靴相搭配的; 好斗的；侵略的；粗暴的, 残暴的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

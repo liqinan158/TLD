@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bird of passage</h2><div class="git"><span class="ipa">[bə:d ɔv ˈpæsidʒ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">漂泊不定的人，过路的客人；[鸟] 候鸟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

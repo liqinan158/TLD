@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>non-contact sport</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 无身体接触的体育运动；非接触性体育运动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

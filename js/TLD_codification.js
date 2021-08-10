@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>codification</h2><div class="git"><span class="ipa">[ˌkəʊdɪfɪ'keɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32295</span><div class="total">3801</div></div><div class="coca2">法典编纂(<font color="orangered">82%</font>)，编号(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">编纂，整理；法典编纂；法律汇编</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

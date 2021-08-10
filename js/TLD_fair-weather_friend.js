@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fair-weather friend</h2><div class="git"><span class="ipa">[ˈfeəˌweðə frend]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">酒肉朋友；可共安乐而不能共患难的朋友</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

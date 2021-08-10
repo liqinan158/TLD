@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>step-parent</h2><hr/></div><div class="coca2">继母(<font color="orangered">50%</font>)，继父(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">继母；继父</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vulgarian</h2><div class="git"><span class="ipa">[vʌlˈgeəriən]</span></div><hr/></div><div class="coca2">俗物(<font color="orangered">44%</font>)，俗人(<font color="orangered">42%</font>)，俗不可耐的暴发户(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">俗人；俗物；庸俗的暴发户</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

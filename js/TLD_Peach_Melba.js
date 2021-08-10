@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Peach Melba</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">山莓酱桃子冰淇淋（用半个桃子、冰淇淋和山莓酱制成）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">蜜桃冰淇淋；蜜桃梅尔芭；水蜜桃梅尔巴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

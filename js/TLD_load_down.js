@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>load down</h2><div class="git"><span class="ipa">[ləud daun]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">装载甚重</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">降负荷；使负担过重；下降</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

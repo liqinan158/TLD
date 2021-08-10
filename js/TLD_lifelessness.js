@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lifelessness</h2><div class="git"><span class="ipa">['laiflisnis]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60015</span><div class="total">296</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">枯燥无味）；无生命（死</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

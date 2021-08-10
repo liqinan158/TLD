@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>turista</h2><div class="git"><span class="ipa">[tuˈrɪstə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;西&gt;旅游者腹泻（一种去墨西哥的游客常患的腹泻）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>waterbed</h2><div class="git"><span class="ipa">[ˈwɔ:təbed]</span></div><hr/></div><div class="coca2">水床(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">水床；电热充水床垫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bouillon cube</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">（肉汤等的）块状浓缩汤</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

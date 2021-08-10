@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phreaker</h2><div class="git"><span class="ipa">['fri:kə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">偷打长途电话的人，电话入侵者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

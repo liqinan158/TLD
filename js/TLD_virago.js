@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>virago</h2><div class="git"><span class="ipa">[vɪˈrɑ:gəʊ]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">泼妇(<font color="orangered">48%</font>)，悍妇(<font color="orangered">44%</font>)，高大魁梧而有勇气的女子(<font color="orangered">8%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">泼妇；悍妇；有男子气概的女子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

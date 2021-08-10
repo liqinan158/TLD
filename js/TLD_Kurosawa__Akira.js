@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kurosawa, Akira</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">黑泽明；黑泽明家族代表黑泽久雄；黑泽明家族代表黑泽九雄</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

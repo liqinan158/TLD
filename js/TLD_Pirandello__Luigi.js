@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pirandello, Luigi</h2><div class="git"><span class="ipa">[,pirən'deləu; ,pi:rɑ:n'dellɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">皮兰德娄(1867～1936，意大利戏剧家、诗人、小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jamesian</h2><div class="git"><span class="ipa">['dʒeimziәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">亨利·詹姆斯的研究者；威廉·詹姆斯哲学的拥护者</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">亨利·詹姆斯或其作品的；威廉·詹姆斯或其哲学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

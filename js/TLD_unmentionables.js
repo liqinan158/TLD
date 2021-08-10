@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unmentionables</h2><div class="git"><span class="ipa">[ʌn'menʃənəblz]</span></div><span class="onm">原型:</span><span class="orm">unmentionables 是 unmentionable 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不宜说出口的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">内衣；说不出口的事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

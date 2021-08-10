@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deep Web</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 7</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 7</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">深腹板</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">深层网页；深层网络；暗网</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

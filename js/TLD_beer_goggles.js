@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beer goggles</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn"> 啤酒眼（一个人酒喝多后觉得原本相貌平平的人也很漂亮，我们就说他戴了“啤酒眼”）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

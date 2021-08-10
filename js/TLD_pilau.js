@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pilau</h2><div class="git"><span class="ipa">['pi:laʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58301</span><div class="total">381</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">肉饭（由大米加鱼或肉及调料煮成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>real-world</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">7582</span><div class="total">90639</div></div><div class="coca2">实际生活的(<font color="orangered">50%</font>)，现实的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">现实生活的；工作的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

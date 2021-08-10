@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>screwed-up</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">紧张的；神经质的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

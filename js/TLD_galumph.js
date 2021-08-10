@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>galumph</h2><div class="git"><span class="ipa">[gəˈlʌmf]</span><span class="frm">galumphed, galumphing, galumphs</span></div><hr/></div><div class="coca2">意气扬扬地走(<font color="orangered">75%</font>)，笨拙地走(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">笨拙的人</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">意气扬扬地走；笨拙地行进</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

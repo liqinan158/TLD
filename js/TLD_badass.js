@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>badass</h2><div class="git"><span class="ipa">[ˈbædæs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14201</span><div class="total">27240</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">寻衅闹事的人;  不合作的人; 惯犯; 劣性牲口</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">无法无天的; 坏的; 不值钱的; 不好对付的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

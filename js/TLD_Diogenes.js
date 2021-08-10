@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Diogenes</h2><div class="git"><span class="ipa">[dai'ɔdʒini:z]</span></div><span class="onm">原型:</span><span class="orm">Diogenes 是 diogene 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">戴奥真尼斯(希腊的哲学家,公元前412-323)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fortune hunter</h2><div class="git"><span class="ipa">[ˈfɔ:tʃən ˈhʌntə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（企图通过跟有钱人结婚）猎财的人</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">钻石人生；追求有钱女子的男人；淘金者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

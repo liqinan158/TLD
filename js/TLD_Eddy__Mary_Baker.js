@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eddy, Mary Baker</h2><div class="git"><span class="ipa">['edi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">艾娣 (1821～1910，美国基督教科学派创始人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kibitzer</h2><div class="git"><span class="ipa">['kɪbɪtsə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乱出点子的人，（尤指当他人工作或严肃讨论时）开玩笑的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

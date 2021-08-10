@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cross-current</h2><div class="git"><span class="ipa">[krɔs ˈkʌrənt]</span></div><hr/></div><div class="coca2">逆流(<font color="orangered">51%</font>)，河流中与主流交叉的水流(<font color="orangered">33%</font>)，相反的趋势(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">逆流；相反的倾向；河流中与主流交叉的水流</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

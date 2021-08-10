@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trimmings</h2><div class="git"><span class="ipa">['trɪmɪŋz]</span></div><span class="onm">原型:</span><span class="orm">trimmings 是 trimming 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">装饰( trimming的名词复数 ); 装饰品; （常复数）配料; 修剪下来的东西</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

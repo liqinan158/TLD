@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gretna Green</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">格雷特纳格林（临近英格兰边境的苏格兰村庄，旧时一些英格兰情侣因被禁止在本地结婚而跑到此地成婚，因而闻名）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">葛特纳格林；小镇；苏格兰小镇格雷特纳格林</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

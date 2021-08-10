@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>resize</h2><div class="git"><span class="ipa">[ˌri:ˈsaɪz]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">9662</span><div class="total">58377</div></div><div class="coca2">调整大小(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">调整大小</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kelpie</h2><div class="git"><span class="ipa">[ˈkelpi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50926</span><div class="total">811</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马形水鬼（苏格兰民间传说中能诱人自溺或预告人们将溺死）；澳大利亚护羊犬</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

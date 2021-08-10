@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>greyness</h2><div class="git"><span class="ipa">[ɡreɪnəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56320</span><div class="total">475</div></div><div class="coca2">灰色(<font color="orangered">82%</font>)，=grayness.(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">灰色；有白发的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

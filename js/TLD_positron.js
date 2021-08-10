@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>positron</h2><div class="git"><span class="ipa">[ˈpɒzɪtrɒn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29003</span><div class="total">5145</div></div><div class="coca2">正电子(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[物] 正电子，阳电子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Arcadia</h2><div class="git"><span class="ipa">[ɑ:'keidiә]</span></div><hr/></div><div class="coca2">世外桃源(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">世外桃源；阿卡狄亚（古希腊一山区，人情淳朴，生活愉快）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Arcadia)人名；(法)阿尔卡迪亚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>astro-</h2><div class="git"><span class="ipa">[ˈæstrəʊ]</span></div><hr/></div><div class="coca2">表示“星(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">comb.</span><span class="dcn">星；外太空</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

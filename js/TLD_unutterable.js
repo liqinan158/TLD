@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unutterable</h2><div class="git"><span class="ipa">[ʌnˈʌtərəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">45487</span><div class="total">1278</div></div><div class="coca2">说不出的(<font color="orangered">82%</font>)，难以言表的(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">十足的；说不出口的；无法用言语表达的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

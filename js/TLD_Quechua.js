@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Quechua</h2><div class="git"><span class="ipa">['ketʃwɑ:, -wә]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55164</span><div class="total">536</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">盖丘亚族（南美印第安人的一大分支）盖丘亚族人[语]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tone-on-tone</h2><hr/></div><div class="coca2">使用同种颜色不同色度的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">同系配色</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

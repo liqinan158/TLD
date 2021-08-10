@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>zol</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 中关村在线——中国第一科技门户，是一家资讯覆盖全国并定位于销售促进型的IT互动门户，被认为是大中华区最具商业价值的IT专业门户。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

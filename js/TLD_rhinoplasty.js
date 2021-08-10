@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rhinoplasty</h2><div class="git"><span class="ipa">['raɪnəˌplæstɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34418</span><div class="total">3145</div></div><div class="coca2">鼻整形术(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">鼻整形术；[耳鼻喉] 鼻成形术</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

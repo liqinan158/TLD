@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Chinese whispers</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">口传失真（消息从一个人向另一个人传播时每次都发生一些变化）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">传话；传话游戏；中国耳语</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

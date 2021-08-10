@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>box set</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 8</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 8</div><div class="gdc"><div class="dcb"><span class="dcn"> [戏剧](观众可看见背景和侧面的)镜框式舞台布景，厢型布景[英国英语尤作 box scene ]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

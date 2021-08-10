@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rootlessness</h2><div class="git"><span class="ipa">['ru:tlisnis]</span></div><hr/></div><div class="coca2">无根的(<font color="orangered">47%</font>)，无所寄托的(<font color="orangered">28%</font>)，无根据的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无根的；无归属的，无根据的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

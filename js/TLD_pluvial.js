@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pluvial</h2><div class="git"><span class="ipa">[ˈplu:viəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">雨的; 有雨的; 多雨的; 洪水的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>P2P</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">点对点技术（peer-to-peer）；通向利润之路（path to profitability）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

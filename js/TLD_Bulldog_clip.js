@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bulldog clip</h2><div class="git"><span class="ipa">[ˈbuldɔɡ klip]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">大钢夹，大铁夹子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

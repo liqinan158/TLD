@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sapir-Whorf hypothesis</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">【语言学】萨丕尔—沃尔夫假说(认为语言结构决定人类思维方式及行动方法的假说)[亦作 Whorfian hypothesis]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

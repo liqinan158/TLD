@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Soho</h2><div class="git"><span class="ipa">[sәu'hәu]</span></div><hr/></div><div class="coca2">在家上班族（=small office(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">在家上班族（Small Office/Home Office）；索和区（South of Houston Street）；太阳及日光层观测卫星（Solar and Heliospheric Observatory）；安全及职业保健署（Safety and Occupational Health Office）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

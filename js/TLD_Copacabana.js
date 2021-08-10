@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Copacabana</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">科帕卡巴纳（歌曲名）；科帕卡巴纳海滩（位于巴西里约热内卢, 被称为世界上最著名的海滩）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

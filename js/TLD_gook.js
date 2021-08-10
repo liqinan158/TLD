@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gook</h2><div class="git"><span class="ipa">[gu:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49950</span><div class="total">892</div></div><div class="coca2">对东方人的蔑称(<font color="orangered">50%</font>)，粘性物质(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">对韩国人，日本人，菲律宾人的蔑称</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sinbad</h2><div class="git"><span class="ipa">['sinbæd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">辛巴达（《天方夜谭》里的人物）（等于Sindbad）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

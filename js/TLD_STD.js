@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>STD</h2><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">安全专题讨论（Safety Topic Discussion）；科学技术部（Science and Technology Division）；海运部（英）（Sea Transport Department）；标准试验剂量（Standard Test Dose）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

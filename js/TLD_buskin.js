@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>buskin</h2><div class="git"><span class="ipa">['bʌskɪn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">悲剧，半高统靴（尤指古希腊罗马悲剧演员的厚底靴）; 中统靴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

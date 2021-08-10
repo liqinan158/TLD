@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>squaw</h2><div class="git"><span class="ipa">[skwɔ:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39355</span><div class="total">2083</div></div><div class="coca2">女人(<font color="orangered">80%</font>)，北美印第安女子(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女人；妻子（有贬义）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

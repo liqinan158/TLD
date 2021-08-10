@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fireball</h2><div class="git"><span class="ipa">[ˈfaɪəbɔ:l]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15216</span><div class="total">23457</div></div><div class="coca2">火流星(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（热核武器爆炸后在空中出现的）火球；大流星；精力充沛的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

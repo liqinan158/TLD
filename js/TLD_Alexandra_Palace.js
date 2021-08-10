@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Alexandra Palace</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">亚历山大宫；伦敦亚历山大宫；亚历山德拉宫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

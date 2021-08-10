@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>halves</h2><div class="git"><span class="ipa">[hɑ:vz]</span></div><span class="onm">原型:</span><span class="orm">halves 是 half 的第三人称单数</span><hr/></div><div class="coca2">一半(<font color="orangered">85%</font>)，名词half的复数形式.(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">一学期；两等份（half的复数形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

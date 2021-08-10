@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aesop</h2><div class="git"><span class="ipa">['i:sɒp]</span></div><hr/></div><div class="coca2">伊索(约公元前620－560年(<font color="orangered">50%</font>)，希腊寓言作家)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伊索（希腊寓言作者）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

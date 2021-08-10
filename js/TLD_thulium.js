@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thulium</h2><div class="git"><span class="ipa">[ˈθu:liəm]</span></div><hr/></div><div class="coca2">符号Tm(<font color="orangered">50%</font>)，原子序69)(<font color="orangered">25%</font>)，铥(稀土金属元素(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[化学] 铥，稀土金属元素；铥原子序69；符号Tm</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

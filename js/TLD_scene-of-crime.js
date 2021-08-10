@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scene-of-crime</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 犯罪现场的；作案现场的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

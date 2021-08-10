@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tenpin</h2><div class="git"><span class="ipa">[ˈtenpɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54767</span><div class="total">557</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">打保龄（等于tenpins）；（美）十柱戏的柱子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

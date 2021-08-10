@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>basilisk</h2><div class="git"><span class="ipa">[ˈbæzɪlɪsk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36836</span><div class="total">2559</div></div><div class="coca2">蛇怪(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蛇怪，蜥蜴状妖怪（传说中的）；一种老式火炮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

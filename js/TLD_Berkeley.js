@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Berkeley</h2><div class="git"><span class="ipa">['bɑ:kli, 'bә:kli]</span></div><hr/></div><div class="coca2">美国加州西部城市)(<font color="orangered">50%</font>)，伯克利(男子名(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">贝克莱（爱尔兰主教及哲学家）；伯克利（姓氏）；伯克利（美国港市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

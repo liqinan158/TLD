@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ish</h2><div class="git"><span class="ipa">[ɪʃ]</span></div><hr/></div><div class="coca2">“有 ... 特征的”(<font color="orangered">50%</font>)，表示“ ... 似的”(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">原位杂交（In Situ Hybridization）；国际高血压联盟（International Society of Hypertension）；单纯收缩期高血压（Isolated Systolic Hypertension）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

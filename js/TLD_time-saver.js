@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>time-saver</h2><div class="git"><span class="ipa">['taɪms'eɪvər]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30148</span><div class="total">4647</div></div><div class="coca2">节省时间的事物(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">节省时间的事物，节省时间的因素</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scratchings</h2><span class="onm">原型:</span><span class="orm">scratchings 是 scratching 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(scratching 的复数) v. 擦伤；划伤；刮痕（scratch的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nin, Anais</h2><div class="git"><span class="ipa">[nin; ə'niəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">宁 (1903～1977，美国小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

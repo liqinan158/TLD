@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coneflower</h2><div class="git"><span class="ipa">['kəʊnˌflaʊə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41552</span><div class="total">1751</div></div><div class="coca2">金花菊(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">金花菊；黄雏菊属植物（等于rudbeckia）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

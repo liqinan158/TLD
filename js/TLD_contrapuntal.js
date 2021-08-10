@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>contrapuntal</h2><div class="git"><span class="ipa">[ˌkɒntrəˈpʌntl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">44798</span><div class="total">1348</div></div><div class="coca2">形容词(<font color="orangered">91%</font>)，名词(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">对位（法）的；重复音乐的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>historiated</h2><div class="git"><span class="ipa">[hɪ'stɔ:rɪeɪtɪd]</span></div><span class="onm">原型:</span><span class="orm">historiated 是 historiate 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（书页每段开头、每页的边或手稿等）用人的图像装饰的，有图案的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

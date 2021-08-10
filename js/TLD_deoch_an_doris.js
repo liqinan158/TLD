@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deoch an doris</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （临别前的）最后一杯酒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

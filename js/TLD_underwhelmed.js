@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>underwhelmed</h2><div class="git"><span class="ipa">[ˌʌndəˈwelmd]</span></div><hr/></div><div class="coca2">未留下深刻印象(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">感到乏味的；未激起热情的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">使不感兴趣；未留下深刻印象（underwhelm的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

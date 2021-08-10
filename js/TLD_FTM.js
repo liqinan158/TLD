@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>FTM</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">flat tension mask 紧张掩饰; fractional test meal 部分测试; functional testing machine (ry) 功能测试机器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

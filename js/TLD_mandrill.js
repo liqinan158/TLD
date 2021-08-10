@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mandrill</h2><div class="git"><span class="ipa">[ˈmændrɪl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49173</span><div class="total">958</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[脊椎] 山魈（西非洲产的大沸沸）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

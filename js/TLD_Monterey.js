@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Monterey</h2><div class="git"><span class="ipa">[,mɔntә'rei]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Jack 蒙特里杰克干酪( 一种含高水分的半软全酯干酪)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

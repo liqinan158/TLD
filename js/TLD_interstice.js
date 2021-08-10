@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>interstice</h2><div class="git"><span class="ipa">[ɪnˈtɜ:stɪs]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">空隙(<font color="orangered">78%</font>)，细裂缝(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[建] 裂缝；空隙</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

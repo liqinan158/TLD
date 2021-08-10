@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Channel 4</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/p028-000003162.mp3" href="sound://media/spx/GB_p028-000003162.spx" title="Play British pronunciation of Channel 4"> </a><a class="amefile" href="sound://ameProns/ld5_channel_4.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="dcn">{英国}第四频道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

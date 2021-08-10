@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Plantagenet</h2><div class="git"><span class="ipa">[plæn'tædʒәnit]</span></div><hr/></div><div class="coca2">金雀花王朝(<font color="orangered">60%</font>)，金雀花王家(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">金雀花王朝（1154-1485年）；金雀花王家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shrunk</h2><div class="git"><span class="ipa">[ʃrʌŋk]</span></div><span class="onm">原型:</span><span class="orm">shrunk 是 shrink 的过去式和过去分词</span><hr/></div><div class="coca2">收缩的(<font color="orangered">50%</font>)，动词shrink的过去式和过去分词.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">收缩（shrink的过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

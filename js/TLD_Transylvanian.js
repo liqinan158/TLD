@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Transylvanian</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">47488</span><div class="total">1098</div></div><div class="coca2">特兰西瓦尼亚(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">, n. Transylvania的变形</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

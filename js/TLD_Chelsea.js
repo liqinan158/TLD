@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Chelsea</h2><div class="git"><span class="ipa">['tʃelsi]</span></div><hr/></div><div class="coca2">为文艺界人士聚居地)(<font color="orangered">50%</font>)，切尔西(伦敦自治城市(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">切尔西（伦敦自治城市，为文艺界人士聚居地）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

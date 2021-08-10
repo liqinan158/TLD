@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Merchant of Venice, The</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">《威尼斯商人》(莎士比亚的喜剧)；(《威尼斯商人》中的)威尼斯商人(指安东尼奥)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

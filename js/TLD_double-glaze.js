@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>double-glaze</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">给窗子配上双层玻璃</span></div><span class="frm">double-glazed, double-glazing, double-glazes</span></div></div>`;
+window.parent.postMessage(custom_content,'*');

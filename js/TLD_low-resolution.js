@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>low-resolution</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36820</span><div class="total">2562</div></div><div class="coca2">低清晰度的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">低分辨率</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

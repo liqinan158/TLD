@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Honecker, Erich</h2><div class="git"><span class="ipa">['həunekə; 'eirik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">昂纳克(1912～1994)，原东德共产党领导人，部长会议主席(1976～1989)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

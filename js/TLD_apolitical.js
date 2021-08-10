@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>apolitical</h2><div class="git"><span class="ipa">[ˌeɪpəˈlɪtɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">32176</span><div class="total">3850</div></div><div class="coca2">不关心政治的(<font color="orangered">69%</font>)，无政治意义的(<font color="orangered">31%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不关心政治的；无政治意义的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

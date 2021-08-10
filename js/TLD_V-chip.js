@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>V-chip</h2><div class="git"><span class="ipa">['vi:tʃip]</span></div><hr/></div><div class="coca2">电子集成电路块(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">能阻止过度暴烈或性感电视节目之收看的电脑晶片或其它电子装置</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

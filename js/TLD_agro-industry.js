@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>agro-industry</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 农工业</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

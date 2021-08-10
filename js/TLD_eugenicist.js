@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>eugenicist</h2><div class="git"><span class="ipa">[ju:'dʒenɪsɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49466</span><div class="total">934</div></div><div class="coca2">优生学家(<font color="orangered">60%</font>)，提倡人种改良者(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">优生学家；主张改良人种者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

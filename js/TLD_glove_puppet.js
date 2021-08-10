@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>glove puppet</h2><div class="git"><span class="ipa">[ɡlʌv ˈpʌpit]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">手偶（套在手上用手指操纵）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">手套式木偶；布袋式木偶；手套偶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

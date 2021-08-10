@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BLT</h2><div class="git"><span class="ipa">[,bi: el 'ti:]</span></div><hr/></div><div class="coca2">三明治（=a bacon(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">培根、生菜、番茄三明治（a bacon ， lettuce ， and tomato sandwich）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

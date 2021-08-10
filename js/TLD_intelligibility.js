@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>intelligibility</h2><div class="git"><span class="ipa">[ɪnˌtelɪdʒə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32213</span><div class="total">3832</div></div><div class="coca2">可理解性(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[通信] 可懂度；可理解性；可理解的事物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

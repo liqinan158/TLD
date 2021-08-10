@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chromatographic</h2><div class="git"><span class="ipa">[krəʊˌmætə'ɡræfɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">38344</span><div class="total">2255</div></div><div class="coca2">色层分离的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">色析法的；层离法的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

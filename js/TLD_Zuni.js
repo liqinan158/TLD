@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Zuni</h2><div class="git"><span class="ipa">['zu:ni, 'su:-]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60259</span><div class="total">282</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">祖尼语,(居住在新墨西哥的普韦布洛印地安人的)祖尼人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

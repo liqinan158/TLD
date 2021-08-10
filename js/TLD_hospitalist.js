@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hospitalist</h2><div class="git"><span class="ipa">['hɒspɪtəlɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25363</span><div class="total">7239</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">仅在医院工作的医师。亦称为 hospital-based specialist or internist,admitting doctor,rounder</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

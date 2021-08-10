@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NBC</h2><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（美国）全国广播公司（National Broadcasting Company）；全国图书委员会（National Book Committee）；尼日利亚广播公司（Nigerian Broadcasting Corporation）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

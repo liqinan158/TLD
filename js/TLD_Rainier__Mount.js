@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rainier, Mount</h2><div class="git"><span class="ipa">[rei'niə; 'reiniə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">雷尼尔山(美国喀斯喀特山脉的高峰,1899年辟为雷尼尔国家公园 Mount Rainier National Park)[亦称作Mount Tacoma]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

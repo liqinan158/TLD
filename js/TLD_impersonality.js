@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impersonality</h2><div class="git"><span class="ipa">[ɪmˌpɜ:sə'nælətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">56901</span><div class="total">447</div></div><div class="coca2">没有人与人的接触(<font color="orangered">50%</font>)，无人情味(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">非人格性；无人情味；与个人无关；冷静</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

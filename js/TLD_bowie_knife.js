@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bowie knife</h2><div class="git"><span class="ipa">[ˈbəʊi naɪf]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 9</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 9</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">长刃猎刀</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">波伊刀；鲍伊猎刀；布伊刀</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lipase</h2><div class="git"><span class="ipa">[ˈlaɪpeɪz]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32267</span><div class="total">3810</div></div><div class="coca2">脂肪分解酵素(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生化] 脂肪酶；脂肪分解酵素</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

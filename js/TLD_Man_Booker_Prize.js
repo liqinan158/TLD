@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Man Booker Prize</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">布克奖；曼布克奖；布克小说奖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stilton</h2><div class="git"><span class="ipa">['stiltәn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">斯提耳顿干酪/奶酪（世界三大蓝纹奶酪之一）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

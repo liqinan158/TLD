@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Linux</h2><hr/></div><div class="coca2">一种可免费使用的UNIX类型操作系统(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">Linux操作系统（一种类似于UNIX的计算机操作系统）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Milan</h2><div class="git"><span class="ipa">[mi'læn]</span></div><hr/></div><div class="coca2">以时装著称)(<font color="orangered">50%</font>)，米兰(位于意大利北部的都市(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">米兰（意大利北部城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

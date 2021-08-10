@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aerodynamic</h2><div class="git"><span class="ipa">[ˌeərəʊdaɪ'næmɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">13886</span><div class="total">28547</div></div><div class="coca2">航空动力学的(<font color="orangered">50%</font>)，空气动力的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">空气动力学的，[航] 航空动力学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

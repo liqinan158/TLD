@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Baywatch</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">海滩游侠（电视剧名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

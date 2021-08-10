@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>acclamation</h2><div class="git"><span class="ipa">[ˌækləˈmeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36075</span><div class="total">2730</div></div><div class="coca2">欢呼(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">欢呼，喝彩；鼓掌欢呼表示通过</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

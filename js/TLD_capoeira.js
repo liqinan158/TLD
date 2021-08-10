@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>capoeira</h2><div class="git"><span class="ipa">[ˌkæpʊˈeɪrə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">45244</span><div class="total">1306</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡泼卫勒舞（一种源于非洲把民间舞蹈和自卫动作结合在一起的巴西舞蹈）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

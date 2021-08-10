@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>babu</h2><div class="git"><span class="ipa">[ˈbɑ:bu:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">巴布，先生（用在某人名字后作为尊称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

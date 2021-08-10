@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unnecessarily</h2><div class="git"><span class="ipa">[ˌʌn'nesəsərəlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">12633</span><div class="total">34575</div></div><div class="coca2">不必要地(<font color="orangered">78%</font>)，徒然(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">不必要地；多余地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

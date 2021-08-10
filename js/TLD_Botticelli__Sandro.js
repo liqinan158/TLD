@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Botticelli, Sandro</h2><div class="git"><span class="ipa">[,bɔti'tʃeli; 'sɑ:ndrəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">波堤切利(1445～1510，意大利文艺复兴时期画家和雕塑家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

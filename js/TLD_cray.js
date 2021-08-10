@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cray</h2><div class="git"><span class="ipa">[kreɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">小龙虾（等于crayfish）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Cray)人名；(英、法)克雷</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

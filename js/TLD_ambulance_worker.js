@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ambulance worker</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （救护车的）救护人员, 医务辅助人员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

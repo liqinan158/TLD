@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tannoy</h2><div class="git"><span class="ipa">['tænɒi]</span></div><hr/></div><div class="coca2">扩音器之一种(<font color="orangered">50%</font>)，其商标名(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">坦诺依扩音系统的商标名称</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

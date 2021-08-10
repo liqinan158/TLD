@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>station break</h2><div class="git"><span class="ipa">[ˈsteiʃən breik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【无线】(电台)播音间歇</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">电台间歇；电台间断；电台播报</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soundcard</h2><div class="git"><span class="ipa">['saʊndkɑ:d]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27471</span><div class="total">5907</div></div><div class="coca2">声卡(<font color="orangered">75%</font>)，电脑中用来播放声音的一个装置(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">声卡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

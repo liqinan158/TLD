@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>apologist</h2><div class="git"><span class="ipa">[əˈpɒlədʒɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19397</span><div class="total">13873</div></div><div class="coca2">辩护者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">辩护者；护教论者；辨惑学专家（等于apologete）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

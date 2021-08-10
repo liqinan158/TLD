@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mies van der Rohe, Ludwig</h2><div class="git"><span class="ipa">['mi:zvændər'rəuə; 'lʌdwiɡ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">密斯范德罗厄(1886～1969，德裔美国建筑师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

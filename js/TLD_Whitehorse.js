@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Whitehorse</h2><div class="git"><span class="ipa">['hwaithɔ:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">白马市；怀特霍斯（加拿大西北部城市名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

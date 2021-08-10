@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>baroness</h2><div class="git"><span class="ipa">[ˈbærənəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">22489</span><div class="total">9770</div></div><div class="coca2">男爵夫人(<font color="orangered">70%</font>)，女男爵(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">男爵夫人；女男爵；（欧洲某些国家）男爵之女</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

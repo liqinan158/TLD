@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hematology</h2><div class="git"><span class="ipa">[ˌhi:mə'tɒlədʒɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28256</span><div class="total">5486</div></div><div class="coca2">血液学(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[基医] 血液学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

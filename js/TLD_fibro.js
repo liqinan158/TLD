@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fibro</h2><div class="git"><span class="ipa">[ˈfaɪbrəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38108</span><div class="total">2297</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">菲帛罗（一种人造黏胶纤维）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

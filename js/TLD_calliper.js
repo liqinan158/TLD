@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>calliper</h2><div class="git"><span class="ipa">[ˈkælɪpə(r)]</span><span class="frm">callipered, callipering, callipers</span></div><hr/></div><div class="coca2">测径器(<font color="orangered">45%</font>)，两脚规(<font color="orangered">22%</font>)，卡钳(<font color="orangered">22%</font>)，=caliper.(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圆规；卡钳；测径器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

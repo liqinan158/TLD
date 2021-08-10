@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wolf whistle</h2><div class="git"><span class="ipa">[wulf ˈhwisl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （某些男子挑逗过路的美貌女子时吹出的）挑逗口哨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

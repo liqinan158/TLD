@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Freefone</h2><div class="git"><span class="ipa">['fri:fəun]</span></div><hr/></div><div class="coca2">免费电话(<font color="orangered">60%</font>)，话费总付电话(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">免费电话；话费总付电话</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

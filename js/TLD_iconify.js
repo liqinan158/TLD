@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>iconify</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 图符化, 图标化（将计算机屏幕图像缩小成图符）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

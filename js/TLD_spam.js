@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>spam</h2><div class="git"><span class="ipa">[spæm]</span><span class="frm">spammed, spamming, spams</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">4872</span><div class="total">194811</div></div><div class="coca2">垃圾电子邮件(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">刷屏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

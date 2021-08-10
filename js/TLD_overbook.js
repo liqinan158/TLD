@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overbook</h2><div class="git"><span class="ipa">[ˌəʊvəˈbʊk]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">37355</span><div class="total">2444</div></div><div class="coca2">超额订出(<font color="orangered">75%</font>)，预订过多(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使过量预订；超额订出</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bahasa</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/lpd_bahasa.mp3" href="sound://media/spx/GB_lpd_bahasa.spx" title="Play British pronunciation of Bahasa"> </a><a class="amefile" href="sound://ameProns/lpd_bahasa.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">印度尼西亚文；印尼语</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

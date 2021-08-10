@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>me-time</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">私人专属时间；自我享受时间</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">完全为属于自我的时间；自己的时间</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

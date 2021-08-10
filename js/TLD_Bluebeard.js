@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bluebeard</h2><div class="git"><span class="ipa">['blu:.biәd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蓝胡子(法国民间故事中连续杀害6个妻子的人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

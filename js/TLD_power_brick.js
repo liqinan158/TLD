@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>power brick</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">笔记本电源；电源模块；外部电源</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

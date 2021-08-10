@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cosmically</h2><div class="git"><span class="ipa">['kɒzmɪklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">51880</span><div class="total">739</div></div><div class="coca2">大规模的(<font color="orangered">50%</font>)，照宇宙法则(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">大规模地；按照宇宙法则</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

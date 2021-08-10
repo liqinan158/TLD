@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rough-hewn</h2><div class="git"><span class="ipa">[ˌrʌfˈhju:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">42703</span><div class="total">1591</div></div><div class="coca2">粗制的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">粗制的；粗削的（石头，木材）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

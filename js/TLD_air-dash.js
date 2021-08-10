@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>air-dash</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 空中急赶（突然或匆匆乘机前往）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

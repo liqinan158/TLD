@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cha-ching</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53622</span><div class="total">627</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">切-亲（拟声词；形容收银机开启的声音）</span></div><div class="dcb"><span class="dcn">=ka-ching</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

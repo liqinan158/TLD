@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Roundhead</h2><div class="git"><span class="ipa">['raʊnd.hed]</span></div><hr/></div><div class="coca2">圆颅党(英国1642-1652内战期间的议会派分子(<font color="orangered">50%</font>)，与保皇党相对)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">圆颅党（英国1642-1652内战期间的议会派分子）；圆颅党人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>snowmobile</h2><div class="git"><span class="ipa">[ˈsnəʊməbi:l]</span><span class="frm">snowmobiled, snowmobiling, snowmobiles</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16343</span><div class="total">20284</div></div><div class="coca2">雪地车(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">雪上汽车；机动雪橇</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

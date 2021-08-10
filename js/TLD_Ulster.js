@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ulster</h2><div class="git"><span class="ipa">['ʌlstә]</span></div><hr/></div><div class="coca2">乌尔斯特(原为爱尔兰一地区(<font color="orangered">34%</font>)，乌尔斯特大衣(<font color="orangered">33%</font>)，今为北爱尔兰及爱尔兰共和国所分割)(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿尔斯特大衣（一种宽松的长外套）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

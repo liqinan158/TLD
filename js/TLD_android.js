@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>android</h2><div class="git"><span class="ipa">[ˈændrɔɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">2180</span><div class="total">615908</div></div><div class="coca2">机器人(<font color="orangered">96%</font>)，有人类特征的(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">机器人；安卓操作系统</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

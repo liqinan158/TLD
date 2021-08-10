@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dunedin</h2><div class="git"><span class="ipa">[dʌ'ni:din]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">达尼丁[新西兰南岛东南岸港市]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>upswept</h2><div class="git"><span class="ipa">[ˈʌpswept]</span></div><span class="onm">原型:</span><span class="orm">upsweep</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">向上斜的，向上弯曲的，&lt;美&gt;朝（头顶）上梳的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">向上曲，向上斜( upsweep的过去式和过去分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

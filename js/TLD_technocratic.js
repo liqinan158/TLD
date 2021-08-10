@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>technocratic</h2><div class="git"><span class="ipa">[ˌteknə'krætɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">38139</span><div class="total">2291</div></div><div class="coca2">技术专家统治论的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">技术专家治国论的；技术专家政治论的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

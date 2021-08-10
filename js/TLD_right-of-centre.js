@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>right-of-centre</h2><div class="git"><span class="ipa">[rait ɔv ˈsentə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">（政治观点）中间偏右的, 右倾的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

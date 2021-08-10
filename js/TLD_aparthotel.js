@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>aparthotel</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 公寓旅馆，公寓酒店（有带厨房的公寓和普通客房）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

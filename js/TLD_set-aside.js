@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>set-aside</h2><div class="git"><span class="ipa">[set əˈsaid]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">40760</span><div class="total">1864</div></div><div class="coca2">留出(<font color="orangered">50%</font>)，一种政府拨款计划(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">储备品；获得补贴而休耕的土地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Palme d'Or</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">金棕榈奖；戛纳国际电影节金棕榈奖；金棕榈最佳影片奖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

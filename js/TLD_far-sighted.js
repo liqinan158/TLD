@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>far-sighted</h2><div class="git"><span class="ipa">[fɑ:ˈsaitid]</span></div><hr/></div><div class="coca2">有远见的(<font color="orangered">42%</font>)，远视的(<font color="orangered">33%</font>)，慎重的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">有远见的，眼光远大的；远视的；慎重的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

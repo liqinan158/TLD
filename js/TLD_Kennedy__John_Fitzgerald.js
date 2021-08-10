@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kennedy, John Fitzgerald</h2><div class="git"><span class="ipa">['kenidi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">肯尼迪(1917～1963)，美国第三十五任总统(1961～1963)，被刺身亡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

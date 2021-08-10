@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SPCK</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（英国）基督教知识普及协会（Society for Promoting Christian Knowledge）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

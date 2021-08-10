@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tom</h2><div class="git"><span class="ipa">[tɒm]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TEM8</span></div><div class="coca2">雄火鸡(<font color="orangered">60%</font>)，雄性动物(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">汤姆（男子名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>UAW</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（美国）联合汽车工会（United Automobile Workers）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

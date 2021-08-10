@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>doula</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28422</span><div class="total">5409</div></div><div class="coca2">助产士(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">在婴儿生产时候以及后来负责照料的女性</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Doula)人名；(法)杜拉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

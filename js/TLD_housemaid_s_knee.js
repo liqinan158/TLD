@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>housemaid's knee</h2><div class="git"><span class="ipa">[ˈhaʊsˌmeɪdz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(因常常跪着劳动而引起的)膝盖骨囊炎</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">阿嫂膝；膑骨前滑囊液炎；主妇膝</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

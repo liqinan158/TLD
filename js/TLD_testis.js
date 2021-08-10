@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>testis</h2><div class="git"><span class="ipa">[ˈtestɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29416</span><div class="total">4975</div></div><div class="coca2">睾丸(<font color="orangered">98%</font>)，名词testicle的复数形式.(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[解剖] 睾丸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

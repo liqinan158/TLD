@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>push-start</h2><div class="git"><span class="ipa">[puʃ stɑ:t]</span></div><hr/></div><div class="coca2">推车起动(<font color="orangered">50%</font>)，推车发动(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(机动车的)推车起动</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">推车起动(机动车)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

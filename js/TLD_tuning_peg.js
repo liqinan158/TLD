@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tuning peg</h2><div class="git"><span class="ipa">[ˈtju:niŋ peɡ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(弦乐器的)弦轴</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">弦栓；调音弦轴；琴轸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

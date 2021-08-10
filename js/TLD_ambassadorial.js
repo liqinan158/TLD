@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ambassadorial</h2><div class="git"><span class="ipa">[æmˌbæsə'dɔ:rɪəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">45642</span><div class="total">1264</div></div><div class="coca2">大使的(<font color="orangered">63%</font>)，使节的(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">大使的；使节的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

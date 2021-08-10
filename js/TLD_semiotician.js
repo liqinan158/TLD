@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>semiotician</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">59850</span><div class="total">306</div></div><div class="coca2">符号语言学(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">符号学者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

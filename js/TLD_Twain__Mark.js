@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Twain, Mark</h2><div class="git"><span class="ipa">[twein]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">马克吐温(Samuel Langhorn Clemens 的笔名)(1835～1910,美国作家、幽默家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Penn, William</h2><div class="git"><span class="ipa">[pen]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">佩恩(又译作彭威廉)(1644～1718，基督教新教公谊会的支持者，生于伦敦)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

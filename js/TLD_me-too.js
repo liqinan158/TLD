@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>me-too</h2><div class="git"><span class="ipa">[mi: tu:]</span></div><hr/></div><div class="coca2">模仿(<font color="orangered">58%</font>)，仿造的(<font color="orangered">28%</font>)，跟随(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">模仿；追随</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">仿造的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

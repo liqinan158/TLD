@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jol</h2><div class="git"><span class="ipa">[dʒɔ:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;阿拉伯&gt;（阿拉伯半岛南部的）荒芜碎裂的石灰岩高地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

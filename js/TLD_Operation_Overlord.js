@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Operation Overlord</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">霸王计划(第二次世界大战时盟军登陆欧洲)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">大君主作战；霸王行动；大君主行动</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

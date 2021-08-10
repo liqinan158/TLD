@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pangaea</h2><div class="git"><span class="ipa">[pæn'dʒi:ә]</span></div><hr/></div><div class="coca2">泛大陆(<font color="orangered">50%</font>)，泛古陆(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[海洋] 泛大陆；盘古大陆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

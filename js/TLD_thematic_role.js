@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thematic role</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 解元角色, 主题角色（指与动词相关的名词短语的功能, 如施动者或受动者）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

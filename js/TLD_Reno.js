@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Reno</h2><div class="git"><span class="ipa">['ri:nәu]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">里诺（美国一城市名，著名的“离婚城市”）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

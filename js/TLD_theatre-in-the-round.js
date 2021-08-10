@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>theatre-in-the-round</h2><div class="git"><span class="ipa">[ˈθiətərinðəˈraund]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">表演场地设在观众中间的戏院</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

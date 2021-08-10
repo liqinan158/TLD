@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>secularist</h2><div class="git"><span class="ipa">['sekjələrɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31007</span><div class="total">4278</div></div><div class="coca2">世俗论者(<font color="orangered">75%</font>)，教育与宗教分离主义者(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">世俗论者；宗教宗教与教育分离论者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

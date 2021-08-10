@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>have-nots</h2><span class="onm">原型:</span><span class="orm">have-nots 是 have-not 的复数</span><hr/></div><div class="coca2">穷人(<font color="orangered">93%</font>)，'haves and have-nots'富人与穷人(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">穷国；贫民（等于the have nots）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

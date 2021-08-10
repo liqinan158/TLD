@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>OTE</h2><div class="git"><span class="ipa">[ əut]</span></div><hr/></div><div class="coca2">目标工资(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">金融联机交易环境（Online Transaction Environment）；目标工资（on-target earnings）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

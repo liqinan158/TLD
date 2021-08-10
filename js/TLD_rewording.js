@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rewording</h2><div class="git"><span class="ipa">[ˈri:ˈwə:dɪŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55227</span><div class="total">532</div></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">重述，改说( reword的现在分词 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

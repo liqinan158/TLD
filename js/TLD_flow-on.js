@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flow-on</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 顺势加薪，顺势改善工作条件（因大势所趋）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

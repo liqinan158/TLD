@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>methamphetamine</h2><div class="git"><span class="ipa">[ˌmeθæm'fetəmi:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16283</span><div class="total">20401</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">甲基苯丙胺；脱氧麻黄碱（中枢兴奋药，等于 meth，Speed）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Matterhorn</h2><div class="git"><span class="ipa">['mætә:,hɔ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马特洪峰（阿尔卑斯山峰之一，位于瑞士与意大利之间的边境）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

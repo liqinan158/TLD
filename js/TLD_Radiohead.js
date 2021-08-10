@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Radiohead</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/lpd_radiohead.mp3" href="sound://media/spx/GB_lpd_radiohead.spx" title="Play British pronunciation of Radiohead"> </a><a class="amefile" href="sound://ameProns/lpd_radiohead.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电台司令；收音机头（乐队组合名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

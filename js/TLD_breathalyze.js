@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>breathalyze</h2><div class="git"><span class="ipa">[b'reθəlaɪz]</span><span class="frm">breathalyzed, breathalyzing, breathalyzes</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">用呼吸测醉器对…作测醉试验</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

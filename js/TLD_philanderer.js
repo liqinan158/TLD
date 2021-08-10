@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>philanderer</h2><div class="git"><span class="ipa">[fɪˈlændərə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">52267</span><div class="total">713</div></div><div class="coca2">玩弄女性的男人(<font color="orangered">60%</font>)，爱和女人调情的男人(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">玩弄女性的男人；爱和女人调情的男人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Whitechapel</h2><div class="git"><span class="ipa">['hwait,tʃæpəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">白教堂；白教堂血案（电视剧名）；怀特查佩尔（英国伦敦斯特普尼市区）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

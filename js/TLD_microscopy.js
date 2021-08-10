@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>microscopy</h2><div class="git"><span class="ipa">[maɪˈkrɒskəpi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16479</span><div class="total">19889</div></div><div class="coca2">显微镜学(<font color="orangered">70%</font>)，用显微镜检查(<font color="orangered">30%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">显微镜检查；显微镜使用；显微镜学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

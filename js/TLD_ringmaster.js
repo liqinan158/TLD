@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ringmaster</h2><div class="git"><span class="ipa">[ˈrɪŋmɑ:stə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40419</span><div class="total">1918</div></div><div class="coca2">马戏团导演(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">表演指导者；马戏演出指挥</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

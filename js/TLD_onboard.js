@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>onboard</h2><div class="git"><span class="ipa">['ɒn'bɔ:d]</span></div><hr/></div><div class="coca2">机上的(<font color="orangered">56%</font>)，装载的(<font color="orangered">22%</font>)，在板子上(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">在船上；在飞机上；在板上</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">随车携带的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>strung-out</h2><div class="git"><span class="ipa">[st'rʌŋ'aʊt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">59104</span><div class="total">341</div></div><div class="coca2">排成一条线的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">有吸毒瘾的，因吸毒而身体虚弱的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

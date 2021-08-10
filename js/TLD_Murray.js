@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Murray</h2><div class="git"><span class="ipa">[ˈmʌri]</span></div><hr/></div><div class="coca2">默里(m(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">默里（男子名）；墨累河（澳大利亚东南部一条河流）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ophelia</h2><div class="git"><span class="ipa">[әu'fi:liә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">奥菲莉娅(①女子名 ②莎士比亚剧作《哈姆雷特》中女主人公名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

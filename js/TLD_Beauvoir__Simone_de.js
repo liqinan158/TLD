@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Beauvoir, Simone de</h2><div class="git"><span class="ipa">[bəuv'wɑ:rə; si:'mɔnədə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">博瓦尔(1908～1986，法国存在主义作家、女权主义者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

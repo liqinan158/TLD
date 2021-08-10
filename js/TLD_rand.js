@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rand</h2><div class="git"><span class="ipa">[rænd]</span></div><hr/></div><div class="coca2">后跟垫(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">兰特（南非的货币单位）；边缘；垫皮，衬底（鞋后根与鞋底中间的）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Rand)人名；(英、德、俄、瑞典)兰德</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

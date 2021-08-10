@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Trotskyist</h2><div class="git"><span class="ipa">['trɔtskiist]</span></div><hr/></div><div class="coca2">托洛斯基分子(<font color="orangered">67%</font>)，托洛斯基分子的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">托洛斯基分子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

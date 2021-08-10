@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Federal Reserve System</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（美国）联邦储备系统</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">美国联邦储备系统；联邦储备体系；美国联邦储备体系</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

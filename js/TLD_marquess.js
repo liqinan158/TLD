@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>marquess</h2><div class="git"><span class="ipa">[ˈmɑ:kwɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31678</span><div class="total">4025</div></div><div class="coca2">侯爵(<font color="orangered">60%</font>)，侯爵长子的尊称(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">侯爵；侯爵长子的尊称（等于marquis）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Truth, Sojourner</h2><div class="git"><span class="ipa">[tru:θ; 'səudʒə:nə; səu'dʒə:nə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">特鲁思(1797?～1883，美国黑人女传教士、改革家、废奴主义者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fagin</h2><div class="git"><span class="ipa">[ˈfeiɡin]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">教唆犯（尤指教唆儿童少年犯罪者，源自狄更斯小说&lt;雾都孤儿&gt;）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

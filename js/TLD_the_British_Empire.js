@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the British Empire</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">英帝国</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">大英帝国；不列颠帝国；大英帝国地区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

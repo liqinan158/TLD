@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>babysitting</h2><div class="git"><span class="ipa">['beɪbɪsɪtɪŋ]</span></div><span class="onm">原型:</span><span class="orm">babysitting 是 babysit 的现在分词</span><hr/></div><div class="coca2">当临时保姆(<font color="orangered">78%</font>)，动词babysit的现在分词.(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">当临时保姆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

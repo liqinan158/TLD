@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Duncan, Isadora</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">邓肯(1878～1927，美国女舞蹈家，现代舞的先驱者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

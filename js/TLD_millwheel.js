@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>millwheel</h2><div class="git"><span class="ipa">['mɪl.wiːl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">水车(的轮子)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">水轮；磨坊水轮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

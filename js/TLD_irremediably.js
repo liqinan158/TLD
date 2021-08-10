@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>irremediably</h2><div class="git"><span class="ipa">[,iri'mi:diəbli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">59794</span><div class="total">309</div></div><div class="coca2">不能补救的(<font color="orangered">50%</font>)，不能挽回的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">无法补救地；无可救药地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

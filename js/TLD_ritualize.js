@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ritualize</h2><div class="git"><span class="ipa">[ˈrɪtʃuəlaɪz]</span><span class="frm">ritualized, ritualizing, ritualizes</span></div><hr/></div><div class="coca2">仪式化(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使仪式化；奉行仪式主义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dysmorphic</h2><div class="git"><span class="ipa">[dɪs'mɔ:fɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">47006</span><div class="total">1137</div></div><div class="gdc"><div class="dcb"><span class="dcn"> [医]同质异形的，异形的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

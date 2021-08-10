@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scarper</h2><div class="git"><span class="ipa">[ˈskɑ:pə(r)]</span><span class="frm">scarpered, scarpering, scarpers</span></div><hr/></div><div class="coca2">跑开(<font color="orangered">50%</font>)，跑走(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">跑掉；逃跑；溜走</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

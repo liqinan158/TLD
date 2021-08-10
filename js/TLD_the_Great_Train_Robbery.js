@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the Great Train Robbery</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">火车大劫案；训练大盗法；惊天快劫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

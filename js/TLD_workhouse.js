@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>workhouse</h2><div class="git"><span class="ipa">[ˈwɜ:khaʊs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27803</span><div class="total">5719</div></div><div class="coca2">劳教所(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（英）济贫院；（美）[法] 教养所；感化院；贫民习艺所</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

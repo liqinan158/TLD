@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lobster thermidor</h2><div class="git"><span class="ipa">[ˌlɒbstə ˈθɜ:mɪdɔ:(r)]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn"> [烹饪]热月龙虾，酿龙虾(由拿破仑以首次将此菜奉献给他的月份命名)[亦作 lobster Thermidor ]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

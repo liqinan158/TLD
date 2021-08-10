@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soft currency</h2><div class="git"><span class="ipa">[sɔft ˈkʌrənsi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">软性通货</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">软通货；软货币；弱势货币</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

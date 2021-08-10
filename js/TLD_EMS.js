@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>EMS</h2><span class="onm">原型:</span><span class="orm">EMS 是 em 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">邮政特快专递服务（Express Mail Service）</span></div><div class="dcb"><span class="dcn">增强型短信服务（Enhanced Message Service）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paper girl</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(女)送报员，送报女童</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

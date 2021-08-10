@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>co-educational</h2><hr/></div><div class="coca2">男女同校的(<font color="orangered">50%</font>)，指男孩和女孩都上的学校(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">男女合校的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

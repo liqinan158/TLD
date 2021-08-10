@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>baby-doll</h2><div class="git"><span class="ipa">[ˈbeibi dɔl]</span></div><hr/></div><div class="coca2">有青春气息的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">年轻的，有青春气息的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

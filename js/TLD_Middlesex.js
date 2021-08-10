@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Middlesex</h2><div class="git"><span class="ipa">['midlseks]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">米德尔塞克斯（英国地名）；米都塞克斯大学（Middlesex, 或米都塞克斯大学 Middlesex University）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

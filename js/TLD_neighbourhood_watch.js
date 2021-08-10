@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>neighbourhood watch</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">邻里守望（邻居定期相互照看住宅，防止犯罪）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">街坊会；邻里警卫；种邻舍互助守望</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

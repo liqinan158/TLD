@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bodybuilder</h2><div class="git"><span class="ipa">['bɒdɪbɪldə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13349</span><div class="total">30958</div></div><div class="coca2">健身者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">健美运动者；锻炼肌肉者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

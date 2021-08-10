@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tikrit</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">提克里特；提克里特市；提克里克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

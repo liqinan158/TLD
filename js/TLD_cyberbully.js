@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cyberbully</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">网霸; 网络欺凌; 是指通过电子邮件、即时对话、站点、博客留言; 以及手机等电子方式</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">网霸，（意思同上）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">网霸者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

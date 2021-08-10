@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nimrod</h2><div class="git"><span class="ipa">['nimrɒd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">宁录(&lt;&lt;圣经&gt;&gt;人物,好猎手), 猎人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coinsure</h2><div class="git"><span class="ipa">[ˌkəʊɪn'ʃʊə]</span><span class="frm">coinsured, coinsuring, coinsures</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">共同保险，共同担保</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

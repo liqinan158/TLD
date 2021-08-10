@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>animistic</h2><div class="git"><span class="ipa">[ˌænɪ'mɪstɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50455</span><div class="total">848</div></div><div class="coca2">万物有灵论的(<font color="orangered">80%</font>)，信仰灵魂学说的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">精灵论的；万物有灵论的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

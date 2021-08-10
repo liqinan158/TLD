@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>krona</h2><div class="git"><span class="ipa">[ˈkrəʊnə]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克朗（瑞典及冰岛的货币单位）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Krona)人名；(瑞典)克罗纳</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

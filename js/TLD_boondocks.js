@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>boondocks</h2><div class="git"><span class="ipa">[ˈbu:ndɒks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48083</span><div class="total">1048</div></div><div class="coca2">森林地带(<font color="orangered">75%</font>)，偏僻的农村(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">森林地带；偏僻地区；荒野</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tandoori</h2><div class="git"><span class="ipa">[tænˈdʊəri]</span></div><hr/></div><div class="coca2">唐杜里烹饪法(<font color="orangered">50%</font>)，用唐杜里烹饪法烧的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">唐杜里烹饪法；泥炉炭火烹饪法</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">用唐杜里烹饪法烧的；泥炉炭火烹饪法的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

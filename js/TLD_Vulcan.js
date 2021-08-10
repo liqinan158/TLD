@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vulcan</h2><hr/></div><div class="coca2">锻冶者(<font color="orangered">50%</font>)，罗马神话中火与锻冶之神(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伏尔甘（火和锻冶的神）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

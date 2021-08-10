@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dardanelles</h2><div class="git"><span class="ipa">[,dɑ:dә'nelz]</span></div><span class="onm">原型:</span><span class="orm">Dardanelles 是 dardanelle 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">达达尼尔海峡(在土尔其欧亚两部分之间,连接马尔马拉海与爱琴海)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Spielberg, Steven</h2><div class="git"><span class="ipa">['spi:bə:ɡ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">施皮伯格(又译作斯皮尔伯格；1947～ ，美国电影导演)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

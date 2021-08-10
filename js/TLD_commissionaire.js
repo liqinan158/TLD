@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>commissionaire</h2><div class="git"><span class="ipa">[kəˌmɪʃəˈneə(r)]</span></div><hr/></div><div class="coca2">门警(<font color="orangered">75%</font>)，穿制服的守门员(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">门警；看门人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fontanelle</h2><div class="git"><span class="ipa">[ˌfɒntə'nel]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55400</span><div class="total">522</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">囟门（婴儿头部会动的部位，等于fontanel）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

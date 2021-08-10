@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Strachey, Lytton</h2><div class="git"><span class="ipa">['streitʃi; dʒailz'litən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Strachey, (Giles)Lytton</span></div><div class="dcb"><span class="dcn">['streitʃi; dʒailz'litən]</span></div><div class="dcb"><span class="dcn">斯特雷奇(1880～1932，美国传记作家、文艺评论家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

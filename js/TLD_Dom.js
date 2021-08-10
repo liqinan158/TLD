@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dom</h2><div class="git"><span class="ipa">[dɑm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">师（对罗马天主教等修士的尊称）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Dom)人名；(柬)敦</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

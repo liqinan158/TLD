@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>halfpipe</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39193</span><div class="total">2110</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（滑板、轮滑、滑雪等运动中供人完成复杂动作的） U 字形滑道</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">U型槽；半管道；半管赛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

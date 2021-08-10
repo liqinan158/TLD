@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Queen Elizabeth Islands</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 伊丽莎白女王群岛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trey</h2><div class="git"><span class="ipa">[treɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28507</span><div class="total">5367</div></div><div class="coca2">有三点的牌(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">三点的牌；刻有三点的一面</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

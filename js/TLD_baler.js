@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>baler</h2><div class="git"><span class="ipa">[ˈbeɪlə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34815</span><div class="total">3035</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（干草、稻草等的）打包机，压捆机; 水瓢; 舀水勺; 水勺</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

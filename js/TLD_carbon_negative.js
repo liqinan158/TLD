@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>carbon negative</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">负碳</span></div><div class="dcb"><span class="dcn">碳负极</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

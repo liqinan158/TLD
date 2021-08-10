@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>companionway</h2><div class="git"><span class="ipa">[kəmˈpæniənweɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">48962</span><div class="total">975</div></div><div class="coca2">升降扶梯(<font color="orangered">67%</font>)，甲板梯口(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">升降扶梯；舱梯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

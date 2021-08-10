@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>saraband</h2><div class="git"><span class="ipa">[ˈsærəbænd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">萨拉班德舞（一种缓慢而庄严的古西班牙宫廷舞）; 萨拉班德舞曲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

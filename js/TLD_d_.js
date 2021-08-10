@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>d'</h2><div class="git"><span class="ipa">[di:]</span></div><span class="onm">原型:</span><span class="orm">do</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">同“do”；同“did”</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">预处理器首先处理；从这儿；辨别力</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

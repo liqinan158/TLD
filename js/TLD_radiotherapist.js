@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>radiotherapist</h2><div class="git"><span class="ipa">[ˌreɪdɪəʊ'θerəpɪst]</span></div><hr/></div><div class="coca2">放射线治疗医师(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">放射治疗学家</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

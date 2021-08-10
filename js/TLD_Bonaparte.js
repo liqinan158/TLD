@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bonaparte</h2><div class="git"><span class="ipa">['bәunәpɑ:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">波拿巴(①姓氏, 法国科西嘉岛上的家族 ②Napoleon, 1769-1821, 法国皇帝, 1804-1815在位)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

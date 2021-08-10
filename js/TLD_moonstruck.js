@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>moonstruck</h2><div class="git"><span class="ipa">[ˈmu:nstrʌk]</span></div><hr/></div><div class="coca2">发狂的(<font color="orangered">56%</font>)，月光照到的(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">发狂的，神经错乱的；月光照到的；多愁善感的，耽于幻想的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

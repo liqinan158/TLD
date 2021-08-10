@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>babel</h2><div class="git"><span class="ipa">['beibl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40773</span><div class="total">1862</div></div><div class="coca2">嘈杂声(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">巴别塔；巴比伦式的城市</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

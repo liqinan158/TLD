@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>oil colour</h2><div class="git"><span class="ipa">[ɔil ˈkʌlə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 油溶性染料，油漆，油画颜料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

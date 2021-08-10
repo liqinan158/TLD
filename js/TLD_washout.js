@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>washout</h2><div class="git"><span class="ipa">[ˈwɒʃaʊt]</span></div><hr/></div><div class="coca2">失败(<font color="orangered">45%</font>)，冲刷(<font color="orangered">33%</font>)，失望(<font color="orangered">10%</font>)，冲失地区(<font color="orangered">6%</font>)，被淘汰者(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">冲刷；失败者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

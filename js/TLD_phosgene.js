@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phosgene</h2><div class="git"><span class="ipa">[ˈfɒzdʒi:n]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49398</span><div class="total">941</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">光气，碳酰氯; 二氯化碳酰</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

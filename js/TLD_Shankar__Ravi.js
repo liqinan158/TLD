@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shankar, Ravi</h2><div class="git"><span class="ipa">['ʃɑ:nkɑ:; 'rɑ:vi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">申卡尔(1920～ ，印度西塔尔琴演奏家、作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

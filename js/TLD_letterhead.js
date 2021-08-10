@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>letterhead</h2><div class="git"><span class="ipa">[ˈletəhed]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19005</span><div class="total">14518</div></div><div class="coca2">信笺抬头(<font color="orangered">82%</font>)，印有抬头的信纸(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">印在信纸的信头；印有信头的信纸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

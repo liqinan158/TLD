@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>post-traumatic stress disorder</h2><div class="git"><span class="ipa">[post traʊˈmætɪk strɛs dɪsˈɔrdɚ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">创伤后紧张症；外伤性神经症</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

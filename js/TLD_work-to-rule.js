@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>work-to-rule</h2><div class="git"><span class="ipa">[wə:k tu: ru:l]</span></div><hr/></div><div class="coca2">以合法的怠工方式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">按章怠工</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">以合法的怠工方式</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

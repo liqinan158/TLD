@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>S4C</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/p028-000010715.mp3" href="sound://media/spx/GB_p028-000010715.spx" title="Play British pronunciation of S4C"> </a><a class="amefile" href="sound://ameProns/ld5_s4c.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">威尔士第四台；威尔斯第四台；威尔士语四频道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

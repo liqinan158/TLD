@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rutabaga</h2><div class="git"><span class="ipa">[ˌru:təˈbeɪgə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">38225</span><div class="total">2279</div></div><div class="coca2">黄色蔓菁的一种(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">芜菁甘蓝；丑陋女人；1美元</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

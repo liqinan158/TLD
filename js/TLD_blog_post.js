@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blog post</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">博客文章；博客帖子；部落格文章</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

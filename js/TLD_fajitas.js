@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fajitas</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （墨西哥）肉丝蔬菜玉米卷饼（常佐以酸奶油）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

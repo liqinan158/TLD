@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scabies</h2><div class="git"><span class="ipa">[ˈskeɪbi:z]</span></div><span class="onm">原型:</span><span class="orm">scabies 是 scaby 的复数</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26418</span><div class="total">6561</div></div><div class="coca2">疥疮(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[皮肤] 疥疮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

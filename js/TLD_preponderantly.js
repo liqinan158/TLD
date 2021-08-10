@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>preponderantly</h2><div class="git"><span class="ipa">[pri'pɔndərəntli]</span></div><hr/></div><div class="coca2">占优势的(<font color="orangered">51%</font>)，主要的(<font color="orangered">28%</font>)，压倒性的(<font color="orangered">21%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">占优势地，多数地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kelvin</h2><div class="git"><span class="ipa">['kelvin]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24367</span><div class="total">8021</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">开尔文（英国物理学家，数学家）；凯尔文（男子名）；绝对温标</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">开氏度的（常作K-）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

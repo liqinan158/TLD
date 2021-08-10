@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soh</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">全音阶的第5音</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Soh)人名；(东南亚国家华语)素；(朝)见 So</span></div><div class="dcb"><span class="pos">abbr.</span><span class="dcn">标题开始符（Start-Of-Heading）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>soundstage</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21002</span><div class="total">11531</div></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">有声电影摄影棚；电影摄影棚表演区</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">音场；声场；音场开阔度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

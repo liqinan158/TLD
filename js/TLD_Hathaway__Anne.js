@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hathaway, Anne</h2><div class="git"><span class="ipa">['hæθəwei]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">哈瑟维(1556～1623，莎士比亚之妻)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>strippergram</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 脱衣舞贺信（递送的人到达时向过生日等的人当面脱衣）；递送脱衣舞贺信的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

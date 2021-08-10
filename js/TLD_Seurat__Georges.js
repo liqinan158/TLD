@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Seurat, Georges</h2><div class="git"><span class="ipa">[sə:rɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Seurat, George</span></div><div class="dcb"><span class="dcn">[sə:rɑ:]</span></div><div class="dcb"><span class="dcn">修拉(1859～1891，法国印象派画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

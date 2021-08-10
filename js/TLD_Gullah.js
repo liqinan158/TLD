@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Gullah</h2><div class="git"><span class="ipa">['^ʌlә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">嘎勒语（格勒人说的，带有西非语法和词汇的英语）；嘎勒人（居住在佐治亚州和南卡罗来纳州的黑人）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

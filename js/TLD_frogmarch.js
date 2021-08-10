@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>frogmarch</h2><div class="git"><span class="ipa">[ˈfrɒgmɑ:tʃ]</span><span class="frm">frogmarched, frogmarching, frogmarches</span></div><hr/></div><div class="coca2">迫使人举起双手放脑后前进(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">迫使人举起双手放脑后前进</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

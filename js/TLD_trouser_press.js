@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trouser press</h2><div class="git"><span class="ipa">[ˈtrauzə pres]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">裤管摺线熨制器</span></div><div class="dcb"><span class="dcn">（裤子不穿时使之保持不皱的）压裤器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

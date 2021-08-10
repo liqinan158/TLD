@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MBSc</h2><div class="git"><span class="ipa">[.em biː es 'siː]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">正法中心(Mula Buddha Sasana Center)；澳门商务促进中心(MACAO BUSINESS SUPPORT CENTRE)；Maritime Ballistic Safety Carrier</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

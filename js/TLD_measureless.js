@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>measureless</h2><div class="git"><span class="ipa">[ˈmeʒələs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">50490</span><div class="total">845</div></div><div class="coca2">无限的(<font color="orangered">77%</font>)，不可量的(<font color="orangered">23%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无限的，不可量的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

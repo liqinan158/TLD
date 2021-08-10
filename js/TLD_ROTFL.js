@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ROTFL</h2><hr/></div><div class="coca2">笑得在地板上打滚(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">笑得在地板上打滚（Rolling on the Floor Laughing）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

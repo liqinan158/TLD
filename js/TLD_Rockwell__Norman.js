@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rockwell, Norman</h2><div class="git"><span class="ipa">['rɔkwel]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">罗克韦尔(1894～1978，美国插图画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

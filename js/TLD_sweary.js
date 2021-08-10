@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sweary</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(adj)descriptive word used to describe a person who swears excessivly.</span></div><div class="dcb"><span class="deq">&gt; You are really sweary.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

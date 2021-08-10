@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>alpha girl</h2><div class="git"><span class="ipa">[ˈælfə ɡə:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 青少女团体的领袖，大姊头</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

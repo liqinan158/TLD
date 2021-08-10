@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>equably</h2><div class="git"><span class="ipa">['ekwəblɪ]</span></div><hr/></div><div class="coca2">均一地(<font color="orangered">50%</font>)，均等地(<font color="orangered">25%</font>)，均匀地(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">稳定地；均一地；平静地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

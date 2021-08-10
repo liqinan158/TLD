@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eve's pudding</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Eve's pudding</span></div><div class="dcb"><span class="dcn">[主英国英语]夏娃布丁(夹有果馅的松软烤饼)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

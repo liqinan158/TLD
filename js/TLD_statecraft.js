@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>statecraft</h2><div class="git"><span class="ipa">[ˈsteɪtkrɑ:ft]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39384</span><div class="total">2078</div></div><div class="coca2">国务才能(<font color="orangered">50%</font>)，治国本领(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">治国才能；管理国家的本领</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

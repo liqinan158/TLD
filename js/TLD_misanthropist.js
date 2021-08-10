@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>misanthropist</h2><div class="git"><span class="ipa">[mɪs'ænθrəpɪst]</span></div><hr/></div><div class="coca2">厌恶人类者(<font color="orangered">56%</font>)，厌世者(<font color="orangered">33%</font>)，=misanthrope.(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">厌世者；厌恶人类者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

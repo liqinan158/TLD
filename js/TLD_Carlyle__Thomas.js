@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Carlyle, Thomas</h2><div class="git"><span class="ipa">[kɑ:'lail]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡莱尔(1795～1881，英国作家，历史学家，生于苏格兰)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

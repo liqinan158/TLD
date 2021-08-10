@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>front-of-house</h2><hr/></div><div class="coca2">剧院观众席(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">房子的前面</span></div><div class="dcb"><span class="dcn">剧场公众区</span></div><div class="dcb"><span class="dcn">前台</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

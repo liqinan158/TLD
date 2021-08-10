@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>headcheese</h2><div class="git"><span class="ipa">[ˈhedtʃi:z]</span></div><hr/></div><div class="coca2">头肉香肠(常用猪头(<font color="orangered">34%</font>)，猪脚(<font color="orangered">33%</font>)，猪舌等肉制成)(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">头肉冻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

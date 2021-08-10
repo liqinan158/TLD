@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>concealed carry</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">隐蔽地持有；隐藏携带；隐蔽携带</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

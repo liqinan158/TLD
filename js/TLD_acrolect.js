@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>acrolect</h2><div class="git"><span class="ipa">[ˈækrəlekt]</span></div><hr/></div><div class="coca2">上层方言(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">上层方言；上层社会语言</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

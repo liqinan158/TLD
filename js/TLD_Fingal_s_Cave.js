@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fingal's Cave</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">芬格尔山洞（苏格兰赫布里底群岛中的斯塔法小岛上的大山洞）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

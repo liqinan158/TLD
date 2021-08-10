@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>beseeching</h2><div class="git"><span class="ipa">[bɪˈsi:tʃɪŋ]</span></div><span class="onm">原型:</span><span class="orm">beseeching 是 beseech 的现在分词</span><hr/></div><div class="coca2">恳求似的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">恳求似的</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">哀求；请求（beseech的ing形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

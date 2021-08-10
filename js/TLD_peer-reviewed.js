@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>peer-reviewed</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">14247</span><div class="total">27007</div></div><div class="coca2">同行评鉴的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">同行评议；同行审阅</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

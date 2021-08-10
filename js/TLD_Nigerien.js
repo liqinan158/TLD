@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Nigerien</h2><div class="git"><span class="ipa">[ni:'ʒeәriәn]</span></div><hr/></div><div class="coca2">尼日尔人(<font color="orangered">41%</font>)，尼日尔的(<font color="orangered">33%</font>)，尼日尔人的(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">尼日尔的（西非内陆国家之一）；尼日尔人的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">尼日尔人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

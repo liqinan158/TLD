@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blue box</h2><div class="git"><span class="ipa">[blu: bɔks]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 11</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 5</div><div class="gdc"><div class="dcb"><span class="dcn"> 蓝盒子（一种带有声调振动器的电子装置，用以防止电话设备记录长途电话费用）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>airhead</h2><div class="git"><span class="ipa">[ˈeəhed]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42888</span><div class="total">1569</div></div><div class="coca2">空降场(<font color="orangered">67%</font>)，没脑子的人(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">空军前进基地；没脑子的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

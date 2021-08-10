@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hydrochlorofluorocarbon</h2><div class="git"><span class="ipa">[ˌhaɪdrəʊklɒrəʊˈflʊərəkɑ:bən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 氟氯烃化合物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

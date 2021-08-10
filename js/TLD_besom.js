@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>besom</h2><div class="git"><span class="ipa">[ˈbi:zəm]</span></div><hr/></div><div class="coca2">长扫帚(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">扫帚，扫把；长柄细枝扫帚，长把帚，竹扫帚</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">(用扫帚)清扫，扫地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bevvy</h2><div class="git"><span class="ipa">[ˈbevi]</span></div><hr/></div><div class="coca2">几杯酒(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">饮料（尤指含酒精饮料）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

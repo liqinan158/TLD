@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>similitude</h2><div class="git"><span class="ipa">[sɪˈmɪlɪtju:d]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36422</span><div class="total">2654</div></div><div class="coca2">相似(<font color="orangered">94%</font>)，比喻(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">相似；外表；比拟</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

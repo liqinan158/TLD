@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Edison, Thomas Alva</h2><div class="git"><span class="ipa">['edisən; 'ælvə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">爱迪生(1847～1931，美国发明家，尤其是电器和通信器材的发明)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

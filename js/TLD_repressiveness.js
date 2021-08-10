@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>repressiveness</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">镇压的</span></div><div class="dcb"><span class="dcn">专制的</span></div><div class="dcb"><span class="dcn">压抑的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

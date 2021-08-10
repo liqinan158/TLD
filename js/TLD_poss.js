@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>poss</h2><div class="git"><span class="ipa">[pɒs]</span></div><span class="onm">级别:</span><span class="qrm">posser, possest</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">所有格的（possessive）；可能的（possible）；拥有（possession）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Poss)人名；(英、法、德)波斯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hamilton, Alexander</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">汉密尔顿(1757～1804)，美国首任财政部长(1789～1797)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

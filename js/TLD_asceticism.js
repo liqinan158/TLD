@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>asceticism</h2><div class="git"><span class="ipa">[ə'setɪsɪzəm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35554</span><div class="total">2854</div></div><div class="coca2">禁欲主义(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">禁欲主义；苦行主义；苦行生活</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

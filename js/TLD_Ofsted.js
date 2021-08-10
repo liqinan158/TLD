@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ofsted</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 教育标准局（英国负责评鉴学校标准的政府部门）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

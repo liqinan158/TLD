@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>zombie</h2><div class="git"><span class="ipa">[ˈzɒmbi]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">5097</span><div class="total">182110</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（某些非洲和加勒比地区的宗教及恐怖故事中）靠巫术起死回生的僵尸; 无生气的人，麻木迟钝的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

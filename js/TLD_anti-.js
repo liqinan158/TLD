@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anti-</h2><div class="git"><span class="ipa">[ˈænti]</span></div><hr/></div><div class="coca2">表示“反对(<font color="orangered">40%</font>)，排斥”之意(<font color="orangered">20%</font>)，=ant-(<font color="orangered">20%</font>)，anth-.(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">pref.</span><span class="dcn">表示“反对，抵抗”之义</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

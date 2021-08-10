@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bail-out</h2><div class="git"><span class="ipa">['beɪlˌaʊt]</span></div><hr/></div><div class="coca2">跳伞(<font color="orangered">40%</font>)，应急措施(<font color="orangered">40%</font>)，优先为股东分红(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">跳伞；以优先股发给股东作为红利之行为</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

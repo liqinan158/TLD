@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Scientology</h2><div class="git"><span class="ipa">[,saiәn'tɔlәdʒi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">信仰疗法, 基督教科学派</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

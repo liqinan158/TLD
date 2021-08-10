@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mann, Thomas</h2><div class="git"><span class="ipa">[mæn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">曼(1875～1955，德国小说家，Heinrich Mann 之兄，1937年后移居美国，获1929年诺贝尔文学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

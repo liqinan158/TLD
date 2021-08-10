@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>talking drum</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 话鼓（西非的一种可通过声音变化传递不同信息的鼓）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

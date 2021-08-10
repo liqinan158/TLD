@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>carnosaur</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 肉食龙（掠食性大型恐龙，前肢短）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

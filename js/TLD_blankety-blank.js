@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blankety-blank</h2><div class="git"><span class="ipa">[ˌblæŋkəti ˈblæŋk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">可憎的，毫无道理的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">可恨地，毫无道理地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

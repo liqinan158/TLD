@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>afterlife</h2><div class="git"><span class="ipa">[ˈɑ:ftəlaɪf]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14754</span><div class="total">25051</div></div><div class="coca2">来世(<font color="orangered">95%</font>)，后来的岁月(<font color="orangered">5%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">来世；死后的生活</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

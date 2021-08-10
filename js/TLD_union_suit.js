@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>union suit</h2><div class="git"><span class="ipa">[ˈju:njən sju:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">〈美〉连衫裤</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">工作服；连衣裤；连身内衣</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

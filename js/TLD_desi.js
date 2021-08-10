@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>desi</h2><div class="git"><span class="ipa">['dezi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;美&gt;指定打击手在球赛开始时就指明的只击球不投球的球员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

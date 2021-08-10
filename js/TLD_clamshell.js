@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clamshell</h2><div class="git"><span class="ipa">[ˈklæmʃel]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">27822</span><div class="total">5707</div></div><div class="coca2">蛤壳(<font color="orangered">78%</font>)，蛤壳式挖泥机(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蛤壳状挖泥器；蛤壳</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

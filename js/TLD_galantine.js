@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>galantine</h2><div class="git"><span class="ipa">[ˈgælənti:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">用小牛肉、鸡肉等去骨扎紧、煮熟而作成的冷食; 肉冻</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disobedient</h2><div class="git"><span class="ipa">[ˌdɪsəˈbi:diənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26073</span><div class="total">6788</div></div><div class="coca2">不服从的(<font color="orangered">73%</font>)，不顺从的(<font color="orangered">27%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">不服从的；违背的；不孝的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Blue Nile</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">青尼罗河（东非河流）；青尼罗省（苏丹）；蓝色尼罗河（公司名称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

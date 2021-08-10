@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Skype</h2><div class="git"><span class="ipa">[skaɪp]</span></div><hr/></div><div class="coca2">一种网络即时语音沟通工具(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">网络电话（一个网络语音沟通工具）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

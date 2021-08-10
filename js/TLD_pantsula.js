@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pantsula</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 潘祖拉圈舞（南非舞, 参加者依次在围成一圈的其他舞者前跳舞）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

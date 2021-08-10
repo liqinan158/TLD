@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>re-echo</h2><div class="git"><span class="ipa">[ri:ˈekəu]</span></div><hr/></div><div class="coca2">回响之回声(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">回响之回声</span></div><div class="dcb"><span class="pos">vt.</span><span class="dcn">使响遍</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">再反响</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hejira</h2><div class="git"><span class="ipa">[hɪˈdʒaɪərə, ˈhedʒərə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">伊斯兰教纪元</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

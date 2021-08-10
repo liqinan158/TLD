@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shakespeare, William</h2><div class="git"><span class="ipa">['ʃeikspiə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">莎士比亚(1564～1616,英国诗人、戏剧家)[亦作 Shakspere, Shakespear]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

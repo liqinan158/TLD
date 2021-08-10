@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>broccoli rabe</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">球花甘蓝；菜苗；菜苔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

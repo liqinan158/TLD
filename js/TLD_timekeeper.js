@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>timekeeper</h2><div class="git"><span class="ipa">[ˈtaɪmki:pə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33565</span><div class="total">3382</div></div><div class="coca2">计时员(<font color="orangered">90%</font>)，计时装置(<font color="orangered">10%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">计时员；钟表；工作时间记录员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>leading aircraftwoman</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （英国空军）二等女兵</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

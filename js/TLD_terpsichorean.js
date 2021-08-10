@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>terpsichorean</h2><div class="git"><span class="ipa">[,tә:psikә'ri(:)әn]</span></div><hr/></div><div class="coca2">舞蹈的(<font color="orangered">60%</font>)，舞蹈者(<font color="orangered">20%</font>)，和舞蹈有关的(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">舞蹈家</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">舞蹈的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

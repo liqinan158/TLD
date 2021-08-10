@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>twosome</h2><div class="git"><span class="ipa">[ˈtu:səm]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">37732</span><div class="total">2367</div></div><div class="coca2">两人一组(<font color="orangered">78%</font>)，双人比赛(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">两人一组，两个一组；两人玩的游戏，两人游戏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Reaganomics</h2><div class="git"><span class="ipa">[,rei^ә'nɔmiks]</span></div><span class="onm">原型:</span><span class="orm">Reaganomics 是 reaganomic 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[复]n.(由美国第四十任总统Ronald Reagan实行的包括强调供给理论等内容的)里根经济政策</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

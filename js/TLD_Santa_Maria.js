@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Santa Maria</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 58</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 9</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 41</div><div class="gdc"><div class="dcb"><span class="dcn">圣马丽亚（美国加利福尼亚州西部城市, 巴西南部城市）；圣马利亚活火山（位于危地马拉西部）；圣马利亚号（哥伦布第一次远航发现美洲所乘之船）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

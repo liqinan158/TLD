@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-builder</h2><div class="git"><span class="ipa">[self'bild]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">a.</span><span class="dcn">自建房屋的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

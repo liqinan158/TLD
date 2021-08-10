@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>multichannel</h2><div class="git"><span class="ipa">[ˈmʌltitʃænl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">多通话线路的，多波段的; 多道; 多通路; 多通道</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

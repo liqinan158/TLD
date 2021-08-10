@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Holy Father</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 73</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 73</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【宗】圣父；罗马教皇</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">指罗马的天主教教皇；教皇的尊称；圣父上帝</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

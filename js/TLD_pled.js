@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pled</h2><div class="git"><span class="ipa">[pled]</span></div><span class="onm">原型:</span><span class="orm">pled 是 ple 的过去式和过去分词</span><hr/></div><div class="coca2">动词plead的过去式和过去分词形式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">辩护；恳求（plead的过去式和过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>muezzin</h2><div class="git"><span class="ipa">[mu:ˈezɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53958</span><div class="total">606</div></div><div class="coca2">报告祷告时刻的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（伊斯兰教的）报告祷告时刻的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

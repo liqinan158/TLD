@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shedload</h2><hr/></div><div class="coca2">大量(<font color="orangered">50%</font>)，许多(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> 大量（金钱等）；许多</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

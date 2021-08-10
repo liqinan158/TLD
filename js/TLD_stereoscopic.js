@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stereoscopic</h2><div class="git"><span class="ipa">[ˌsteriəˈskɒpɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">26239</span><div class="total">6676</div></div><div class="coca2">有立体感的(<font color="orangered">63%</font>)，实体镜的(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">立体的；体视镜的；有立体感的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

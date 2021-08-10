@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kitchen-sink</h2><div class="git"><span class="ipa">[ˈkitʃin siŋk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">58441</span><div class="total">374</div></div><div class="coca2">厨房中的洗涤盆(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">激进现实主义；厨房洗涤池；厨房洗涤盆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

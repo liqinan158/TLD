@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>GQ</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">Equatorial Guinea (Internet code) 赤道几内亚（代号）; general quarters 战备状态; Big Sky Airlines 高空航空公司（代码）; global quota 统括配额</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kabaddi</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 卡巴迪（南亚运动比赛，每队各有七人参加，在圆形沙地上举行，运动员需屏气追逐对手）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>relegation</h2><div class="git"><span class="ipa">[ˌrelɪ'ɡeɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">15365</span><div class="total">23024</div></div><div class="coca2">降级(<font color="orangered">98%</font>)，降职(<font color="orangered">2%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">贬谪；驱逐；移交；归属</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

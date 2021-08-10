@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ronnie Scott's</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">朗尼史葛；朗尼史葛爵士酒吧；史考特爵士俱乐部</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>therapeutically</h2><div class="git"><span class="ipa">[,θerə'pju:tikli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">34138</span><div class="total">3215</div></div><div class="gdc"><div class="dcb"><span class="dcn"> [医]adv.在治疗上</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

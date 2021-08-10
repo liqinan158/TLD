@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fuller's earth</h2><div class="git"><span class="ipa">[ˌfʊləz ˈɜ:θ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">漂(白)</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">漂白土；硅藻土；脱色土及漂白土</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quizmaster</h2><div class="git"><span class="ipa">[ˈkwɪzmɑ:stə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">61150</span><div class="total">257</div></div><div class="coca2">主持测验的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">广播电视测验节目主持人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Carroll, Lewis</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡洛尔(1832～1898，英国童话作家、数学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

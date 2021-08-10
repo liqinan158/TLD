@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jawline</h2><div class="git"><span class="ipa">[ˈdʒɔ:laɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29222</span><div class="total">5053</div></div><div class="coca2">下颌的轮廓(<font color="orangered">50%</font>)，下巴的外形(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">下巴的外形；下颌的轮廓</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>roux</h2><div class="git"><span class="ipa">[ru:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23819</span><div class="total">8487</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（用于加浓羹汤等的）乳酪面粉糊</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Roux)人名；(英、法)鲁</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

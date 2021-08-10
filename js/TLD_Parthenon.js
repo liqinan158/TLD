@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Parthenon</h2><div class="git"><span class="ipa">['pɑ:θinәn]</span></div><hr/></div><div class="coca2">帕德教神殿(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">帕台农神殿（希腊用以祭祀雅典娜女神的神庙）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

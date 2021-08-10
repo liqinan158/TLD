@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rainbow nation</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 彩虹之国（指南非，因其多种族、多文化而得名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

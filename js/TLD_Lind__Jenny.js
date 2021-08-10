@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lind, Jenny</h2><div class="git"><span class="ipa">[lind]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">林德(1820～1887，瑞典花腔女高音歌唱家，绰号“瑞典夜莺”)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

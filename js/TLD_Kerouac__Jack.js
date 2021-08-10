@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kerouac, Jack</h2><div class="git"><span class="ipa">['keru:æk]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">凯鲁亚克(1922～1969，美国小说家、诗人、“反传统一代”文学代表人物)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

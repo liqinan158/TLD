@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sociolinguistics</h2><div class="git"><span class="ipa">[ˌsəʊsiəʊlɪŋˈgwɪstɪks]</span></div><span class="onm">原型:</span><span class="orm">sociolinguistics 是 sociolinguistic 的复数</span><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50893</span><div class="total">813</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">社会语言学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

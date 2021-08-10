@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>marram grass</h2><div class="git"><span class="ipa">[ˈmærəm grɑ:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">滨草（一种生于海滩可防砂的野草）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

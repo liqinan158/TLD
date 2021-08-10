@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ukulele</h2><div class="git"><span class="ipa">[ˌju:kəˈleɪli]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14625</span><div class="total">25551</div></div><div class="coca2">夏威夷的四弦琴(<font color="orangered">50%</font>)，=ukelele.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">尤克里里琴（夏威夷的四弦琴，等于ukelele）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

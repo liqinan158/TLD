@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>booth bunny</h2><div class="git"><span class="ipa">[buːð ˈbʌni]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（展会上的） 促销女郎</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Perrin, Reginald</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/lpd_perrin.mp3" href="sound://media/spx/GB_lpd_perrin.spx" title="Play British pronunciation of Perrin, Reginald"> </a><a class="amefile" href="sound://ameProns/lpd_perrin.mp3"><img src="lus.png"/></a></div>`;
+window.parent.postMessage(custom_content,'*');

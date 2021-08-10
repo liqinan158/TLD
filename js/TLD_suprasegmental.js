@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>suprasegmental</h2><div class="git"><span class="ipa">[ˌsu:prəsegˈmentl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">超切分的，超音段的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">超切分（或音段）特征，上缀</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

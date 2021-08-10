@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pecs</h2><div class="git"><span class="ipa">[peks]</span></div><span class="onm">原型:</span><span class="orm">pecs 是 pec 的复数</span><hr/></div><div class="coca2">名词pec的复数形式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">胸大肌（尤指健美运动员或举重运动员）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

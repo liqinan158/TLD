@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>returnee</h2><div class="git"><span class="ipa">[rɪˌtɜ:ˈni:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">31401</span><div class="total">4130</div></div><div class="coca2">回国的军人(<font color="orangered">58%</font>)，回国者(<font color="orangered">42%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">海归；回国军人；回校重读的学生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

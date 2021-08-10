@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>die casting</h2><div class="git"><span class="ipa">[dai ˈkæstɪŋ]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">模铸</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">压铸；压力铸造；拉模铸造</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

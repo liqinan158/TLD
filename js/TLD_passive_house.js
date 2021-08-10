@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>passive house</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">被动式房屋（通过建筑设计减少照明、采暖及空调的能耗的建筑）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>poltergeist</h2><div class="git"><span class="ipa">[ˈpəʊltəgaɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30750</span><div class="total">4390</div></div><div class="coca2">敲击吵闹恶作剧的鬼(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">敲击作响闹恶作剧的鬼</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

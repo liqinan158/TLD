@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scheduled caste</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 表列种姓（列在印度宪法第八表的社会阶层, 建议在教育和就业方面给予特别帮助）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

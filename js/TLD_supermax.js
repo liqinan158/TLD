@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>supermax</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">超最大值；速伯玛公司（经销及出口胶乳手套的公司）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

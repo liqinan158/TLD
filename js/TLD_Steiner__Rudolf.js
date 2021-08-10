@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Steiner, Rudolf</h2><div class="git"><span class="ipa">['ru:dɔ:lf]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯坦纳(1861～1925，奥地利社会哲学家，人智学创始人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

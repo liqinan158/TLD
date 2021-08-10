@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>billiard</h2><div class="git"><span class="ipa">['bɪlɪəd]</span></div><hr/></div><div class="coca2">台球的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">连撞两球所得的分数</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">台球的；撞球用的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Billiard)人名；(法)比亚尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

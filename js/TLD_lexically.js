@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lexically</h2><div class="git"><span class="ipa">['leksikəli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">52876</span><div class="total">674</div></div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">词汇方面；字典地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>acceptability</h2><div class="git"><span class="ipa">[əkˌseptə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">24134</span><div class="total">8211</div></div><div class="coca2">可接受性(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">可接受性；可容许性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

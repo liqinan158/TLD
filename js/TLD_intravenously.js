@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>intravenously</h2><div class="git"><span class="ipa">[ˌɪntrə'vi:nəslɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">24492</span><div class="total">7927</div></div><div class="coca2">静脉注射地(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">静脉注射地；通过静脉</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

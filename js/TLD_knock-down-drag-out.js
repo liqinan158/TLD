@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>knock-down-drag-out</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （打架或争吵）激烈的，猛烈的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

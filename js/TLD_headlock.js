@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>headlock</h2><div class="git"><span class="ipa">[ˈhedlɒk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34945</span><div class="total">3002</div></div><div class="coca2">将对手之头紧挟于腋下的一种摔角法(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">摔跤中的夹头</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

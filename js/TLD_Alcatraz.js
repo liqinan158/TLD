@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Alcatraz</h2><div class="git"><span class="ipa">['ælkə,træz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">恶魔岛（等于阿尔卡特拉兹岛，是美国旧金山的头号景点，曾是联邦监狱所在地，也是一个野生动物的庇护所）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

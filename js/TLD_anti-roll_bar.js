@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anti-roll bar</h2><div class="git"><span class="ipa">[ˈænti rəul bɑːr]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 防车厢侧倾稳定杆</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

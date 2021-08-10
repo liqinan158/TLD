@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Baird, John Logie</h2><div class="git"><span class="ipa">[bεəd; 'ləuɡi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">贝尔德(1888～1946，苏格兰工程师、发明家，电视之父)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

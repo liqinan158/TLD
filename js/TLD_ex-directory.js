@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ex-directory</h2><div class="git"><span class="ipa">[ˌeksdiˈrektəri]</span></div><hr/></div><div class="coca2">不记载于电话号码簿的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">（英）电话号码簿上没有登记的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

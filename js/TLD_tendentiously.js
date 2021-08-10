@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tendentiously</h2><div class="git"><span class="ipa">[ten'denʃəslɪ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">宣传性地, 不公平地, 有倾向性地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

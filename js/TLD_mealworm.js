@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mealworm</h2><div class="git"><span class="ipa">[ˈmi:lwɜ:m]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">32932</span><div class="total">3581</div></div><div class="coca2">面粉中的甲虫之幼虫(<font color="orangered">60%</font>)，生于谷类(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">粉虱；面粉中的甲虫之幼虫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

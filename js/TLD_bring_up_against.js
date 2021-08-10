@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bring up against</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">使遇到(困难); 提出…而使(某人)处于不利地位</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

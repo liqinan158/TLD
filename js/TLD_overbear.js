@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overbear</h2><div class="git"><span class="ipa">['əʊvəˌbeə]</span><span class="frm">overbore, overborne, overbearing, overbears</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">压服</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>discombobulated</h2><div class="git"><span class="ipa">[,dɪskəm'bɒbjʊleɪt]</span></div><span class="onm">原型:</span><span class="orm">discombobulated 是 discombobulate 的过去式和过去分词</span><hr/></div><div class="coca2">使混乱(<font color="orangered">50%</font>)，使困惑(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使混乱；使泄气；使困惑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

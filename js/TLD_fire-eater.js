@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fire-eater</h2><div class="git"><span class="ipa">[ˈfaiə ˈi:tə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">60759</span><div class="total">267</div></div><div class="coca2">玩吞火把戏的人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">吞火魔术师；脾气暴躁的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

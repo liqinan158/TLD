@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dialling code</h2><div class="git"><span class="ipa">[ˈdaiəliŋ kəud]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 8</div><div class="epfd"><span class="cmpt"><b><font>cmpt.</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（电话的）区号</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

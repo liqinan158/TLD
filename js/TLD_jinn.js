@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>jinn</h2><div class="git"><span class="ipa">[dʒɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36776</span><div class="total">2573</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">神灵; （伊斯兰教神话）神灵，神仙( jinni的名词复数 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

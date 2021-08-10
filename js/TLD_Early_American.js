@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Early American</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 18</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 7</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">(美国殖民地时期或独立初期建筑、织物、家具、器皿等)早期美国式的(多沿袭英、荷的风格), 初期美式(建筑)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

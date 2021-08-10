@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Grasmere</h2><div class="git"><span class="ipa">['^rɑ:smiә(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">格拉斯米尔( 英格兰坎布里亚郡格拉斯米尔湖畔一村庄)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

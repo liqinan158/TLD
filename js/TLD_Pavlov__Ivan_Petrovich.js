@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pavlov, Ivan Petrovich</h2><div class="git"><span class="ipa">['pævlɔv]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">巴甫洛夫(1849～1936，俄国生理学家，获1904年诺贝尔生理学或医学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

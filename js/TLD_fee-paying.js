@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fee-paying</h2><div class="git"><span class="ipa">['fi:p'eɪɪŋ]</span></div><hr/></div><div class="coca2">收费的(<font color="orangered">50%</font>)，自付费的学生(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">付费</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

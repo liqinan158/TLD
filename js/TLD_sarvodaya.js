@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sarvodaya</h2><div class="git"><span class="ipa">[sә'vәjdәjә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">萨尔乌达耶,人人幸福(印度"圣雄" 甘地所主张建立的新社会之名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

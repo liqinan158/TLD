@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impractically</h2><div class="git"><span class="ipa">[ɪm'præktɪkəlɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">58204</span><div class="total">386</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 不切实际的; 不实用（impractical的副词形式）; 无用的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

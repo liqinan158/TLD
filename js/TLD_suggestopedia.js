@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>suggestopedia</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 启示教学法, 暗示教学法（用于外语教学, 诱发学生兴趣而免其焦虑）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

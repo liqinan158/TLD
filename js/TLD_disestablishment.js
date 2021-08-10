@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disestablishment</h2><div class="git"><span class="ipa">[,disis'tæbliʃmənt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53155</span><div class="total">656</div></div><div class="coca2">废除(<font color="orangered">60%</font>)，解除官职.(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">解除官职；政教分离</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

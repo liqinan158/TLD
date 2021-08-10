@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overcook</h2><div class="git"><span class="ipa">[ˌəʊvəˈkʊk]</span><span class="frm">overcooked, overcooking, overcooks</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">21750</span><div class="total">10564</div></div><div class="coca2">煮过度(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">烹调过度</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

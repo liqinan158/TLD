@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>axel</h2><div class="git"><span class="ipa">[ˈæksl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">33985</span><div class="total">3260</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（花样滑冰）前外一周半跳</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Axel)人名；(瑞典)阿克塞尔；(英、西、德、捷、芬、丹、挪)阿克塞尔；(葡)阿谢尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

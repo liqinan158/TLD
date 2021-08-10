@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>whatshername</h2><div class="git"><span class="ipa">[wætə'neɪm]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">pron.</span><span class="dcn">（用于记不起或是努力想记起某个女人的名字时）叫什么名字的女人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

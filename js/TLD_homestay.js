@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>homestay</h2><div class="git"><span class="ipa">['həʊmsteɪ]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">IELTS</span></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28920</span><div class="total">5178</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（在国外的访问者）在当地居民家居住的时期</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

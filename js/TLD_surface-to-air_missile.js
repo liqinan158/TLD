@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>surface-to-air missile</h2><div class="git"><span class="ipa">[ˈsə:fistəˈeə ˈmisail]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[军][航] 地对空导弹</span></div><div class="dcb"><span class="dcn">[军][航] 地空导弹</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

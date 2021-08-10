@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cody, William Frederick</h2><div class="git"><span class="ipa">['kəudi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">科迪 (1846～1917，美国平原居民，边疆拓荒者，马戏团的主持演出者，绰号 Buffalo Bill)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

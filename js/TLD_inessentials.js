@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inessentials</h2><div class="git"><span class="ipa">[ɪ'nɪsenʃlz]</span></div><span class="onm">原型:</span><span class="orm">inessentials 是 inessential 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 非必需品</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

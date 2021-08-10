@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parkway</h2><div class="git"><span class="ipa">[ˈpɑ:kweɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28963</span><div class="total">5163</div></div><div class="coca2">风景区干道(<font color="orangered">60%</font>)，道边绿化带(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">驾车专用道路；[建] 公园道路</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

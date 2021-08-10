@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>birther</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">39169</span><div class="total">2114</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 此词专门为美国总统奥巴马出现。自从他当选总统后就有人认为他实际是个穆斯林，篡改了出生证明才当上美国总统。有此想法的人被称为“birther”</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

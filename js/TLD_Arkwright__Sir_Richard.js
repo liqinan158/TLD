@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Arkwright, Sir Richard</h2><div class="git"><span class="ipa">['ɑ:krait]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿克赖特(1732～1792，英国水力纺纱机发明人、企业家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Alternative Vote</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">选择投票制；依顺位投票制；排序复选制</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

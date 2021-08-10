@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Australasia</h2><div class="git"><span class="ipa">[.ɒstrə'leɪʒə]</span></div><hr/></div><div class="coca2">新西兰及附近太平洋诸岛)(<font color="orangered">50%</font>)，澳大拉西亚(指澳大利亚(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">澳大拉西亚</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

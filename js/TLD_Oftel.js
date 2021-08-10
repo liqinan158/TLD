@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Oftel</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">电信办公室；英国电信管理办公室；英国电信办公室</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

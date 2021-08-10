@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ptolemy</h2><div class="git"><span class="ipa">['tɔlimi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">托勒密(公元2世纪的古希腊天文学家、地理学家、数学家,地心说的创立者)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Beethoven, Ludwig van</h2><div class="git"><span class="ipa">['beithəuvən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">贝多芬(1770～1827，德国著名作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deed of covenant</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">付款契据（承诺定期捐款的契约，受款人可兼获为此款所应缴的税额）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">契约证书；捐款合约；捐款契据</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

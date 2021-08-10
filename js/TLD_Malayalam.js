@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Malayalam</h2><div class="git"><span class="ipa">[.mælә'jɑ:lәm]</span></div><hr/></div><div class="coca2">印度西南部的 Dravidian 语的一方言(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">马拉雅拉姆语（印度西南部沿海居民讲的一种接近泰米尔语的方言）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

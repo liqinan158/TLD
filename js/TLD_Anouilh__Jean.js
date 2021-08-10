@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Anouilh, Jean</h2><div class="git"><span class="ipa">[ɑ:'nu:jə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿努伊(1910～1987，法国剧作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

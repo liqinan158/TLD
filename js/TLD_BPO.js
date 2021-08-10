@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>BPO</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">过氧化苯甲酰（benzoyl peroxide ）；丁基过氧化物（butyl peroxide ）；英国邮政局（British Post Office ）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

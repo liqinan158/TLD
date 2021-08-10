@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stephenson, George</h2><div class="git"><span class="ipa">['sti:vənsən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯蒂芬森(1781～1848，英国工程师、发明家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

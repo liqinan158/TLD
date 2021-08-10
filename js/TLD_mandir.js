@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mandir</h2><div class="git"><span class="ipa">[ˈmændɪə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47119</span><div class="total">1126</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">寺庙（印度教的）（等于mandira）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>self-regulating</h2><div class="git"><span class="ipa">[ˈselfˈreɡjuleitiŋ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36770</span><div class="total">2574</div></div><div class="coca2">自动调节的(<font color="orangered">50%</font>)，自制的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">自制的；自动调节的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

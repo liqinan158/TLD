@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Merlin</h2><div class="git"><span class="ipa">['m\\:lin]</span></div><hr/></div><div class="coca2">灰背隼(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">灰背隼</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Merlin)人名；(意)梅林；(英、德)默林；(法)梅兰</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

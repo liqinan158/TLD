@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>luminance</h2><div class="git"><span class="ipa">[ˈlu:mɪnəns]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21142</span><div class="total">11347</div></div><div class="coca2">发光(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[光][电子] 亮度；[光] 发光性（等于luminosity）；光明</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Banff</h2><div class="git"><span class="ipa">[bænf]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">班芙（英国苏格兰东北部一座港市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

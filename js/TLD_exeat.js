@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>exeat</h2><div class="git"><span class="ipa">[ˈeksɪæt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&lt;主英&gt;短时离校（或修道院）的许可，外宿许可，缺席许可</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

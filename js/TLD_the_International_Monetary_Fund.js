@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>the International Monetary Fund</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">国际货币金组织；基金组织；国际货泉基金组织</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

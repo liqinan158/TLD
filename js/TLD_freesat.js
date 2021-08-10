@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>freesat</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">免费卫星；免费卫视广播平台；免费星公司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

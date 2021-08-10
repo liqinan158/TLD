@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Caruso, Enrico</h2><div class="git"><span class="ipa">[kə'ru:səu; en'ri:kəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卡鲁索(1873～1921，意大利男高音歌唱家，歌剧演员)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

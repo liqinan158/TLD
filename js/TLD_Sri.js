@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Sri</h2><div class="git"><span class="ipa">[sri]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">斯里兰卡（Sri Lanka）；（拉）神圣罗马帝国（Sacrum Romanum Imperium）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Sri)人名；(印、柬、印尼、阿拉伯、马来)斯里；(泰、老)西</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

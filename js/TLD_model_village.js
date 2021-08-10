@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>model village</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 村庄模型；（取材著名建筑物制作的）模型村</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

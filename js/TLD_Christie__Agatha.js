@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Christie, Agatha</h2><div class="git"><span class="ipa">['kristi; 'æɡəθə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">克里斯蒂 (1891～1976，英国女侦探小说家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

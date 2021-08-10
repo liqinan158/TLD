@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>telecommuter</h2><div class="git"><span class="ipa">[ˌtelɪkə'mju:tə(r)]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">TOEFL</span></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57324</span><div class="total">427</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">远程工作者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

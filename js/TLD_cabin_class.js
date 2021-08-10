@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cabin class</h2><div class="git"><span class="ipa">[ˈkæbin klɑ:s]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">头等舱</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">二等舱；客舱等级；客船客舱级别</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

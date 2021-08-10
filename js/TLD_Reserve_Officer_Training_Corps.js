@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Reserve Officer Training Corps</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">后备军官训练团；后备军官训练队；预备役军官训练团</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

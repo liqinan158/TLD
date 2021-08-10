@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>deconstructionist</h2><div class="git"><span class="ipa">[,di:kən'strʌkʃənist]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">54340</span><div class="total">583</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">解构者</span></div><div class="dcb"><span class="pos">a.</span><span class="dcn">解构主义的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

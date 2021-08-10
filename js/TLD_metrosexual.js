@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>metrosexual</h2><div class="git"><span class="ipa">[ˌmetrəˈsekʃuəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">49237</span><div class="total">953</div></div><div class="coca2">都市美型男(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">都市型男：在大都市中的现代男性，非常在意自己的形象，注意保养皮肤和头发，也紧跟时尚潮流</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

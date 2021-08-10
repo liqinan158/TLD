@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>recovery position</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">复原卧位</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">复原卧式；复原体位睡姿；复苏姿势</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

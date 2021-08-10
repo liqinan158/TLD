@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>John Paul I</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">若望保禄一世；教皇若望保禄一世；约翰·保罗一世</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

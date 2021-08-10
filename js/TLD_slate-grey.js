@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>slate-grey</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 石板灰的；蓝灰色的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

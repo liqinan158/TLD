@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nosh-up</h2><div class="git"><span class="ipa">[nɔʃ ʌp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">nosh-up</span></div><div class="dcb"><span class="dcn">['nɔʃʌp]</span></div><div class="dcb"><span class="pos">n.</span></div><div class="dcb"><span class="dcn">[英国英语]丰盛的一餐</span></div><div class="dcb"><span class="dcn">以上来源于：《21世纪大英汉词典》</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

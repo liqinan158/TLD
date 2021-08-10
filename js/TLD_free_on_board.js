@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>free on board</h2><div class="git"><span class="ipa">[fri: ɔn bɔ:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">船上交货的；离岸价格的</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">装运港船上交货；船上交货价；船上交货价格</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

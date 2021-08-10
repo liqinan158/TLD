@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Asquith, Herbert Henry</h2><div class="git"><span class="ipa">['æskwiθ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">阿斯奎斯(1852～1928)，英国首相(1908～1916)，自由党领袖(1908～1926)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

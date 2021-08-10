@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>black information</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 黑名单信息, 高信贷风险资料（银行等金融机构就不可信赖的借贷者建立）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

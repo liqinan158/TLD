@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hazmat</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">28015</span><div class="total">5612</div></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">hazardous material(s) 危险品; Hazrdous Materials Response and Assessments Division 危险材料反应和评估部门</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

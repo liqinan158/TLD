@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>uncontrollably</h2><div class="git"><span class="ipa">[,ʌnkən'trəuləbli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">23123</span><div class="total">9113</div></div><div class="coca2">控制不住的(<font color="orangered">72%</font>)，无法管束的(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">控制不住地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

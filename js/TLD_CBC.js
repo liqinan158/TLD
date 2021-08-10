@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>CBC</h2><div class="git"><span class="ipa">[.siː biː 'siː]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">加拿大广播公司（Canadian Broadcasting Corporation）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

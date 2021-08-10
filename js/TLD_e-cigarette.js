@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>e-cigarette</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">电子烟；电子香烟；电子菸</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>goodo</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[英国、澳大利亚、新西兰口语]</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">好的</span></div><div class="dcb"><span class="pos">adv.</span><span class="dcn">好；行；是，对，不错</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

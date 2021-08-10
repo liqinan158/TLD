@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>palm off as</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[口语]把某物冒充(不同的或更好的)骗卖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

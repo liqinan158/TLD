@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pavarotti, Luciano</h2><div class="git"><span class="ipa">[,pɑ:vɑ:'rɔ:tti:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">帕瓦罗蒂(1935～ ，意大利男高音歌唱家，以其高音音城的优势而闻名)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

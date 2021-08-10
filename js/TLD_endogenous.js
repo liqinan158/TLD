@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>endogenous</h2><div class="git"><span class="ipa">[enˈdɒdʒənəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">19390</span><div class="total">13887</div></div><div class="coca2">内生的(<font color="orangered">86%</font>)，内成的(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">[生物] 内生的；内因性的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

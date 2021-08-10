@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>onomastics</h2><div class="git"><span class="ipa">[ˌɒnəˈmæstɪks]</span></div><span class="onm">原型:</span><span class="orm">onomastics 是 onomastic 的复数</span><hr/></div><div class="coca2">专有名词学(<font color="orangered">51%</font>)，语原论(<font color="orangered">33%</font>)，名义论(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">专有名词学</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

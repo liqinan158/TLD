@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>trench fever</h2><div class="git"><span class="ipa">[trentʃ ˈfi:və]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【医】战壕热</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">五日热；壕沟热；热病</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

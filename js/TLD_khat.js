@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>khat</h2><div class="git"><span class="ipa">[kɑ:t]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53230</span><div class="total">652</div></div><div class="coca2">=kat(<font color="orangered">50%</font>)，qat.(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿拉伯茶（产于非洲和阿拉伯）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

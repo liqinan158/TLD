@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bumfluff</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （男孩开始长胡子时上唇的）茸毛, 小胡子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

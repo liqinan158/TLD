@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sound check</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 36</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 4</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 29</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">试音；音控台试音；音控台试音常识</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

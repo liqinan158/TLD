@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Braun, Eva</h2><div class="git"><span class="ipa">[braun]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">布劳恩(1912～1945，希特勒情妇，在希特勒末日时举行婚礼，最后一起自杀)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kitten heels</h2><div class="git"><span class="ipa">[ˈkitn hi:lz]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（复数）中跟女鞋。鞋跟比stiletto（细高跟女鞋）要低一些，大概有两英寸左右。</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>immure</h2><div class="git"><span class="ipa">[ɪˈmjʊə(r)]</span><span class="frm">immured, immuring, immures</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">监禁(<font color="orangered">50%</font>)，禁闭(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">把…嵌在墙上；监禁，禁闭</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

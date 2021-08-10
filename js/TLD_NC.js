@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>NC</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">国家合格证（National Certificate）；网路电脑（Network Computer）；新喀里多尼亚（New Caledonia）；自然对流（Natural Convection）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

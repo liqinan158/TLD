@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>automaton</h2><div class="git"><span class="ipa">[ɔ:ˈtɒmətən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26093</span><div class="total">6775</div></div><div class="coca2">机器人(<font color="orangered">83%</font>)，不动脑筋机械行事的人(<font color="orangered">17%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">自动机；机器人；自动机器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

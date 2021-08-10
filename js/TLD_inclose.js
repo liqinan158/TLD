@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>inclose</h2><div class="git"><span class="ipa">[ɪn'kləʊz]</span><span class="frm">inclosed, inclosing, incloses</span></div><hr/></div><div class="coca2">围住(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">围绕；附上（等于enclose）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

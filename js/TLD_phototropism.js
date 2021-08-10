@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phototropism</h2><div class="git"><span class="ipa">[ˌfəʊtəʊˈtrəʊpɪzəm]</span></div><hr/></div><div class="coca2">向光性(<font color="orangered">60%</font>)，屈光性(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生物] 向光性；[物] 趋光性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

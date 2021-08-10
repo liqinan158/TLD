@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>go over to</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 153</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 14</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 124</div><div class="gdc"><div class="dcb"><span class="dcn">过河(或街)到…；经过一段路程到…；改为，改变(信仰、宗教)转到；退出(政党)转向；改变选择；转换</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

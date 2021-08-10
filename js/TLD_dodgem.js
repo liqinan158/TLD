@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dodgem</h2><div class="git"><span class="ipa">['dɔdʒim]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">电动碰碰车（常见于游乐场中）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gift-wrap</h2><div class="git"><span class="ipa">[ˈgɪftˌræp]</span><span class="frm">gift-wrapped, gift-wrapping, gift-wraps</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">礼物包装的包装纸</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">用美丽的纸张及缎带包装</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

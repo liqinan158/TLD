@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fought</h2><div class="git"><span class="ipa">[fɔ:t]</span></div><span class="onm">原型:</span><span class="orm">fought 是 fight 的过去式和过去分词</span><hr/></div><div class="coca2">争取(<font color="orangered">59%</font>)，打仗(<font color="orangered">26%</font>)，争论(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">战斗（fight的过去分词）；打架</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

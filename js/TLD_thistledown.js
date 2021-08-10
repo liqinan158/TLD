@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>thistledown</h2><div class="git"><span class="ipa">[ˈθɪsldaʊn]</span></div><hr/></div><div class="coca2">蓟花的冠毛(<font color="orangered">75%</font>)，非常轻的(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蓟花的冠毛；蓟种子冠毛</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">非常轻的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

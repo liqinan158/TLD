@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Jerusalem</h2><div class="git"><span class="ipa">[dʒә'ru:sәlәm]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">耶路撒冷(以色列首都)；耶路撒冷〔巴勒斯坦古城,犹太教、基督教和伊斯兰教的圣地〕</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

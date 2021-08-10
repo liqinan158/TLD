@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rack-and-pinion</h2><div class="git"><span class="ipa">['ræk'ændp'ɪnɪən]</span></div><hr/></div><div class="coca2">齿轮齿条副(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">齿轮齿条副；齿条和小齿轮</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

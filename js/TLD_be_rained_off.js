@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>be rained off</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">因下雨停止比赛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

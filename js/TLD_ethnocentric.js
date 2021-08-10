@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ethnocentric</h2><div class="git"><span class="ipa">[ˌeθnəʊˈsentrɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">44982</span><div class="total">1331</div></div><div class="coca2">种族优越感的(<font color="orangered">63%</font>)，民族中心主义的(<font color="orangered">37%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">种族优越感的；民族中心主义的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

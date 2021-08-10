@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>irio</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 依丽什锦菜（用玉米、豆子、青菜和豌豆等拌和而成）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

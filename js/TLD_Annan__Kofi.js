@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Annan, Kofi</h2><div class="git"><span class="ipa">[ɑ:'nɑ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">安南(1938～ )，加纳外交家，联合国秘书长(1997～2006)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

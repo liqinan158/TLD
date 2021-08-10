@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Tipperary</h2><div class="git"><span class="ipa">['tipə'rεəri]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蒂珀雷里（爱尔兰地名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

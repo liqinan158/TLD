@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>illocution</h2><div class="git"><span class="ipa">[ˌɪləˈkju:ʃn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">语内表现行为（指在特定语境中一讲出话即完成的言语表达行为，如答应、允许等）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

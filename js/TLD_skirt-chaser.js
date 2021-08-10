@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>skirt-chaser</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">〈俚〉色情狂者</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">好色鬼；好色之徒；追女仔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

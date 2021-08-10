@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>feather bedding</h2><div class="git"><span class="ipa">[ˈfeðə ˈbedɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 浮报雇佣（日本工会的防止失业对策）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

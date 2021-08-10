@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kurd</h2><div class="git"><span class="ipa">[kuәd]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18346</span><div class="total">15621</div></div><div class="coca2">库德人(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">库尔德人（西亚的游牧民族）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>intermediate school</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">（美）初级中学（介于小学与中学之间）；（英）中间学校（介于初中和高中之间）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

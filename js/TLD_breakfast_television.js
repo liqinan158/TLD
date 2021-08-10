@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>breakfast television</h2><div class="git"><span class="ipa">[ˈbrɛkfəst ˈtɛləˌvɪʒən]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">早餐电视，(为在早餐时吸引观众而编排的)早晨电视节目</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

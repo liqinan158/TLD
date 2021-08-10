@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>elimination reaction</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">消除反应（一种物质从其他物质分离的化学反应）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">消去反应；脱去反应；单分子消除反应</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

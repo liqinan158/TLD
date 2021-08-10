@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>psych out</h2><div class="git"><span class="ipa">[saik aut]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">吓坏了；装精神失常进行逃避</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">精神错乱；怪猫显神威；尔虞我诈</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

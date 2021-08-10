@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ayckbourn, Alan</h2><div class="git"><span class="ipa">['eikbɔ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">艾克伯恩(1939～ ，英国剧作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

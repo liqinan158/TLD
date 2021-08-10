@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Coldplay</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/lpd_coldplay.mp3" href="sound://media/spx/GB_lpd_coldplay.spx" title="Play British pronunciation of Coldplay"> </a><a class="amefile" href="sound://ameProns/lpd_coldplay.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="dcn"> 英国摇滚乐坛进入新世纪之后崛起的最受欢迎的摇滚乐队之一</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

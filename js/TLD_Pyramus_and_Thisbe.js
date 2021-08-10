@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pyramus and Thisbe</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 6</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">皮拉默思跟笛丝贝；皮刺摩斯与提斯柏；皮拉默思与笛丝贝</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

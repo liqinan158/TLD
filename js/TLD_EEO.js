@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>EEO</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">均等就业机会（Equal Employment Opportunity）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

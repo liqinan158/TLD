@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>anti-vaxxer</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">A particularly [toxic] kind of [narcissist] who places their own [science illiterate] beliefs in [woo] over the welfare of their own children and that of the general population.</span></div><div class="dcb"><span class="deq">&gt; "Oh great, another [measles] outbreak, thanks to those [dumbass] [anti-vaxxer]s."</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

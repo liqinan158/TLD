@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>krone</h2><div class="git"><span class="ipa">[ˈkrəʊnə]</span></div><span class="onm">级别:</span><span class="qrm">kroner, kronest</span><hr/></div><div class="coca2">复数为kroner.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克朗（丹麦，挪威的货币单位）；德国旧金币</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Krone)人名；(德、法、瑞典)克罗内；(英)克朗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

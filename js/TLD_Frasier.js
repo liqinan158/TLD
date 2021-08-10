@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Frasier</h2><hr/></div><a class="Sizespeaker brefile fa fa-volume-up" data-src-mp3="/media/english/breProns/lpd_frasier.mp3" href="sound://media/spx/GB_lpd_frasier.spx" title="Play British pronunciation of Frasier"> </a><a class="amefile" href="sound://ameProns/lpd_frasier.mp3"><img src="lus.png"/></a><div class="gdc"><div class="dcb"><span class="dcn"> [人名] 弗雷泽</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

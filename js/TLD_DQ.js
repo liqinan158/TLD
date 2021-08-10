@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DQ</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">冰激凌品牌（Dairy Queen）；定量（definite quantity）；[律]直接讯问（direct question）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

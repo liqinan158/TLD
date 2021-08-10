@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>interconnection</h2><div class="git"><span class="ipa">[ˌɪntəkə'nekʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">18192</span><div class="total">15920</div></div><div class="coca2">互相连络(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[计] 互连；互相连络</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

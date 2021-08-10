@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>watching brief</h2><div class="git"><span class="ipa">[ˈwɔtʃiŋ bri:f]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（尤指对政治组织的）监视</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">赵家进行监察；监察队；观察审讯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

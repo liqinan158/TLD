@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pre-teach</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 考试（或练习）前教授（新词等）；先期教授</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

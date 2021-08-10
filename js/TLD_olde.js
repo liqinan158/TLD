@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>olde</h2><div class="git"><span class="ipa">[əʊld]</span></div><hr/></div><div class="coca2">使人觉得某事物古老而有趣的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">使人觉得某事物古老而有趣的</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Olde)人名；(瑞典)奥尔德</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

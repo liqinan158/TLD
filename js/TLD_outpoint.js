@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>outpoint</h2><div class="git"><span class="ipa">[ˌaʊtˈpɔɪnt]</span><span class="frm">outpointed, outpointing, outpoints</span></div><hr/></div><div class="coca2">比更向逆风航行(<font color="orangered">50%</font>)，得分多于 ...(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">得分多于……；比……更能逆风航行</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

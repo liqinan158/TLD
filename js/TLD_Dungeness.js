@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dungeness</h2><div class="git"><span class="ipa">['dʌndʒәnes]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">crab [动]邓杰内斯蟹( 北美洲太平洋沿岸的大型可食蟹)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

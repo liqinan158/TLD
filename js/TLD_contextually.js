@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>contextually</h2><div class="git"><span class="ipa">[kən'tekstju:əli]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">32067</span><div class="total">3886</div></div><div class="coca2">上下文的(<font color="orangered">89%</font>)，与语境有关的(<font color="orangered">11%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">从上下文；根据上下文</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nether</h2><div class="git"><span class="ipa">[ˈneðə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">22880</span><div class="total">9364</div></div><div class="coca2">下面的(<font color="orangered">65%</font>)，地下的(<font color="orangered">35%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">下面的，下方的；地下的，下界的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

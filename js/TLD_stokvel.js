@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stokvel</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 集资互助组（成员定期缴纳款项并轮流领取全部或部分集资款）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

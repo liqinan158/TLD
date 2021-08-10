@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>T-junction</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36856</span><div class="total">2554</div></div><div class="coca2">T型接合(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">丁字路口，T型接合</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

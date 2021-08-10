@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paramedic</h2><div class="git"><span class="ipa">[ˌpærəˈmedɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">13872</span><div class="total">28634</div></div><div class="coca2">护理人员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">护理人员；伞兵军医；伞降医务人员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

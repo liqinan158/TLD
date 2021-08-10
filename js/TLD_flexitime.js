@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flexitime</h2><div class="git"><span class="ipa">[ˈfleksitaɪm]</span></div><hr/></div><div class="coca2">弹性上班制(<font color="orangered">78%</font>)，=flextime.(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">弹性上班制（等于flextime）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

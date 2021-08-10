@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MSSA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[=methicillin sensitive staphylococcus aureus]甲氧西林敏感金黄色葡萄球菌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

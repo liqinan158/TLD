@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>counterblast</h2><div class="git"><span class="ipa">[ˈkaʊntəblɑ:st]</span></div><hr/></div><div class="coca2">猛烈的反对(<font color="orangered">44%</font>)，强硬的抗议(<font color="orangered">42%</font>)，反对气流(<font color="orangered">14%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">强硬的抗议；反向气流；猛烈的反对</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

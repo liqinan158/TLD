@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Kohl, Helmut</h2><div class="git"><span class="ipa">[kəul; 'helmu:t]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">科尔(1930～ )，原联邦德国总理(1982～1990)，德国总理(1990～1998)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

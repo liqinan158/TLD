@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cinderella</h2><div class="git"><span class="ipa">[sindә'relә]</span></div><hr/></div><div class="coca2">灰姑娘(<font color="orangered">85%</font>)，被埋没的人(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">灰姑娘（童话中的一个形象）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

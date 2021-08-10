@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chaprasi</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">chaprasi (plural chaprasis)</span></div><div class="dcb"><span class="dcn">(India) An official of some kind, especially an important attendant or messenger in the household of an Indian landowner.</span></div><div class="dcb"></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

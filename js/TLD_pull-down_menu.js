@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pull-down menu</h2><div class="git"><span class="ipa">[pul daun ˈmenju:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">下拉项目单</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">下拉菜单；下拉菜单响应；下拉式菜单</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

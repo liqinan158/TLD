@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>triple jumper</h2><div class="git"><span class="ipa">[ˈtripl ˈdʒʌmpə]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">〔体〕三级跳远</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">三级跳远运动员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

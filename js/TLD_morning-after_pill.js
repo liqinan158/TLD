@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>morning-after pill</h2><div class="git"><span class="ipa">[ˈmɔ:nɪŋˈæftə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">女用口服避孕片（房事后用的）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

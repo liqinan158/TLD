@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>perfectibility</h2><div class="git"><span class="ipa">[ˌpəfektə'bɪlɪtɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57674</span><div class="total">411</div></div><div class="coca2">完全性(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">完全性；可改善性；可完美性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

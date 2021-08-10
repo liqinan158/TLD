@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>waitressing</h2><span class="onm">原型:</span><span class="orm">waitressing 是 waitress 的现在分词</span><hr/></div><div class="coca2">女服务员工作(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">女服务员；女侍者</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">做女服务生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

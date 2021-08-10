@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hegel, Georg Wilhelm Friedrich</h2><div class="git"><span class="ipa">['heiɡəl; 'ɡeiɔ:k'vi lhelm 'fri:driʃ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">黑格尔(1770～1831，德国哲学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

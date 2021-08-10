@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>avionics</h2><div class="git"><span class="ipa">[ˌeɪviˈɒnɪks]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">19596</span><div class="total">13517</div></div><div class="coca2">航空电子学(<font color="orangered">78%</font>)，航空用电子设备(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">航空电子设备；航空电子学，航空电子技术</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Provo</h2><div class="git"><span class="ipa">['prәuvәu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(pl. provos )青年无政府主义者(在一些欧洲国家内自由地组织起来的无政府主义运动的青年), [Provo ]爱尔兰共和军极端派成员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

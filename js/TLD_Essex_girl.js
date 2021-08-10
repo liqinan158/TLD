@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Essex girl</h2><div class="git"><span class="ipa">['esɪks gɜ:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">埃塞克斯女郎（尤用于笑话，指愚笨、邋遢、讲话没修养、随便与人发生关系的女子）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">艾塞克斯女孩；埃塞克斯姑娘</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

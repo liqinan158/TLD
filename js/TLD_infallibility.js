@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>infallibility</h2><div class="git"><span class="ipa">[ɪnˌfælə'bɪlətɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30047</span><div class="total">4689</div></div><div class="coca2">绝无错误(<font color="orangered">80%</font>)，确实性(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">绝无错误；无过失</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

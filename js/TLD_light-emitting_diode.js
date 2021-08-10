@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>light-emitting diode</h2><div class="git"><span class="ipa">[ˈlaɪtɪˌmɪtɪŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">发光两极管</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">发光二极管；发光二极体；发光二级管</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

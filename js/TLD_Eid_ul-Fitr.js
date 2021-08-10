@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Eid ul-Fitr</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">开斋节；开斋节尔德·菲图尔；伊斯兰教开斋节</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

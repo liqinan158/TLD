@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ethnographer</h2><div class="git"><span class="ipa">[eθˈnɒgrəfə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">44981</span><div class="total">1331</div></div><div class="coca2">民族志学者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">人种志学者；民族志学者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

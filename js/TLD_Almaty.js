@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Almaty</h2><div class="git"><span class="ipa">[ˌɑ:lməˈti:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">阿拉木图（位于哈萨克斯坦东南部，该国前首都和经济、文化中心及最大的工业中心）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>waterline</h2><div class="git"><span class="ipa">[ˈwɔ:təlaɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23036</span><div class="total">9193</div></div><div class="coca2">吃水线(<font color="orangered">85%</font>)，水印横线(<font color="orangered">15%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">吃水线（海陆边界）；水印横线</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

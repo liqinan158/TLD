@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>metalliferous</h2><div class="git"><span class="ipa">[ˌmetəˈlɪfərəs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">含金属的，产金属的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

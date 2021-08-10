@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hemidemisemiquaver</h2><div class="git"><span class="ipa">[ˌhemidemiˈsemikweɪvə(r)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">六十四分音符（美作：sixty-fourth note）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

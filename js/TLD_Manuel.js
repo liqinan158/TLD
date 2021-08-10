@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Manuel</h2><div class="git"><span class="ipa">[ˈmænjuel]</span></div><hr/></div><div class="coca2">=Emmanuel.(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">曼纽尔（男子名）；曼努埃尔二世（拜占庭皇帝约翰五世的次子）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

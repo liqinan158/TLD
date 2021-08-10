@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hunger after</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 极需…，渴望得到…</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

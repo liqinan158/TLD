@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drop curtain</h2><div class="git"><span class="ipa">[drɔp ˈkə:tn]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">吊幕</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">垂幕；剧院可升降的垂幕；舞台前的垂幕</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

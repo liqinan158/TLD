@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Palomar, Mount</h2><div class="git"><span class="ipa">['pæləmɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">帕洛马山(位于美国加利福尼亚州南部)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

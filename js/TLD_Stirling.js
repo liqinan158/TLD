@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stirling</h2><div class="git"><span class="ipa">['stә:liŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">斯特灵（英国苏格兰中部城市, 中央区首府）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

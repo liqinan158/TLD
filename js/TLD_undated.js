@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>undated</h2><div class="git"><span class="ipa">[ˌʌnˈdeɪtɪd]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">22018</span><div class="total">10283</div></div><div class="coca2">无定期的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无限期的；未标日期的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

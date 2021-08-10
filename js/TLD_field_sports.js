@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>field sports</h2><span class="onm">原型:</span><span class="orm">field sports 是 field sport 的复数</span><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 6</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（狩猎、射击、垂钓等）野外运动; 野外运动（如打猎等），户外活动( field sport的名词复数 )</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

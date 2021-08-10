@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>centre of mass</h2><div class="git"><span class="ipa">[ˈsentə ɔv mæs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">重心；质量中心</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">质心；质量不均匀的球体的质心；惯性中心</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

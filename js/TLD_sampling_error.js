@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sampling error</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">采样误差（所抽样本不具备代表性）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">抽样误差；取样误差；样本误差</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

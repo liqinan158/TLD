@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>blue law</h2><div class="git"><span class="ipa">[blu: lɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">严格的法律（旧时禁止星期日营业、饮酒、娱乐等的规定）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

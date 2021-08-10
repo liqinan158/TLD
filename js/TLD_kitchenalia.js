@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kitchenalia</h2><div class="git"><span class="ipa">[ˌkitʃinˈæliə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(可收藏的)古式厨房用具，(过时的)厨房设备收藏品</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>walkie-talkie</h2><div class="git"><span class="ipa">[ˌwɔ:ki ˈtɔ:ki]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36895</span><div class="total">2543</div></div><div class="coca2">无线电话机(<font color="orangered">60%</font>)，=walky-talky.(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">步话机；手提无线电话机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

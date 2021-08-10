@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>capital loss</h2><div class="git"><span class="ipa">[ˈkæpitl lɔs]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 资本损失</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

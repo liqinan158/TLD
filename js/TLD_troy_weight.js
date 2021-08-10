@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>troy weight</h2><div class="git"><span class="ipa">[trɔi weit]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 5</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">计重金衡制</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">金衡量；英国金衡制；金衡盎司</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

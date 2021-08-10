@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Palestinian National Authority</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">巴勒斯坦民族权力机构；巴勒斯坦自治政府；巴勒斯坦民族政府</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

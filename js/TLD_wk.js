@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wk</h2><div class="git"><span class="ipa">['dəbəlju:k'eɪ]</span></div><hr/></div><div class="coca2">星期(工作(<font color="orangered">50%</font>)，加工制造)(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">工作（work）；星期（week）；弱点（weak）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

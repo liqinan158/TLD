@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>absolute magnitude</h2><div class="git"><span class="ipa">[ˈæbsəlju:t ˈmæɡnitju:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">【天】绝对星等</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">绝对量；绝对量级；小行星的绝对星等</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

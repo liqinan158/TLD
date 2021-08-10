@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Auschwitz</h2><div class="git"><span class="ipa">['aʊʃvɪts]</span></div><hr/></div><div class="coca2">奥斯威辛集中营(<font color="orangered">92%</font>)，=Oswiecim.(<font color="orangered">8%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奥许维次（波兰城市名）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Auschwitz)人名；(德)奥施维茨</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

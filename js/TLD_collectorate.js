@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>collectorate</h2><div class="git"><span class="ipa">[kəˈlektərət]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">收税员的职位及管区</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

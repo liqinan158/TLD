@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rudiments</h2><div class="git"><span class="ipa">[ˈru:dɪmənts]</span></div><span class="onm">原型:</span><span class="orm">rudiments 是 rudiment 的复数</span><hr/></div><div class="coca2">入门(<font color="orangered">46%</font>)，基础知识(<font color="orangered">45%</font>)，名词rudiment的复数形式.(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">入门；初步；基础知识</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

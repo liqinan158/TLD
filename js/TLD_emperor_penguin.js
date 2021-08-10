@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>emperor penguin</h2><div class="git"><span class="ipa">[ˈempərə ˈpeŋɡwin]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">皇帝企鹅；帝王企鹅；皇企鹅</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

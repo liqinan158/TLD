@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unidentifiable</h2><div class="git"><span class="ipa">[ˌʌnaɪˈdentɪfaɪəbl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">36693</span><div class="total">2591</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无法辨认的；无法鉴定的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

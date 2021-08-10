@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kirpan</h2><div class="git"><span class="ipa">[kɪə'pɑ:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（锡克族男子佩带的）圣刀</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">短剑；腰佩短剑；佩剑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

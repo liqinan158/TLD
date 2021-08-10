@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stage-manage</h2><div class="git"><span class="ipa">[steidʒˈmænidʒ]</span></div><hr/></div><div class="coca2">指挥(<font color="orangered">75%</font>)，监督(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">担任……之舞台监督；幕后监督；指挥</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">担任舞台监督</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

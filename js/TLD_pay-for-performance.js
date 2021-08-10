@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pay-for-performance</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">45995</span><div class="total">1232</div></div><div class="coca2">按绩效付酬的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">绩效薪酬</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

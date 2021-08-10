@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Apostles' Creed</h2><div class="git"><span class="ipa">[əˈpɔsəlz]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">使徒信条(该信条开端为“我信上帝,全能的父...”)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

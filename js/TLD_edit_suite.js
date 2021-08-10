@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>edit suite</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 录像编辑室；影像制作室</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

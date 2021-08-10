@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ABTA</h2><div class="git"><span class="ipa">['æbtə]</span></div><hr/></div><div class="coca2">英国旅行代理商协会(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">英国旅行社协会（Association of British Travel Agents）；澳大利亚-英国贸易协会（Australian British Trade Association）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

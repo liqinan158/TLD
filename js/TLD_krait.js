@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>krait</h2><div class="git"><span class="ipa">[kraɪt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">53859</span><div class="total">612</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[脊椎] 金环蛇（印度的一种毒蛇）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

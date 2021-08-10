@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>witter</h2><div class="git"><span class="ipa">[ˈwɪtə(r)]</span></div><hr/></div><div class="coca2">没完没了地唠叨琐事(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Witter)人名；(德)维特尔；(英)威特</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">喋喋不休；唠叨而讨厌地说琐碎的事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

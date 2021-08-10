@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hebrides</h2><div class="git"><span class="ipa">['hebridi:z]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">赫布里底群岛[英国苏格兰西部]( 被小明奇海峡分为内赫布里底群岛)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

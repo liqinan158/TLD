@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>orthodontic</h2><div class="git"><span class="ipa">[ˌɔ:θə'dɒntɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">20787</span><div class="total">11802</div></div><div class="coca2">畸齿矫正的(<font color="orangered">67%</font>)，整牙学的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">畸齿矫正的，齿列矫正的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

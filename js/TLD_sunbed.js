@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sunbed</h2><div class="git"><span class="ipa">[ˈsʌnbed]</span></div><span class="onm">原型:</span><span class="orm">sunbed 是 sunb 的过去式</span><hr/></div><div class="coca2">日光浴浴床(<font color="orangered">51%</font>)，日光浴(<font color="orangered">25%</font>)，太阳灯浴(<font color="orangered">12%</font>)，日光浴床(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">日光浴浴床</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

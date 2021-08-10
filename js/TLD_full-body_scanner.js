@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>full-body scanner</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">全身扫描器；全身扫瞄机；裸体扫瞄仪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

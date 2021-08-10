@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cordon bleu</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 40</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 10</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 21</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">蓝绶带（法国波旁王朝时代授予骑士的最高勋章）；最高勋位；佼佼者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fundamental force</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">基本力（宇宙万物所具有的特性，包括引力和电磁力等四种）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">种基本力；基本作用力；有着不一样基本作用力</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

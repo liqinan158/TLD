@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>screenshot</h2><div class="git"><span class="ipa">[ˈskri:nʃɒt]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">4947</span><div class="total">191185</div></div><div class="coca2">屏幕快照(<font color="orangered">50%</font>)，截屏(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">屏幕截图（截图软件名称）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

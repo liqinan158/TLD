@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Father Brown</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 2</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="dcn">布朗神父（著名侦探作家G.K.切斯特顿笔下的著名侦探）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

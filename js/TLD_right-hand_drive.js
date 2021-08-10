@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>right-hand drive</h2><div class="git"><span class="ipa">[ˈraɪtˈhænd draiv]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">右座驾驶</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

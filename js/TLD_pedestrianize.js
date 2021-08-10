@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pedestrianize</h2><div class="git"><span class="ipa">[pəˈdestriənaɪz]</span></div><hr/></div><div class="coca2">步行(<font color="orangered">67%</font>)，使成为行人专用区(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vt.</span><span class="dcn">使成行人专用区；使（街道等）无车辆行驶</span></div><div class="dcb"><span class="pos">vi.</span><span class="dcn">步行</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

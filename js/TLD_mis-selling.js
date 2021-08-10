@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mis-selling</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">不当行销</span></div><div class="dcb"><span class="dcn">违规销售</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

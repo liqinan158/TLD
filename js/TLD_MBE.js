@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>MBE</h2><div class="git"><span class="ipa">[.em biː 'iː]</span></div><hr/></div><div class="coca2">英帝国勋章获得者(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">英帝国勋章获得者（Member of the British Empire）；商业经济学硕士（Master of Business Economics）；商务教育学硕士（Master of Business Education）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

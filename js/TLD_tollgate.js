@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tollgate</h2><div class="git"><span class="ipa">['təʊlˌgeɪt]</span></div><hr/></div><div class="coca2">征收通行税的关卡(<font color="orangered">75%</font>)，关门(<font color="orangered">25%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">关卡；征收通行税的关卡</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tasselled</h2><div class="git"><span class="ipa">[ˈtæsld]</span></div><span class="onm">原型:</span><span class="orm">tasselled 是 tassel 的过去式</span><hr/></div><div class="coca2">流苏(<font color="orangered">54%</font>)，抽穗(<font color="orangered">26%</font>)，用流苏装饰(<font color="orangered">20%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">(为了使作物茁长)摘去穗状雄花（tassel的过去式和过去分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

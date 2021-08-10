@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tabla</h2><div class="git"><span class="ipa">[ˈtæblə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43491</span><div class="total">1495</div></div><div class="coca2">手鼓(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">手鼓；塔布拉鼓（印度一种手敲小鼓）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

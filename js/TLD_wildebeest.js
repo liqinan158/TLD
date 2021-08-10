@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wildebeest</h2><div class="git"><span class="ipa">[ˈwɪldəbi:st]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">29623</span><div class="total">4877</div></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">羚羊的一种；牛羚（又名角马）（产于非洲）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

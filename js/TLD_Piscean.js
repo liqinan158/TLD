@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Piscean</h2><div class="git"><span class="ipa">['paisiәn,'pi-]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(占星术中)出生于双鱼座时段(即约自2月19日至3 月20日)的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

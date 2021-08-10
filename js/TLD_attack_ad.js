@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>attack ad</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">攻击对手的竞选广告</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

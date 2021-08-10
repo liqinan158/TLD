@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>GED</h2><div class="git"><span class="ipa">[.dʒiː iː 'diː]</span></div><span class="onm">原型:</span><span class="orm">ged 是 ge 的过去式</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">普通教育开发（General Educational Development ）；释出气体检测法（Gas Evolution Detection）；一般同等文凭（General Equivalent Diploma）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

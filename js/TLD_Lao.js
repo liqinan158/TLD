@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lao</h2><div class="git"><span class="ipa">[lau, 'lɑ:әu]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">67%</font>)，形容词(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">老挝语；老挝人</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">老挝人的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

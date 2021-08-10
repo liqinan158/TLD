@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>double-talk</h2><div class="git"><span class="ipa">['dʌblt'ɔ:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57499</span><div class="total">419</div></div><div class="coca2">空话(<font color="orangered">50%</font>)，含糊其词的言谈(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">含糊其词的言谈；空话</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>plantar wart</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">跖疣；足底疣</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">足部疣；足跖疣；脚掌疣</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

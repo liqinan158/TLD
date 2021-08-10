@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>barbecue sauce</h2><div class="git"><span class="ipa">[ˈbɑ:bikju: sɔ:s]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 30</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 5</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 22</div><div class="gdc"><div class="dcb"><span class="dcn">烤肉调味酱；在全烧时涂抹烤物用的沙司；烧烤鱼或肉时所用调味液</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

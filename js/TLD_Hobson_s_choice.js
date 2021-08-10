@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hobson's choice</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">无选择余地</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">霍布森的选择；没有选择的余地；没有选择余地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

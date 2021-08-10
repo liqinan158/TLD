@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Solti, Sir Georg</h2><div class="git"><span class="ipa">['ʃɔ:lti]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">索尔蒂(1912～ ，匈牙利裔英籍乐队指挥)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

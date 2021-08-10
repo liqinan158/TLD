@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sweepstake</h2><div class="git"><span class="ipa">[ˈswi:psteɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">16034</span><div class="total">21027</div></div><div class="coca2">赌金全赢制(<font color="orangered">67%</font>)，赌金全赢制赛马(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">赌金的独得；彩票</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

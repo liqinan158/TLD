@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Britannia</h2><div class="git"><span class="ipa">[bri'tænjә]</span></div><hr/></div><div class="coca2">大不列颠(<font color="orangered">46%</font>)，不列颠合金(<font color="orangered">36%</font>)，英国的阴性拟人化称呼(<font color="orangered">18%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">不列颠合金（等于Britannia metal）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

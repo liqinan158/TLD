@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fuzzily</h2><div class="git"><span class="ipa">['fʌzili]</span></div><hr/></div><div class="coca2">模糊不清地(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">模糊不清地，不明确地；绒毛般地，毛茸茸地</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

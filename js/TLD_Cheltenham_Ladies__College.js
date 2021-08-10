@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cheltenham Ladies' College</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">切尔滕纳姆女子学院；汉女子寄宿中学；切尔滕纳姆女校</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

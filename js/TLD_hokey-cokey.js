@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hokey-cokey</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 霍基─科基舞（跳舞者围成一圈边唱边舞动手臂和腿）；霍基─科基舞曲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

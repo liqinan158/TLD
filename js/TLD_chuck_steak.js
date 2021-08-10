@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chuck steak</h2><div class="git"><span class="ipa">[tʃʌk steik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">动物颈部至肩部的肉，牛肩胛肉排</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

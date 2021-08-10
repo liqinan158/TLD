@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>banana belt</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 香蕉带（指气候温暖地带）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

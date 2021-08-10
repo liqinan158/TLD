@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>impermanence</h2><div class="git"><span class="ipa">[ɪm'pɜ:mənəns]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34026</span><div class="total">3245</div></div><div class="coca2">暂时性(<font color="orangered">50%</font>)，非永久性(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无常；暂时性</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

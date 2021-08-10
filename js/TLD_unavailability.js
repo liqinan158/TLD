@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>unavailability</h2><div class="git"><span class="ipa">[ˈʌnəveiləˈbiliti]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25627</span><div class="total">7071</div></div><div class="coca2">无效(<font color="orangered">72%</font>)，没有利用率(<font color="orangered">28%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">无效用；不适用；不可获得</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

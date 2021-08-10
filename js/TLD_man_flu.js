@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>man flu</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">男士小感冒；男流感；男人流感</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

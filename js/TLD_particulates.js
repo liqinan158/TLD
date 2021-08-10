@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>particulates</h2><div class="git"><span class="ipa">[pe'tɪkjələts]</span></div><span class="onm">原型:</span><span class="orm">particulates 是 particulate 的复数</span><hr/></div><div class="coca2">微粒(<font color="orangered">96%</font>)，名词particulate的复数形式.(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">微粒；大气尘；微粒物质；空气中微小颗粒（particulate的复数形式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

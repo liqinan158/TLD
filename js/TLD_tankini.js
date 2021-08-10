@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tankini</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">42331</span><div class="total">1639</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 坦基尼（两件套泳装，包括无袖短上衣和比基尼下裤）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Greensleeves</h2><span class="onm">原型:</span><span class="orm">greensleeves 是 greensleeve 的第三人称单数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">绿袖子（一首传统的英格兰民谣）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

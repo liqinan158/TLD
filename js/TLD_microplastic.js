@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>microplastic</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">微整形；洗衣机是微塑料；洗衣机也是微塑料</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

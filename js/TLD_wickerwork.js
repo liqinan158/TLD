@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>wickerwork</h2><div class="git"><span class="ipa">[ˈwɪkəwɜ:k]</span></div><hr/></div><div class="coca2">柳条制品(<font color="orangered">54%</font>)，枝编工艺(<font color="orangered">46%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">柳条制品；枝编工艺</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

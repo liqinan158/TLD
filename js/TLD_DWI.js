@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>DWI</h2><div class="git"><span class="ipa">[,di:,dʌblju'ai]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">酒醉后开车（driving while intoxicated）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>quagga</h2><div class="git"><span class="ipa">[ˈkwægə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">49135</span><div class="total">962</div></div><div class="coca2">斑驴(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">已绝种的南非小斑马</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paperless</h2><div class="git"><span class="ipa">[ˈpeɪpələs]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">16348</span><div class="total">20278</div></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">无纸传输信息的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>mana</h2><div class="git"><span class="ipa">['mɑ:nɑ:]</span></div><hr/></div><div class="coca2">威望(<font color="orangered">50%</font>)，超自然力量(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">神力，超自然力量；威望</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Mana)人名；(英、德、西、葡、泰、刚(金)、塞拉、塞)马娜 (女名)，马纳；(阿拉伯)马尼阿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

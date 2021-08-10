@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>sabretooth</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 剑齿虎（有一对剑形犬牙的大型猫科动物，已灭绝）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

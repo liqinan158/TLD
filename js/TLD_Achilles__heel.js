@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Achilles' heel</h2><div class="git"><span class="ipa">[ә'kili:z]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">唯一致命的弱点</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">致命弱点；阿基里斯的脚踵；致命点</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

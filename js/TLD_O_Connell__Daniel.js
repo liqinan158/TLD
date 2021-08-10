@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>O'Connell, Daniel</h2><div class="git"><span class="ipa">[əu'kɔnəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">奥康内尔(1775～1847，爱尔兰民族运动领袖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

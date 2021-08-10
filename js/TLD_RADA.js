@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>RADA</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">（英国）皇家戏剧艺术学院（Royal Academy of Dramatic Art）；随机存取离散地址（Random Access Discrete Address）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

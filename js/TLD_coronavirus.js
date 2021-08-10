@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coronavirus</h2><div class="git"><span class="ipa">[kɒrənə'vaɪrəs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43646</span><div class="total">1476</div></div><div class="coca2">冠状病毒(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">冠状病毒；日冕形病毒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

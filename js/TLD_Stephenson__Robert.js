@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Stephenson, Robert</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">斯蒂芬森(1803～1859，英国土木工程师)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

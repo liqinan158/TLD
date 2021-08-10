@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nappe</h2><div class="git"><span class="ipa">[næp]</span></div><hr/></div><div class="coca2">推覆体(<font color="orangered">81%</font>)，等分半圆锥(<font color="orangered">19%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">越过水坝落下的水</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Nappe)人名；(法)纳普</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

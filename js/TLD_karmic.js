@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>karmic</h2><div class="git"><span class="ipa">[kɑmɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">22545</span><div class="total">9705</div></div><div class="coca2">命运(<font color="orangered">34%</font>)，意为“作业”)(<font color="orangered">33%</font>)，因果报应(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">业力的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

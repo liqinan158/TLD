@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Macintosh</h2><div class="git"><span class="ipa">[ˈmækintɔʃ]</span></div><hr/></div><div class="coca2">缩写为Mac)(<font color="orangered">50%</font>)，麦金塔电脑（苹果公司的电脑品牌(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">苹果公司生产的一种型号的计算机；Apple公司于1984年推出的一种系列微机；麦金托什机</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mather, Cotton</h2><div class="git"><span class="ipa">['mæðə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">马瑟(1663～1728，美国牧师、作家，推广预防天花的疫苗接种)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

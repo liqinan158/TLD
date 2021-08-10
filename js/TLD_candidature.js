@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>candidature</h2><div class="git"><span class="ipa">[ˈkændɪdətʃə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">40067</span><div class="total">1974</div></div><div class="coca2">候选人的资格(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[法] 候选人资格；候选人的地位（等于candidacy）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

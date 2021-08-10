@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>storm window</h2><div class="git"><span class="ipa">[stɔ:m ˈwindəu]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">遮挡风雪的护窗</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

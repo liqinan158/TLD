@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Verdi, Giuseppe</h2><div class="git"><span class="ipa">['verdi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">威尔地(1813～1901，意大利歌剧作曲家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

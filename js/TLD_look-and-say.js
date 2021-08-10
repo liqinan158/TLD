@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>look-and-say</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 视读法, 直呼法（根据对整词的辨认而不是字母与发音的联系的一种识字教学方法）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

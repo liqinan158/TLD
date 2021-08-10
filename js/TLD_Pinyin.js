@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pinyin</h2><div class="git"><span class="ipa">[pin'jin]</span></div><hr/></div><div class="coca2">拼音(<font color="orangered">69%</font>)，汉语拼音(<font color="orangered">31%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拼音（汉字拉丁化注音拼写的方法）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

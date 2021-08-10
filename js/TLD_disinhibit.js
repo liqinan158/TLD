@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>disinhibit</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 使不再拘谨；使不再拘束</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>serotonin</h2><div class="git"><span class="ipa">[ˌserəˈtəʊnɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">11645</span><div class="total">40744</div></div><div class="coca2">血清素(<font color="orangered">74%</font>)，5-羟色胺(<font color="orangered">26%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[生化] 血清素；5-羟色胺（血管收缩素）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

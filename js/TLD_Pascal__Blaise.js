@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Pascal, Blaise</h2><div class="git"><span class="ipa">['pæskəl]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">帕斯卡(1623～1662，法国数学家、物理学家和哲学家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

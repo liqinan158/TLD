@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tax-deferred</h2><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">25044</span><div class="total">7468</div></div><div class="coca2">暂缓征税的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">纳税递延</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mogadishu</h2><div class="git"><span class="ipa">[,mɔ:^ɑ:'di:ʃu:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">摩加迪沙[索马里首都]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

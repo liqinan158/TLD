@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>black knight</h2><div class="git"><span class="ipa">[blæk nait]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 30</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 27</div><div class="gdc"><div class="dcb"><span class="dcn"> “黑骑士”（指乘人之危进行收购竞争的人或公司）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

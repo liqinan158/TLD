@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gynaecological</h2><div class="git"><span class="ipa">[ˌɡaɪnəkə'lɒdʒɪkl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">38664</span><div class="total">2204</div></div><div class="coca2">妇科的(<font color="orangered">67%</font>)，=gynecological.(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">妇科的；妇科学的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

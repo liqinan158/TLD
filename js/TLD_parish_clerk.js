@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>parish clerk</h2><div class="git"><span class="ipa">[ˈpærɪʃ klɑ:k]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">教区执事；(协助教堂事务尤指旧时领读祈祷文的)堂区执事</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tagine</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43831</span><div class="total">1454</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">泰琼锅羊肉(北非炖菜, 已传入美国)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

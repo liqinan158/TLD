@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>banqueting</h2><div class="git"><span class="ipa">[ˈbæŋkwɪtɪŋ]</span></div><span class="onm">原型:</span><span class="orm">banqueting 是 banquete 的现在分词</span><hr/></div><div class="coca2">宴会(<font color="orangered">84%</font>)，设宴(<font color="orangered">6%</font>)，宴请(<font color="orangered">6%</font>)，参加宴会(<font color="orangered">4%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">设宴</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

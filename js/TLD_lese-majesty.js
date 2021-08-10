@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>lese-majesty</h2><hr/></div><div class="coca2">叛逆(<font color="orangered">34%</font>)，冒犯罪(<font color="orangered">33%</font>)，欺君(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> （对君主、元首等的）不敬罪，叛逆罪</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

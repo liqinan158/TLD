@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>De Mille, Agnes</h2><div class="git"><span class="ipa">[də'mil]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">De Mille, Agnes(George)</span></div><div class="dcb"><span class="dcn">[də'mil]</span></div><div class="dcb"><span class="dcn">德米尔(1905～1993，美国女舞蹈家和编导)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

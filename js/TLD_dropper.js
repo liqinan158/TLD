@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dropper</h2><div class="git"><span class="ipa">[ˈdrɒpə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17357</span><div class="total">17716</div></div><div class="coca2">滴管(<font color="orangered">84%</font>)，使滴下的东西(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">滴管；使滴下的东西；点滴器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

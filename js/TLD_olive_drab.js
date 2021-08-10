@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>olive drab</h2><div class="git"><span class="ipa">[ˈɔliv dræb]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">草黄色</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">橄榄土褐色；草绿色；草地绿，草绿</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

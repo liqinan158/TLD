@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>genomic</h2><div class="git"><span class="ipa">[dʒi:'ŋəʊmɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">14948</span><div class="total">24422</div></div><div class="coca2">基因组的(<font color="orangered">81%</font>)，染色体组的(<font color="orangered">19%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">基因组的；染色体的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

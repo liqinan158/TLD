@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>scungy</h2><div class="git"><span class="ipa">[ˈskʌndʒi]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">&lt;澳口&gt;悲惨的，可怜的，肮脏的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

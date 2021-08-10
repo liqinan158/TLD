@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nibs</h2><div class="git"><span class="ipa">[nɪbz]</span></div><span class="onm">原型:</span><span class="orm">nibs 是 nib 的复数</span><hr/></div><div class="coca2">傲慢的人(<font color="orangered">50%</font>)，大人物(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">大人物；上司；傲慢的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

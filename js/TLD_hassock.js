@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>hassock</h2><div class="git"><span class="ipa">[ˈhæsək]</span></div><hr/></div><div class="coca2">草丛(<font color="orangered">50%</font>)，跪垫(<font color="orangered">38%</font>)，=pouffe.(<font color="orangered">6%</font>)，膝垫(<font color="orangered">6%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">跪垫；草丛；当座凳用的厚垫</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

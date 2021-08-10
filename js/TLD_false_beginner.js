@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>false beginner</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 二次初学者, 非真实初学者（对某一语言虽已有基本知识但又从头学习）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

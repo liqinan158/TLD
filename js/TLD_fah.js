@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fah</h2><div class="git"><span class="ipa">[fɑ:]</span></div><hr/></div><div class="coca2">华氏温标(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">C大调的第4音；任何大音阶之第四音</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

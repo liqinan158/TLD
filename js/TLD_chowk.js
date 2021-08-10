@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chowk</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （城市交叉路口处的）集市广场</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

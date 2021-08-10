@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rat run</h2><div class="git"><span class="ipa">[ræt rʌn]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 4</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 2</div><div class="gdc"><div class="dcb"><span class="dcn">[俚语](建筑物之间的)狭窄夹道；(为避开大路的交通堵塞，车辆)走小路绕道而行</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

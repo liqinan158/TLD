@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>calltime</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(裁判员)宣布时间已到</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">电话时间统计；通话时长；请求或被请求时间</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

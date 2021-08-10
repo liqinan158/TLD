@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>glocalization</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 全球本土化，全球地域一体化，全球地方化（使世界各地的产品或服务适合本地需求）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

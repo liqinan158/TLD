@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>pay gap</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">薪水差距；男女之间的收入差异</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

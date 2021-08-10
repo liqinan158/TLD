@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>stargazing</h2><div class="git"><span class="ipa">['stɑ:ɡeɪzɪŋ]</span></div><span class="onm">原型:</span><span class="orm">stargazing 是 stargaze 的现在分词</span><hr/></div><div class="coca2">耽于幻想(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">耽于幻想；心不在焉</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">眺望星星；空想（stargaze的现在分词）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

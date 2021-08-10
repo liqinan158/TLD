@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>coulomb</h2><div class="git"><span class="ipa">[ˈku:lɒm]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">51%</font>)，形容词(<font color="orangered">49%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">库仑（电量单位）</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Coulomb)人名；(法)库仑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

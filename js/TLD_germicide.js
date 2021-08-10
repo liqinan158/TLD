@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>germicide</h2><div class="git"><span class="ipa">[ˈdʒɜ:mɪsaɪd]</span></div><hr/></div><div class="word-frequency"><span class="label label-primary">GRE</span></div><div class="coca2">杀菌剂(<font color="orangered">71%</font>)，杀菌物(<font color="orangered">22%</font>)，有杀菌力的(<font color="orangered">7%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">杀菌剂，杀菌物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

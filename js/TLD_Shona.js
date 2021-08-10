@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Shona</h2><div class="git"><span class="ipa">['ʃәunɑ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">(pl.Shona, Shonas)修纳人(罗得西亚与邻近的莫桑比克的农民)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

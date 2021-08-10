@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>common-law</h2><div class="git"><span class="ipa">['kɒmənl'ɔ:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23700</span><div class="total">8582</div></div><div class="coca2">习惯法的(<font color="orangered">67%</font>)，有关习惯法的(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">习惯法的，根据习惯法的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

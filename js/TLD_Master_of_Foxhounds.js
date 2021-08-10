@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Master of Foxhounds</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">狐𤟥掌管人；狐𤟥主[略作M.F.H.]</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

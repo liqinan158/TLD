@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Cadillac</h2><div class="git"><span class="ipa">['kædilæk]</span></div><hr/></div><div class="coca2">卡迪拉克(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">卡迪拉克（北美洲法国总督，底特律的创立者）；卡迪拉克（高级轿车名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

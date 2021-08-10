@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>auto-exposure</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （照相机的）自动曝光装置</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

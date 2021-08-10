@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Dickinson, Emily</h2><div class="git"><span class="ipa">['dikinsən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Dickinson, Emily(Elizabeth)</span></div><div class="dcb"><span class="dcn">['dikinsən]</span></div><div class="dcb"><span class="dcn">迪更生(1830～1886，美国女诗人)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

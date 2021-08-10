@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>goods and chattels</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">私人财物；有形动产</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">全部动产；家具杂物；个人动产</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

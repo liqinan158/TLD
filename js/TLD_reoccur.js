@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>reoccur</h2><div class="git"><span class="ipa">[ˌri:ə'kɜ:(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">VERB</span><span class="rank">28586</span><div class="total">5335</div></div><div class="coca2">重新发生(<font color="orangered">50%</font>)，重新出现(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">vi.</span><span class="dcn">重新发生，重新出现</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

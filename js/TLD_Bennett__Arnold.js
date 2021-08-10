@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Bennett, Arnold</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">Bennett,(Enoch)Arnold</span></div><div class="dcb"><span class="dcn">本涅特(1867～1931，英国小说家、剧作家和批评家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gloop</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">55162</span><div class="total">536</div></div><div class="coca2">黏性半流体物质(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> 难看（或味道差、感觉不舒服）的半流体物质；黏稠物</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

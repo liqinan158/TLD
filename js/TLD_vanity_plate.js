@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vanity plate</h2><div class="git"><span class="ipa">[ˈvæniti pleit]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （号码及字母由汽车主自选的）虚荣性牌照，个性车牌</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

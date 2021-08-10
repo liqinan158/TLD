@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>B</h2><div class="git"><span class="ipa">[bi:]</span></div><hr/></div><div class="coca2">乙等(<font color="orangered">39%</font>)，第二(<font color="orangered">25%</font>)，像字母B的东西(<font color="orangered">12%</font>)，B调(<font color="orangered">12%</font>)，字母B(<font color="orangered">12%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">乙等（成绩）；英语字母的第二个字母</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

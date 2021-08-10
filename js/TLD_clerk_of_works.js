@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clerk of works</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> &lt;英&gt;（负责某一建筑项目的）工程管理员，现场监工</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

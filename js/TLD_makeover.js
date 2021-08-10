@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>makeover</h2><div class="git"><span class="ipa">[ˈmeɪkəʊvə(r)]</span></div><hr/></div><div class="coca2">彻底改变(<font color="orangered">84%</font>)，外表的大变化(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">化妆美容；大转变</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

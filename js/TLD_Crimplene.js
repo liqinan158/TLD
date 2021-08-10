@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Crimplene</h2><div class="git"><span class="ipa">['krimpli:n]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克林普纶（类似涤纶的变形聚酯丝，商标名）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

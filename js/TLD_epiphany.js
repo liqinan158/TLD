@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>epiphany</h2><div class="git"><span class="ipa">[ɪ'pɪfəni]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">17978</span><div class="total">16421</div></div><div class="coca2">顿悟(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">主显节（每年一月六日纪念耶稣显灵的节日）；显现（特指神的显现）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>meat and two veg</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 10</div><div class="epfd"><span class="dict"><b><font>dict.</font></b></span> 4</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">炖肉双素（双素之一为土豆，典型的传统英国菜）</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">肉和两样蔬菜</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

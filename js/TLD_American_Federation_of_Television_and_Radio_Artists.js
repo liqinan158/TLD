@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>American Federation of Television and Radio Artists</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">美国电视与广播电台艺术家联合会</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

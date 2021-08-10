@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Ayurvedic medicine</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">印度式草药疗法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

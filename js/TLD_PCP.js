@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>PCP</h2><div class="git"><span class="ipa">[,pi:si:'pi:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">五氯苯酚（pentachlorophenol，一种迷幻药）；苯环己哌啶（phencyclidine，等于angel dust，医用麻醉药）；主控程序（Primary Control Program）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Williamsburg</h2><div class="git"><span class="ipa">['wiljәmzb\\:^]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">威廉斯堡（美国弗吉尼亚州东南部城市）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

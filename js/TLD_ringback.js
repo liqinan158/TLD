@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>ringback</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 回铃声（电话服务）；有回铃音的电话</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

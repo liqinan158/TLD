@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>headhunt</h2><div class="git"><span class="ipa">[ˈhedhʌnt]</span><span class="frm">headhunted, headhunting, headhunts</span></div><hr/></div><div class="coca2">物色人才(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">野蛮人猎取人头的出征</span></div><div class="dcb"><span class="pos">v.</span><span class="dcn">出外猎取人头</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>shadow-box</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">陈列柜</span></div><div class="dcb"><span class="dcn">玻璃框罩</span></div><div class="dcb"><span class="dcn">[电影] 投影面遮暗器</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

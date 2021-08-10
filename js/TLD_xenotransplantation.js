@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>xenotransplantation</h2><div class="git"><span class="ipa">[zi:nəʊˌtrænsplɑ:nˈteɪʃn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">57538</span><div class="total">417</div></div><div class="gdc"><div class="dcb"><span class="dcn"> 异种移植</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

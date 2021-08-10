@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>phosphoric</h2><div class="git"><span class="ipa">[fɒs'fɒrɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">29892</span><div class="total">4762</div></div><div class="coca2">磷的(<font color="orangered">56%</font>)，含磷的(<font color="orangered">44%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">磷的，含磷的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

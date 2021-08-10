@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>government and binding theory</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 支配约束理论，管约理论，管辖约束理论（即基于一系列条件连接起句子各部分的理念的语法理论）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

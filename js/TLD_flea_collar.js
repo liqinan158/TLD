@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>flea collar</h2><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 3</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 3</div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">(围在家畜颈上而内藏灭蚤药的)杀蚤圈</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">灭蚤颈圈；驱跳蚤器；跳蚤颈圈</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

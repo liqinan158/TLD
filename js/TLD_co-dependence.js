@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>co-dependence</h2><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">58512</span><div class="total">371</div></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">依存；相互依赖；依存共生</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

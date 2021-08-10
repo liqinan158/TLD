@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gratin</h2><div class="git"><span class="ipa">[ˈgrætæn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">34647</span><div class="total">3079</div></div><div class="coca2">烘烤菜肴上的脆皮(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">奶油烤菜；焦黄面包和干酪屑涂层</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

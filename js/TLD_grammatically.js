@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>grammatically</h2><div class="git"><span class="ipa">[ɡrə'mætɪklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">27224</span><div class="total">6051</div></div><div class="coca2">就语法而言(<font color="orangered">67%</font>)，形容词grammatical的副词形式.(<font color="orangered">33%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">从语法上讲</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

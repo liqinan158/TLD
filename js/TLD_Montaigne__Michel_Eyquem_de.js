@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Montaigne, Michel Eyquem de</h2><div class="git"><span class="ipa">[muŋ'tenjə; mi:'ʃele'kemdə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">蒙田(1533～1592，文艺复兴时期法国思想家、散文作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

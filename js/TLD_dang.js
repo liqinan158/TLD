@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dang</h2><div class="git"><span class="ipa">[dæŋ]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Dang)人名；(印、德、印尼)丹格</span></div><div class="dcb"><span class="pos">int.</span><span class="dcn">讨厌；见鬼（等于damn）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

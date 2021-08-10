@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>London, Jack</h2><div class="git"><span class="ipa">['lʌndən]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">伦敦(1876～1916，美国小说家、短篇故事作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>duvet day</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">偷懒假(国外公司允许员工在感觉劳累时可以享受的假期)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

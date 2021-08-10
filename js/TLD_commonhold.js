@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>commonhold</h2><div class="git"><span class="ipa">[ˈkɒmənhəʊld]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(在多住户的楼内拥有一套住房同时履行一定公共义务的)终生共有</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

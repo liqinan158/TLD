@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>warmongering</h2><div class="git"><span class="ipa">['wɔ:,mʌŋɡəriŋ,-,mɔŋ-]</span></div><span class="onm">原型:</span><span class="orm">warmongering 是 warmonger 的现在分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [法] 煽动战争</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

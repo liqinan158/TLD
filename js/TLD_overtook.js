@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>overtook</h2><div class="git"><span class="ipa">[ˌəʊvə'tʊk]</span></div><span class="onm">原型:</span><span class="orm">overtook 是 overtake 的过去式</span><hr/></div><div class="coca2">动词overtake的过去式(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">（英）赶上；使无法忍受；代替（overtake的过去式）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

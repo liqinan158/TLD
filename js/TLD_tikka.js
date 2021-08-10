@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>tikka</h2><div class="git"><span class="ipa">[ˈtɪkə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36396</span><div class="total">2661</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（源自印地语）切成小块的肉，通常用调味汁浸泡后烤炙而成; 叶斑</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

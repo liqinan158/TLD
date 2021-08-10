@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Donatello</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Donatello)人名；(1386-1466)多那太罗〈意〉雕刻家。；(法、意)多纳泰洛</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

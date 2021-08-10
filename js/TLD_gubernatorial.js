@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gubernatorial</h2><div class="git"><span class="ipa">[ˌgu:bənəˈtɔ:riəl]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">25819</span><div class="total">6946</div></div><div class="coca2">州长的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">州长的；统治者的；地方长官的；总督的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

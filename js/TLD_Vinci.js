@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Vinci</h2><div class="git"><span class="ipa">['vintʃi(:)]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">达芬奇（姓氏, 意大利的著名美术家、雕刻家、科学家、建筑家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

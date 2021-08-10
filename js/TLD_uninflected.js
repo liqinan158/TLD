@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>uninflected</h2><hr/></div><div class="coca2">无屈折变化的(<font color="orangered">50%</font>)，不词尾变化的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn"> 无屈折变化的；无屈折的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lear, Edward</h2><div class="git"><span class="ipa">[liə]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">利尔(1812～1888，英国打油诗诗人、插图画家、画家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

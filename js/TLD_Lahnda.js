@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Lahnda</h2><div class="git"><span class="ipa">['lɑ:ndә]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">&amp; adj.(在旁遮普西部使用的)印度-雅利安语(的) (亦作Lahndi)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

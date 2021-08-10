@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>bunyip</h2><div class="git"><span class="ipa">[ˈbʌnjɪp]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[澳大利亚英语]</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">【澳大利亚传说】沼泽怪兽，奔异兽；欺诈者，骗子</span></div><div class="dcb"><span class="pos">adj.</span><span class="dcn">沼泽怪兽的；欺诈者的，骗子的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

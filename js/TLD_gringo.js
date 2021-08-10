@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>gringo</h2><div class="git"><span class="ipa">[ˈgrɪŋgəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">35393</span><div class="total">2892</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">外国佬（敌意或轻蔑用语）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

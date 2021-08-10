@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Mitchell, Margaret</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">米切尔(1900～1949，美国女作家)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dermatitis</h2><div class="git"><span class="ipa">[ˌdɜ:məˈtaɪtɪs]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14946</span><div class="total">24438</div></div><div class="coca2">皮肤炎(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[皮肤] 皮炎；皮肤炎</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

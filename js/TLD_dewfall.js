@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>dewfall</h2><div class="git"><span class="ipa">['dju:fɔ:l]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">降露，薄暮，降露之时</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

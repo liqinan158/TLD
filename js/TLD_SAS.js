@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>SAS</h2><span class="onm">原型:</span><span class="orm">SAS 是 sa 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">斯堪的纳维亚航空公司（Scandinavian Airlines System）；英国空军特别部队（Special Air Service）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

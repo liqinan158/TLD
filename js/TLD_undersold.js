@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>undersold</h2><div class="git"><span class="ipa">[ˌʌndəˈsəʊld]</span></div><span class="onm">原型:</span><span class="orm">undersold 是 undersell 的过去式和过去分词</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">v.</span><span class="dcn">以低于市价售出，抛售( undersell的过去式和过去分词 ); undersell过去式及过去分词</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

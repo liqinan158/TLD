@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>attention-deficit disorder</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">注意（缺陷）障碍（伴多动）；儿童多动症</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">注意力缺陷障碍；注意力不足；注意缺失紊乱</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

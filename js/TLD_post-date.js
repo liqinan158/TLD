@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>post-date</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">[法] 把日期填迟, 预填日期, 时间上后于...</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

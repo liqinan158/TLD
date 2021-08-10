@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>markdown</h2><div class="git"><span class="ipa">[ˈmɑ:kdaʊn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">21339</span><div class="total">11082</div></div><div class="coca2">减价(<font color="orangered">84%</font>)，标价商品价格(<font color="orangered">16%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">标低价，[物价] 减价</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

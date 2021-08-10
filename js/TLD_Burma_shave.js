@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Burma shave</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">un.</span><span class="dcn">一种剃胡膏的商标名</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">柏马剃须膏；柏玛刮胡膏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>weigh-in</h2><div class="git"><span class="ipa">[ˈweɪˌɪn]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">25584</span><div class="total">7099</div></div><div class="coca2">〈体〉赛前称体重(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">赛前称体重</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

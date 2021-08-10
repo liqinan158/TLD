@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Aβ</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">《英汉医学词典》Aβ</span></div><div class="dcb"><span class="dcn">β淀粉样蛋白</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

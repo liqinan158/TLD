@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>OECD</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">abbr.</span><span class="dcn">经济合作与发展组织（Organization for Economic Co-operation and Development）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

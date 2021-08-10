@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Hillsborough</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Hillsborough)人名；(斯里)希尔斯伯勒</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>nagar</h2><div class="git"><span class="ipa">['nʌgər]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> [地名] [印度] 讷格尔; [地名] [克什米尔（地区）] 那噶尔</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

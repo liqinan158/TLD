@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>cue card</h2><div class="git"><span class="ipa">[kju: kɑ:d]</span></div><hr/></div><div class="epfd"><span class="freq"><b><font>freq.</font></b></span> 1</div><div class="epfd"><span class="spoken"><b><font>spoken</font></b></span> 1</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">提词板</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">提示卡；分镜头提示卡；考官给考生一个题目</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

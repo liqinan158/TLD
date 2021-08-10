@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>okada</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">(Okada)人名；(西)奥卡达</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

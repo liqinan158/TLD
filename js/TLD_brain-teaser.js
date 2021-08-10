@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>brain-teaser</h2><hr/></div><div class="coca2">脑筋急转弯(<font color="orangered">50%</font>)，难题(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">脑筋急转弯</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>rusk</h2><div class="git"><span class="ipa">[rʌsk]</span></div><hr/></div><div class="coca2">脆饼干(<font color="orangered">50%</font>)，甜面包干(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">甜面包干；脆饼乾</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Rusk)人名；(英)腊斯克；(芬、瑞典)鲁斯克</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

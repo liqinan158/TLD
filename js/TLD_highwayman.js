@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>highwayman</h2><div class="git"><span class="ipa">[ˈhaɪweɪmən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36059</span><div class="total">2733</div></div><div class="coca2">拦路抢劫的强盗(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">拦路强盗；公路响马</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

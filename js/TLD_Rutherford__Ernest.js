@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Rutherford, Ernest</h2><div class="git"><span class="ipa">['rʌðəfəd]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">卢瑟福(1871～1937，英国物理学家、化学家，生于新西兰，1902年与英国化学家索第一起提出原子自然蜕变理论，获1908年诺贝尔化学奖)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>fenugreek</h2><div class="git"><span class="ipa">[ˈfenjʊgri:k]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">30558</span><div class="total">4466</div></div><div class="coca2">葫芦巴种子(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">胡芦巴；葫芦巴的种子</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

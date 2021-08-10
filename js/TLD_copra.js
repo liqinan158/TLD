@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>copra</h2><div class="git"><span class="ipa">[ˈkɒprə]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">50646</span><div class="total">832</div></div><div class="coca2">椰子干(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">椰子核；干椰子肉（可榨油做肥皂）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

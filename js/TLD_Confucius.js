@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Confucius</h2><div class="git"><span class="ipa">[kәn'fju:ʃjәs]</span></div><hr/></div><div class="coca2">名词(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">孔子（中国哲学家，教育家）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

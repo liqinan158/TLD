@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>departures board</h2><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（机场\车场）出发时刻显示屏</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

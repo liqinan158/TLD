@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Field and Stream</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dnt">[网络]</span><span class="dne">田野与溪流；田野不溪流；原野与溪流</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

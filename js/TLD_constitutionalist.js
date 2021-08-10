@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>constitutionalist</h2><div class="git"><span class="ipa">[ˌkɒnstɪ'tju:ʃnəlɪst]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">47436</span><div class="total">1103</div></div><div class="coca2">立宪主义者(<font color="orangered">60%</font>)，宪法论者(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">立宪主义者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

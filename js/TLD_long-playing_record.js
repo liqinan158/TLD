@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>long-playing record</h2><div class="git"><span class="ipa">[ˈlɔ:ŋˈpleɪɪŋ riˈkɔ:d]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">na.</span><span class="dcn">慢转密纹唱片</span></div><div class="dcb"><span class="dnt">[网络]</span><span class="dne">长时间唱片；长时演唱唱片；黑胶唱片</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>portico</h2><div class="git"><span class="ipa">[ˈpɔ:tɪkəʊ]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">26165</span><div class="total">6729</div></div><div class="coca2">门廊(<font color="orangered">65%</font>)，柱廊(<font color="orangered">35%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">（有圆柱的）[建] 门廊；[建] 柱廊</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

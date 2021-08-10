@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>working-class</h2><div class="git"><span class="ipa">[ˈwɜ:kɪŋ klɑ:s]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">15707</span><div class="total">21964</div></div><div class="coca2">工人阶级的(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">工人阶级的；劳动阶级的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

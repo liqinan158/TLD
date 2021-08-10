@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>extenuation</h2><div class="git"><span class="ipa">[ɪks'tenjʊ'eɪʃən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">61219</span><div class="total">255</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">减轻罪孽的借口; 酌情减轻; &lt;古&gt;细</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

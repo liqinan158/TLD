@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clenbuterol</h2><div class="git"><span class="ipa">[klenˈbju:tərɒl]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41207</span><div class="total">1800</div></div><div class="coca2">克伦特罗(<font color="orangered">91%</font>)，β兴奋剂类(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">克仑特罗；双氯醇胺</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

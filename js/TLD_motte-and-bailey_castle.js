@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>motte-and-bailey castle</h2><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> （旧时的）大型城堡（堡垒建在高地, 带围墙）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

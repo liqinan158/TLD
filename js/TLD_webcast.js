@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>webcast</h2><div class="git"><span class="ipa">[ˈwebkɑ:st]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">14075</span><div class="total">27728</div></div><div class="coca2">网上节目(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">网络广播；网络直播；网路广播</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

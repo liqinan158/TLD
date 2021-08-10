@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>paraglider</h2><div class="git"><span class="ipa">[ˈpærəglaɪdə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">41697</span><div class="total">1728</div></div><div class="coca2">滑翔降落伞(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">滑翔伞</span></div><div class="dcb"><span class="dcn">滑翔伞运动员</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

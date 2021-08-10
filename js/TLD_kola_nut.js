@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kola nut</h2><div class="git"><span class="ipa">[ˈkəulə nʌt]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">可乐果（可乐树所结的果实，含咖啡因，用于制饮料）</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

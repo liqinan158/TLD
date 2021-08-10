@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>Fillmore, Millard</h2><div class="git"><span class="ipa">['filmɔ:]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">菲尔莫尔(1800～1874)，美国第十三任总统(1850～1853)</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

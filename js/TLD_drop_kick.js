@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>drop kick</h2><div class="git"><span class="ipa">[drɔp kik]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn">（橄榄球中的）抛踢球</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

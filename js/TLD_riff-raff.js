@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>riff-raff</h2><div class="git"><span class="ipa">[ˈrɪf ræf]</span></div><hr/></div><div class="coca2">底层生活(<font color="orangered">50%</font>)，指群体不值得尊敬的(<font color="orangered">50%</font>)</div><div class="gdc"><div class="dcb"><span class="dcn">乌合之众</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

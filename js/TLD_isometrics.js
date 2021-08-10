@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>isometrics</h2><div class="git"><span class="ipa">[ˌaɪsəˈmetrɪks]</span></div><span class="onm">原型:</span><span class="orm">isometrics 是 isometric 的复数</span><hr/></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">[物] 等容线；[物] 等体积线</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

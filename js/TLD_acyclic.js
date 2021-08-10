@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>acyclic</h2><div class="git"><span class="ipa">[ˌeɪˈsaɪklɪk]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADJ</span><span class="rank">49293</span><div class="total">950</div></div><div class="coca2">无环的(<font color="orangered">78%</font>)，非循环式的(<font color="orangered">22%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adj.</span><span class="dcn">非循环的；[物] 非周期的</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>screenager</h2><div class="git"><span class="ipa">[sk'ri:neɪdʒər]</span></div><hr/></div><div class="gdc"><div class="dcb"><span class="dcn"> 屏幕青少年，社会不适者</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

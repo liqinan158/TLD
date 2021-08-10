@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>clansman</h2><div class="git"><span class="ipa">[ˈklænzmən]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">43559</span><div class="total">1486</div></div><div class="coca2">宗族或家族的成员(<font color="orangered">100%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">族人；同宗的人</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>kudzu</h2><div class="git"><span class="ipa">['kʊdzu:]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">36324</span><div class="total">2675</div></div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">野葛</span></div><div class="dcb"><span class="pos">n.</span><span class="dcn">(Kudzu)人名；(多哥)库祖</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

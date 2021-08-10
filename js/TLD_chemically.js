@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>chemically</h2><div class="git"><span class="ipa">['kemɪklɪ]</span></div><hr/></div><div class="coca iweb"><span class="pos">ADV</span><span class="rank">13046</span><div class="total">32366</div></div><div class="coca2">用化学(<font color="orangered">60%</font>)，以化学方法(<font color="orangered">40%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">adv.</span><span class="dcn">用化学；以化学方法</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

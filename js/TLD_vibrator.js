@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class='TLD'><div class="hwrap"><h2>vibrator</h2><div class="git"><span class="ipa">[vaɪˈbreɪtə(r)]</span></div><hr/></div><div class="coca iweb"><span class="pos">NOUN</span><span class="rank">23092</span><div class="total">9141</div></div><div class="coca2">振动器(<font color="orangered">91%</font>)，振动的人(<font color="orangered">9%</font>)</div><div class="gdc"><div class="dcb"><span class="pos">n.</span><span class="dcn">振动器；[电子] 振子；振动按摩器；振动滚筒；簧片</span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');
